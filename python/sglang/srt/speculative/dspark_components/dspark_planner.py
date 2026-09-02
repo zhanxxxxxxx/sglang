@@ -14,13 +14,14 @@ from sglang.kernels.ops.speculative.dspark.dspark_schedule import (
 from sglang.srt.distributed import get_tp_group
 from sglang.srt.environ import InvariantCheckLevel, envs
 from sglang.srt.layers.dp_attention import is_dp_attention_enabled
+from sglang.srt.layers.moe.utils import get_moe_a2a_backend
 from sglang.srt.managers.overlap_utils import (
     CONFIDENCE_RELAY_RING_LAG,
     FutureMap,
     ResolvedConfidence,
 )
 from sglang.srt.managers.schedule_batch import ScheduleBatch
-from sglang.srt.runtime_context import get_disagg, get_parallel, get_schedule, get_spec
+from sglang.srt.runtime_context import get_parallel, get_schedule, get_spec
 from sglang.srt.speculative.dflash_info_v2 import DFlashDraftInputV2
 from sglang.srt.speculative.dflash_utils import apply_dflash_verify_logits_adjustments
 from sglang.srt.speculative.dspark_components.dspark_sps import (
@@ -166,15 +167,22 @@ class DSparkVerifyPlanner:
                 relay_lag_steps=relay_lag_steps,
             )
             self._dynamic_graph_tier = not is_dp_attention_enabled()
+            dp_global_verify_tier_sync = (
+                require_mlp_tp_gather()
+                or (
+                    get_parallel().dp_size > 1
+                    and get_moe_a2a_backend().is_deepep()
+                    and is_dp_attention_enabled()
+                )
+            )
             self._dp_tier_gather_enabled = (
                 self._ragged_verify_mode is RaggedVerifyMode.COMPACT
                 and is_dp_attention_enabled()
                 and get_parallel().attn_tp_size == 1
                 and get_parallel().attn_cp_size == 1
-                and require_mlp_tp_gather()
+                and dp_global_verify_tier_sync
                 and not get_schedule().disable_overlap_schedule
                 and not get_spec().speculative_skip_dp_mlp_sync
-                and get_disagg().disaggregation_mode == "null"
                 and get_parallel().pp_size == 1
                 and not envs.SGLANG_SCHEDULER_SKIP_ALL_GATHER.get()
             )
