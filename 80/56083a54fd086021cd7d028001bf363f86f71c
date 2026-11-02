@@ -1,0 +1,18 @@
+python/sglang/srt/managers/generation_boundary.py
+  h_1c061c07072f6a 127-129
+python/sglang/srt/model_executor/model_runner.py
+  h_1c061c07072f6a 1034-1037
+test/registered/unit/mem_cache/test_snapshot_loaded_tensors.py
+  h_1c061c07072f6a 193-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8056083a54fd086021cd7d028001bf363f86f71c",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
