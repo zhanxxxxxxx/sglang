@@ -1,0 +1,19 @@
+test/registered/unit/layers/test_dsv41_indexer_tp_shard.py
+  s_c77b21dc3eb712::t_d9d6712d8693ef 163,165-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a3e9ef391391575ba193ce5ab5f883f2e390554f",
+  "prompts": {},
+  "sessions": {
+    "s_c77b21dc3eb712": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9dd3-4140-7080-88e6-8a797a8643b7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
