@@ -1,0 +1,38 @@
+python/sglang/srt/mem_cache/snapshot_observation.py
+  s_25c6621cf475a6::t_6e8e58398b12c5 15,19,60-96,120,178,201,212-214,217-221,239-241,296-301,311-315,330-331,385-386,395-438
+  s_25c6621cf475a6::t_889e180bd2c4fc 7,439-440,450-453
+python/sglang/srt/managers/performance_observation.py
+  s_25c6621cf475a6::t_2d139da39043f5 162-165,167-168
+  s_25c6621cf475a6::t_ae7d954c42e03c 7,14-15,17-82,186
+  s_25c6621cf475a6::t_293e55ca939469 94,96,98-99,112-113,116-126,130,140-146,171
+  s_25c6621cf475a6::t_ab03dd5fd04dc4 1-6,8-13,16,83-93,95,97,100-111,114-115,127-129,131-139,147-161,169-170,172-185,187-192
+  s_25c6621cf475a6::t_8033c1246a318e 166
+python/sglang/srt/managers/scheduler.py
+  s_25c6621cf475a6::t_c66e08625ab5e8 201,2792,3764,4073
+python/sglang/srt/managers/snapshot_restore_observation.py
+  s_25c6621cf475a6::t_0b1a0bb3a23263 42-44
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_25c6621cf475a6::t_45d1358a7b1539 564-565,598-600,802,809,860,922-923,932-936,938-939,941-942,966-967,1370-1371
+python/sglang/srt/mem_cache/snapshot_loaded_content.py
+  s_25c6621cf475a6::t_62683295f262f0 12,581,916-917,964-968,996,1021,1027,1048,1073,1175
+python/sglang/srt/model_executor/model_runner.py
+  s_25c6621cf475a6::t_5c3ced411190d6 22-23,1710-1723,1728
+test/registered/unit/mem_cache/test_performance_observation.py
+  s_25c6621cf475a6::t_fd54dc7b6ec6d6 1-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "97ba14a9af4bb2242feec05326cb405058675dcb",
+  "prompts": {},
+  "sessions": {
+    "s_25c6621cf475a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19a1b-68e4-7540-8537-e528ac01d211",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
