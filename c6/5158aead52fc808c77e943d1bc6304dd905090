@@ -1,0 +1,22 @@
+test/registered/unit/model_executor/test_mlp_sync_pad_unpad.py
+  s_4517e4240bb588::t_e66ccb33e05319 45-76,80-88,92-104
+  s_4517e4240bb588::t_06556450bfcae0 77-79,89-91
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_4517e4240bb588::t_e66ccb33e05319 1504-1511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c65158aead52fc808c77e943d1bc6304dd905090",
+  "prompts": {},
+  "sessions": {
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}
