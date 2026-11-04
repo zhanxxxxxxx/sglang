@@ -1,0 +1,14 @@
+python/sglang/kernels/ops/layernorm/training_rmsnorm.py
+  h_1d635ecd767a49 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b20a0c1f6b89cfeccb04e135ad5cfa7ce3abdf5f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
