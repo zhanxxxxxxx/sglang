@@ -1,0 +1,14 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 1072-1077,1347-1351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a36439a5d23c68851c777d67f869c73359351fd6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
