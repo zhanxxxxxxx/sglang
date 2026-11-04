@@ -1,0 +1,49 @@
+python/sglang/srt/managers/schedule_policy.py
+  s_fe92d796c96f00::t_85ca74317d8903 1352-1356
+  s_fe92d796c96f00::t_1310a0f054d0f2 1331-1349,1373-1390,1394,1559
+  s_fe92d796c96f00::t_858c6fefa4f9ff 46,71-75,934,937,939-941,959,972,977,980,983-985,1322-1330,1350-1351,1357-1372,1391-1393,1395-1400,1556-1558,1560
+test/registered/unit/mem_cache/test_dsv41_snapshot_finish_publication.py
+  s_fe92d796c96f00::t_1310a0f054d0f2 428-430
+  s_fe92d796c96f00::t_6a97b8f7541c08 413,420,422-427,431-432
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_runtime.py
+  s_fe92d796c96f00::t_1310a0f054d0f2 243-245
+  s_fe92d796c96f00::t_85ca74317d8903 233-238
+  s_fe92d796c96f00::t_6663604660f3c5 216,229-232,239-241,247-249,758-761
+python/sglang/srt/model_executor/encoder_swa_admission.py
+  s_fe92d796c96f00::t_1310a0f054d0f2 37-43
+  s_fe92d796c96f00::t_85ca74317d8903 22,91-93
+  s_fe92d796c96f00::t_c4c931e92a1b5d 1-21,23-36,44-90
+test/registered/unit/mem_cache/test_dsv41_replay_admission.py
+  s_fe92d796c96f00::t_1310a0f054d0f2 10-31,43-105,107,111-125,136,140-211,239-248,251-273
+  s_fe92d796c96f00::t_85ca74317d8903 32-36,106,109,128-135,137-139,218-221,275-283,286-287,299-300
+  s_fe92d796c96f00::t_2ce8e5541a17f4 7-9
+  s_fe92d796c96f00::t_21b2c722a85ff0 37-42
+  s_fe92d796c96f00::t_27773fecc03255 108
+  s_fe92d796c96f00::t_b14d6db9b9c2bb 110
+  s_fe92d796c96f00::t_4bf730f4a1df51 126-127
+  s_fe92d796c96f00::t_f8aebc67745272 212-217
+  s_fe92d796c96f00::t_145e469e297757 222-224,236-238
+  s_fe92d796c96f00::t_57f75576c12b4c 249-250
+  s_fe92d796c96f00::t_6555a449a6a505 274
+  s_fe92d796c96f00::t_e24d3ee4636a6b 284-285
+  s_fe92d796c96f00::t_8381cce872f6d7 288-290,296-298
+  s_fe92d796c96f00::t_4cc5bf8eeb85f1 301-303
+python/sglang/srt/model_executor/encoder_swa_replay.py
+  s_fe92d796c96f00::t_454060533ab020 171-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "251c66823a4be2b879f5cd78b5d8f9829aba4195",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
