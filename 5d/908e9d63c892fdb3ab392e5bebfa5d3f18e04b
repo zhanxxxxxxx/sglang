@@ -1,0 +1,14 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 1006-1008,1145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d908e9d63c892fdb3ab392e5bebfa5d3f18e04b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
