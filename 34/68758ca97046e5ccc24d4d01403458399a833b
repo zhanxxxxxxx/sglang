@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/attention/fla/kda_recurrent_ablation.py
+  h_1d635ecd767a49 1-70
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  h_1d635ecd767a49 550-551,559,725-727
+test/registered/kernels/ops/attention/test_kda_recurrent_ablation.py
+  h_1d635ecd767a49 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3468758ca97046e5ccc24d4d01403458399a833b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
