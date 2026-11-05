@@ -1,0 +1,25 @@
+python/sglang/srt/managers/scheduler.py
+  s_e452e934083109::t_8f46958843be5c 1696-1699
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  s_e452e934083109::t_7aaff1f8366bb6 135,165,411-423
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_e452e934083109::t_ab7599554a6f78 253-277
+test/registered/unit/mem_cache/test_snapshot_astate_tensor_processes.py
+  s_e452e934083109::t_c513f7f13a12b2 99-101,147-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d3fe4091618390f2f1f87bebb75fe4c6e4be91d1",
+  "prompts": {},
+  "sessions": {
+    "s_e452e934083109": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a54d-badc-7503-90af-62061bf6570a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
