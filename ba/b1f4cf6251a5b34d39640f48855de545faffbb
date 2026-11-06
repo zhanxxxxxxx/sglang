@@ -1,0 +1,29 @@
+test/registered/unit/managers/test_batch_result_processor_mamba_boundary.py
+  s_7eb817b8eb8d9a::t_e70bd2d0a55314 246-312
+python/sglang/srt/managers/schedule_batch.py
+  s_7eb817b8eb8d9a::t_e891af309070d2 121
+  s_7eb817b8eb8d9a::t_d0b584c50d4f0b 3255-3256,3267-3276
+  s_7eb817b8eb8d9a::t_b91e063b908af1 3181-3192,3202,3214-3217,3220-3221
+python/sglang/srt/mem_cache/allocation.py
+  s_7eb817b8eb8d9a::t_6cf051edf8d10d 16
+  s_7eb817b8eb8d9a::t_830eea83eccdf2 276,283-313
+  s_7eb817b8eb8d9a::t_fe57f50d3875b8 314-315
+python/sglang/srt/environ.py
+  s_7eb817b8eb8d9a::t_ca74018d7c9ccd 451-452
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bab1f4cf6251a5b34d39640f48855de545faffbb",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
