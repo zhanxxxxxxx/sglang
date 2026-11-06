@@ -1,0 +1,20 @@
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 125,176-178,439,446
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 496,505-508
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1131
+test/registered/kernels/ops/test_large_custom_reduce_scatter.py
+  h_1d635ecd767a49 1-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e257b72b6ad5f5bf31975757659fc9d7c92121ad",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
