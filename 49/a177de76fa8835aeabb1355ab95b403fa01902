@@ -1,0 +1,19 @@
+python/sglang/srt/speculative/dflash_info_v2.py
+  s_7eb817b8eb8d9a::t_f77f192ac80126 156-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "49a177de76fa8835aeabb1355ab95b403fa01902",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
