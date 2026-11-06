@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 391-395,407,410-411
+test/registered/kernels/ops/communication/test_training_precision_collectives.py
+  h_1d635ecd767a49 16-74,123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2fb102642ab826856c8b9b743ebefe349836510b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
