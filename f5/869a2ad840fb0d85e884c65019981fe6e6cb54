@@ -1,0 +1,227 @@
+deploy/providers/ais-sglang-v1.example.json
+  s_1d32b085fb33ca::t_ba0e50590edfb2 66
+execution/sglang/ais.py
+  s_1d32b085fb33ca::t_389588398e0e98 17,480-482,504-510
+  s_1d32b085fb33ca::t_90bef9446985e9 4,484,487,493-503,511-516,519-522
+tests/inference_rsi/test_local_codex.py
+  s_1d32b085fb33ca::t_7c75f65c4fb8f5 124
+evidence/calibration.py
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 12-13,15-29,32-33,37-42,52,59,80,85
+  s_1d32b085fb33ca::t_8a30903a137281 66-74,96-97,100-103
+execution/sglang/runtime.py
+  s_1d32b085fb33ca::t_1ba55ef724c89c 299
+  s_1d32b085fb33ca::t_23ff2f28504a62 4,205-249,251-291,306,308
+  s_1d32b085fb33ca::t_e2e338d9bf85b2 250
+execution/sglang/theta.py
+  s_1d32b085fb33ca::t_c2048ec3f7e425 96-103,105-110,144,160-161,218-219,222,226
+  s_1d32b085fb33ca::t_a036a6088f8759 138,140,150,162-164
+  s_1d32b085fb33ca::t_6150bc786b6ecb 12,104
+  s_1d32b085fb33ca::t_8a30903a137281 13,143,149,165-180,182,250
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_15c2ddff147750 368,374,386-400
+  s_1d32b085fb33ca::t_608d08824421ad 377-385
+  s_1d32b085fb33ca::t_ba0e50590edfb2 401-410
+  s_1d32b085fb33ca::t_dac01cc5b3597b 209,233,303-335,351-353
+  s_1d32b085fb33ca::t_6150bc786b6ecb 366,369,372,375,420,422-428,430,432-433,435,437-438,445,449,451,455,462,466,470,474,476,480,484,488
+  s_1d32b085fb33ca::t_b05467a8ad92a0 469
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 147
+  s_1d32b085fb33ca::t_25c1162b9fefdf 411-418
+  s_8651cc14e7f25a::t_e657f6cf27d1e3 79,354,356-357,359-365,367,370-371,373,376,419,421,429,431,434,436,439-444,446-448,450,452-454,456-461,463-465,467-468,471-473,475,477-479,481-483,485-487,491-492,508-512,543-547
+tests/inference_rsi/test_cli.py
+  s_1d32b085fb33ca::t_25e5dbc9a50d4d 108-129
+  s_8651cc14e7f25a::t_a5f925c3ecb909 61-107
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_421cf66b44a77e 165-172
+  s_1d32b085fb33ca::t_1ba55ef724c89c 163-164,173-176,193-195,209-212,336-337,357
+  s_1d32b085fb33ca::t_8a30903a137281 60-70,72-73,162,179-180,185,197-199
+  s_1d32b085fb33ca::t_389588398e0e98 312
+  s_1d32b085fb33ca::t_d19821c44b42dd 178,181-184,196
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 102,124,160,273-286,309
+  s_1d32b085fb33ca::t_90bef9446985e9 311,313-314,334-335
+  s_1d32b085fb33ca::t_eb45da805270fa 338-341
+  s_1d32b085fb33ca::t_16f08f03853c56 427-430,432,443-444
+  s_1d32b085fb33ca::t_63b1176a230b59 200-202,206-208
+execution/sglang/credentials.py
+  s_1d32b085fb33ca::t_b05467a8ad92a0 307,314,330-332
+  s_1d32b085fb33ca::t_e082fdae2c7ec0 293
+  s_1d32b085fb33ca::t_c578681a1cbf6e 18-20,184,193-194,223,246-291,294-295,297-306,308-313,315-329,333-354
+  s_1d32b085fb33ca::t_ef090fdb5a0ed5 292,296
+execution/attempt_worker.py
+  s_1d32b085fb33ca::t_f934e7b09da59e 26-28,40,98
+  s_1d32b085fb33ca::t_16f08f03853c56 33,35-39,41-48,67-69,106,114-115,122-124
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_6e1439ac2aa58a 44-45
+  s_1d32b085fb33ca::t_3c7f8a8c40d952 46
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_8a3f0d928d8782 1098-1100
+  s_1d32b085fb33ca::t_eb8ff0ca21aa81 1011-1020
+  s_1d32b085fb33ca::t_61e10668446537 1101-1103
+  s_1d32b085fb33ca::t_69b72d79089bb3 994-1000
+  s_1d32b085fb33ca::t_5c4f2a2b143c61 1053-1054
+  s_1d32b085fb33ca::t_d4f6c09bcbef0b 1092-1094
+  s_1d32b085fb33ca::t_935907d582775c 1055-1067
+  s_1d32b085fb33ca::t_0690c9fb3c0033 1077-1078
+  s_1d32b085fb33ca::t_b613df0c6d3ee5 987-993
+  s_1d32b085fb33ca::t_3e2ab91bf65744 1041-1049
+  s_1d32b085fb33ca::t_e259e20ade89a7 1068-1069
+  s_1d32b085fb33ca::t_a4471685074ffb 1070-1076
+  s_1d32b085fb33ca::t_3a18ef62df35c3 1079-1091
+  s_1d32b085fb33ca::t_352b6dd88c237a 1021-1032
+  s_1d32b085fb33ca::t_e08703f647e845 1001-1010
+  s_1d32b085fb33ca::t_ab749fc4c7c1eb 1050-1052
+  s_1d32b085fb33ca::t_5906b329e5b127 1033-1040
+  s_1d32b085fb33ca::t_b86057cd9ddbc3 1095-1097
+execution/pipeline.py
+  s_1d32b085fb33ca::t_f934e7b09da59e 23-41,259
+  s_1d32b085fb33ca::t_bdf1b6486b9b09 163-196,199-223,226-230
+  s_1d32b085fb33ca::t_df3d7315e4c0f7 197-198
+  s_1d32b085fb33ca::t_3c3d5eee8d9a65 111-127,130
+skills/rsi/references/setup.md
+  s_1d32b085fb33ca::t_ba0e50590edfb2 44-49
+  s_1d32b085fb33ca::t_3c7f8a8c40d952 86-87,94-95,102,105,116,329-345
+  s_1d32b085fb33ca::t_3a18ef62df35c3 322-326
+  s_1d32b085fb33ca::t_41a030488a532d 327-328,346-375
+tests/inference_rsi/test_deployment_polling.py
+  s_1d32b085fb33ca::t_467426d51820ed 1-50
+orchestrator/generation.py
+  s_1d32b085fb33ca::t_7c75f65c4fb8f5 64-81,232
+  s_1d32b085fb33ca::t_eb45da805270fa 233,263,265-266
+  s_1d32b085fb33ca::t_dac01cc5b3597b 256,261
+  s_1d32b085fb33ca::t_f99dc9f2191620 264
+  s_1d32b085fb33ca::t_da41301ed182f3 260
+tests/inference_rsi/test_agent_terminal_failure.py
+  s_1d32b085fb33ca::t_7c75f65c4fb8f5 1-75
+execution/sglang/config.py
+  s_1d32b085fb33ca::t_6a1e332f34ded1 181-183,198-200,217-218,261-265
+  s_1d32b085fb33ca::t_7b58d0db20f1a4 184-197,201-216,270-273
+  s_1d32b085fb33ca::t_e27ae6ab0100ed 138-149,163-164
+  s_1d32b085fb33ca::t_3b209504f0b981 327,335-341
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 62
+  s_1d32b085fb33ca::t_df92ce9d5d1ab3 13,52-58
+agents/codex_worker.py
+  s_1d32b085fb33ca::t_15d93acdde3a19 51-58
+cli.py
+  s_1d32b085fb33ca::t_25e5dbc9a50d4d 183-189
+  s_1d32b085fb33ca::t_e082fdae2c7ec0 42,45-48,179,190-191,201-205,207-208,223-240
+  s_1d32b085fb33ca::t_3b209504f0b981 43-44,180,206,209-222
+agents/local_codex.py
+  s_1d32b085fb33ca::t_dac01cc5b3597b 74,82-103
+  s_1d32b085fb33ca::t_7b58d0db20f1a4 23,69,72-73,75-81,143-148,179
+agents/codex_runtime.py
+  s_1d32b085fb33ca::t_eb45da805270fa 67-69,72-82
+  s_1d32b085fb33ca::t_f99dc9f2191620 70-71
+agents/runtime.py
+  s_1d32b085fb33ca::t_15d93acdde3a19 17-18,20-22
+execution/sglang/diagnosis.py
+  s_1d32b085fb33ca::t_1ba55ef724c89c 53,75
+  s_1d32b085fb33ca::t_421cf66b44a77e 7-8,11-16,19-41,43-52,56-63,66-71
+  s_1d32b085fb33ca::t_c2048ec3f7e425 17,42
+  s_1d32b085fb33ca::t_8a30903a137281 18
+  s_1d32b085fb33ca::t_0a225158c3746f 72-74
+execution/providers.py
+  s_1d32b085fb33ca::t_3b209504f0b981 47-55
+tests/inference_rsi/test_large_profile.py
+  s_1d32b085fb33ca::t_2fa3e51ebd65ea 1-38
+  s_1d32b085fb33ca::t_1ba55ef724c89c 39-59
+tests/inference_rsi/test_cleanup_recovery.py
+  s_1d32b085fb33ca::t_96104d38874b18 77-103
+  s_1d32b085fb33ca::t_ad8c4ee8168775 1-76
+tests/inference_rsi/test_failure_recovery_loop.py
+  s_1d32b085fb33ca::t_ff4e4e45f16ba2 28-29,32-39,41-53
+  s_1d32b085fb33ca::t_b402d4fbd96f9e 30-31,40
+  s_1d32b085fb33ca::t_f380b1f54a7c69 1-27
+orchestrator/resources.py
+  s_1d32b085fb33ca::t_15d93acdde3a19 135-136,147-149,151-153,181,188,190,197-198
+schemas/limits.py
+  s_1d32b085fb33ca::t_15d93acdde3a19 1,25-29,35-38
+docs/design.md
+  s_1d32b085fb33ca::t_3a18ef62df35c3 919-931
+  s_1d32b085fb33ca::t_935907d582775c 912-918
+templates/experiments/protocols-flow-v2.json
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 1
+tests/inference_rsi/test_operations.py
+  s_1d32b085fb33ca::t_273504e4075793 86-111
+execution/sglang/preflight.py
+  s_1d32b085fb33ca::t_3b209504f0b981 122-125
+tests/inference_rsi/test_provider_configuration.py
+  s_1d32b085fb33ca::t_e27ae6ab0100ed 204-232
+  s_1d32b085fb33ca::t_6a1e332f34ded1 233-245
+templates/evidence/baseline-real-v2.json
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 1
+execution/operations.py
+  s_1d32b085fb33ca::t_273504e4075793 85-91
+tests/inference_rsi/test_ais_backend.py
+  s_1d32b085fb33ca::t_96104d38874b18 186-221
+execution/sglang/measure.py
+  s_1d32b085fb33ca::t_a036a6088f8759 3,84-107,115-138,147,154
+execution/git_source.py
+  s_1d32b085fb33ca::t_0f2db9f7a6e776 64,77-98,125,139,223,233-248
+  s_1d32b085fb33ca::t_3b209504f0b981 45-49,65-76
+  s_1d32b085fb33ca::t_cb6854cebea32b 14,138,140-143,197-222,224-232,249-267
+tests/inference_rsi/test_codex_connectivity.py
+  s_1d32b085fb33ca::t_4c88648864f1ec 1-100
+evidence/report.py
+  s_1d32b085fb33ca::t_8a30903a137281 13,59,76,79,86,89-90
+  s_1d32b085fb33ca::t_dac01cc5b3597b 102
+schemas/models.py
+  s_1d32b085fb33ca::t_8fabd2b483738c 242-249,252-255
+evidence/analysis.py
+  s_1d32b085fb33ca::t_2763e5a2aa7eeb 60
+tests/inference_rsi/test_provider_credentials.py
+  s_1d32b085fb33ca::t_b05467a8ad92a0 277-361
+tests/inference_rsi/test_theta_transport.py
+  s_1d32b085fb33ca::t_6150bc786b6ecb 181-189
+  s_1d32b085fb33ca::t_c6a2e90bdf2a0f 149-180
+  s_1d32b085fb33ca::t_40bba9449ad0c1 4-5
+  s_1d32b085fb33ca::t_94d9c905fa3b89 190-229
+tests/inference_rsi/test_sglang_measurement.py
+  s_1d32b085fb33ca::t_f934e7b09da59e 105-128,130-133,135-136
+  s_1d32b085fb33ca::t_c6a2e90bdf2a0f 129,134
+  s_1d32b085fb33ca::t_ef11c6c63cadb5 137-139
+tests/inference_rsi/test_verification_diagnosis.py
+  s_1d32b085fb33ca::t_c6a2e90bdf2a0f 39,44-45
+  s_1d32b085fb33ca::t_e988470573ea15 4-6,24-38,40-43,46-48
+tests/inference_rsi/test_planning_freshness.py
+  s_1d32b085fb33ca::t_ff4e4e45f16ba2 1-20,22,24-76
+  s_1d32b085fb33ca::t_8fabd2b483738c 21,23
+tests/inference_rsi/test_pipeline_recovery.py
+  s_1d32b085fb33ca::t_f934e7b09da59e 40-59
+execution/sglang/git_runtime.py
+  s_1d32b085fb33ca::t_cb6854cebea32b 43-70,126
+  s_1d32b085fb33ca::t_615d06485fe59e 8,71-119,121-123
+tests/inference_rsi/test_calibration_validity.py
+  s_1d32b085fb33ca::t_309aa0e735eb9e 64-79
+tests/inference_rsi/test_experiments.py
+  s_1d32b085fb33ca::t_fa759678388c91 109-119
+tests/inference_rsi/test_inapplicable_t1.py
+  s_1d32b085fb33ca::t_d8e94a20a2b306 1-63
+tests/inference_rsi/test_screening_reuse.py
+  s_1d32b085fb33ca::t_9c9370df30fa29 1-93
+tests/inference_rsi/test_sglang_preflight.py
+  s_1d32b085fb33ca::t_181748055a7982 49,60,100,116-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f5869a2ad840fb0d85e884c65019981fe6e6cb54",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    },
+    "s_8651cc14e7f25a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b0a2-1077-75a0-a9ca-a659a02f338f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
