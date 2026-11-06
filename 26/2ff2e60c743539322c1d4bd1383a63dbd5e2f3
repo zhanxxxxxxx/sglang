@@ -1,0 +1,33 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_b14c5864faf74b::t_e51dccd903b990 16-17,976-1010,1449,1571-1574,1596-1619,1623,3214
+python/sglang/srt/disaggregation/prefill.py
+  s_b14c5864faf74b::t_cf19dfd101679a 1008-1021,1125-1130,1776-1785
+python/sglang/srt/environ.py
+  s_b14c5864faf74b::t_b663629b6def0d 311-322,888-901
+python/sglang/srt/managers/data_parallel_controller.py
+  s_b14c5864faf74b::t_56e270a93236b0 1003
+python/sglang/srt/managers/schedule_batch.py
+  s_b14c5864faf74b::t_68d80a775f57a0 1051-1077,3641-3652
+python/sglang/srt/managers/scheduler.py
+  s_b14c5864faf74b::t_0e5169c716c0e9 5622-5626
+python/sglang/srt/managers/utils.py
+  s_b14c5864faf74b::t_68641279cedb5d 7,124-127,256-257,261-272
+python/sglang/srt/mem_cache/pool_host/mamba.py
+  s_b14c5864faf74b::t_d718c70ec25b8d 11,83-84,368,796,845-894,903-904
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "262ff2e60c743539322c1d4bd1383a63dbd5e2f3",
+  "prompts": {},
+  "sessions": {
+    "s_b14c5864faf74b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f2d80beb-b1f7-4844-b010-4d95995c96b0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
