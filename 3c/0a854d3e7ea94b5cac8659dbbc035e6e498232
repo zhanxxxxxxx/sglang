@@ -1,0 +1,95 @@
+test/registered/unit/multimodal/test_video_decoder_wrapper.py
+  s_bbb22337e1ec96::t_646d037d21d26f 22,37-38,49
+python/sglang/srt/entrypoints/server_utils.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 50-159,202,252
+  s_bbb22337e1ec96::t_fdea2621ecc68f 47-49
+  s_bbb22337e1ec96::t_3471787f9c93e5 160-162,199-201
+  s_bbb22337e1ec96::t_366dae34193b8f 203-205,249-251
+  s_bbb22337e1ec96::t_a3fc2cfbe1b9b1 253-255
+python/sglang/srt/disaggregation/encoder/server.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 77
+python/sglang/srt/multimodal/processors/nano_nemotron_vl.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 45
+test/registered/unit/utils/test_compile_cache_startup_logging.py
+  s_bbb22337e1ec96::t_7d8f3baf6be4f4 140-141
+  s_bbb22337e1ec96::t_737d2038fe745f 156
+python/sglang/srt/multimodal/processors/base_processor.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 40
+  s_bbb22337e1ec96::t_d4c2487acedc16 37-39
+  s_bbb22337e1ec96::t_f45db5ee703883 41-43
+test/registered/unit/utils/test_compile_cache.py
+  s_bbb22337e1ec96::t_737d2038fe745f 147-148,204-205
+python/sglang/srt/utils/log_utils.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 7,9,12-13,16-17,19-20,23-48,110-424
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 43-46
+python/sglang/srt/utils/common.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 71-72,311-321
+  s_bbb22337e1ec96::t_737d2038fe745f 92-93
+test/registered/unit/utils/test_common.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 14-16,24,86-88
+  s_bbb22337e1ec96::t_e57b00d6276b9f 13
+python/sglang/srt/models/seed_oss.py
+  s_bbb22337e1ec96::t_6a8edce93132fa 26
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 25
+python/sglang/srt/multimodal/media_io.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 22,42-44,76,81,87,89,107,132,227,269,279,288,290-669,673-698,705-900
+  s_bbb22337e1ec96::t_6a8edce93132fa 25-29,138-219,670-672,699-702
+  s_bbb22337e1ec96::t_8be56bde349df4 19-21
+  s_bbb22337e1ec96::t_85f0d61f7b93ff 23-24
+  s_bbb22337e1ec96::t_ce393808b605b8 30-32,39-41
+  s_bbb22337e1ec96::t_ddaf513419d171 45-47,73-75
+  s_bbb22337e1ec96::t_c013d6b62e00f1 77-80
+  s_bbb22337e1ec96::t_a9eae377baa40d 82-86
+  s_bbb22337e1ec96::t_63e9645a89669b 88
+  s_bbb22337e1ec96::t_d4c637d3ba42de 90-92,104-106
+  s_bbb22337e1ec96::t_d9d0e419d99c65 108-110,129-131
+  s_bbb22337e1ec96::t_f13fd18564edfc 133-137
+  s_bbb22337e1ec96::t_2ab7fcd310e82c 220-222,224-226
+  s_bbb22337e1ec96::t_0dc231dfe8d961 228-230,266-268
+  s_bbb22337e1ec96::t_f26624623bc8b5 270-272,276-278
+  s_bbb22337e1ec96::t_ecee811ffc812e 280-282,285-287
+  s_bbb22337e1ec96::t_2a2b55f1bb2d26 289
+  s_bbb22337e1ec96::t_064ab40767dd83 703-704
+test/registered/vlm/test_video_utils.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 7-12
+test/registered/unit/multimodal/test_media_url_security.py
+  s_bbb22337e1ec96::t_6a8edce93132fa 196
+  s_bbb22337e1ec96::t_9a7a239e35d5ba 4,7-8,13,19,22,84,174,186-195,197-221
+  s_bbb22337e1ec96::t_db6d1dadd242ff 222
+test/registered/unit/multimodal/test_base_processor_bad_input.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 33,65,107,125
+python/sglang/srt/utils/device.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 43-1596
+  s_bbb22337e1ec96::t_ca7a29afe46a1d 40-42
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 46
+  s_bbb22337e1ec96::t_fe2bae723cd533 47
+python/sglang/srt/multimodal/processors/mimo_v2.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 512
+python/sglang/srt/utils/compile_cache.py
+  s_bbb22337e1ec96::t_737d2038fe745f 58-59
+python/sglang/launch_server.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 14,17
+python/sglang/srt/entrypoints/openai/serving_completions.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 36
+python/sglang/srt/utils/process.py
+  s_bbb22337e1ec96::t_62dc19bb8c67c1 36-246
+  s_bbb22337e1ec96::t_31e46b03320bf2 33-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3c0a854d3e7ea94b5cac8659dbbc035e6e498232",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
