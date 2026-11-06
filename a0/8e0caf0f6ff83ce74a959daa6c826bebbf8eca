@@ -1,0 +1,25 @@
+python/sglang/kernels/ops/attention/kda_decode_mtp.py
+  s_7eb817b8eb8d9a::t_f8b35c8df84c78 218,755-771,863-865,868,877,884,1077-1079,1081,1083-1084,1087,1090-1094
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_7eb817b8eb8d9a::t_3774bd91bf4e2e 1827-1834,1836,1844-1845,1857-1858
+test/registered/kernels/ops/attention/test_kda_decode_mtp.py
+  s_7eb817b8eb8d9a::t_e481d1ea87d157 12,175-412
+test/registered/unit/layers/attention/test_mamba_track_state_dtype.py
+  s_7eb817b8eb8d9a::t_8b58bd6a39637b 285-377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a08e0caf0f6ff83ce74a959daa6c826bebbf8eca",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
