@@ -1,0 +1,16 @@
+.claude/skills/ainsight/SKILL.md
+  h_1d635ecd767a49 33,65-71
+.claude/skills/ainsight/references/historical-log-routing.md
+  h_1d635ecd767a49 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "887dee0e2fd8071c2b96fef4e311cafb8e55bac6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
