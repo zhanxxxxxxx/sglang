@@ -1,0 +1,20 @@
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_5e8ee733b2f3d3::t_c030a392bf77bd 1370-1389
+  s_5e8ee733b2f3d3::t_a1b1eb1154b70d 479-481
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "90bf52ceef79bfa42c780de4d0bc9fdb0ad96fea",
+  "prompts": {},
+  "sessions": {
+    "s_5e8ee733b2f3d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203484a0-7962-48df-8d94-f187cb66cc43",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
