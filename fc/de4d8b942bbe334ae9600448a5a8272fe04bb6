@@ -1,0 +1,20 @@
+python/sglang/kernels/jit/csrc/distributed/custom_all_reduce.cuh
+  h_1d635ecd767a49 486,492-511,521,523,579-580,590,596-597,601,610-612,614-615
+python/sglang/kernels/ops/communication/all_reduce.py
+  h_1d635ecd767a49 166-171,173-175
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 453-456,459-461,463-472
+test/registered/kernels/ops/test_large_custom_reduce_scatter.py
+  h_1d635ecd767a49 54-59,90-92,94-96,104-106,109-116,152-155,157-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fcde4d8b942bbe334ae9600448a5a8272fe04bb6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
