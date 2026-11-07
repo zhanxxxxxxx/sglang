@@ -1,0 +1,23 @@
+python/sglang/srt/model_executor/runner/flashinfer_tactics/kimi_k31_b300_tp8_ep2_fi072.json
+  s_5e8ee733b2f3d3::t_6e295a2d274214 1-167
+python/sglang/srt/model_executor/runner/flashinfer_tactics/kimi_k31_b300_tp8_ep4_fi072.json
+  s_5e8ee733b2f3d3::t_577671774aa890 1-167
+python/sglang/srt/model_executor/runner/flashinfer_tactics/kimi_k31_b300_tp8_ep8_fi072.json
+  s_5e8ee733b2f3d3::t_ddff4fbc310c26 1-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "617f89c3bf210a9b35d28ecb57d1dba8d0104214",
+  "prompts": {},
+  "sessions": {
+    "s_5e8ee733b2f3d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203484a0-7962-48df-8d94-f187cb66cc43",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
