@@ -1,0 +1,33 @@
+python/sglang/srt/layers/attention_residual.py
+  s_b94cb62be4f958::t_31cdbb1970e98a 3,247-251,259-264,266-267,278-281,301-315,319,330
+  s_b94cb62be4f958::t_ed2a9fabe30aed 252-258,268-277,298-300
+  s_b94cb62be4f958::t_638d77b1d98513 265
+  s_b94cb62be4f958::t_fd7325b6c23033 33-54,74,102-112,195
+  s_b94cb62be4f958::t_9c7ba72785c05e 113-115
+  s_b94cb62be4f958::t_0945acdfd89556 32
+test/registered/kernels/test_attention_residual.py
+  s_b94cb62be4f958::t_2c8e7555b8e45d 92-95,99,103,106,114-119,128,132-133,138-139,143-146,153-155,159-166,181-182,193,254,256
+  s_b94cb62be4f958::t_9c7ba72785c05e 96-98,100-102,104-105,111-112,201-205,228-231,233-235,241-250,261-269,273-279,282-293,295-296,299-311,313-318,320-326
+  s_b94cb62be4f958::t_b774ae83751a9c 107-110,120-127,129-131,134-137,140-142,147-152,156-158,167-180,183-192
+  s_b94cb62be4f958::t_cd7501dff01051 17-18,237-240,251-253,255,257-260,270-272,280-281,294,297-298,312,319,327
+  s_b94cb62be4f958::t_e972315fd80d87 23,77-81,84-91,113,194-200,206-227,232,236
+  s_b94cb62be4f958::t_638d77b1d98513 3,82-83
+PR_DESCRIPTION_ling_attnres_precomputed_score_weight.md
+  s_b94cb62be4f958::t_0c647580bce4c6 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4953e72b53be55e1551045ffb56c3ce5132745b8",
+  "prompts": {},
+  "sessions": {
+    "s_b94cb62be4f958": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb6ed-4ee0-7790-8c63-b4e4483dbef0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
