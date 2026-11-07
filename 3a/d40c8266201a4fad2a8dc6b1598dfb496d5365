@@ -1,0 +1,27 @@
+python/sglang/srt/environ.py
+  s_5e8ee733b2f3d3::t_4f9c7ae7b8d7f8 2461-2469
+python/sglang/srt/layers/communication/k3_ar_fusion.py
+  s_5e8ee733b2f3d3::t_ff30067f66a219 326-331,342
+python/sglang/srt/models/kimi_k3.py
+  s_5e8ee733b2f3d3::t_8a20a5ad645896 14,335-340,965
+test/registered/kernels/ops/communication/test_collectives.py
+  s_5e8ee733b2f3d3::t_f5ee3691cabf38 31-34
+test/registered/kernels/ops/communication/test_moe_front_ag.py
+  s_5e8ee733b2f3d3::t_221ec9469376ee 36-39,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3ad40c8266201a4fad2a8dc6b1598dfb496d5365",
+  "prompts": {},
+  "sessions": {
+    "s_5e8ee733b2f3d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203484a0-7962-48df-8d94-f187cb66cc43",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
