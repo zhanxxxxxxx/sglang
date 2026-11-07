@@ -1,0 +1,21 @@
+python/sglang/kernels/ops/speculative/reject_sampling.py
+  s_7eb817b8eb8d9a::t_f03aed1b8014cf 200-202,229,239-262
+test/registered/kernels/ops/speculative/test_block_verification.py
+  s_7eb817b8eb8d9a::t_8ce9d36c755bbd 142-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0b729a7819d263b85ad118a980d0f319bb644e48",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
