@@ -1,0 +1,29 @@
+python/sglang/srt/server_args.py
+  s_2baf4a9b0388c6::t_1d245055e06412 916-917
+python/sglang/srt/managers/schedule_batch.py
+  s_2baf4a9b0388c6::t_1d245055e06412 1021
+test/registered/unit/managers/test_schedule_policy_prefix.py
+  s_2baf4a9b0388c6::t_65438a8049498d 1-56,60-105,112,116-124,129-163,167-184,191-202,206-210,217-224,229-235
+  s_2baf4a9b0388c6::t_932d28dcec38f4 57-59,106-111,113-115,125-128,164-166,185-190,203-205,211-216,225-228
+python/sglang/srt/managers/scheduler.py
+  s_2baf4a9b0388c6::t_1d245055e06412 1263-1272,3550-3551,4516
+python/sglang/srt/managers/schedule_policy.py
+  s_2baf4a9b0388c6::t_1d245055e06412 31,34,205-206,228-229,237-239,244-262,288-296,333-334,417-546,671-698
+  s_2baf4a9b0388c6::t_cb9bda5f10a4a5 699
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "32b3afae970f728f92d42188b78ae13b48ecc107",
+  "prompts": {},
+  "sessions": {
+    "s_2baf4a9b0388c6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b035-5b9f-7d20-8ade-55f0931ed3d1",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}
