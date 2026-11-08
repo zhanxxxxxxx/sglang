@@ -1,0 +1,44 @@
+python/sglang/srt/distributed/parallel_state.py
+  s_9271c87a5e59f5::t_d4b6baecaa4cf1 1862-1864
+python/sglang/srt/distributed/device_communicators/pynccl.py
+  s_9271c87a5e59f5::t_589fe5fc97b045 363
+  s_9271c87a5e59f5::t_d4b6baecaa4cf1 53,124,128,327-328,334-337,359-361,364-401
+test/registered/attention/test_ling_csa_prefill_cp_sm100.py
+  s_9271c87a5e59f5::t_4c8384b4ffd591 129
+  s_9271c87a5e59f5::t_f9c1ae075f44e9 16,22,171-172,201,203
+  s_9271c87a5e59f5::t_80ad8d1953366a 124,278-282
+python/sglang/srt/layers/attention/ling/csa_prefill_cp.py
+  s_9271c87a5e59f5::t_d4b6baecaa4cf1 20-24,39,51-58,68-72,77-78,93-95,110-119,122-129,136-147,149-160
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_9271c87a5e59f5::t_d4b6baecaa4cf1 463
+  s_9271c87a5e59f5::t_744ab12a7da7fa 35-36,81-88
+  s_9271c87a5e59f5::t_5ed5a3660db978 98
+  s_9271c87a5e59f5::t_953e9ece3c1155 99
+test/registered/unit/distributed/test_parallel_state.py
+  s_9271c87a5e59f5::t_705664ec9f62f8 84-86,108-110
+  s_9271c87a5e59f5::t_80ad8d1953366a 87-92,107,111-130
+  s_9271c87a5e59f5::t_db8953688d2da8 131-132
+test/registered/unit/distributed/test_pynccl_lifecycle.py
+  s_9271c87a5e59f5::t_f9c1ae075f44e9 1-30,35-76,91-100,107-111
+  s_9271c87a5e59f5::t_705664ec9f62f8 31-34,77-90,101-106
+test/registered/unit/layers/attention/test_ling_csa_prefill_cp.py
+  s_9271c87a5e59f5::t_705664ec9f62f8 260-262,274-276,286-288
+  s_9271c87a5e59f5::t_80ad8d1953366a 8,70-73,78,91-103,121,125,137,159,176,226,255-259,263-273,277-285,289-296
+  s_9271c87a5e59f5::t_e4fb888f5f3982 297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e3e6f1c37788fcde1c9b7b653cb653ed3197c348",
+  "prompts": {},
+  "sessions": {
+    "s_9271c87a5e59f5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bfa-bfeb-7382-aaef-e6152b538e0d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
