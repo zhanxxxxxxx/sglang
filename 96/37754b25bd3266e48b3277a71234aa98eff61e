@@ -1,0 +1,18 @@
+python/sglang/kernels/jit/csrc/bailing_v3/powlu_and_mul_masked_post_quant.cuh
+  h_1d635ecd767a49 84-85
+python/sglang/kernels/ops/moe/bailing_powlu.py
+  h_1d635ecd767a49 35
+test/registered/kernels/ops/moe/test_bailing_powlu_mul_post_quant.py
+  h_1d635ecd767a49 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9637754b25bd3266e48b3277a71234aa98eff61e",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

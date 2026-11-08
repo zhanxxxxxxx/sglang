@@ -1,0 +1,21 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_e452e934083109::t_863181ec9cbd33 990-992
+test/registered/unit/mem_cache/test_snapshot_prefix_merge.py
+  s_e452e934083109::t_863181ec9cbd33 132,142-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab45791e62dbefbbfdda3f4cdfe0e84516b2a4c6",
+  "prompts": {},
+  "sessions": {
+    "s_e452e934083109": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a54d-badc-7503-90af-62061bf6570a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

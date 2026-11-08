@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 122,185-189,489-497
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1136-1138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f61ff831f9d39e44387a048fa0adcbe5c0b875f1",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

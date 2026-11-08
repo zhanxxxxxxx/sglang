@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 490-495
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 697-706,1028-1040
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06c484574db22a03dbea162160ab017df9c91124",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
