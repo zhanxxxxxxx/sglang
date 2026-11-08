@@ -1,0 +1,18 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 1123,1126-1129,1137-1141
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1144
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1963-1966
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a817178e322e426e5074175221154661863ae2bc",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

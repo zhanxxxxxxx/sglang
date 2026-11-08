@@ -1,0 +1,16 @@
+docker/Dockerfile
+  h_1f940cd96f2dab 752-753
+docker/Dockerfile.cu134
+  h_1f940cd96f2dab 941-942
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d56cb0f76ed88470a52cd7cec911ad32008d113a",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

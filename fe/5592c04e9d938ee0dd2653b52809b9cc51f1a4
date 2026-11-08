@@ -1,0 +1,20 @@
+python/sglang/kernels/jit/csrc/distributed/custom_all_reduce.cuh
+  h_1d635ecd767a49 99-116
+python/sglang/kernels/ops/communication/all_reduce.py
+  h_1d635ecd767a49 18,150-151
+python/sglang/kernels/ops/communication/rank_ordered_reduce.py
+  h_1d635ecd767a49 6,10,12-13,15-16,23-24
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fe5592c04e9d938ee0dd2653b52809b9cc51f1a4",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

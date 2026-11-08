@@ -1,0 +1,62 @@
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_e6822b7c603924::t_6eff7e9e7e55de 2808-2809,2819-2823
+  s_e6822b7c603924::t_854ca111fe6f12 13,47,493-500,869-893,2195-2249,3871-3878
+docs/cookbook/autoregressive/DeepSeek/DeepSeek-V4_1.mdx
+  s_e6822b7c603924::t_caaf1c0e5a021f 154
+docs/docs/references/environment_variables.mdx
+  s_e6822b7c603924::t_9c6d4454135113 785-786
+python/sglang/srt/entrypoints/openai/chat_encoding.py
+  s_e6822b7c603924::t_f5896be4ea136b 10-12,64-112,154-155,162-170
+python/sglang/srt/entrypoints/openai/chat_encoding_adapters.py
+  s_e6822b7c603924::t_9f1d9042c3333c 297-298
+python/sglang/srt/entrypoints/openai/encoding_dsv41.py
+  s_e6822b7c603924::t_5c845ed170f854 1-750
+python/sglang/srt/environ.py
+  s_e6822b7c603924::t_3b6f1c1bd5077a 1998-1999
+python/sglang/srt/function_call/core_types.py
+  s_e6822b7c603924::t_2b729f8a879738 7-10
+python/sglang/srt/function_call/deepseekv32_detector_v8.py
+  s_e6822b7c603924::t_df7cd0a1de3921 1-468
+python/sglang/srt/function_call/deepseekv41_detector.py
+  s_e6822b7c603924::t_17a8c635cff20f 1,3-5,11,18-114
+python/sglang/srt/function_call/deepseekv41_grammar.py
+  s_e6822b7c603924::t_57478a2a3d7eaf 1-230
+python/sglang/srt/function_call/function_call_parser.py
+  s_e6822b7c603924::t_92e374c022ec09 18,434-437
+python/sglang/srt/function_call/utils.py
+  s_e6822b7c603924::t_43f2c7acf5cdfb 198-205
+python/sglang/srt/function_call/xml_tool_schema.py
+  s_e6822b7c603924::t_0289f33846908a 1-286
+python/sglang/srt/managers/long_prompt_tokenizer.py
+  s_e6822b7c603924::t_40e8ba63457af6 37-40,243-258
+python/sglang/srt/parser/deepseekv41_reasoning_v8.py
+  s_e6822b7c603924::t_97944e92c0fdc6 1-407
+python/sglang/srt/parser/reasoning_parser.py
+  s_e6822b7c603924::t_ea2e1129a513c6 36,2378-2379
+test/registered/unit/entrypoints/openai/test_encoding_dsv41.py
+  s_e6822b7c603924::t_0e6f387073465e 1-310
+test/registered/unit/entrypoints/openai/test_serving_deepseek_recipe.py
+  s_e6822b7c603924::t_726c392e39487d 10-13,105,125,210,256,304,348,378,438
+test/registered/unit/function_call/test_deepseek_dsml_streaming.py
+  s_e6822b7c603924::t_a3dfc4c663c7b0 1-436
+test/registered/unit/function_call/test_deepseekv41_detector.py
+  s_e6822b7c603924::t_8313dc69549af0 5-6,9,16-17,20,23,25,27,63-73,75-84,86-152,164-168,184-200,215-221,223-227,229-232,234-265,272-282,291-313,325,332-335,400-415,417-500,502-687
+test/registered/unit/parser/test_deepseek_reasoning_boundaries.py
+  s_e6822b7c603924::t_554709377377c3 1-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e1ad6706064507043168bb0fd9ce14e94a39a39",
+  "prompts": {},
+  "sessions": {
+    "s_e6822b7c603924": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "039a58ab-dc93-4d07-81fa-cc5693b39942",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

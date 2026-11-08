@@ -1,0 +1,335 @@
+.agents/skills/rsi
+  s_1d32b085fb33ca::t_fec9392bf73bd8 1
+Makefile
+  s_0b2a890a4dd68f::t_47d8a83d0ec920 1-18
+acceptance/__init__.py
+  s_0b2a890a4dd68f::t_7212d8d799c238 1
+acceptance/adapter.py
+  s_0b2a890a4dd68f::t_f9675e32012b75 1-78
+acceptance/baselines.py
+  s_0b2a890a4dd68f::t_f2d7c804fc4715 1-38
+acceptance/contracts.py
+  s_1d32b085fb33ca::t_5f1c58af56311a 1-100
+acceptance/rules.py
+  s_1d32b085fb33ca::t_dd4d7293b0de4f 1-241
+acceptance/workflow.py
+  s_1d32b085fb33ca::t_32aab29cc57204 1-251
+agents/__init__.py
+  s_0b2a890a4dd68f::t_b9b65b72a16d48 1
+agents/codex_runtime.py
+  s_1d32b085fb33ca::t_470dc9ae3e1611 1-86
+agents/codex_worker.py
+  s_1d32b085fb33ca::t_9e9447d79246e6 1-221
+agents/container_runtime.py
+  s_1d32b085fb33ca::t_15814ca6b62105 1-74
+agents/implementer.py
+  s_1d32b085fb33ca::t_622427d83d4589 1-305
+agents/import_worker.py
+  s_0b2a890a4dd68f::t_6d0ba87b6e3d66 1-149
+agents/local_codex.py
+  s_0b2a890a4dd68f::t_8202bad7952f77 1-408
+agents/runtime.py
+  s_1d32b085fb33ca::t_2ecc9ba0972d55 1-90
+cli.py
+  s_1d32b085fb33ca::t_118088e6e661eb 1-297
+control/artifacts.py
+  s_1d32b085fb33ca::t_c3e69c955c43d1 1-163
+control/lifecycle.py
+  s_1d32b085fb33ca::t_622a4565e12748 1-201
+control/preparation.py
+  s_1d32b085fb33ca::t_95e386d44bd8e9 1-250
+control/preparation_worker.py
+  s_1d32b085fb33ca::t_5af9b51e907eab 1-88
+control/registry.py
+  s_1d32b085fb33ca::t_e885192841956e 1-453
+control/server.py
+  s_1d32b085fb33ca::t_1403ae52e69001 1-272
+control/views.py
+  s_1d32b085fb33ca::t_3bb2ae2b4c350d 1-36
+delivery/__init__.py
+  s_0b2a890a4dd68f::t_7b5b843cc280d1 1
+delivery/package.py
+  s_1d32b085fb33ca::t_fc62b5b52b6322 1-85
+deploy/control/Dockerfile
+  s_1d32b085fb33ca::t_d74efd4d23167c 1-16
+deploy/control/compose.yaml
+  s_1d32b085fb33ca::t_9a920e8bcdca46 1-19
+deploy/executor/entrypoint.py
+  s_0b2a890a4dd68f::t_636bc5fe37f84a 1-19
+deploy/executor/validate_dspark.py
+  s_1d32b085fb33ca::t_fb167e0d5496d4 1-27
+deploy/providers/ais-sglang-v1.example.json
+  s_1d32b085fb33ca::t_3c9b87ae0e69b4 1-127
+deploy/providers/registered-v1.example.json
+  s_0b2a890a4dd68f::t_c1eb248f971160 1-94
+deploy/systemd/inference-rsi-control.service
+  s_0b2a890a4dd68f::t_39debf0db43259 1-17
+deploy/systemd/inference-rsi-task@.service
+  s_0b2a890a4dd68f::t_982db925c72a88 1-15
+deploy/systemd/inference-rsi-watchdog.service
+  s_0b2a890a4dd68f::t_e8bf61a65c37af 1-15
+docs/design.md
+  s_1d32b085fb33ca::t_2a31ff407fd6b0 1-911
+docs/images/fig0-current.svg
+  s_0b2a890a4dd68f::t_a0d1ee72d85508 1-65
+docs/images/fig1-architecture.svg
+  s_1d32b085fb33ca::t_1e7042fd9b1c4e 1-108
+docs/images/fig6-deployment.svg
+  s_1d32b085fb33ca::t_6a5b3a76f7c924 1-46
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_170ee55d0416f9 1-986
+evidence/__init__.py
+  s_0b2a890a4dd68f::t_70fcf95492471a 1
+evidence/analysis.py
+  s_1d32b085fb33ca::t_88fc0ebe1282c7 1-118
+evidence/calibration.py
+  s_0b2a890a4dd68f::t_a88d9bb2cb75de 1-79
+evidence/report.py
+  s_1d32b085fb33ca::t_a1983b19462e05 1-109
+execution/agent_worker.py
+  s_1d32b085fb33ca::t_05009d56608fc7 1-118
+execution/benchmark.py
+  s_0b2a890a4dd68f::t_8789192d27f909 1-66
+execution/git_source.py
+  s_1d32b085fb33ca::t_ae11937046becb 1-170
+execution/local_validation.py
+  s_0b2a890a4dd68f::t_255469fa09f5f9 1-111
+execution/operations.py
+  s_1d32b085fb33ca::t_90a2ae5790101b 1-163
+execution/pipeline.py
+  s_1d32b085fb33ca::t_d247771400699f 1-204
+execution/providers.py
+  s_0b2a890a4dd68f::t_ad1e40b33e1f99 1-155
+execution/sandbox.py
+  s_1d32b085fb33ca::t_289e634235d2df 1-166
+execution/sglang/ais.py
+  s_0b2a890a4dd68f::t_82f0f4002d8c5d 1-498
+execution/sglang/config.py
+  s_1d32b085fb33ca::t_0de687cda825d2 1-286
+execution/sglang/credentials.py
+  s_0b2a890a4dd68f::t_506a6f5f48878d 1-240
+execution/sglang/dspark.py
+  s_0b2a890a4dd68f::t_6c323dfca45cc1 1-35
+execution/sglang/git_runtime.py
+  s_1d32b085fb33ca::t_c85a157353458b 1-120
+execution/sglang/preflight.py
+  s_1d32b085fb33ca::t_4486383f919942 1-173
+execution/sglang/provider.py
+  s_1d32b085fb33ca::t_0a149949f9f432 1-136
+execution/sglang/reconcile.py
+  s_0b2a890a4dd68f::t_d3cea7787c26e7 1-174
+execution/sglang/runtime.py
+  s_1d32b085fb33ca::t_27b95303249083 1-358
+execution/sglang/source.py
+  s_0b2a890a4dd68f::t_ad3bb8acbc6554 1-183
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_7f92f7c2bdadac 1-855
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_172b5346121144 1-212
+execution/sglang/workloads.py
+  s_1d32b085fb33ca::t_66a006841619ae 1-173
+experiments/__init__.py
+  s_0b2a890a4dd68f::t_4b4c38b39010b1 1
+experiments/combinations.py
+  s_0b2a890a4dd68f::t_bc409883151291 1-35
+experiments/protocols.py
+  s_0b2a890a4dd68f::t_6a42be96ade94d 1-84
+experiments/scheduling.py
+  s_1d32b085fb33ca::t_6451d27467ecbd 1-116
+experiments/validation.py
+  s_1d32b085fb33ca::t_98f3eebbb4c3dd 1-82
+knowledge/techniques/recipes-v1.json
+  s_0b2a890a4dd68f::t_1361ba92e343ee 1-10
+ledger/experience.py
+  s_0b2a890a4dd68f::t_4845d23dab63b4 1-46
+ledger/store.py
+  s_0b2a890a4dd68f::t_1306f1a2420c37 1-82
+orchestrator/controller.py
+  s_1d32b085fb33ca::t_d082b53af2d413 1-381
+orchestrator/epochs.py
+  s_0b2a890a4dd68f::t_7f5f821c6246d4 1-73
+orchestrator/exploration.py
+  s_1d32b085fb33ca::t_c4e35af173064b 1-56
+orchestrator/generation.py
+  s_1d32b085fb33ca::t_9e901820fbcae8 1-243
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_7026837bac16f3 1-365
+orchestrator/patches.py
+  s_0b2a890a4dd68f::t_163e3d12ec4b81 1-30
+orchestrator/resources.py
+  s_1d32b085fb33ca::t_5309864d22f173 1-439
+orchestrator/state.py
+  s_0b2a890a4dd68f::t_497028a3cf3140 1-99
+orchestrator/watchdog.py
+  s_0b2a890a4dd68f::t_f0e88df054731d 1-135
+planning/__init__.py
+  s_0b2a890a4dd68f::t_960eeb00f9b979 1
+planning/knowledge.py
+  s_1d32b085fb33ca::t_c7254abcd47f7a 1-51
+pyproject.toml
+  s_0b2a890a4dd68f::t_eb46fc4474ff90 1-50
+resources/tokenizers/bailing_tokenizer_v3/config_ling/chat_template.jinja
+  s_1d32b085fb33ca::t_084f5396974a2e 1-101
+resources/tokenizers/bailing_tokenizer_v3/config_ling/generation_config.json
+  s_1d32b085fb33ca::t_acf0075effdf22 1-8
+resources/tokenizers/bailing_tokenizer_v3/config_ling/special_tokens_map.json
+  s_1d32b085fb33ca::t_ebfb7f7df2706b 1-7
+resources/tokenizers/bailing_tokenizer_v3/config_ling/tokenizer.json
+  s_1d32b085fb33ca::t_690f443085c849 1-315938
+resources/tokenizers/bailing_tokenizer_v3/config_ling/tokenizer_config.json
+  s_1d32b085fb33ca::t_d89f694533c5d1 1-16
+resources/tokenizers/bailing_tokenizer_v3/manifest.json
+  s_1d32b085fb33ca::t_dc172b57fdbf06 1-34
+scenario/authorization.py
+  s_1d32b085fb33ca::t_18b269be8e724a 1-45
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_c73d94447239fa 1-83
+scenario/spec.py
+  s_1d32b085fb33ca::t_70b78391342f8b 1-147
+schemas/limits.py
+  s_1d32b085fb33ca::t_c103d4b8d1bade 1-55
+schemas/models.py
+  s_0b2a890a4dd68f::t_30208d73d07d06 1-302
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_a22cb64a239b80 1-96
+skills/rsi/references/setup.md
+  s_1d32b085fb33ca::t_2ef36a46b62c8a 1-312
+templates/candidates/import-v1.json
+  s_0b2a890a4dd68f::t_bc0de6c785c453 1-17
+templates/contracts/formal-v1.json
+  s_1d32b085fb33ca::t_c8062a188e4b99 1-128
+templates/evidence/baseline-real-v1.json
+  s_0b2a890a4dd68f::t_075fa181961772 1-16
+templates/evidence/baseline-v1.json
+  s_0b2a890a4dd68f::t_dd0f425736a443 1-16
+templates/scenarios/sharegpt-three-rounds-v1.json
+  s_1d32b085fb33ca::t_f91f7b4d438e44 1-24
+tests/inference_rsi/conftest.py
+  s_1d32b085fb33ca::t_777663162ea81c 1-424
+tests/inference_rsi/fixtures/baseline_evidence.json
+  s_0b2a890a4dd68f::t_7503913cc17806 1-27
+tests/inference_rsi/test_acceptance_equivalence.py
+  s_0b2a890a4dd68f::t_dddbe70503f09f 1-173
+tests/inference_rsi/test_acceptance_migration.py
+  s_0b2a890a4dd68f::t_302b13a6260d3a 1-52
+tests/inference_rsi/test_ais_backend.py
+  s_1d32b085fb33ca::t_00b0ccec3fde41 1-644
+tests/inference_rsi/test_artifact_validation.py
+  s_0b2a890a4dd68f::t_150752a1e6c976 1-83
+tests/inference_rsi/test_authorization.py
+  s_1d32b085fb33ca::t_cd87da8fcf2d98 1-30
+tests/inference_rsi/test_baseline_execution.py
+  s_0b2a890a4dd68f::t_4d4c2529741f06 1-33
+tests/inference_rsi/test_budget.py
+  s_0b2a890a4dd68f::t_b877dc20ff18b6 1-44
+tests/inference_rsi/test_calibration_validity.py
+  s_0b2a890a4dd68f::t_1de0e02deee519 1-63
+tests/inference_rsi/test_candidate_import.py
+  s_0b2a890a4dd68f::t_9a9f8b4d041dee 1-175
+tests/inference_rsi/test_cli.py
+  s_1d32b085fb33ca::t_99050c00f69f90 1-60
+tests/inference_rsi/test_combinations.py
+  s_0b2a890a4dd68f::t_9b6357f468d689 1-32
+tests/inference_rsi/test_contracts.py
+  s_1d32b085fb33ca::t_e3c5e5fed9855c 1-92
+tests/inference_rsi/test_control_access.py
+  s_0b2a890a4dd68f::t_304bf4a5d40eab 1-74
+tests/inference_rsi/test_controller.py
+  s_1d32b085fb33ca::t_5b9772ecd5ec06 1-42
+tests/inference_rsi/test_crash_matrix.py
+  s_0b2a890a4dd68f::t_6752f6fe69892f 1-133
+tests/inference_rsi/test_dspark_validation.py
+  s_0b2a890a4dd68f::t_df09222e61c010 1-37
+tests/inference_rsi/test_epoch_transition.py
+  s_1d32b085fb33ca::t_25ce4560455b3a 1-36
+tests/inference_rsi/test_eve_backend.py
+  s_1d32b085fb33ca::t_8eeeee383d4563 1-44
+tests/inference_rsi/test_evidence.py
+  s_0b2a890a4dd68f::t_781ec3582fbaf9 1-99
+tests/inference_rsi/test_executor_deadline.py
+  s_0b2a890a4dd68f::t_c0f251f4308fe8 1-14
+tests/inference_rsi/test_exploration_audit.py
+  s_1d32b085fb33ca::t_174d6a9531a62b 1-29
+tests/inference_rsi/test_git_publication.py
+  s_1d32b085fb33ca::t_ca6eb3c53fa883 1-149
+tests/inference_rsi/test_git_runtime.py
+  s_0b2a890a4dd68f::t_927cd21580bb1f 1-141
+tests/inference_rsi/test_git_source.py
+  s_1d32b085fb33ca::t_71a577b5e2e71e 1-126
+tests/inference_rsi/test_installation.py
+  s_0b2a890a4dd68f::t_9e30eb82320150 1-130
+tests/inference_rsi/test_knowledge_import.py
+  s_1d32b085fb33ca::t_a4866c4a6e253d 1-44
+tests/inference_rsi/test_ledger_recovery.py
+  s_1d32b085fb33ca::t_5778b082bfd9a6 1-27
+tests/inference_rsi/test_local_codex.py
+  s_0b2a890a4dd68f::t_ceaba14264a148 1-355
+tests/inference_rsi/test_operations.py
+  s_0b2a890a4dd68f::t_67d3a53d12e87b 1-85
+tests/inference_rsi/test_portable_setup.py
+  s_1d32b085fb33ca::t_ce3f106bc0384d 1-38
+tests/inference_rsi/test_preparation.py
+  s_1d32b085fb33ca::t_d9356f91dd9c5c 1-194
+tests/inference_rsi/test_provider_configuration.py
+  s_0b2a890a4dd68f::t_f1b95bb2973351 1-203
+tests/inference_rsi/test_provider_credentials.py
+  s_0b2a890a4dd68f::t_ba9e9767df14c1 1-276
+tests/inference_rsi/test_provider_reconciliation.py
+  s_0b2a890a4dd68f::t_6aa0984a8c60d0 1-110
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_51d939000e8233 1-603
+tests/inference_rsi/test_real_pipeline_contract.py
+  s_1d32b085fb33ca::t_144d282da2d969 1-157
+tests/inference_rsi/test_report_release.py
+  s_1d32b085fb33ca::t_08c2ee8b4026bf 1-142
+tests/inference_rsi/test_resource_races.py
+  s_0b2a890a4dd68f::t_c44ea466e66aff 1-63
+tests/inference_rsi/test_sandbox_integration.py
+  s_0b2a890a4dd68f::t_0026532ce7aa8e 1-81
+tests/inference_rsi/test_scenario.py
+  s_0b2a890a4dd68f::t_220ea8bbf229c2 1-85
+tests/inference_rsi/test_schemas.py
+  s_0b2a890a4dd68f::t_e226c536d3af1e 1-133
+tests/inference_rsi/test_setup.py
+  s_1d32b085fb33ca::t_b9f3b887ccddfb 1-512
+tests/inference_rsi/test_sglang_measurement.py
+  s_0b2a890a4dd68f::t_4c95b253c4c6f9 1-104
+tests/inference_rsi/test_sglang_preflight.py
+  s_0b2a890a4dd68f::t_fc4413e95ef01d 1-207
+tests/inference_rsi/test_sglang_provider.py
+  s_1d32b085fb33ca::t_6674f48c722574 1-156
+tests/inference_rsi/test_sglang_workloads.py
+  s_1d32b085fb33ca::t_cab2c825118c0a 1-131
+tests/inference_rsi/test_three_rounds.py
+  s_1d32b085fb33ca::t_74c5700c4e35ac 1-64
+tests/inference_rsi/test_unlimited_agent.py
+  s_1d32b085fb33ca::t_d7c427a8148e4e 1-332
+tests/inference_rsi/test_verification_diagnosis.py
+  s_1d32b085fb33ca::t_ea4f00cc651f34 1-27
+tools/setup_env.py
+  s_0b2a890a4dd68f::t_20287ab41776b4 1-517
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7850ae734817b572fc4bb0bdcf6dc7641e7d344",
+  "prompts": {},
+  "sessions": {
+    "s_0b2a890a4dd68f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0cc63-f2b3-7921-bd25-843de3e17bbc",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    },
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
