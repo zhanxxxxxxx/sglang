@@ -1,0 +1,24 @@
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_f07cf0013fa4e3 3-4
+docs/framework-e2e-acceptance.md
+  s_1d32b085fb33ca::t_bd1a584ab036a2 1-48,51-67,82-86,90-91,93-96,101-102,105-295
+  s_1d32b085fb33ca::t_f07cf0013fa4e3 49-50,68-81,87-89,92,97-100,103-104
+README.md
+  s_1d32b085fb33ca::t_f07cf0013fa4e3 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "64da724b716201ab1e522c287b5a0b02b7475ba5",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
