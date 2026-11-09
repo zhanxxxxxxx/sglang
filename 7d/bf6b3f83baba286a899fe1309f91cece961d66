@@ -1,0 +1,19 @@
+python/pyproject.toml
+  s_07c3c808748ee0::t_6671541c8661a0 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7dbf6b3f83baba286a899fe1309f91cece961d66",
+  "prompts": {},
+  "sessions": {
+    "s_07c3c808748ee0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18bd1-c5a6-7770-85d1-7ffc6ae6d68e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaohailin.zhl <zhaohailin.zhl@antgroup.com>"
+    }
+  }
+}
