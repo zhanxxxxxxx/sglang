@@ -1,0 +1,23 @@
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_15d48546dd2fb9 1056
+python/sglang/srt/layers/attention/qsa/sparse_decode.py
+  s_44844fb1f654af::t_ae6ace6acea18a 13,30,33-34,50-52,247-248,274-280,436-458,544-553,618-619,635-636
+test/registered/kernels/test_qwen_decode_capacity.py
+  s_44844fb1f654af::t_bb65e59f53f500 6,62-73,80-88,97-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "78da52a481fc255ea7e541d6160d4871765812b3",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
