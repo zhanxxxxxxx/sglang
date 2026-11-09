@@ -1,0 +1,27 @@
+test/manual/run_qwen38_hang_regression.py
+  s_44844fb1f654af::t_28bf51cc1a4e4e 48-58
+  s_44844fb1f654af::t_9ca40ed5ebb858 1-3,5-46,68-74
+  s_44844fb1f654af::t_bf0e1e0c45f168 4,47,59-67
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_44844fb1f654af::t_28bf51cc1a4e4e 9
+test/registered/unit/managers/test_mm_shm_error_consensus.py
+  s_44844fb1f654af::t_28bf51cc1a4e4e 18,23-24,29,33,125,157-159
+test/registered/unit/constrained/test_grammar_manager.py
+  s_44844fb1f654af::t_48711b1a0ace91 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17dead0794f1d0e367661953244850bf58a40b2d",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

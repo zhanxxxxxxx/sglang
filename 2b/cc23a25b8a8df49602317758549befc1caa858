@@ -1,0 +1,96 @@
+python/sglang/srt/mem_cache/kv/advance.py
+  s_e264e4a97219bf::t_8f8b700a7c24ae 1-2,4-6,10-17,46-172
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_e264e4a97219bf::t_c08c7c37a42f31 16,40,45,47,67
+test/registered/unit/mem_cache/test_unified_hicache_regressions.py
+  s_e264e4a97219bf::t_df43d6f2d9643b 10-14,115,191-193,216,282-286
+test/registered/unit/disaggregation/test_prefill_send_protection.py
+  s_e264e4a97219bf::t_3ef4c14cd2d408 140,168,172,194,225
+python/sglang/srt/mem_cache/kv/storage.py
+  s_e264e4a97219bf::t_d4b2159134d602 17-23,97-101,199,216-217,224-226,234,248-253,264-265,269-270,290,304-305,307-308,320,344-348,350,352,398,402,436-459,608,610-614,647-697,809-816,825-866,877-922
+  s_e264e4a97219bf::t_499454111c52b1 923
+python/sglang/srt/mem_cache/common.py
+  s_e264e4a97219bf::t_8f8b700a7c24ae 5,95-96,99-100,122-123,144,221,295,362-364,366-368,374-376,447
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_e264e4a97219bf::t_d4b2159134d602 20-26,35,72-76,80-90,156-158,165-200,286-287,314-315,323,326-327,353-354,360,372-373,387,390-391,399-400,418,427,439,442-460,479-488,711-722,724-746
+python/sglang/srt/mem_cache/unified_cache/components/swa.py
+  s_e264e4a97219bf::t_d4b2159134d602 23,47,73-84,98-99,101,103,306,375-377,379,846-849,853,1071,1109,1130,1240-1244,1248-1249,1367,1398-1399
+test/registered/unit/disaggregation/test_prefill_result_polling.py
+  s_e264e4a97219bf::t_ea506c64befc6d 16
+  s_e264e4a97219bf::t_c08c7c37a42f31 34,139,199,465,640,1402
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_e264e4a97219bf::t_ea506c64befc6d 17
+  s_e264e4a97219bf::t_df43d6f2d9643b 977
+test/registered/unit/observability/test_request_logger_redaction.py
+  s_e264e4a97219bf::t_974ccda384fbc0 90,102,111,116,121
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_e264e4a97219bf::t_d4b2159134d602 12,80-85,105,277,281,581,585,648-650,655,661,741-744,768-769,888,907,920,924-933,945-948,1039-1042,1475-1476,1480,1488-1491,1497,1621,1635-1655,1683,2130-2133,2231-2237,2242-2247,2285-2286,2288-2299,3101,3121-3146,4879-4880,5035-5041,5043-5046,5058-5065,5068,5073,5075-5078,5083,5095,5097-5109,5123-5161,5165-5166,5218-5221,5223,5228-5236,5267-5270
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_e264e4a97219bf::t_ea506c64befc6d 7
+  s_e264e4a97219bf::t_c08c7c37a42f31 27,33,119,121,127-130,149,337-339
+python/sglang/srt/observability/request_logger.py
+  s_e264e4a97219bf::t_8a5ca9ac818b13 298-300
+  s_e264e4a97219bf::t_d4b2159134d602 21,42-119,188,195-196,201,204,240,246-247,252,255,276,283-284,296
+test/registered/unit/mem_cache/unified_radix_cache/test_unified_radix_cache_core.py
+  s_e264e4a97219bf::t_ba72ddebaa78be 8
+  s_e264e4a97219bf::t_3f803711a14a13 32,293-294,418,426-428
+  s_e264e4a97219bf::t_d4b2159134d602 107-113,639-641,663-669,683-685,1017,1042,1054,1220,1334-1340,1516,1649-1655,1686,1689,1755,1803-1805,1812-1817,1870,1940-1948,2016-2017,2571-2575,2659,2662,2712,2723,2752
+test/registered/unit/mem_cache/test_hybrid_cache_backup.py
+  s_e264e4a97219bf::t_13b9ab5b5308da 11,76-78,114,128-130,161-163
+  s_e264e4a97219bf::t_df43d6f2d9643b 54
+test/registered/unit/managers/test_tokenizer_manager_audio_rejection.py
+  s_e264e4a97219bf::t_8deee223af661b 101
+  s_e264e4a97219bf::t_c08c7c37a42f31 64
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_e264e4a97219bf::t_ba72ddebaa78be 29
+  s_e264e4a97219bf::t_d4b2159134d602 58,70-72,128-132,149,151,154,285,501,503-504,541-544,934-957,1714-1716,1899-1900,1903-1906,1913-1914,1917,1944,1956,1961,2780-2781,3570
+test/registered/unit/mem_cache/test_unified_hicache_hybrid_retry.py
+  s_e264e4a97219bf::t_ea506c64befc6d 15
+  s_e264e4a97219bf::t_df43d6f2d9643b 104,455-458,671-674,699-700
+test/registered/unit/model_executor/test_pool_configurator.py
+  s_e264e4a97219bf::t_a666de506d954b 1157,1168-1171,2083-2086
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  s_e264e4a97219bf::t_d4b2159134d602 27,66,85,241,265,365,387-388,391-442,444-455,457,460-489,491-493,495-503,507-518,677
+  s_e264e4a97219bf::t_1fa0e78627b04d 366-382,386,389-390,443,456,458-459,494,504-506
+  s_e264e4a97219bf::t_ba72ddebaa78be 8,490,716
+  s_e264e4a97219bf::t_8a5ca9ac818b13 383-385
+test/registered/unit/managers/test_priority_scheduling_disaggregation.py
+  s_e264e4a97219bf::t_c08c7c37a42f31 91,150,164,175,292,477-479,529,560-562
+python/sglang/srt/mem_cache/unified_cache/tree_core_registry.py
+  s_e264e4a97219bf::t_d4b2159134d602 22-26,48-65,76-78
+test/registered/unit/managers/test_disagg_idle_step_counters.py
+  s_e264e4a97219bf::t_c08c7c37a42f31 23,398,418-420,424-425,433-434,566,580
+test/registered/unit/managers/test_req_kv_lengths.py
+  s_e264e4a97219bf::t_3ef4c14cd2d408 23-24,31,50,56,67,97,112,122
+test/registered/unit/managers/test_mamba_checkpoint_depth.py
+  s_e264e4a97219bf::t_c08c7c37a42f31 91-95,154
+test/registered/unit/mem_cache/test_lmcache_component_cursors.py
+  s_e264e4a97219bf::t_3ef4c14cd2d408 15-19,21-24,28-37,63-68,89,96,100,110,135,137,139-140
+test/registered/unit/managers/test_mix_with_running_mamba_track.py
+  s_e264e4a97219bf::t_c08c7c37a42f31 38-40,291
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_e264e4a97219bf::t_974ccda384fbc0 739,743,746,753,1392,1395
+  s_e264e4a97219bf::t_d4b2159134d602 178-180,411-427,431,436,448,457,497,509,540-553,689-691,702,751-752,754-756,770-774,789,792,879,895-896,908-909,1053,1099,1178-1180,1187,1198,1216,1244,1268,1294,1296,1301-1305,1400,1417,1425-1427
+test/registered/unit/mem_cache/test_swa_evict_keep_window.py
+  s_e264e4a97219bf::t_8a5ca9ac818b13 138-140,187-189
+  s_e264e4a97219bf::t_4de27f78be00f5 154
+  s_e264e4a97219bf::t_3ef4c14cd2d408 130-133,161-162,180,190
+test/registered/unit/managers/test_output_streamer_customized_info.py
+  s_e264e4a97219bf::t_d4b2159134d602 56,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2bcc23a25b8a8df49602317758549befc1caa858",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
