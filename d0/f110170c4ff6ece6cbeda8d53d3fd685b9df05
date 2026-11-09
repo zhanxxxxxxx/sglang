@@ -1,0 +1,91 @@
+python/sglang/srt/disaggregation/prefill.py
+  s_9adafd1e6cf02b::t_2e5b2be4f51113 519,577,616,1370
+python/sglang/srt/managers/schedule_policy.py
+  s_9adafd1e6cf02b::t_b59d3c6f14a90d 172
+  s_9adafd1e6cf02b::t_33283b78027863 173
+python/sglang/srt/mem_cache/kv_cache_builder.py
+  s_9adafd1e6cf02b::t_831b24b31746ec 46,296-299
+python/sglang/srt/managers/schedule_batch.py
+  s_9adafd1e6cf02b::t_9e184932a140ab 1468-1471
+  s_9adafd1e6cf02b::t_33283b78027863 1087-1088
+python/sglang/srt/mem_cache/unified_cache/components/full_component.py
+  s_9adafd1e6cf02b::t_709c3e582f67c2 192-194,212-215,237-238
+  s_9adafd1e6cf02b::t_b219ee9a205ecf 191,211,236
+python/sglang/srt/server_args.py
+  s_9adafd1e6cf02b::t_35df6be80d248d 6958-6959
+  s_9adafd1e6cf02b::t_831b24b31746ec 429,2743-2755,6942-6945,6950,6957
+  s_9adafd1e6cf02b::t_c345920062a3c7 6946-6949,6951-6956
+test/registered/unit/server_args/test_server_args.py
+  s_9adafd1e6cf02b::t_c345920062a3c7 631-646,648-658
+  s_9adafd1e6cf02b::t_831b24b31746ec 603-630,647,659,672
+  s_9adafd1e6cf02b::t_35df6be80d248d 660-671
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_9adafd1e6cf02b::t_6d17c0d72a7add 106-109,1108-1109,1166-1167,1860-1861
+  s_9adafd1e6cf02b::t_f2cf3da46686cb 180,183,231-232,243-244,412-416,422,477-484
+  s_9adafd1e6cf02b::t_de395d1583a29b 417-421
+test/registered/unit/managers/test_scheduler_mamba_hlru.py
+  s_9adafd1e6cf02b::t_dc4b587c5f7186 125-127,155-157,169-171,176-178,188-190,210-212
+  s_9adafd1e6cf02b::t_35b3354e5916d6 182,185-187,192
+  s_9adafd1e6cf02b::t_a83888066ebf5a 43,130-140
+  s_9adafd1e6cf02b::t_406539c0927522 1-5,8-42,44-50,55-56,58-60,115-124,128-129,141-154,158-168,172-175,179-181,183-184,191,193-209,213-217
+  s_9adafd1e6cf02b::t_d9cc0dcd37febd 6-7,51-54,57,61-105,109-114
+  s_9adafd1e6cf02b::t_54787fca3a1871 106-108
+test/registered/unit/mem_cache/test_registry.py
+  s_9adafd1e6cf02b::t_6abed6f544fa52 114-132
+python/sglang/srt/mem_cache/unified_cache/mamba_hlru.py
+  s_9adafd1e6cf02b::t_6d353bdbddd5e6 127-130,134-137
+  s_9adafd1e6cf02b::t_a6d9335f427b48 1-11,20-21,29-30,41-52,55-60,62,64,73-91,97-126,138-187,192-210,213-244
+  s_9adafd1e6cf02b::t_f817ca0db39db6 131-133
+  s_9adafd1e6cf02b::t_95c6a270eb60ad 53-54
+  s_9adafd1e6cf02b::t_b02bad6b0b7e98 92-96,211-212
+  s_9adafd1e6cf02b::t_3b2b65b6ada097 12-19,22-28,31-40,61,63,65-72
+  s_9adafd1e6cf02b::t_6b750696ebafff 188-191
+python/sglang/srt/mem_cache/cache_init_params.py
+  s_9adafd1e6cf02b::t_831b24b31746ec 38-39
+test/registered/unit/mem_cache/test_mamba_hlru_integration.py
+  s_9adafd1e6cf02b::t_980ea8c9e776cb 126-127,172-173,196-197,210-211
+  s_9adafd1e6cf02b::t_9acf5730017b28 65-68,111-116,129-131,181-184,199-201
+  s_9adafd1e6cf02b::t_94620c5050fe21 1-22,24-26,28-30,32-36,39-41,43-44,56-58,61,73,77,79-80,101,121-122,128,132,168-169,174,178,190-191,195,198,202,206-207,228-231
+  s_9adafd1e6cf02b::t_f892a8bba589ef 23,37,42,45-55,59-60,62-64,69-72,74-76,78,102-110,117-120,123-125,133-139,170-171,175-177,179-180,185-189,192-194,203-205,208-209,212-227
+  s_9adafd1e6cf02b::t_6d17c0d72a7add 81-100
+  s_9adafd1e6cf02b::t_436b0db7e1e630 27,31,38,140-167
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_9adafd1e6cf02b::t_f40c59dd712bad 205-206
+  s_9adafd1e6cf02b::t_4301944581ff90 5,165-166,170-173,194-204,546-551
+  s_9adafd1e6cf02b::t_03c8bb0d080584 167-169,174-176
+  s_9adafd1e6cf02b::t_d8cb895ee2c6e6 552
+test/registered/unit/mem_cache/test_mamba_hlru.py
+  s_9adafd1e6cf02b::t_6b750696ebafff 69-71
+  s_9adafd1e6cf02b::t_106d39f8a55523 245-271
+  s_9adafd1e6cf02b::t_db78ea43f01469 1-68,72-244,272-274
+python/sglang/srt/managers/scheduler.py
+  s_9adafd1e6cf02b::t_33283b78027863 212,2843,2873-2875,2882,2884,2891,2893-2896,2948,2980,4799
+  s_9adafd1e6cf02b::t_9e184932a140ab 2883,2887-2889
+  s_9adafd1e6cf02b::t_a83888066ebf5a 2876-2881
+  s_9adafd1e6cf02b::t_2e5b2be4f51113 2885-2886,2890
+  s_9adafd1e6cf02b::t_b59d3c6f14a90d 2892
+  s_9adafd1e6cf02b::t_54787fca3a1871 3581-3583
+python/sglang/srt/mem_cache/unified_cache/components/mamba_component.py
+  s_9adafd1e6cf02b::t_d0857f7d0ffb27 77-78,126-136,139,380-381,409-413,464-465
+  s_9adafd1e6cf02b::t_b219ee9a205ecf 125,379,408,463
+  s_9adafd1e6cf02b::t_3535d5983a505d 137-138
+  s_9adafd1e6cf02b::t_222242b4747540 414,431-447,449,457
+python/sglang/srt/mem_cache/registry.py
+  s_9adafd1e6cf02b::t_6abed6f544fa52 216-223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d0f110170c4ff6ece6cbeda8d53d3fd685b9df05",
+  "prompts": {},
+  "sessions": {
+    "s_9adafd1e6cf02b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be56-e27b-7e62-8929-07aeb04cfb3b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}
