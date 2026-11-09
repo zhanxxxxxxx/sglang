@@ -1,0 +1,21 @@
+python/sglang/srt/models/qwen4_exp.py
+  s_44844fb1f654af::t_632bf67d0848e2 30,38-39,75,1530-1540,1559-1564,1571-1573
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_632bf67d0848e2 1047
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab69da1ef30bea8a66f4e11709183c15b1e5d878",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
