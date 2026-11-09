@@ -1,0 +1,317 @@
+skills/rsi/references/setup.md
+  s_1d32b085fb33ca::t_9b3eea6923b5be 117-119
+  s_1d32b085fb33ca::t_64b87a19d9527e 115
+  s_1d32b085fb33ca::t_366843d3ef801b 5-10
+  s_1d32b085fb33ca::t_c55a92dde397b2 116
+execution/git_source.py
+  s_1d32b085fb33ca::t_97ce07277f0159 15,121-183
+  s_1d32b085fb33ca::t_8e8715ab306bbb 184
+tests/inference_rsi/test_terminal_authorization.py
+  s_1d32b085fb33ca::t_6b3fad74780bc1 1-247
+tests/inference_rsi/test_formal_warmup.py
+  s_1d32b085fb33ca::t_3a046e97b8852d 1-156
+acceptance/recovery.py
+  s_1d32b085fb33ca::t_efbbceac1d8564 1-67,72-80,85-129,132-133,135,137-140,142-151,153-164,168-169,171-181,183-190,196-203
+  s_1d32b085fb33ca::t_fceae8f45b1be0 182
+  s_1d32b085fb33ca::t_e1adf88f1c1c75 68-71,81-84,130-131,134,136
+  s_1d32b085fb33ca::t_826f74931e8f78 141,152,165-167,170
+  s_1d32b085fb33ca::t_85dde91848a1ba 191-195
+execution/sglang/eve.py
+  s_1d32b085fb33ca::t_5e064dca0579ad 22,368-370,372-377,379-381
+  s_1d32b085fb33ca::t_4c8788ad423f94 17,485-486
+  s_1d32b085fb33ca::t_afd60c85ac0031 74,80,101,386-388
+  s_1d32b085fb33ca::t_bf3250bc1ad64b 230-234,326-328,427-429
+  s_1d32b085fb33ca::t_22f60fc2e978e4 4,405-409,414-418
+  s_1d32b085fb33ca::t_5e2c5ce9ffe8c0 358-361
+  s_1d32b085fb33ca::t_db02667c125f6e 225-227,241-246,248-251,256,263-283,285-298,303-310,314,419,442-451
+  s_1d32b085fb33ca::t_376f0aba3826a0 467-469,476-484,487-507,509-510,515,530-543,545-553
+  s_1d32b085fb33ca::t_5447fdca00cdd3 229,350-355,420-422,424
+  s_1d32b085fb33ca::t_9cb5b65be90a5b 508,511-514,516-529,544
+  s_1d32b085fb33ca::t_1064a2471fa162 228,332-349,356-357,362-365,371,378,423,426,432-434
+  s_1d32b085fb33ca::t_c9525c0d8632ce 7,9,51,53-54,65-73,81,83-84,87-100,102-117,389-393
+  s_1d32b085fb33ca::t_1222a5e0a9c0ea 400-402
+  s_1d32b085fb33ca::t_ad6848f1927210 23-43,62,125-193
+  s_1d32b085fb33ca::t_9f02975d8b32c8 439-441
+  s_1d32b085fb33ca::t_32bba8f249bbd1 247,252-255
+  s_1d32b085fb33ca::t_b66f6cc1e08cfd 194
+tests/inference_rsi/test_flow_summary.py
+  s_1d32b085fb33ca::t_619ad618d7125d 1-44,60-239
+  s_1d32b085fb33ca::t_fa1243a17b6bad 45-59
+tests/inference_rsi/test_review_budget.py
+  s_1d32b085fb33ca::t_3e65ceb5ae07c1 32-35,38,50,54-55,68-97
+  s_1d32b085fb33ca::t_ae087b70b342fc 1-31,36-37,39-49,51-53,56-67,98-121
+execution/pipeline.py
+  s_1d32b085fb33ca::t_c7086a66f3f2f6 246-248
+  s_1d32b085fb33ca::t_5447fdca00cdd3 241-242
+  s_1d32b085fb33ca::t_eecbd66b7b5e5c 238-240,243-245,283-289,295-298
+  s_1d32b085fb33ca::t_97ce07277f0159 98-109
+tests/inference_rsi/test_gpu_settlement.py
+  s_1d32b085fb33ca::t_d50e9f1696801b 1-89
+tests/inference_rsi/test_half_percent_contract.py
+  s_1d32b085fb33ca::t_0a9a534bca3bab 1-142
+tests/inference_rsi/test_eve_dispatch.py
+  s_1d32b085fb33ca::t_1222a5e0a9c0ea 375,377-380,382-392
+  s_1d32b085fb33ca::t_d680d5b7fab27c 376,381
+  s_1d32b085fb33ca::t_f7b389d40fb143 156-180
+  s_1d32b085fb33ca::t_09d4c63a3e1f9a 359-374,393
+  s_1d32b085fb33ca::t_bf3250bc1ad64b 1-120,122-129,131,138-155,181-329
+  s_1d32b085fb33ca::t_4d4b655008d9ce 346-358
+  s_1d32b085fb33ca::t_895f9cd9aef58e 330-345
+  s_1d32b085fb33ca::t_0b19067d09fe2c 121,130
+  s_1d32b085fb33ca::t_a26e69c577d8f2 132-137
+execution/formal_command.py
+  s_1d32b085fb33ca::t_d513dcb1d8f402 4-5,17,28-30,42-104
+  s_1d32b085fb33ca::t_e9c3a6fba0fc7d 105-106
+orchestrator/feedback.py
+  s_1d32b085fb33ca::t_6b3fad74780bc1 24-60,69-71
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_c7086a66f3f2f6 48-51
+  s_1d32b085fb33ca::t_8d220871eab45d 46-47
+  s_1d32b085fb33ca::t_0141294b89462a 65-67,70
+  s_1d32b085fb33ca::t_eecbd66b7b5e5c 13,31-39
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_cd72047a733317 368
+  s_1d32b085fb33ca::t_98f2caca6c4abb 74,278
+  s_1d32b085fb33ca::t_02e8005b0d5879 71,75-77,276-277,279-287,290-291
+  s_1d32b085fb33ca::t_8d220871eab45d 99-100,215-220,352,355-356,374,411,414,423-426
+  s_1d32b085fb33ca::t_64b87a19d9527e 288-289
+  s_1d32b085fb33ca::t_6b7c68f049b796 357-358,416
+tests/inference_rsi/test_preparation.py
+  s_1d32b085fb33ca::t_1110b0101ea629 156-157,167-174
+evidence/report.py
+  s_1d32b085fb33ca::t_fa1243a17b6bad 216-219
+  s_1d32b085fb33ca::t_8d220871eab45d 305,308-310,313,344-347,353-355
+  s_1d32b085fb33ca::t_7fdd2901b996b7 328-336,340-343
+  s_1d32b085fb33ca::t_619ad618d7125d 10,27-28,97-214,220-304,318-320,324,356
+  s_1d32b085fb33ca::t_de8debbb444e8e 215,348-352
+  s_1d32b085fb33ca::t_02e8005b0d5879 86-89,325-327,337-339
+execution/command.py
+  s_1d32b085fb33ca::t_d513dcb1d8f402 96,104-117,127-128,146,152
+  s_1d32b085fb33ca::t_5df6a5e82b8100 118-119
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_e5ef14fdca89d0 526-533
+  s_1d32b085fb33ca::t_366843d3ef801b 489-496
+  s_1d32b085fb33ca::t_a7e7c2fed62dc2 511-525
+  s_1d32b085fb33ca::t_fbab496ac2c3b7 572-578
+  s_1d32b085fb33ca::t_9ff3c3f7530dc8 640-644,647-655
+  s_1d32b085fb33ca::t_805916d9fab55b 559-571
+  s_1d32b085fb33ca::t_07c62f148bc0c4 612-617
+  s_1d32b085fb33ca::t_5f106b8e4249e6 634-639
+  s_1d32b085fb33ca::t_d50d1ffe3f17f8 497-503
+  s_1d32b085fb33ca::t_b3438c1ff88736 504-510
+  s_1d32b085fb33ca::t_d71e055df7d5c8 534-549
+  s_1d32b085fb33ca::t_829beb1b11c4ea 591-597
+  s_1d32b085fb33ca::t_68e8dd33dfc1fc 605-611
+  s_1d32b085fb33ca::t_e1ed4495b8bd72 646
+  s_1d32b085fb33ca::t_83c8cf71480fe9 656-676
+  s_1d32b085fb33ca::t_b194d8465cfe66 550-558
+  s_1d32b085fb33ca::t_c2ce40b941ea67 598-604
+  s_1d32b085fb33ca::t_716033f98d3f6f 579-590
+  s_1d32b085fb33ca::t_28d84614238774 624-633
+  s_1d32b085fb33ca::t_8c4293af4a25fb 618-623
+  s_1d32b085fb33ca::t_dde0e0abee5cb5 645
+tests/inference_rsi/test_formal_transport.py
+  s_1d32b085fb33ca::t_915a9a30501967 1-153
+acceptance/adapter.py
+  s_1d32b085fb33ca::t_d513dcb1d8f402 18,28,30,37
+orchestrator/resources.py
+  s_1d32b085fb33ca::t_d50e9f1696801b 9,16,130-187,192,304,431
+tests/inference_rsi/test_control_access.py
+  s_1d32b085fb33ca::t_4f29e5f28456c5 75-110
+execution/sglang/eve_dispatch.py
+  s_1d32b085fb33ca::t_bf3250bc1ad64b 1-226
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_de8debbb444e8e 185-199
+  s_1d32b085fb33ca::t_8c0967598f42e9 18-36,261-264,266-268
+  s_1d32b085fb33ca::t_eecbd66b7b5e5c 169-179,216-220,248
+  s_1d32b085fb33ca::t_d50e9f1696801b 153-155
+  s_1d32b085fb33ca::t_0732f39b994488 200-214,222-228
+agents/implementer.py
+  s_1d32b085fb33ca::t_44c74e1a065864 73,256-259
+orchestrator/formal_review.py
+  s_1d32b085fb33ca::t_57fab6a7a5b178 3,9,121-127,171-173,177,216-217
+  s_1d32b085fb33ca::t_c7086a66f3f2f6 72-79,81-82
+  s_1d32b085fb33ca::t_02e8005b0d5879 80,83,174,181-188
+  s_1d32b085fb33ca::t_392842b66c74ba 1-2,4-8,10-71,84-120,128-170,175-176,178-180,189-215,218-230
+tests/inference_rsi/test_final_usage.py
+  s_1d32b085fb33ca::t_cbc5b51d70e389 18
+  s_1d32b085fb33ca::t_6b7c68f049b796 1-17,19-82
+tests/inference_rsi/test_eve_submission_recovery.py
+  s_1d32b085fb33ca::t_e79cdfb24ba7a1 1-56,59-138,168-215
+  s_1d32b085fb33ca::t_4f96c3317dbff6 57-58,139-167
+tests/inference_rsi/test_eve_backend.py
+  s_1d32b085fb33ca::t_f7b389d40fb143 47-66
+  s_1d32b085fb33ca::t_bd608d5b153f35 81-109
+  s_1d32b085fb33ca::t_63ab01140aea6c 4,11
+  s_1d32b085fb33ca::t_9ab0f6cd9f874a 45-46,67-80,110-143
+  s_1d32b085fb33ca::t_96a0cdc29cba48 10,14-15,28
+  s_1d32b085fb33ca::t_895f9cd9aef58e 144-184
+control/registry.py
+  s_1d32b085fb33ca::t_6b3fad74780bc1 12,364-370,395-398
+  s_1d32b085fb33ca::t_05f2d8fd2e70e5 209-213,216-224
+  s_1d32b085fb33ca::t_ae087b70b342fc 149-153,334-336
+execution/sglang/ais.py
+  s_1d32b085fb33ca::t_d50e9f1696801b 459,462-560,583-585
+docs/design.md
+  s_1d32b085fb33ca::t_64b87a19d9527e 247,494-496,902
+control/server.py
+  s_1d32b085fb33ca::t_4f29e5f28456c5 159-164
+  s_1d32b085fb33ca::t_6b3fad74780bc1 127-137
+tests/inference_rsi/test_node_status.py
+  s_1d32b085fb33ca::t_05f2d8fd2e70e5 1-122
+tests/inference_rsi/test_sglang_provider.py
+  s_1d32b085fb33ca::t_bf3250bc1ad64b 106-108
+  s_1d32b085fb33ca::t_4c8788ad423f94 146-151,168-181
+  s_1d32b085fb33ca::t_81fa03127d2abc 112-113
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_f3859dba96e550 654-656,658-671,676-677
+  s_1d32b085fb33ca::t_1e8ea7dcfc7acc 701-725,729
+  s_1d32b085fb33ca::t_1790e6989569fc 657,672-675
+  s_1d32b085fb33ca::t_04fe3958545695 741-743,775-777
+  s_1d32b085fb33ca::t_3ed410ab9d8086 760-761
+  s_1d32b085fb33ca::t_3bd7cc52c6738a 745-759,762
+  s_1d32b085fb33ca::t_07c570a53be791 649-651,696-698,726-728
+  s_1d32b085fb33ca::t_59752c32a474e6 636-638
+  s_1d32b085fb33ca::t_fbab496ac2c3b7 604-628
+  s_1d32b085fb33ca::t_436e5da4745e3d 763-774,778
+  s_1d32b085fb33ca::t_07c62f148bc0c4 730-740,744
+  s_1d32b085fb33ca::t_2a5b26faf739fd 779-810
+  s_1d32b085fb33ca::t_8c4293af4a25fb 681,685
+  s_1d32b085fb33ca::t_3ef181f92f9d7f 678-680,682-684,686-695,699-700
+  s_1d32b085fb33ca::t_bd43d7f45252a3 629-635,639-648,652-653
+execution/sglang/source.py
+  s_1d32b085fb33ca::t_d50e9f1696801b 163-166
+tests/inference_rsi/test_real_pipeline_contract.py
+  s_1d32b085fb33ca::t_3a046e97b8852d 87-89,169-171
+  s_1d32b085fb33ca::t_fd03cfa56083c2 18-28,86,94,146,152,168,179
+evidence/analysis.py
+  s_1d32b085fb33ca::t_64b87a19d9527e 106-107
+  s_1d32b085fb33ca::t_02e8005b0d5879 68,83,99-105,108,129-130
+tests/inference_rsi/test_baseline_quality.py
+  s_1d32b085fb33ca::t_262d17a64b836d 40-41,258
+  s_1d32b085fb33ca::t_f4a5514ae23ba4 1-39,42-53,58-59,64-92,94-113,118-154
+  s_1d32b085fb33ca::t_c34969209ee866 292-321
+  s_1d32b085fb33ca::t_c0286ea5126a13 236-257,259-291
+  s_1d32b085fb33ca::t_5e2c5ce9ffe8c0 54-57,60-63,93,114-117
+  s_1d32b085fb33ca::t_e036374cf2bbec 155-235
+scenario/spec.py
+  s_1d32b085fb33ca::t_e63970b700cfaf 144-148
+  s_1d32b085fb33ca::t_45169d60645ed7 67-71,76-78
+tests/inference_rsi/test_gpu_receipts.py
+  s_1d32b085fb33ca::t_d50e9f1696801b 1-166
+delivery/package.py
+  s_1d32b085fb33ca::t_5447fdca00cdd3 31-32,34-37
+  s_1d32b085fb33ca::t_de8debbb444e8e 38-47,49-52
+  s_1d32b085fb33ca::t_fceae8f45b1be0 48
+  s_1d32b085fb33ca::t_02e8005b0d5879 26-30,33
+  s_1d32b085fb33ca::t_bc3213c7063b93 53-60
+  s_1d32b085fb33ca::t_b7b8b941e76835 210-212
+  s_1d32b085fb33ca::t_200d36108af327 209
+tests/inference_rsi/test_tolerance_contract.py
+  s_1d32b085fb33ca::t_68a7458276641b 75
+  s_1d32b085fb33ca::t_eee512a776af05 1-68
+  s_1d32b085fb33ca::t_fbab496ac2c3b7 69-74,76-81
+tests/inference_rsi/test_provider_reconciliation.py
+  s_1d32b085fb33ca::t_0a6b0ffe0620d7 111-148
+execution/sglang/measure.py
+  s_1d32b085fb33ca::t_cc77bbbfbda6ea 12,15,19,105-131,135-138,140-141,144,148-149,157-158,160-165,171,177-184,215-216,219-224,227,229,283,286,298,484
+  s_1d32b085fb33ca::t_3a046e97b8852d 85-104,172-176,191,194-199,202-203,207,231,233-241,243-281,373,384
+templates/contracts/formal-v1.json
+  s_1d32b085fb33ca::t_45169d60645ed7 81,84-91,93-113,170-171
+  s_1d32b085fb33ca::t_026482e1b0650b 63-78,92,173
+  s_1d32b085fb33ca::t_2fb2697d342dce 79-80,82-83
+orchestrator/controller.py
+  s_1d32b085fb33ca::t_6b3fad74780bc1 89-98
+tests/inference_rsi/test_formal_review.py
+  s_1d32b085fb33ca::t_5378d662cbcbf7 1-75,77-187
+  s_1d32b085fb33ca::t_57fab6a7a5b178 76,188-208
+  s_1d32b085fb33ca::t_cd72047a733317 209-233
+  s_1d32b085fb33ca::t_e94c80813ff773 234-261
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_2916dc60504e91 56-61,63
+  s_1d32b085fb33ca::t_45169d60645ed7 44-45
+  s_1d32b085fb33ca::t_9b3eea6923b5be 36-41,62,66
+  s_1d32b085fb33ca::t_8cf2d56f285c68 46
+  s_1d32b085fb33ca::t_664fad4f3c5899 54-55
+  s_1d32b085fb33ca::t_e63970b700cfaf 42-43,47-53
+control/review_budget.py
+  s_1d32b085fb33ca::t_3e65ceb5ae07c1 19-20,49-56
+  s_1d32b085fb33ca::t_c66aa6237b9b4f 1-18,21-48,57-70
+evidence/baseline_quality.py
+  s_1d32b085fb33ca::t_45b82e304a4414 1-113,115-116,119-137,144-148,151,153-154,156-162,168-169,171-172,181-183,185-196,202-210,212-222,232-254
+  s_1d32b085fb33ca::t_5447fdca00cdd3 149-150,170,184
+  s_1d32b085fb33ca::t_5e2c5ce9ffe8c0 163-167,173-177
+  s_1d32b085fb33ca::t_26c95b2cb05c62 197-201,211
+  s_1d32b085fb33ca::t_7fdd2901b996b7 223-231
+  s_1d32b085fb33ca::t_262d17a64b836d 138-143
+  s_1d32b085fb33ca::t_b1c62b96d45408 114,117-118,152,155,178-180
+acceptance/contracts.py
+  s_1d32b085fb33ca::t_cc77bbbfbda6ea 28-29,60,62
+tests/inference_rsi/test_git_formal_review.py
+  s_1d32b085fb33ca::t_b9c27ed3c49b26 1-133
+execution/sglang/reconcile.py
+  s_1d32b085fb33ca::t_403102e225c96d 14,191-193
+  s_1d32b085fb33ca::t_e62a85651b2411 6,131,141,154,160-182
+acceptance/rules.py
+  s_1d32b085fb33ca::t_cc77bbbfbda6ea 59,78,121,125,128,153,195-196
+  s_1d32b085fb33ca::t_45169d60645ed7 123-124,150-152,192-194
+  s_1d32b085fb33ca::t_e8ab65d3670676 122,154
+tests/inference_rsi/test_formal_stage_recovery.py
+  s_1d32b085fb33ca::t_826f74931e8f78 4,181
+  s_1d32b085fb33ca::t_a1b2d04e83a282 166-180,182-203
+  s_1d32b085fb33ca::t_baf1abc4a36d1c 204-209,211-226,231-250
+  s_1d32b085fb33ca::t_ca9471b52de017 210,227-230
+  s_1d32b085fb33ca::t_bb91cdb299d019 1-3,5-105,107-157,161-164
+  s_1d32b085fb33ca::t_fd896f4272323f 106
+  s_1d32b085fb33ca::t_85dde91848a1ba 158-160,165
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_def3a960c7f5bd 1164-1165
+  s_1d32b085fb33ca::t_67f7c632709db0 1219-1220
+  s_1d32b085fb33ca::t_2916dc60504e91 1166-1173
+  s_1d32b085fb33ca::t_858b82c89e6198 1221-1230
+  s_1d32b085fb33ca::t_a558a008b0be78 1154-1155
+  s_1d32b085fb33ca::t_2a8d68473a7ee1 1199-1206
+  s_1d32b085fb33ca::t_1cb0fd0f817304 1144-1153
+  s_1d32b085fb33ca::t_e2c5b18278b1c1 1186-1196
+  s_1d32b085fb33ca::t_96e23a848dc400 1207-1208
+  s_1d32b085fb33ca::t_fc307a96ce06ac 1174-1177
+  s_1d32b085fb33ca::t_7baa1d40658ee4 1124-1133
+  s_1d32b085fb33ca::t_4b57d520484a70 1197-1198
+  s_1d32b085fb33ca::t_8511588c1c985e 1209-1218
+  s_1d32b085fb33ca::t_2396712c35f52c 1178-1185
+  s_1d32b085fb33ca::t_f8387980566c2d 1134-1135
+  s_1d32b085fb33ca::t_3a046e97b8852d 1104-1112
+  s_1d32b085fb33ca::t_45169d60645ed7 1120-1123
+  s_1d32b085fb33ca::t_fb6e01e7dcff7d 1136-1141
+  s_1d32b085fb33ca::t_d1c3d3c614b1ca 1142-1143
+  s_1d32b085fb33ca::t_68e8dd33dfc1fc 1156-1163
+  s_1d32b085fb33ca::t_1dbce09b71b019 1113-1115,1117-1119
+acceptance/workflow.py
+  s_1d32b085fb33ca::t_45169d60645ed7 5,207-210
+  s_1d32b085fb33ca::t_d513dcb1d8f402 47,50,61-62
+execution/sglang/platform_client.py
+  s_1d32b085fb33ca::t_be19cd993ca209 10,76-81,107-124,130,132-135
+  s_1d32b085fb33ca::t_8db1eb49efa1ae 41-58,101,144-148
+tests/inference_rsi/test_delivery_git_reuse.py
+  s_1d32b085fb33ca::t_06122787d8eacd 1-205
+tests/inference_rsi/test_sglang_measurement.py
+  s_1d32b085fb33ca::t_947a5fff01f4e2 58,136,190-347
+tests/inference_rsi/test_tenth_percent_contract.py
+  s_1d32b085fb33ca::t_22049e0f2a8948 1-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2a372a928cac337878cb65aa0a3e7bf3d1af5276",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
