@@ -1,0 +1,23 @@
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_f26b58067952a0 1050
+python/sglang/srt/layers/hyperconnection.py
+  s_44844fb1f654af::t_6b476162b8c83d 346-350
+test/registered/kernels/test_qwen_hopper.py
+  s_44844fb1f654af::t_39eb4d9eb6c2a3 488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "60064d75bc38039b408ba9cae7752661fb573c05",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
