@@ -1,0 +1,23 @@
+python/sglang/srt/layers/hc_hopper.py
+  s_44844fb1f654af::t_4e51eca54a9951 235-249,255,265,271
+python/sglang/srt/layers/hc_prefill_tp.py
+  s_44844fb1f654af::t_4e51eca54a9951 5-6,11,21-27,58-73,75-76
+test/registered/kernels/test_qwen_hopper.py
+  s_44844fb1f654af::t_4e51eca54a9951 21,507-512,524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0cda470d5c761d490af07e49f7b058c416f262de",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
