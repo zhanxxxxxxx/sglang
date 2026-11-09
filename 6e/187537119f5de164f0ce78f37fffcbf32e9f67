@@ -1,0 +1,29 @@
+python/sglang/srt/constrained/grammar_manager.py
+  s_fd754a97cbf7c1::t_dca042babbb981 116
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_fd754a97cbf7c1::t_07c1792b11d436 2805
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_fd754a97cbf7c1::t_be5d886f3d2189 485-487,495-497
+python/sglang/srt/managers/io_struct.py
+  s_fd754a97cbf7c1::t_748c2a2137502c 2477-2478,2487-2491
+python/sglang/srt/managers/scheduler.py
+  s_fd754a97cbf7c1::t_525c1a2b74efdd 2924,4043,4073,6314,6325,6378,6399,6410,6418,6426,6441,6455
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_fd754a97cbf7c1::t_5de4762e53d2b2 135-136,182-214,231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6e187537119f5de164f0ce78f37fffcbf32e9f67",
+  "prompts": {},
+  "sessions": {
+    "s_fd754a97cbf7c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_fd754a97cbf7c1",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
