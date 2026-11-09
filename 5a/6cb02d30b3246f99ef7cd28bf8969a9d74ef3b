@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/gemm/cutedsl_bf16_gemm.py
+  h_1d635ecd767a49 1370,1372-1373
+test/registered/kernels/ops/gemm/test_cutedsl_bf16_gemm.py
+  h_1d635ecd767a49 57,83,124-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a6cb02d30b3246f99ef7cd28bf8969a9d74ef3b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

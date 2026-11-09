@@ -1,0 +1,38 @@
+python/sglang/srt/constrained/grammar_manager.py
+  s_fd754a97cbf7c1::t_dca042babbb981 116
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_fd754a97cbf7c1::t_07c1792b11d436 2805
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_fd754a97cbf7c1::t_be5d886f3d2189 485-487,495-497
+python/sglang/srt/managers/io_struct.py
+  s_fd754a97cbf7c1::t_748c2a2137502c 2477-2478,2487-2491
+python/sglang/srt/managers/scheduler.py
+  s_fd754a97cbf7c1::t_525c1a2b74efdd 2924,4043,4073,6314,6325,6378,6399,6410,6418,6426,6441,6455
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_fd754a97cbf7c1::t_5de4762e53d2b2 135-136,182-214,231
+test/registered/unit/constrained/test_grammar_manager.py
+  h_0eaad948cda463 32,492,504,518,527,537
+test/registered/unit/mem_cache/test_hicache_staged_write_back_dispatch.py
+  h_0eaad948cda463 247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5dc6b8d35beb689fc343b4577c653aeb1a2c4a0e",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_fd754a97cbf7c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_fd754a97cbf7c1",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

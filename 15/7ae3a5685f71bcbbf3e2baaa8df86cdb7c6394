@@ -1,0 +1,20 @@
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  h_1d635ecd767a49 245,297-307
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  h_1d635ecd767a49 217-218,227,229
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 37-38,376-386,851,1226-1227
+test/registered/kernels/ops/quantization/test_router_weight_quant.py
+  h_1d635ecd767a49 1,14-22,30,36,46-47,59-60,71-72,77,80,84,90-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "157ae3a5685f71bcbbf3e2baaa8df86cdb7c6394",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

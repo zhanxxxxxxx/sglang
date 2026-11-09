@@ -1,0 +1,21 @@
+test/registered/unit/layers/attention/test_kda_apl_backend.py
+  s_030cfbd488998e::t_a5156d123ec61a 618-619,634,652,656,711,726-727
+test/registered/attention/test_kda_apl_decode_numerics.py
+  s_030cfbd488998e::t_a6b3a0532a56bb 74-96,132-136,146,206,224-227,229,231-242,446,501-506
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f70e0248de016d539800f5ca632b6af674004eb0",
+  "prompts": {},
+  "sessions": {
+    "s_030cfbd488998e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19cbd-04fe-78c3-8c5d-ae6561cf3668",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    }
+  }
+}
