@@ -1,0 +1,29 @@
+python/sglang/kernels/jit/csrc/distributed/custom_all_reduce.cuh
+  s_44844fb1f654af::t_ecc22f49c03865 11-15,112-118,276-346,361-380,459,503-605
+python/sglang/kernels/ops/communication/all_reduce.py
+  s_44844fb1f654af::t_7f143a997afa7e 231-274
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  s_44844fb1f654af::t_dd0a3f70c293e6 41,43,389-419
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_752152bd7837b4 1048
+python/sglang/srt/models/qwen4_exp.py
+  s_44844fb1f654af::t_b9d94a9755215d 51,1543-1553,1556,1559-1562,1583,1587-1590
+test/registered/kernels/ops/communication/test_custom_all_reduce.py
+  s_44844fb1f654af::t_d43ce589274685 233-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e67a3715f44194e5b5b3a30ac8eb7d6c2f00ba22",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
