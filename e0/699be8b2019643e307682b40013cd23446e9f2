@@ -1,0 +1,30 @@
+test/registered/spec/eagle/test_eagle_compact_verify_sampling.py
+  s_44844fb1f654af::t_f66942f99fe31b 1-8,10-31,34-41
+  s_44844fb1f654af::t_560182fb9db9d8 9,32-33
+python/sglang/srt/speculative/verify_sampling.py
+  s_44844fb1f654af::t_b57c1545a1fbdd 18,24-25,37
+  s_44844fb1f654af::t_59d5fb8cd80878 1-17,19-23,26-36
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_59d5fb8cd80878 1054-1055
+python/sglang/srt/speculative/eagle_utils.py
+  s_44844fb1f654af::t_59d5fb8cd80878 14,772-785,791,799,807-830
+  s_44844fb1f654af::t_e0de24d96681d6 787-790,801-803,805-806
+  s_44844fb1f654af::t_f66942f99fe31b 793-798
+  s_44844fb1f654af::t_fe6eb649256383 800
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e0699be8b2019643e307682b40013cd23446e9f2",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

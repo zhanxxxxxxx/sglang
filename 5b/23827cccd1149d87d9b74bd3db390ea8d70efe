@@ -1,0 +1,30 @@
+test/registered/unit/layers/moe/test_dp_pad_moe_drop.py
+  s_44844fb1f654af::t_513c77cb11caa6 1-71
+test/registered/moe/test_hpc_ops_moe.py
+  s_44844fb1f654af::t_513c77cb11caa6 146-156
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  s_44844fb1f654af::t_513c77cb11caa6 104-106,245-251
+  s_44844fb1f654af::t_3b93e35b51eb2e 252
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_513c77cb11caa6 1070-1073
+python/sglang/srt/layers/dp_attention.py
+  s_44844fb1f654af::t_513c77cb11caa6 159,178,185,233-236,266,274,648-650,663,665-668
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_44844fb1f654af::t_513c77cb11caa6 61,108,118,467-468,672-725,1013-1016,1267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5b23827cccd1149d87d9b74bd3db390ea8d70efe",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

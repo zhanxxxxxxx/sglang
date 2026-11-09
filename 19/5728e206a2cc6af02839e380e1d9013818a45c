@@ -1,0 +1,41 @@
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_44844fb1f654af::t_9ca40ed5ebb858 3-5,9-11,16-18,20,26-27,29-31,33,41,61-65,71-73,78,85,87-90,92,96,101,105,110,113,115-117,121-129,131,136-138,140-285
+test/registered/unit/constrained/test_grammar_manager.py
+  s_44844fb1f654af::t_9ca40ed5ebb858 29,340,352,366,375,385
+python/sglang/srt/constrained/grammar_manager.py
+  s_44844fb1f654af::t_d7ad4817b43a22 111
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_44844fb1f654af::t_417e7889a0e00d 430-432
+  s_44844fb1f654af::t_d7ad4817b43a22 420-422
+python/sglang/srt/managers/io_struct.py
+  s_44844fb1f654af::t_d7ad4817b43a22 2123-2124,2132-2135
+  s_44844fb1f654af::t_5fefd5a2bd4ee1 2136
+python/sglang/srt/managers/scheduler.py
+  s_44844fb1f654af::t_d7ad4817b43a22 2213,3236-3259,3261-3278,3280-3287,3289,5139,5150,5166-5170,5198,5222,5234,5242,5250,5259,5281-5287
+  s_44844fb1f654af::t_417e7889a0e00d 5274
+  s_44844fb1f654af::t_9ca40ed5ebb858 3279
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_44844fb1f654af::t_417e7889a0e00d 2038
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  s_44844fb1f654af::t_f1f5c5d9f3c926 22,76-78,103-113,173-180,184,237-246
+test/registered/unit/managers/test_mm_shm_error_consensus.py
+  s_44844fb1f654af::t_5ffa7ac0a2c663 126
+test/registered/unit/managers/test_pp_cp_rank_offsets.py
+  s_44844fb1f654af::t_6ed0af68a46edf 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "195728e206a2cc6af02839e380e1d9013818a45c",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

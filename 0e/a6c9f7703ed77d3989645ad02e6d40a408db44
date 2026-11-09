@@ -1,0 +1,21 @@
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_44844fb1f654af::t_59d5fb8cd80878 1179-1182
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_59d5fb8cd80878 1052-1053
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0ea6c9f7703ed77d3989645ad02e6d40a408db44",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

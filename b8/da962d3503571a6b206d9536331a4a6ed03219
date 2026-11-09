@@ -1,0 +1,55 @@
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_dfc9c05e659763::t_4171780a840d99 611,1463-1474
+  s_dfc9c05e659763::t_aca577c6a1fcb5 590-600,602-603
+  s_dfc9c05e659763::t_a25e74575a896a 573-578
+  s_dfc9c05e659763::t_861d41655e7aca 565-570,588-589,601,626-636
+  s_dfc9c05e659763::t_d3bb14064b477f 637-642
+  s_dfc9c05e659763::t_fea2a323ad2368 606-608
+  s_dfc9c05e659763::t_17353203fdaff5 1460-1462
+  s_dfc9c05e659763::t_061e6dfde5304b 571-572,612-614,617,620,622,625
+  s_dfc9c05e659763::t_5127becbb6419c 1193-1202
+  s_dfc9c05e659763::t_9209def3dc066c 615-616,618-619,621,623-624
+  s_dfc9c05e659763::t_879f1266b7a45d 579-581,585-587
+  s_dfc9c05e659763::t_373ee46baef11d 604-605
+  s_dfc9c05e659763::t_c399f240b1075f 609-610
+  s_dfc9c05e659763::t_323bd347603eb3 582-584
+python/sglang/srt/layers/dp_attention.py
+  s_dfc9c05e659763::t_c13760d126bbca 268-274
+  s_dfc9c05e659763::t_e931a6eace3420 927-937
+  s_dfc9c05e659763::t_251dc3e0697cd1 372,380
+  s_dfc9c05e659763::t_49041fe83fb86b 425-426
+  s_dfc9c05e659763::t_facac2b8aa680d 291,298
+  s_dfc9c05e659763::t_d2c611274005ef 908-915
+  s_dfc9c05e659763::t_cb1d47dac58e44 346-348
+  s_dfc9c05e659763::t_c06ab35bdf6638 903-907,917-919
+  s_dfc9c05e659763::t_cb44f6111a4536 345,873-876
+test/registered/unit/layers/test_dp_pad_moe_drop.py
+  s_dfc9c05e659763::t_2186eb2d3e5b31 1-132
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  s_dfc9c05e659763::t_6a53f5d5ffc9c0 282-283,285-287
+  s_dfc9c05e659763::t_fad6e1919b98ab 284
+  s_dfc9c05e659763::t_fed139f53a16fe 288-295
+  s_dfc9c05e659763::t_6fdeb9a5a098e8 43,277
+python/sglang/srt/environ.py
+  s_dfc9c05e659763::t_2f60c8bb675919 1691-1702
+  s_dfc9c05e659763::t_337735b33720ac 1703-1706
+test/registered/unit/layers/test_dp_attention.py
+  s_dfc9c05e659763::t_83dcb3bd9d9b37 57-83
+  s_dfc9c05e659763::t_9c42f7bd852c39 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8da962d3503571a6b206d9536331a4a6ed03219",
+  "prompts": {},
+  "sessions": {
+    "s_dfc9c05e659763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "223a4687-df88-4ef7-be48-5525ca220117",
+        "model": "claude-opus-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
