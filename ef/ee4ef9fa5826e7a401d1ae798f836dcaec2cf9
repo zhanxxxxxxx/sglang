@@ -1,0 +1,14 @@
+test/registered/unit/models/test_bailing_moe_v3_deepep_sbo.py
+  h_1d635ecd767a49 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efee4ef9fa5826e7a401d1ae798f836dcaec2cf9",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

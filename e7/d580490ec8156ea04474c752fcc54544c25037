@@ -1,0 +1,34 @@
+test/manual/bench_ling_csa_head_gate.py
+  s_9271c87a5e59f5::t_fcded0505859df 47-58,98-109
+  s_9271c87a5e59f5::t_ab4adbf4979d94 1-11,13-46,59-97,110-113
+  s_9271c87a5e59f5::t_6ab2ebf55b50db 12
+python/sglang/kernels/ops/attention/dsa/triton_kernel.py
+  s_9271c87a5e59f5::t_c459aa44ad445b 20-23,87-95,151-189
+  s_9271c87a5e59f5::t_90453781334e73 190-191
+python/sglang/srt/layers/attention/ling/csa_indexer.py
+  s_9271c87a5e59f5::t_c459aa44ad445b 17,279-282,290-291
+  s_9271c87a5e59f5::t_06c07e778bd380 294
+  s_9271c87a5e59f5::t_f7e6c5c01b3739 272,277
+  s_9271c87a5e59f5::t_fcded0505859df 274
+python/sglang/srt/layers/attention/ling/indexer_policy.py
+  s_9271c87a5e59f5::t_c459aa44ad445b 26-27,35-45
+test/registered/kernels/ops/attention/test_ling_csa_head_gate.py
+  s_9271c87a5e59f5::t_f7e6c5c01b3739 1-49,53-86
+  s_9271c87a5e59f5::t_718b47c962168b 50-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7d580490ec8156ea04474c752fcc54544c25037",
+  "prompts": {},
+  "sessions": {
+    "s_9271c87a5e59f5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bfa-bfeb-7382-aaef-e6152b538e0d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

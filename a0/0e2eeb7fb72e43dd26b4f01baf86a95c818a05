@@ -1,0 +1,24 @@
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1490-1492
+python/sglang/srt/layers/attention/cutedsl_mla_backend.py
+  h_1d635ecd767a49 379-387
+python/sglang/srt/layers/radix_attention.py
+  h_1d635ecd767a49 116
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 947-973
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  h_1d635ecd767a49 760-779,785,840-850
+python/sglang/srt/models/deepseek_v2.py
+  h_1d635ecd767a49 1927
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a00e2eeb7fb72e43dd26b4f01baf86a95c818a05",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
