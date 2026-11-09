@@ -1,0 +1,55 @@
+python/sglang/srt/environ.py
+  s_9271c87a5e59f5::t_3ed761acd8dfd6 1515-1518
+test/registered/unit/distributed/test_parallel_state.py
+  s_9271c87a5e59f5::t_6807b7bd68e31d 55-57,65-74,76-78,102-104
+  s_9271c87a5e59f5::t_b8e82f8e6a7db0 53-54,58-64,75,79-101,105-108
+python/sglang/srt/distributed/parallel_state.py
+  s_9271c87a5e59f5::t_6807b7bd68e31d 2740
+  s_9271c87a5e59f5::t_2f40451129bc37 274,297,463-478,1870-1871,1920,1948,2480-2484,2610
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_9271c87a5e59f5::t_d9ff348677310a 22,452-477
+  s_9271c87a5e59f5::t_3ed761acd8dfd6 2243-2272
+python/sglang/srt/layers/attention/ling/csa_prefill_cp.py
+  s_9271c87a5e59f5::t_2f40451129bc37 31-34,37,51
+  s_9271c87a5e59f5::t_2aec7150dd7a17 116-127
+  s_9271c87a5e59f5::t_3ed761acd8dfd6 1-19,21-29,44,75-82,84-112,115,128-132,134-137
+  s_9271c87a5e59f5::t_6807b7bd68e31d 46-50
+  s_9271c87a5e59f5::t_c54a55766d21ed 35-36,38-39
+  s_9271c87a5e59f5::t_186792db7721df 20,114,139-141
+  s_9271c87a5e59f5::t_bf963f7d10ebac 54-69,71-74,83
+  s_9271c87a5e59f5::t_61b339c3d43fd2 133
+  s_9271c87a5e59f5::t_9b375069575c98 30,40-43,45,52-53,70,113,138
+test/registered/attention/test_ling_csa_prefill_cp_sm100.py
+  s_9271c87a5e59f5::t_3701e290718d18 1-30,34-38,44-46,50-51,57-62,71-76,83-97,103-140,149-152,159-161,166-169,171-173,178-183,194-226,234,239,244-250,254-256,268-273,279-280,286-304
+  s_9271c87a5e59f5::t_67a40e3c812bf0 170
+  s_9271c87a5e59f5::t_60326059cef559 175-176,227-233,235,243
+  s_9271c87a5e59f5::t_ab57c7522b7bc7 31-33,39-43,47-49,52-56,63-70,77-82,98-102,141-148,153-158,162-165,174,177,184-193,236-238,240-242,251-253,257-267,274-278,281-285
+test/registered/unit/layers/attention/test_ling_csa_prefill_cp.py
+  s_9271c87a5e59f5::t_0a5ac3e84f79d8 36-38
+  s_9271c87a5e59f5::t_d9ff348677310a 78,83
+  s_9271c87a5e59f5::t_bf963f7d10ebac 16,70-77,81-82,84,126
+  s_9271c87a5e59f5::t_5ed33dc5517608 127-174
+  s_9271c87a5e59f5::t_ddd75ead0259ce 1-12,14-15,17-33,35,39-57,175-262
+  s_9271c87a5e59f5::t_2f40451129bc37 86-109,116-122
+  s_9271c87a5e59f5::t_6807b7bd68e31d 63-65,110-112
+  s_9271c87a5e59f5::t_c5ff08e45f3da1 13,34,58-62,66-69,79-80,85,113-115,123-125
+python/sglang/srt/distributed/device_communicators/pynccl.py
+  s_9271c87a5e59f5::t_2f40451129bc37 38,49,116,118,120-122
+  s_9271c87a5e59f5::t_b8e82f8e6a7db0 119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7626f034a6787d9fed0a84f9100f9063c724f507",
+  "prompts": {},
+  "sessions": {
+    "s_9271c87a5e59f5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bfa-bfeb-7382-aaef-e6152b538e0d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
