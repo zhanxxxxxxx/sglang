@@ -1,0 +1,26 @@
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_e264e4a97219bf::t_ca1e3d86b6e08b 702-703
+test/registered/unit/managers/scheduler_components/test_shm_tag_exchange.py
+  s_e264e4a97219bf::t_8ce0cde9569046 25,55-57,142-154
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_e264e4a97219bf::t_c3a0423ca13e91 4766-4768
+test/registered/unit/mem_cache/test_storage_prefetch_lifecycle.py
+  s_e264e4a97219bf::t_8ce0cde9569046 7,84-86,98-101,171-173,179,226-236
+  s_e264e4a97219bf::t_5f552d1529ffc1 237-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c394e0979b723052728614a7fe737518650a2e82",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
