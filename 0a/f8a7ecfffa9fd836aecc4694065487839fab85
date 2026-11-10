@@ -1,0 +1,21 @@
+examples/runtime/ling_v3_audio/README.md
+  s_537ed9731c43f2::t_6fc500304cf40c 39-42
+examples/runtime/ling_v3_audio/smoke_test.py
+  s_537ed9731c43f2::t_8401fc6cb40fa0 59,61,63-66,77-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0af8a7ecfffa9fd836aecc4694065487839fab85",
+  "prompts": {},
+  "sessions": {
+    "s_537ed9731c43f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c011-7a7f-7221-8a15-27026a0ee393",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaohailin.zhl <zhaohailin.zhl@antgroup.com>"
+    }
+  }
+}

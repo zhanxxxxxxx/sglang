@@ -1,0 +1,18 @@
+python/sglang/srt/arg_groups/deepseek_v4_hook.py
+  h_f252eadf5e9832 107-109,204-206,212-214,252,254-256,321-326
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  h_f252eadf5e9832 1516-1520,1522,1524-1525
+python/sglang/srt/model_executor/pool_configurator.py
+  h_f252eadf5e9832 712-714,1335-1336,1763-1765,1830-1832
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "70d3c1b69a5148e7f8b11ba321d72f977bc2cf3c",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
