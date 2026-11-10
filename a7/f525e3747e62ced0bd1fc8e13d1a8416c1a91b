@@ -1,0 +1,14 @@
+python/sglang/srt/layers/moe/topk.py
+  h_a3dc1d2ad8ed2d 2106-2112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a7f525e3747e62ced0bd1fc8e13d1a8416c1a91b",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

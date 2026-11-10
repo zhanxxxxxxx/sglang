@@ -1,0 +1,32 @@
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_44844fb1f654af::t_36c41bcb741106 1643,1650,1655-1680,1682-1684,1686,1690,1694-1695
+  s_44844fb1f654af::t_e2b63c9e862529 1642
+python/sglang/srt/models/qwen4_exp_mtp.py
+  s_44844fb1f654af::t_e2b63c9e862529 27-28,45,54-56
+  s_44844fb1f654af::t_36c41bcb741106 6,13,18-22,33-44,46-53,57-58,238-240
+python/sglang/srt/layers/attention/qsa/qsa_indexer.py
+  s_44844fb1f654af::t_e2b63c9e862529 700
+  s_44844fb1f654af::t_36c41bcb741106 701-713
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_b98fbe2d258acc 1048
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_44844fb1f654af::t_cfe4362af1b0cb 525
+test/registered/kernels/test_qwen_hopper.py
+  s_44844fb1f654af::t_2d31e2af24c712 292-304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "206ad435aa8ddc17e0e7941d43b3a3d5f3e1a8af",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
