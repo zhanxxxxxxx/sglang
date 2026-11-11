@@ -1,0 +1,26 @@
+test/registered/kernels/ops/memory/test_dsv41_direct_ring_cuda.py
+  s_fe92d796c96f00::t_1bd7f91e39de2d 324-368
+  s_fe92d796c96f00::t_2c747d30b22b56 369-371
+test/registered/unit/mem_cache/test_dsv41_swa_storage_access.py
+  s_fe92d796c96f00::t_1bd7f91e39de2d 155-182
+  s_fe92d796c96f00::t_d5ae0b130bb222 183-185
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_fe92d796c96f00::t_c9df65d421c09d 2030-2040
+  s_fe92d796c96f00::t_bc4b5af6339d71 2041
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab5c2501f9e4e0175c71412c531d78a658dad193",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

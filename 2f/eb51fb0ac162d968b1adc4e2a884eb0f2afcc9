@@ -1,0 +1,22 @@
+python/sglang/srt/mem_cache/snapshot_loaded_content.py
+  h_a3dc1d2ad8ed2d 235-239,243-266,271
+python/sglang/srt/mem_cache/snapshot_reader_values.py
+  h_a3dc1d2ad8ed2d 43-49,58,71-76,83
+python/sglang/srt/mem_cache/snapshot_training_publication.py
+  h_a3dc1d2ad8ed2d 79-110,140-141,158-164,183,197-204,245-248
+test/registered/unit/mem_cache/test_snapshot_loaded_content.py
+  h_a3dc1d2ad8ed2d 372-395
+test/registered/unit/mem_cache/test_snapshot_training_publication.py
+  h_a3dc1d2ad8ed2d 595-639
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2feb51fb0ac162d968b1adc4e2a884eb0f2afcc9",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}
