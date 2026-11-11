@@ -1,0 +1,27 @@
+python/sglang/srt/multimodal/vision_batch.py
+  s_398b305b6d0e5b::t_af6f09289e9fa3 632-645
+python/sglang/srt/managers/tokenizer_control_mixin.py
+  s_398b305b6d0e5b::t_af6f09289e9fa3 1006-1013
+test/registered/unit/utils/test_encoder_image_session_release.py
+  s_398b305b6d0e5b::t_af6f09289e9fa3 333
+test/registered/unit/multimodal/test_vision_prefill_batch.py
+  s_398b305b6d0e5b::t_af6f09289e9fa3 118-120,154,171,177,183,202,207-223,244
+test/registered/unit/utils/test_encoder_image_memory_release.py
+  s_398b305b6d0e5b::t_38c460d1564bf6 331,350,369-425,427-439
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "356a8b783c1e846b604747ebbfee36233c568d31",
+  "prompts": {},
+  "sessions": {
+    "s_398b305b6d0e5b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a53d-9d2f-7041-9bb0-edb7bf351b03",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chenmu.my <chenmu.my@antgroup.com>"
+    }
+  }
+}

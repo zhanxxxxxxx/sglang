@@ -1,0 +1,47 @@
+python/sglang/srt/environ.py
+  s_6814b9b1896915::t_44b5428d383a2f 1327-1329
+test/registered/unit/disaggregation/test_encoder_part_limit.py
+  s_6814b9b1896915::t_4dca21e3f68991 1-20,24-34,38-40,50-62,66-68,72-83,90-94,98-124,134-141
+  s_6814b9b1896915::t_b0c778c90cf876 125-133
+  s_6814b9b1896915::t_9193f2f8137b34 21-23,35-37,41-49,63-65,69-71,84-89,95-97
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_44b5428d383a2f 944-949,966-975,977-981,984-987,995-996,3084-3085
+  s_6814b9b1896915::t_607df2d292ce31 982-983
+  s_6814b9b1896915::t_9193f2f8137b34 988-993
+  s_6814b9b1896915::t_3c7c42467a2997 994
+python/sglang/srt/disaggregation/encoder/server.py
+  s_6814b9b1896915::t_44b5428d383a2f 105
+  s_6814b9b1896915::t_607df2d292ce31 236,251,253-257,1883-1884
+  s_6814b9b1896915::t_b0c778c90cf876 237-250,252
+test/manual/qwen38_epd_encoder_cookbook.md
+  s_6814b9b1896915::t_0f1e4a183963e5 180-185
+  s_1b8a7194d65d1a::t_bdbc58fc9fd743 175,186
+python/sglang/srt/disaggregation/encoder/runtime.py
+  s_6814b9b1896915::t_9193f2f8137b34 258-260
+  s_6814b9b1896915::t_607df2d292ce31 257,261-262
+  s_6814b9b1896915::t_40f0ca187e5c9e 256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cef2a353f07322d501351c593ed9008520ece352",
+  "prompts": {},
+  "sessions": {
+    "s_1b8a7194d65d1a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "178bb2e8-3e49-4668-b466-14ea6fc23b3a",
+        "model": "default"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

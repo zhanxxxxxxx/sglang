@@ -1,0 +1,26 @@
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_bacaffbdddd202 1046
+test/registered/kernels/test_qwen_hc_prefill_tp.py
+  s_44844fb1f654af::t_bacaffbdddd202 21,150-181
+  s_44844fb1f654af::t_163424077d1570 182
+python/sglang/srt/layers/hc_prefill_tp.py
+  s_44844fb1f654af::t_bacaffbdddd202 17-57
+python/sglang/srt/models/qwen4_exp.py
+  s_44844fb1f654af::t_bacaffbdddd202 38-39,59,72,90-94,1445,1465-1473,1487,1489-1492,1515,1520-1524,1573,1575-1576,1603,1610,1617-1621,1754,1760,1771-1775,1805,1825-1854,1877-1879,1895,1905-1915
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d044639f7ff30cc01f950df06414e207840c88f2",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

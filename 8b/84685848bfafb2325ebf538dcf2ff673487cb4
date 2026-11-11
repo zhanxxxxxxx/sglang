@@ -1,0 +1,25 @@
+test/registered/unit/disaggregation/test_staging_fast_gather.py
+  s_dfc9c05e659763::t_e59a87c9368295 1-92
+python/sglang/srt/disaggregation/common/staging_buffer.py
+  s_dfc9c05e659763::t_4f9b1ed91b76b8 261-265
+  s_dfc9c05e659763::t_1cc8020dbcbe4e 252-260,266-295
+  s_dfc9c05e659763::t_46bd3dd3b2222f 565-584
+python/sglang/srt/environ.py
+  s_dfc9c05e659763::t_207ea03debb931 1027-1033
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8b84685848bfafb2325ebf538dcf2ff673487cb4",
+  "prompts": {},
+  "sessions": {
+    "s_dfc9c05e659763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "223a4687-df88-4ef7-be48-5525ca220117",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

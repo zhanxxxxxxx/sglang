@@ -1,0 +1,31 @@
+test/registered/kernels/ops/attention/test_glm53_small_projections.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 1,59,69-82
+  s_f5a50be0fc3a60::t_5a128c31fe1ecd 37-43,90-96
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 258-260
+python/sglang/kernels/ops/attention/dsa/tilelang_kernel.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 1702-1707,1777,1795
+test/registered/kernels/test_glm53_query_sharing.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 39
+python/sglang/srt/layers/attention/linear/glm53_gate_fusion.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 8-9,45-49,73
+test/registered/unit/layers/test_glm53_query_sharing_dispatch.py
+  s_f5a50be0fc3a60::t_2d3a7ecbe9e50e 27-28,65,73,91,95,104-116,120-122,127
+  s_f5a50be0fc3a60::t_5a128c31fe1ecd 35-46,117-119,190-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eb9b0e080e048246fa8c269afc8e53101a755c22",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
