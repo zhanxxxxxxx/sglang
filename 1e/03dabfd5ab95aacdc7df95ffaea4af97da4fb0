@@ -1,0 +1,24 @@
+python/sglang/srt/model_executor/encoder_swa_replay.py
+  s_fe92d796c96f00::t_1109ebbed7857f 59-61,140
+  s_fe92d796c96f00::t_fa0e9d8a6d361b 56-58
+test/registered/unit/model_executor/test_encoder_swa_engram_history.py
+  s_fe92d796c96f00::t_1109ebbed7857f 2-36
+  s_fe92d796c96f00::t_25a6f08a76dc4d 1
+  s_fe92d796c96f00::t_82f1d741a110f3 37-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1e03dabfd5ab95aacdc7df95ffaea4af97da4fb0",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

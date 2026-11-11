@@ -1,0 +1,22 @@
+test/registered/unit/managers/test_io_struct.py
+  s_e264e4a97219bf::t_1981111660188f 412
+test/registered/unit/disaggregation/test_unified_memory_move_gate.py
+  s_e264e4a97219bf::t_1981111660188f 14,244-248,253-254,256
+  s_e264e4a97219bf::t_771a01ebbb245d 249-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "60d82a3eeb371bb225e3ab5e01d3a2fd2c32e866",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
