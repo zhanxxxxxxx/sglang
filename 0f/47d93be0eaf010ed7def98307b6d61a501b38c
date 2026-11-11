@@ -1,0 +1,21 @@
+test/registered/unit/entrypoints/test_dsv41_snapshot_server_info.py
+  s_fe92d796c96f00::t_e9a6582a007e5f 1-79
+python/sglang/srt/managers/scheduler.py
+  s_fe92d796c96f00::t_28dc2480b84cf3 6079
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f47d93be0eaf010ed7def98307b6d61a501b38c",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
