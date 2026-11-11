@@ -1,0 +1,23 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_357c03dbde9ca4::t_9285707385eb39 1269-1274,1299-1301
+python/sglang/srt/mem_cache/unified_cache/components/mamba_component.py
+  s_357c03dbde9ca4::t_24799caa395401 638-640
+test/registered/unit/mem_cache/test_unified_request_snapshot.py
+  s_357c03dbde9ca4::t_627fa56c04c95c 11,18-25,178-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b04bd0adccda70c8f35563ed4c18de946760cac0",
+  "prompts": {},
+  "sessions": {
+    "s_357c03dbde9ca4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18418-d059-78c1-83e7-0477ca8bc33b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

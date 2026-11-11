@@ -1,0 +1,31 @@
+python/sglang/srt/configs/model_config.py
+  s_537ed9731c43f2::t_2278e82b6ba7cf 516-517
+  s_537ed9731c43f2::t_eb2a5584831a81 518-520,522
+python/sglang/srt/multimodal/processors/bailing_mm.py
+  s_537ed9731c43f2::t_2278e82b6ba7cf 17,184-190,194,198,203,205,211-213,217-219,223-231,233-243,247-248,252-255,268,273,296,547-549,658-663,668-669,707-708,710-712,717-719,730-738,740
+  s_537ed9731c43f2::t_eb2a5584831a81 220-222,244-246,249-251,271,274-282,297,522-528,664-667,713-716
+  s_537ed9731c43f2::t_1c0b1de85d67c9 201-202,204,206
+python/sglang/srt/utils/common.py
+  s_537ed9731c43f2::t_2278e82b6ba7cf 1608-1610,1622-1626
+test/registered/unit/multimodal/test_bailing_audio_processor.py
+  s_537ed9731c43f2::t_eb2a5584831a81 4-6,9,11-13,16,51,53-59,64-73,297-304,308,311,322-324,327-376
+  s_537ed9731c43f2::t_6db17b3a5e1e34 377
+test/registered/unit/multimodal/test_media_url_security.py
+  s_537ed9731c43f2::t_e4d2417097c6ad 148-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bae4aa5742c45660bb786ec5789cb7e611027b7e",
+  "prompts": {},
+  "sessions": {
+    "s_537ed9731c43f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c011-7a7f-7221-8a15-27026a0ee393",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaohailin.zhl <zhaohailin.zhl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+test/registered/unit/mem_cache/test_hicache_staged_write_back_dispatch.py
+  h_0eaad948cda463 247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1ded55ce666ad789a79ff05ffcd8038f46670a26",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
