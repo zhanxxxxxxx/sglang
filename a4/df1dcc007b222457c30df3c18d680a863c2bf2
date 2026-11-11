@@ -1,0 +1,21 @@
+docker/Dockerfile.cu134
+  s_e264e4a97219bf::t_245a24429a1dbd 40,206
+docker/Dockerfile
+  s_e264e4a97219bf::t_245a24429a1dbd 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a4df1dcc007b222457c30df3c18d680a863c2bf2",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
