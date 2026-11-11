@@ -1,0 +1,26 @@
+tests/inference_rsi/test_managed_processes.py
+  s_1d32b085fb33ca::t_7ccba38a5144f8 46-60
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_9b7f04aa837b6a 717,723
+  s_1d32b085fb33ca::t_b4a678ca9241c1 716,718-720
+  s_1d32b085fb33ca::t_ec6bd4ce2e68b7 721-722,724
+execution/loop_executor.py
+  s_1d32b085fb33ca::t_7ccba38a5144f8 46,58-59,61-62,74-80
+  s_1d32b085fb33ca::t_5988ac529ec1f5 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "30015c047aa6ec974b2c08b030ec060c8e8aa41b",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
