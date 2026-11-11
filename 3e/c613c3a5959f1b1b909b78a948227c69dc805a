@@ -1,0 +1,28 @@
+test/registered/kernels/ops/layernorm/test_glm53_kda_output_quant.py
+  s_f5a50be0fc3a60::t_f371f885f02e0e 1-76
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_3d8c79ca07f058 256
+python/sglang/srt/models/glm5_next.py
+  s_f5a50be0fc3a60::t_3d8c79ca07f058 13,69,686-721,776-786
+python/sglang/kernels/ops/layernorm/fused_kda_output_quant.py
+  s_f5a50be0fc3a60::t_3d8c79ca07f058 1-131
+python/sglang/srt/layers/quantization/fp8_utils.py
+  s_f5a50be0fc3a60::t_3d8c79ca07f058 6,53-55,1030-1073
+  s_f5a50be0fc3a60::t_eb0a64deb320ea 1074-1075
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3ec613c3a5959f1b1b909b78a948227c69dc805a",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
