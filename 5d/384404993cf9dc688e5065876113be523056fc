@@ -1,0 +1,16 @@
+python/sglang/kernels/jit/csrc/distributed/custom_all_reduce.cuh
+  h_1d635ecd767a49 504-505,562-563,569-572,583-593
+python/sglang/srt/distributed/device_communicators/custom_all_reduce_v2.py
+  h_1d635ecd767a49 466-467,472-476
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d384404993cf9dc688e5065876113be523056fc",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

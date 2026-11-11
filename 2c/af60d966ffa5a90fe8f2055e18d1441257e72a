@@ -1,0 +1,26 @@
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_fe92d796c96f00::t_1eed9c2d1179a5 941-948,953-954
+  s_fe92d796c96f00::t_615590053cd35f 955-956
+test/registered/unit/layers/test_dsv41_dspark_prefill_once.py
+  s_fe92d796c96f00::t_39d209b9b063a5 12-14
+  s_fe92d796c96f00::t_1eed9c2d1179a5 1-11,15-115
+  s_fe92d796c96f00::t_76bdedaf8ffa90 116-118
+test/registered/unit/mem_cache/test_dsv41_dspark_prefill_placement.py
+  s_fe92d796c96f00::t_39d209b9b063a5 14-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2caf60d966ffa5a90fe8f2055e18d1441257e72a",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
