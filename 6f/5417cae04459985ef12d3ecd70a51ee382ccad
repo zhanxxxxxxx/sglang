@@ -1,0 +1,23 @@
+python/sglang/srt/mem_cache/snapshot_group_protocol.py
+  s_279d059d0ac394::t_411095d14e94d8 71-85,90-92
+python/sglang/srt/mem_cache/snapshot_loaded_content.py
+  s_279d059d0ac394::t_411095d14e94d8 350,369-373,379-380,383,1132,1139-1141
+test/registered/unit/mem_cache/test_snapshot_loaded_content.py
+  s_279d059d0ac394::t_0cf0a9a0465cb0 1210-1246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6f5417cae04459985ef12d3ecd70a51ee382ccad",
+  "prompts": {},
+  "sessions": {
+    "s_279d059d0ac394": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c047-238c-7922-bcb3-9263d4e8c8aa",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

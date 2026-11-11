@@ -1,0 +1,20 @@
+python/sglang/srt/layers/moe/topk.py
+  h_a3dc1d2ad8ed2d 2106-2112
+python/sglang/srt/managers/schedule_batch.py
+  h_a3dc1d2ad8ed2d 88,970-972
+python/sglang/srt/managers/schedule_policy.py
+  h_a3dc1d2ad8ed2d 1044-1045,1047
+python/sglang/srt/managers/scheduler.py
+  h_a3dc1d2ad8ed2d 261,3772-3783,3825-3829
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d4eb6174ce8524cd1ad6742cf4b28c4d039e8670",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

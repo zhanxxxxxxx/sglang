@@ -1,0 +1,24 @@
+test/registered/unit/managers/test_dsv41_encoder_chunk_admission.py
+  s_fe92d796c96f00::t_739011fa23731b 1-134
+python/sglang/srt/managers/schedule_policy.py
+  s_fe92d796c96f00::t_6076de2bb169bf 1461-1464,1514-1518,1520-1523,1529-1537,1742-1745
+  s_fe92d796c96f00::t_d026c4a97e61a7 1746
+test/registered/unit/mem_cache/test_dsv41_replay_admission.py
+  s_fe92d796c96f00::t_6076de2bb169bf 51,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "858997f1682d39bb98b39082b539acd0e52e1c9d",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
