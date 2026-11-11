@@ -1,0 +1,20 @@
+examples/rollout_precision/AINSIGHT_USER_GUIDE.md
+  s_821adae34fee5b::t_2a924b1aaa0f55 9-10
+  s_821adae34fee5b::t_ca7730ff555a0d 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "567095d42fea6ed411e86a7596223e9987fbec55",
+  "prompts": {},
+  "sessions": {
+    "s_821adae34fee5b": {
+      "agent_id": {
+        "tool": "codefuse",
+        "id": "8062924b-db18-4868-a965-50893a005d2e",
+        "model": "codefuse_official_channel/Kimi-K3.1-Pro:glink_domestic"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_8d6e02f56d531e::t_b78a3a0af2b0a3 85-87,458,1032-1034,1037,1040,1046,1050,1058,1249-1256,1348-1356,1386
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "437b662e0f4df267965ab4c500592ee4072f63f1",
+  "prompts": {},
+  "sessions": {
+    "s_8d6e02f56d531e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167c6-e565-7440-a4c7-96fefe943ed5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
