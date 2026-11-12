@@ -1,0 +1,53 @@
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_820ff97dc2c368 10-11,1392-1400
+  s_1d32b085fb33ca::t_84e999cd422d2c 1401-1402
+execution/sglang/quality_suite.py
+  s_1d32b085fb33ca::t_fe6f218a908a45 4,22,35-39,58,83-94,119
+acceptance/quality.py
+  s_1d32b085fb33ca::t_d3a4dd3adf9ffa 47-57
+execution/sglang/eve.py
+  s_1d32b085fb33ca::t_fe6f218a908a45 305
+  s_1d32b085fb33ca::t_d3a4dd3adf9ffa 255-260,279-284,343,370-372,378,446-448,452-453
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_d3a4dd3adf9ffa 13,43-47
+execution/sglang/eve_group.py
+  s_1d32b085fb33ca::t_fe6f218a908a45 1-77
+skills/rsi/references/setup.md
+  s_1d32b085fb33ca::t_820ff97dc2c368 117,391-393
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_820ff97dc2c368 46
+docs/framework-e2e-acceptance.md
+  s_1d32b085fb33ca::t_820ff97dc2c368 12,17
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_fe6f218a908a45 158-161,325-326
+docs/design.md
+  s_1d32b085fb33ca::t_820ff97dc2c368 428
+execution/pipeline.py
+  s_1d32b085fb33ca::t_d3a4dd3adf9ffa 339
+tests/inference_rsi/test_dashboard_ais_links.py
+  s_117f6a24ec453c::t_7ccd50553f8273 192-216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "145b52797987d3b2f57ee22291ab2ee52bb26bb2",
+  "prompts": {},
+  "sessions": {
+    "s_117f6a24ec453c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c4d0-ef81-7cd2-8718-0eed30ce8510",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    },
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
