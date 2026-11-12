@@ -1,0 +1,39 @@
+python/sglang/kernels/jit/csrc/moe/mxfp4_decode/moe_mxfp4.cuh
+  s_4aa7dade5a6a55::t_8aa344aa6b04c4 1-1186
+python/sglang/kernels/jit/include/sgl_kernel/ptx/async.cuh
+  s_4aa7dade5a6a55::t_6f71706bf45494 1-154
+python/sglang/kernels/jit/include/sgl_kernel/ptx/barrier.cuh
+  s_4aa7dade5a6a55::t_0524927e7345d8 1-128
+python/sglang/kernels/jit/include/sgl_kernel/ptx/tcgen05.cuh
+  s_4aa7dade5a6a55::t_e39b2df2624300 1-441
+python/sglang/kernels/ops/moe/moe_finalize_fuse_shared.py
+  s_4aa7dade5a6a55::t_3c5c69961b9cce 27,46-54
+python/sglang/kernels/ops/moe/mxfp4_decode_moe.py
+  s_4aa7dade5a6a55::t_a0cf5bde6dc0b4 1-146
+python/sglang/srt/environ.py
+  s_4aa7dade5a6a55::t_ecc72b04a2d186 2480-2481
+python/sglang/srt/layers/moe/moe_runner/flashinfer_trtllm.py
+  s_4aa7dade5a6a55::t_ecd9049edf8498 12-14,329-334,1387-1410,1470-1518,1537-1542
+python/sglang/srt/layers/moe/route_quant_handoff.py
+  s_4aa7dade5a6a55::t_844b04d1503b95 160-165,190
+python/sglang/srt/layers/quantization/mxfp4.py
+  s_4aa7dade5a6a55::t_3ff7b1365a9790 1019-1025,1665-1667
+test/registered/unit/layers/quantization/test_mxfp4_sm100_trtllm_gen.py
+  s_4aa7dade5a6a55::t_58301057f17e12 340-434
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d6ec66103824f2133357c20cc61b8280190a012",
+  "prompts": {},
+  "sessions": {
+    "s_4aa7dade5a6a55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be27-e2a2-7b30-930c-cc1d706503b4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
