@@ -1,0 +1,22 @@
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_fe92d796c96f00::t_7ddf78c8df8f78 3503-3505
+test/registered/unit/layers/test_dsv41_ring_sparse_prefill.py
+  s_fe92d796c96f00::t_7ddf78c8df8f78 9,97,144,157-160,164-166,221-222
+  s_fe92d796c96f00::t_b19c633c78dc7f 223-224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "49900dc0eaafed665301a0345de70baaf3b2e149",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

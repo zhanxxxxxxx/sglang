@@ -1,0 +1,14 @@
+python/sglang/kernels/jit/csrc/distributed/custom_all_reduce.cuh
+  h_1d635ecd767a49 504-505,593-595,597,612
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "df0efa02cdec3d3375ac965c36d9ef6e0bdb8dcd",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

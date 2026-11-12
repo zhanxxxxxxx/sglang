@@ -1,0 +1,43 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_c9f9cd22a414e8::t_82c4ba8516123e 2813-2814
+  s_c9f9cd22a414e8::t_faaeb7bbc64018 2058,2540-2541
+test/manual/qwen38_epd_encoder_cookbook.md
+  s_c9f9cd22a414e8::t_117af6c53f75fb 372
+  s_c9f9cd22a414e8::t_82c4ba8516123e 344,359
+  s_c9f9cd22a414e8::t_0f90ca2b2d6581 362,364
+test/registered/observability/test_encoder_server_metrics.py
+  s_c9f9cd22a414e8::t_e9c6960c016343 73
+python/sglang/srt/disaggregation/encoder/runtime.py
+  s_c9f9cd22a414e8::t_82c4ba8516123e 1526
+  s_c9f9cd22a414e8::t_fb4b74daf81386 1517-1520,1524-1525,1529,1532
+  s_c9f9cd22a414e8::t_faaeb7bbc64018 1527
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_c9f9cd22a414e8::t_faaeb7bbc64018 277,341-353,411
+  s_c9f9cd22a414e8::t_82c4ba8516123e 273-275
+python/sglang/srt/managers/tokenizer_manager.py
+  s_c9f9cd22a414e8::t_82c4ba8516123e 2172,2188,3976
+test/registered/unit/constrained/test_grammar_manager.py
+  s_c9f9cd22a414e8::t_e9c6960c016343 339-341,353-355,369-371,380-382,392-394
+python/sglang/srt/disaggregation/encoder/completion.py
+  s_c9f9cd22a414e8::t_faaeb7bbc64018 33,39,42-46,59
+python/sglang/srt/managers/scheduler.py
+  s_c9f9cd22a414e8::t_c83e49783c05c5 5037
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_c9f9cd22a414e8::t_c83e49783c05c5 420,428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c25c86741bebeecd3a2a764756b65170a356b133",
+  "prompts": {},
+  "sessions": {
+    "s_c9f9cd22a414e8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bef6-566e-7443-afbf-706b2f6d84d4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

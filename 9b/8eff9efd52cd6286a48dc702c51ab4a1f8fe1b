@@ -1,0 +1,44 @@
+python/sglang/srt/mem_cache/kv/advance.py
+  s_e264e4a97219bf::t_dbfffcdcbaa1fb 75-77,132-135
+  s_e264e4a97219bf::t_66136baf400bea 11
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_e264e4a97219bf::t_b7dece96cc8a3f 1078-1094,1099-1100,1108,1115,1125-1126,1131-1134,1136,1138-1139,1145,1164-1165,1167-1168,1170,1173-1175,1207-1208,1284,1296-1301,1358-1359,1366-1368,1371,1385-1386,1403-1404,1413-1414,1418,1421-1422,1432-1433,1451-1452,2135,2601,2735
+test/registered/unit/mem_cache/test_unified_radix_allocation_eviction.py
+  s_e264e4a97219bf::t_76e7cc28910a4b 122,133,173,175,205-207,211,220-221,235-236,277,299,316,319-362,444,446
+  s_e264e4a97219bf::t_db6faf6574c047 445
+  s_e264e4a97219bf::t_e41c107ad3af89 9,12,44-46,73-74
+python/sglang/srt/mem_cache/unified_cache/components/mamba.py
+  s_e264e4a97219bf::t_b7dece96cc8a3f 202-204,208
+  s_e264e4a97219bf::t_db6faf6574c047 205-207
+  s_e264e4a97219bf::t_c4b0d2102acc7f 24,66-74,240,718,745-747,1014
+test/registered/unit/managers/test_mamba_checkpoint_depth.py
+  s_e264e4a97219bf::t_0ce4a91bebb7e9 15
+  s_e264e4a97219bf::t_d423e1291b36c2 24-28,227,230-234,302-386
+test/registered/unit/mem_cache/test_unified_hicache_hybrid_retry.py
+  s_e264e4a97219bf::t_46db53b8ee40c2 469
+test/registered/unit/mem_cache/test_unified_hicache_regressions.py
+  s_e264e4a97219bf::t_ee7bd850102d50 264-266,268,271,282
+  s_e264e4a97219bf::t_36e227cb36425e 23-24,63,72-76,78-79,234-235,238-263,269-270,272-280,283-291
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_e264e4a97219bf::t_46db53b8ee40c2 983-984
+python/sglang/kernels/jit/csrc/moe/inkling_gate_topk_renorm.cuh
+  s_e264e4a97219bf::t_00df3191f25586 5,128
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_e264e4a97219bf::t_e00ac3845aa6bf 14,26,35,38-40,220,224,226-227,250,262-266,268,283,286,288,327-329,439,455-458,465-484,489-497,508,520,524,540,683,687-688,690-692,708,718,747-760,764-770,792,800-811,816
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9b8eff9efd52cd6286a48dc702c51ab4a1f8fe1b",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

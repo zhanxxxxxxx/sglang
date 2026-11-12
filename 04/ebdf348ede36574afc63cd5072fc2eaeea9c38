@@ -1,0 +1,42 @@
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_f252eadf5e9832 282-289
+  s_fe92d796c96f00::t_dce361dea5cab4 30
+python/sglang/kernels/ops/moe/dsv4_dp_route.py
+  h_f252eadf5e9832 1-47
+python/sglang/srt/runtime_context.py
+  h_f252eadf5e9832 722,746
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_f252eadf5e9832 1168,1495-1503
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_f252eadf5e9832 613-614,1749-1758
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 43,907-912
+python/sglang/srt/models/deepseek_v4.py
+  h_f252eadf5e9832 4071-4080
+  h_f252eadf5e9832 4064-4068,4070,4081-4091
+test/registered/kernel/moe/test_dsv4_dp_route.py
+  h_f252eadf5e9832 1-194
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_f252eadf5e9832 124,265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "04ebdf348ede36574afc63cd5072fc2eaeea9c38",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

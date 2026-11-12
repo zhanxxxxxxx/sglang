@@ -1,0 +1,22 @@
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_ed3938e1e1fcce 258
+python/sglang/srt/speculative/dflash_info_v2.py
+  s_f5a50be0fc3a60::t_cfe8b24f810077 174-176
+  s_f5a50be0fc3a60::t_d639badbdaf175 156-173,177-191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a3d1ece88e1ffbf394384581eef9d03e433c9adf",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
