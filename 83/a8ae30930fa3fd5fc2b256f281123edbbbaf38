@@ -1,0 +1,22 @@
+python/sglang/srt/mem_cache/allocation.py
+  h_1d635ecd767a49 572-574,587-588,590-594
+python/sglang/srt/model_executor/cuda_graph_buffer_registry.py
+  h_1d635ecd767a49 228,439,451
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1d635ecd767a49 493
+test/registered/unit/managers/test_schedule_batch_prepare_for_decode.py
+  h_1d635ecd767a49 13
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_shared_read_fence.py
+  h_1d635ecd767a49 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "83a8ae30930fa3fd5fc2b256f281123edbbbaf38",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
