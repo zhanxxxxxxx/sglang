@@ -1,0 +1,33 @@
+python/sglang/srt/debug_utils/rollout_precision.py
+  s_d2f4c9dc120b69::t_186f3a11498462 1168-1169,1193-1198
+  s_d2f4c9dc120b69::t_b343d06d8f2eff 1163-1167,1170-1177,1179-1192,1199-1200,1329
+  s_d2f4c9dc120b69::t_ff4c19943861b4 1178
+test/registered/debug_utils/test_rollout_precision_capture_reuse.py
+  s_d2f4c9dc120b69::t_d75693a02d3c65 1-21,25-29,32-40,46,65-70,77-80,84-87,91-107,115-120,142,154-155,165-168,172-191,195-200,204-206,220-232,236-246,250-262,267-270,312,316-324,328-330,339-357
+  s_d2f4c9dc120b69::t_8db3802736cefc 30-31
+  s_d2f4c9dc120b69::t_5fccc36e7d2448 22-24,41-45,47-64,71-76,81-83,88-90,108-114,121-141,143-153,156-164,169-171,192-194,201-203,207-219,233-235,247-249,263-266,278-280,286,289-292,295-299,313-315,325-327,331-338
+  s_d2f4c9dc120b69::t_186f3a11498462 271-277,281-285,287-288,293-294,300-311
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_f45b4d0209b83a 1195-1212,1214-1215,1217-1261,1263-1280,1282-1290,1292-1303,4481-4486
+  s_d2f4c9dc120b69::t_b48ede4e2faca4 1213,1216,1262,1281,1291
+python/sglang/srt/debug_utils/rollout_precision_lightweight.py
+  s_d2f4c9dc120b69::t_d75693a02d3c65 175
+  s_d2f4c9dc120b69::t_c3b8c438e512d3 172-174,176-196,198-220,224-228,234,244-245,299-302,304-305,312-313,316-319
+  s_d2f4c9dc120b69::t_a3cc06cc8032e0 197,303
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0169fee70d25467f83642463433a549227ff3b8c",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

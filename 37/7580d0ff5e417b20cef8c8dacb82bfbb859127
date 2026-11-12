@@ -1,0 +1,26 @@
+python/sglang/srt/entrypoints/engine.py
+  h_a3dc1d2ad8ed2d 1657
+python/sglang/srt/managers/octopus_kv_dag.py
+  h_a3dc1d2ad8ed2d 1-785
+python/sglang/srt/managers/schedule_batch.py
+  h_a3dc1d2ad8ed2d 1369-1391
+python/sglang/srt/managers/schedule_policy.py
+  h_a3dc1d2ad8ed2d 152-164
+python/sglang/srt/managers/scheduler.py
+  h_a3dc1d2ad8ed2d 1806-1814,2106-2108,2124,2661-2667,4417-4418,4600,4604,4606,4613-4639
+python/sglang/srt/managers/scheduler_components/pool_stats_observer.py
+  h_a3dc1d2ad8ed2d 156,181-189,192-200,209-217
+python/sglang/srt/mem_cache/common.py
+  h_a3dc1d2ad8ed2d 200-203,216-219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "377580d0ff5e417b20cef8c8dacb82bfbb859127",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

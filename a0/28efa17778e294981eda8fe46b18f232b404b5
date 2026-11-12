@@ -1,0 +1,23 @@
+python/sglang/srt/model_executor/pool_configurator.py
+  s_e264e4a97219bf::t_19232226a56d30 408-409,431-439,465-466
+rust/sglang-server/src/message/config.rs
+  s_e264e4a97219bf::t_19232226a56d30 903
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_e264e4a97219bf::t_19232226a56d30 101-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a028efa17778e294981eda8fe46b18f232b404b5",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

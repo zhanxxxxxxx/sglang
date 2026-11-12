@@ -1,0 +1,27 @@
+python/sglang/srt/models/glm5_next.py
+  s_f5a50be0fc3a60::t_a1668cb3f8c7f8 103-106,153-155,960-965,994,1021-1059
+  s_f5a50be0fc3a60::t_ae2241fbdd7365 1060
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_a1668cb3f8c7f8 259
+python/sglang/srt/layers/communicator_mhc.py
+  s_f5a50be0fc3a60::t_29ed7472144890 89,112-129,433,441
+test/registered/kernels/ops/layernorm/test_mhc_kernels.py
+  s_f5a50be0fc3a60::t_29ed7472144890 2,15,99-103,133-200
+  s_f5a50be0fc3a60::t_241fe6cdb13371 201-202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a718fd4144fa78177ce318743c10b5fcb132b864",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
