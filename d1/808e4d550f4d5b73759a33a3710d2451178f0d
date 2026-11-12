@@ -1,0 +1,21 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_279d059d0ac394::t_a6befd3a4c656f 685,697,703,708,711,715,735-739,743-745,762-764,789-792
+test/registered/unit/mem_cache/test_request_snapshot_arm_batch.py
+  s_279d059d0ac394::t_594c2685d56c51 31-35,38,40,242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d1808e4d550f4d5b73759a33a3710d2451178f0d",
+  "prompts": {},
+  "sessions": {
+    "s_279d059d0ac394": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c047-238c-7922-bcb3-9263d4e8c8aa",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
