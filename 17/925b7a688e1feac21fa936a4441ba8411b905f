@@ -1,0 +1,27 @@
+test/registered/kernels/ops/communication/test_ling_latent_up.py
+  s_e4f6b4e83692e9::t_7dea7de343cbf5 19,39-48,74,105,107,111,119,131-162,168-169,171,206,208,211,266-274,282
+  s_e4f6b4e83692e9::t_c66d2833d44856 238-240
+python/sglang/srt/layers/communication/ling_latent_up.py
+  s_e4f6b4e83692e9::t_7dea7de343cbf5 22-24
+python/sglang/kernels/jit/csrc/communication/ling_latent_up.cuh
+  s_e4f6b4e83692e9::t_7dea7de343cbf5 7-85,129-155
+test/registered/unit/layers/test_ling_latent_up.py
+  s_e4f6b4e83692e9::t_c66d2833d44856 57-59,67-70
+  s_e4f6b4e83692e9::t_7dea7de343cbf5 50-56,60-66,71-74,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17925b7a688e1feac21fa936a4441ba8411b905f",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
