@@ -1,0 +1,31 @@
+python/sglang/kernels/ops/speculative/dflash.py
+  s_f5a50be0fc3a60::t_f86b93a2377c4f 399-401
+  s_f5a50be0fc3a60::t_00a5b5bff290e6 317-398,402-403
+test/registered/kernels/ops/speculative/test_dflash_grouped_conv.py
+  s_f5a50be0fc3a60::t_dfd91570cd2d11 1-14,18-22,29-44,48-60,62,64-70,72-74
+  s_f5a50be0fc3a60::t_345f2bda2bb51b 15,17,23-28,45-47,75-77
+  s_f5a50be0fc3a60::t_49782e323838de 16,61,63,71
+  s_f5a50be0fc3a60::t_677bd55aa8e636 78-93
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_b3dda130e3d684 260
+python/sglang/srt/models/dflash.py
+  s_f5a50be0fc3a60::t_b3dda130e3d684 52,56,437-439,449-452,455-463
+  s_f5a50be0fc3a60::t_49782e323838de 453-454
+  s_f5a50be0fc3a60::t_dfd91570cd2d11 14-17,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4276257bd4eb03b7e190c6c583999628c69a9fdc",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
