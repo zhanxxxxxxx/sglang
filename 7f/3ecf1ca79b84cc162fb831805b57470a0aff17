@@ -1,0 +1,16 @@
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1d635ecd767a49 220-225,499-502,523-524
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_shared_read_fence.py
+  h_1d635ecd767a49 21,25,73-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7f3ecf1ca79b84cc162fb831805b57470a0aff17",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
