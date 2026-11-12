@@ -1,0 +1,32 @@
+test/registered/unit/layers/test_kda_decode_mtp_slot_stride.py
+  s_f5a50be0fc3a60::t_b156bdc9228b3d 4,14,38
+  s_f5a50be0fc3a60::t_43b2a81b5db901 15-18
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_f5a50be0fc3a60::t_38ef669a205ae2 42,1150-1155
+  s_f5a50be0fc3a60::t_5f4d686e257bbd 1249-1252
+python/sglang/kernels/ops/kimi_k3/kda_decode_mtp.py
+  s_f5a50be0fc3a60::t_c08577a0148211 190,730-736,738-749,761-777,779-780,874,963
+  s_f5a50be0fc3a60::t_414adc2a33e9e6 114-131,229-230,370-372,379-380,388-496,498-500,502-620,825
+  s_f5a50be0fc3a60::t_38ef669a205ae2 1200,1202,1230
+test/registered/kernels/test_kda_mtp_cutedsl_replayssm_ring.py
+  s_f5a50be0fc3a60::t_71020badc282c6 196-248
+  s_f5a50be0fc3a60::t_b23a8d05fccc53 171-173
+  s_f5a50be0fc3a60::t_43b2a81b5db901 27-30
+  s_f5a50be0fc3a60::t_38ef669a205ae2 24,26,32,135-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7a82fd1908f2ff29e2f2d9b036a2c053af57e25d",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
