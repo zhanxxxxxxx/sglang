@@ -1,0 +1,21 @@
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_a2283cb78f9b8e 3994-4012,4019-4020,4026-4027
+test/registered/debug_utils/test_rollout_precision_retry.py
+  s_d2f4c9dc120b69::t_a2283cb78f9b8e 164-187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "32fc1a25e52155b52266b7c8ea9af44e16cc7f88",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
