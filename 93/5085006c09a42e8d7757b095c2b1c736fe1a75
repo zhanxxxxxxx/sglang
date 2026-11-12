@@ -1,0 +1,19 @@
+python/sglang/srt/multimodal/processors/kimi_k3.py
+  s_d01b0a00ffc71b::t_a5169621773de4 12,172-187,229,355
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "935085006c09a42e8d7757b095c2b1c736fe1a75",
+  "prompts": {},
+  "sessions": {
+    "s_d01b0a00ffc71b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d01b0a00ffc71b",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
