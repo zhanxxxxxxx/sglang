@@ -1,0 +1,19 @@
+test/registered/debug_utils/test_rollout_precision_capture_reuse.py
+  s_d2f4c9dc120b69::t_6c0c6aef9ce434 300,315,318
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "80d6038f4956fcd33eb575d36aace1f768f52f27",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+python/sglang/srt/model_executor/cuda_graph_buffer_registry.py
+  h_1d635ecd767a49 228-229,440-444,456-458
+test/registered/unit/model_executor/test_cuda_graph_buffer_registry.py
+  h_1d635ecd767a49 195-221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "104e2f85b0098f4c3f2366b414a32df788dfdb69",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

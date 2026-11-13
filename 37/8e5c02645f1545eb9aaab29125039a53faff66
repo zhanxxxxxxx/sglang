@@ -1,0 +1,22 @@
+test/registered/debug_utils/test_whole_kda_reference.py
+  s_d2f4c9dc120b69::t_58ea95a5b0bb02 135-165
+python/sglang/srt/debug_utils/full_composite_reference.py
+  s_d2f4c9dc120b69::t_62997c7294bfc5 4-6,84-119,121-124,130-148,183-192,200-203
+  s_d2f4c9dc120b69::t_d6634645d009fc 120,125-129,193-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "378e5c02645f1545eb9aaab29125039a53faff66",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
