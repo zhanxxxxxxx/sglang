@@ -1,0 +1,123 @@
+python/sglang/srt/managers/scheduler.py
+  s_e264e4a97219bf::t_66d29f9ac617c2 4387-4390,4392
+  s_e264e4a97219bf::t_4f8c6c8b391662 36,798-799,2893,4371,4376-4377,4382-4383,4667,4953,6449-6454,6463-6464,6468-6471
+test/registered/unit/mem_cache/test_unified_scheduler_hooks.py
+  s_e264e4a97219bf::t_f1a0810d78f15e 156
+test/registered/unit/constrained/test_grammar_manager.py
+  s_e264e4a97219bf::t_b5e2b431d39caf 24-25
+  s_e264e4a97219bf::t_7119bdf21434ad 40-44,117,1007-1008
+test/registered/unit/session/test_uocr_doc_prefetch_cuda.py
+  s_e264e4a97219bf::t_8f342a5258ffc5 11,27-29
+  s_e264e4a97219bf::t_66d29f9ac617c2 14,25-26,30
+test/registered/unit/managers/test_scheduler_held_row_admission.py
+  s_e264e4a97219bf::t_9e0fb86e288ddd 12-13,42-44,72-74,82-83,108,121,123-126,165-217,221-236,240-241
+  s_e264e4a97219bf::t_dafcec37b682e5 218-220,237-239
+  s_e264e4a97219bf::t_959171c1439a78 242
+test/registered/unit/managers/test_scheduler_running_reqs.py
+  s_e264e4a97219bf::t_b5e2b431d39caf 8
+  s_e264e4a97219bf::t_316ff7ea84a5d3 39,160-162,375
+docs/src/snippets/agentx/MiniMaxAI/minimax-m3.1.jsx
+  s_23ce52a5f6d197::t_07725d437e125f 3,6,9,11,13,16,18,21,23,156,158-159,322-323,326-327,332-333,375-376,498,500-501,710,712-713,819,821-822,943,945-946,1067-1069,1587,1589-1590,1726-1727,1731-1732,1737-1738,1762-1763,1768-1769,1793-1794,1799-1800,1832-1833,1924,1926-1927,2096,2098-2099,2221,2223-2224,2387-2397,2399-2400,2403-2404,2671,2673-2674,2843,2845-2846,2999,3001-3002,3856,3858-3859,4094,4096-4097,4220-4221,4225-4226,4231-4232,4256-4257,4262-4263,4287-4288,4293-4294,4318-4319,4324-4325,4349-4350,4355-4356,4380-4381,4386-4387,4411-4412,4417-4418,4442-4443,4448-4449,4473-4474,4689-4690,4694-4695,4700-4701,4725-4726,4731-4732,4756-4757,4762-4763,4787-4788,4793-4794,4818-4819,4824-4825,4849-4850,4855-4856,4880-4881,4886-4887,4911-4912,5007,5009-5010,5258,5260-5261,5444,5446-5447,5658,5660-5661,5764,5766-5767
+docs/src/snippets/agentx/Qwen/qwen3.5.jsx
+  s_23ce52a5f6d197::t_8665241bd72dc3 3,6,9,11,13,16,18,21,23,2238,2626,2957,3185,3319,3626,3799,4008,4115,4226,4396,4560,4646-4647,4739,4947,5144,9859-9861,9863,9865-9866,9868,9880,9883-9884,9888-9891,9895-9898,9902-9905,9911,9920,9927,9929-9930,9936-9939,9948-9951,9958-9961,9967-9970,9979-9982,9989-9992,9998-10001,10010-10013,10018-10069,10071-10151,10154-10164,10169-10171,10180-10797,11567,12229,13235,13450,13730,13860,13994,14127,14241,14348,14640
+docs/src/snippets/agentx/Qwen/qwen3.8-flash-next.jsx
+  s_23ce52a5f6d197::t_fcfc407f5afb8f 3,6,9,11,13,16,18,21,23
+docs/src/snippets/agentx/deepseek-ai/deepseek-v4_1.jsx
+  s_23ce52a5f6d197::t_7172750fc5f2d3 3,6,9,11,13,16,18,21,23,1960,2204,2319,2571,2573,2593,2595-2596,2598,2740,2742,2762,2764-2765,2767,2912,2914,2934,2936-2937,2939,3095,3097,3117,3119-3120,3122
+docs/src/snippets/agentx/meta-models/muse-spark-open.jsx
+  s_23ce52a5f6d197::t_7a2e642cd9625d 3,6,9,11,13,16,18,21,23,159,162,692,695,702,704-705,878,885,887-888,1187,1190,1197,1199-1200,1393,1400,1402-1403,1548,1555,1557-1558,1733,1740,1742-1743,1886,1893,1895-1896,2042,2049,2051-2052
+docs/src/snippets/agentx/moonshotai/kimi-k3.1-pro.jsx
+  s_23ce52a5f6d197::t_5596231a67d0de 3,6,9,11,13,16,18,21,23,167,173,175-176,398,404,406-407,682,688,690-691,839,845,847-848,1008,1014,1016-1017,1164,1170,1172-1173,1322,1328,1330-1331,3183,3190,3200,3202-3203,3209,3214,3216,3218,3221,3223-3230,3234-3236,3239-3241,3245,3248-3250,3252-3253,3258-3260,3264-3266,3269-3271,3275,3278-3280,3282-3283,3289,3293-3320,3326,3328-3331,3333-3334,3346-3350,3352-3354,3356-3357,3359,3361,3370,3375,3380-3381,3384-3386,3389-3391,3394-3404,3411,3414-3415,3421,3431,3433-3434,3438,3440-3442,3445,3447-3449,3474-3483,3488-3509,3512-3514,3517-3527,3534,3537-3538,3544,3546,3554,3556-3557,3561-3564,3590-3599,3604-3624,3627-3629,3632-3642
+docs/src/snippets/agentx/zai-org/glm-5.2.jsx
+  s_23ce52a5f6d197::t_2c7719f5a65aa0 3,6,9,11,13,16,18,21,23,4977
+docs/src/snippets/agentx/zai-org/glm-5.3.jsx
+  s_23ce52a5f6d197::t_2763c0ea32edb6 3,6,9,11,13,16,18,21,23
+python/sglang/srt/beam_search/coordinator.py
+  s_23ce52a5f6d197::t_d790564ae5826a 234-237,242
+python/sglang/srt/disaggregation/decode.py
+  s_e264e4a97219bf::t_1c624410dd9ea0 4002-4003,4014-4016
+python/sglang/srt/disaggregation/decode_kvcache_offload_manager.py
+  s_23ce52a5f6d197::t_da533cafe256ee 7,15-20,144-145,148-150,341,411
+python/sglang/srt/disaggregation/prefill.py
+  s_23ce52a5f6d197::t_e75117db2cd7c2 1591-1594
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_23ce52a5f6d197::t_461bf12d52b558 478
+python/sglang/srt/managers/hisparse_coordinator.py
+  s_23ce52a5f6d197::t_46f1dec8f33fdb 1378
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_23ce52a5f6d197::t_53361503f538b9 1747-1749
+python/sglang/srt/managers/scheduler_components/deferred_responses.py
+  s_23ce52a5f6d197::t_6c32c4889432b9 22-24,38,43,77,106
+python/sglang/srt/managers/scheduler_components/exit_ledger.py
+  s_23ce52a5f6d197::t_09e49e6e08efa9 6-9
+python/sglang/srt/managers/scheduler_components/invariant_checker.py
+  s_23ce52a5f6d197::t_9462de4f5328ef 121-125,703-704,715,719-732
+python/sglang/srt/managers/scheduler_components/request_list.py
+  s_23ce52a5f6d197::t_04dbb97d3df381 37,55,64-65,72
+python/sglang/srt/managers/scheduler_components/request_retirer.py
+  s_23ce52a5f6d197::t_27a669489eae5a 3,6,18-19,157-176
+python/sglang/test/scheduler_test_utils.py
+  s_23ce52a5f6d197::t_9486284132fcb3 58,62-69,106,109
+test/registered/unit/disaggregation/test_decode_queue_cleanup.py
+  s_23ce52a5f6d197::t_8faae9ca63d7cd 801-802
+test/registered/unit/disaggregation/test_deferred_decode_kv_release.py
+  s_23ce52a5f6d197::t_4cd282a3698b33 45-49,517,580-583,600,634-639,641-645,647-650,672,674-676,686,695-696,698,701,703-704,706,709-711,785,821,849,857-859,916,921,942,959,981,1016,1042,1056,1067,1084,1091,1096,1103-1105,1118
+test/registered/unit/disaggregation/test_prefill_complete_integration.py
+  s_23ce52a5f6d197::t_9682796ed6ee8e 628,630,632,640
+test/registered/unit/disaggregation/test_prefill_result_polling.py
+  s_23ce52a5f6d197::t_6e947befac4c3f 191
+test/registered/unit/disaggregation/test_specv2_kvcache_offloading.py
+  s_23ce52a5f6d197::t_3aad64aaabddd5 26-29,51,124,188,232,239,267,271
+test/registered/unit/lora/test_lora_pp.py
+  s_23ce52a5f6d197::t_e92be8ffb4ab5a 46,115-122
+test/registered/unit/managers/scheduler_components/test_invariant_checker.py
+  s_23ce52a5f6d197::t_3849a53ebdaf5c 145-156,158,170,172,182-197
+test/registered/unit/managers/scheduler_components/test_request_list.py
+  s_23ce52a5f6d197::t_74ffef362100ff 82-86,88-91,106-108,111,114-123,128-143,148,156-157,248,253-258
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_23ce52a5f6d197::t_990e93cc16ac1a 8,19,222-264
+test/registered/unit/managers/test_batch_result_processor_spec_grammar.py
+  s_23ce52a5f6d197::t_d15a0f17483884 402-403
+test/registered/unit/managers/test_deferred_output.py
+  s_23ce52a5f6d197::t_5052490e0091d3 34,64,239
+test/registered/unit/managers/test_hisparse_unit.py
+  s_23ce52a5f6d197::t_0a0429aa2d52a4 38,201-203
+test/registered/unit/managers/test_scheduler_flush_cache_after_retract.py
+  s_23ce52a5f6d197::t_6024040ee5339f 77,81
+test/registered/unit/managers/test_scheduler_on_idle_load.py
+  s_23ce52a5f6d197::t_66f3132c377696 52,111,138
+test/registered/unit/managers/test_scheduler_pause_generation.py
+  s_23ce52a5f6d197::t_bb58be18d7b3d7 207,256,399,1120,1123
+test/registered/unit/managers/test_scheduler_weight_version_tracking.py
+  s_23ce52a5f6d197::t_3441ede9a6e474 109
+test/registered/unit/mem_cache/test_decode_radix_lock_ref.py
+  s_23ce52a5f6d197::t_f95e14b661e726 410
+test/registered/unit/mem_cache/test_dllm_fdfo_kv_reuse.py
+  s_23ce52a5f6d197::t_129d743654e7e6 24,236,238,247-249,259
+test/registered/unit/session/test_uocr_doc_prefetch_unit.py
+  s_23ce52a5f6d197::t_535ae7d50d15aa 9-13,17,40-42,44,46,67,71,75,99,102,104,118,134,146,151-153,158,167,169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3d8e4d6c0bd2f2b7c6962f37a01f2a78c6446eb5",
+  "prompts": {},
+  "sessions": {
+    "s_23ce52a5f6d197": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09f58-16de-7a52-9e54-1acd6abb7219",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    },
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

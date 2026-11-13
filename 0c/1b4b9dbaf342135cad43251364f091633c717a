@@ -1,0 +1,22 @@
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_fe92d796c96f00::t_ad84d050f152e6 997-1012
+test/registered/unit/mem_cache/test_dsv41_full_endpoint.py
+  s_fe92d796c96f00::t_ad84d050f152e6 1-98
+  s_fe92d796c96f00::t_fab4a6eeadd0c0 99-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0c1b4b9dbaf342135cad43251364f091633c717a",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

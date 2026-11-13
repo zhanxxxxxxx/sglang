@@ -1,0 +1,32 @@
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_0790df9e291aa5::t_11f395f4a961f5 427,1001
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_0790df9e291aa5::t_11f395f4a961f5 39-40
+python/sglang/srt/entrypoints/engine.py
+  s_0790df9e291aa5::t_11f395f4a961f5 420,541
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0790df9e291aa5::t_11f395f4a961f5 276
+python/sglang/srt/managers/tokenizer_manager.py
+  s_0790df9e291aa5::t_11f395f4a961f5 4015
+  s_0790df9e291aa5::t_8ebc1ac788fb1d 4016-4018
+python/sglang/srt/managers/io_struct.py
+  s_0790df9e291aa5::t_11f395f4a961f5 337
+python/sglang/srt/disaggregation/encoder/coordination.py
+  s_0790df9e291aa5::t_11f395f4a961f5 13,20,22,24,26-31,33-47,49-54,56-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "932f53516ba02e38586529f5ea158a06a894a0d7",
+  "prompts": {},
+  "sessions": {
+    "s_0790df9e291aa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c8b4-6d6a-7643-a309-486a46d48053",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

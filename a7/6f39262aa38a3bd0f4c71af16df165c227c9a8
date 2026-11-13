@@ -1,0 +1,19 @@
+docker/ant/aci/k3_patch.aci.yml
+  s_fd29143dcc47f0::t_ea19c1241aa81c 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a76f39262aa38a3bd0f4c71af16df165c227c9a8",
+  "prompts": {},
+  "sessions": {
+    "s_fd29143dcc47f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_fd29143dcc47f0",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
