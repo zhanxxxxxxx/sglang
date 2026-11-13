@@ -1,5 +1,5 @@
 test/registered/kernel/moe/test_dsv4_dp_route.py
-  h_f252eadf5e9832 1-168,170-193
+  h_f252eadf5e9832 1-168,170-193,170-173,174-193
   s_fe92d796c96f00::t_6076de2bb169bf 169
 python/sglang/srt/layers/moe/moe_runner/humming.py
   h_f252eadf5e9832 43,907-912
@@ -8,7 +8,7 @@ python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
   s_fe92d796c96f00::t_6076de2bb169bf 1499
   h_f252eadf5e9832 1168,1495-1498,1503-1506
 python/sglang/srt/models/deepseek_v4.py
-  h_f252eadf5e9832 4051-4055,4057-4078
+  h_f252eadf5e9832 4051-4055,4057-4078,4057,4058-4067,4068-4078
   s_fe92d796c96f00::t_be3ce7a2e04f1a 118
   h_f252eadf5e9832 4056
 python/sglang/kernels/ops/moe/dsv4_dp_route.py
@@ -22,6 +22,10 @@ python/sglang/srt/runtime_context.py
 python/sglang/srt/layers/moe/token_dispatcher/standard.py
   h_f252eadf5e9832 282-289
   s_fe92d796c96f00::t_dce361dea5cab4 30
+python/sglang/srt/managers/schedule_policy.py
+  s_fe92d796c96f00::t_6076de2bb169bf 1447
+python/sglang/srt/model_executor/encoder_swa_replay.py
+  s_fe92d796c96f00::t_1109ebbed7857f 58-59
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -34,6 +38,14 @@ python/sglang/srt/layers/moe/token_dispatcher/standard.py
     }
   },
   "sessions": {
+    "s_0cedcf3e36c08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c42c-e0c3-7a33-aff0-93518a53287e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    },
     "s_fe92d796c96f00": {
       "agent_id": {
         "tool": "codex",
