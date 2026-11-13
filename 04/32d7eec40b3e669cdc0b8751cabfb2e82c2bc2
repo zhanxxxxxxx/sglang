@@ -1,0 +1,24 @@
+test/registered/unit/spec/test_dflash_batched_kv_dispatch.py
+  s_f5a50be0fc3a60::t_d87f4a8cc4d864 1-187
+python/sglang/kernels/ops/kvcache/batched_store_cache.py
+  s_f5a50be0fc3a60::t_89582aa24611b2 1-123
+python/sglang/srt/speculative/dflash_worker_v2.py
+  s_f5a50be0fc3a60::t_89582aa24611b2 3,443-450,496-499,507-508,726-767,1684-1712
+  s_f5a50be0fc3a60::t_d94ebbee82408b 1713,1819
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0432d7eec40b3e669cdc0b8751cabfb2e82c2bc2",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

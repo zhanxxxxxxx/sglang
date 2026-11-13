@@ -1,0 +1,45 @@
+test/registered/unit/managers/test_scheduler_held_row_admission.py
+  s_e264e4a97219bf::t_cf87cd7c5b1327 259-296
+  s_e264e4a97219bf::t_88ae5f2b6e600b 81-88
+  s_e264e4a97219bf::t_0e8dcc09f8234c 1-2,68-74,109,258,297
+docker/Dockerfile.cu134
+  s_8d6e02f56d531e::t_11213d08a70197 20-21
+python/pyproject.toml
+  s_8d6e02f56d531e::t_81876bda6d607d 82-83
+python/sglang/srt/disaggregation/prefill.py
+  s_8d6e02f56d531e::t_49a330bd73f844 1588-1592,1608,1614
+python/sglang/srt/managers/schedule_policy.py
+  s_8d6e02f56d531e::t_39fdb125dad1a9 1315-1321
+python/sglang/srt/managers/scheduler.py
+  s_8d6e02f56d531e::t_34f155f43a5e44 4270-4271,4659-4663,4670
+python/sglang/srt/mem_cache/prefill_budget.py
+  s_8d6e02f56d531e::t_3afac199aa4e30 250-251
+test/registered/unit/disaggregation/test_prefill_complete_integration.py
+  s_8d6e02f56d531e::t_d7f97251e5d223 484-485,526-547
+test/registered/unit/managers/test_prefill_adder.py
+  s_8d6e02f56d531e::t_8c9d313e383d6d 394-459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9bb58972287255e4c0850da97771206e69589a35",
+  "prompts": {},
+  "sessions": {
+    "s_8d6e02f56d531e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167c6-e565-7440-a4c7-96fefe943ed5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    },
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+python/sglang/srt/environ.py
+  s_dfc9c05e659763::t_df6b78a8f649fb 2220-2222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "33a03954399f81eda82e01dec5f525c3fb935305",
+  "prompts": {},
+  "sessions": {
+    "s_dfc9c05e659763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "223a4687-df88-4ef7-be48-5525ca220117",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

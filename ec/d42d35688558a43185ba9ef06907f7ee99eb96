@@ -1,0 +1,57 @@
+tests/inference_rsi/test_setup.py
+  s_7b2946cc37b1ad::t_da735acfb117b6 41
+  s_7b2946cc37b1ad::t_9669dc5184efb1 44
+  s_7b2946cc37b1ad::t_f6b92d7d81d997 57-78
+  s_7b2946cc37b1ad::t_d5af58db743743 79-99
+  s_7b2946cc37b1ad::t_cf759f9068e04e 35-40,42-43,45-56
+docs/implementation-plan.md
+  s_7b2946cc37b1ad::t_778ea8cef5d783 1409-1416
+tools/setup.sh
+  s_7b2946cc37b1ad::t_7254d0cabdc7de 2-4
+README.md
+  s_7b2946cc37b1ad::t_4f0aa0ee5b9c2f 36
+  s_7b2946cc37b1ad::t_2db9cab6a432ad 37-44
+tests/inference_rsi/test_setup_readiness.py
+  s_7b2946cc37b1ad::t_042d7df47a5933 1-71,73-100,102-103,116-121,131-143
+  s_7b2946cc37b1ad::t_9f0146fb4ee231 144-150
+  s_7b2946cc37b1ad::t_3471d5be01dd90 122-123
+  s_7b2946cc37b1ad::t_d0367390319e5b 124-130
+  s_7b2946cc37b1ad::t_8a4c423110d0a9 72
+  s_7b2946cc37b1ad::t_badef33c35b144 101,104-115
+tools/setup_auth.py
+  s_7b2946cc37b1ad::t_f9ae0973f3d365 1-52,54,57-72,95-102,105,108-109,113-121,125-139,146-147,150-153,157-161
+  s_7b2946cc37b1ad::t_9f0146fb4ee231 154-156
+  s_7b2946cc37b1ad::t_a530d9fa319c6e 140-145,162-171
+  s_7b2946cc37b1ad::t_badef33c35b144 148-149
+  s_7b2946cc37b1ad::t_d0367390319e5b 85-94
+  s_7b2946cc37b1ad::t_7254d0cabdc7de 73-77,82-84,106-107
+  s_7b2946cc37b1ad::t_8a4c423110d0a9 53,55-56,78-81,103-104,110-112,122-124
+skills/rsi/SKILL.md
+  s_7b2946cc37b1ad::t_d0367390319e5b 16-21
+tools/setup_env.py
+  s_7b2946cc37b1ad::t_a530d9fa319c6e 538-540
+  s_7b2946cc37b1ad::t_4f0aa0ee5b9c2f 117,269
+  s_7b2946cc37b1ad::t_2db9cab6a432ad 457,465,546-552
+  s_7b2946cc37b1ad::t_7254d0cabdc7de 237,409-410,415-417,484-502,508,514,525-529,532-534,541,544-545,557
+skills/rsi/references/setup.md
+  s_7b2946cc37b1ad::t_3471d5be01dd90 45
+  s_7b2946cc37b1ad::t_2db9cab6a432ad 33-35,41-44
+  s_7b2946cc37b1ad::t_4f0aa0ee5b9c2f 25
+  s_7b2946cc37b1ad::t_9f0146fb4ee231 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ecd42d35688558a43185ba9ef06907f7ee99eb96",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
