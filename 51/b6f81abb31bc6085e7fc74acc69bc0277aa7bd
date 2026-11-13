@@ -1,0 +1,46 @@
+test/registered/kernel/moe/test_dsv4_dp_route.py
+  h_f252eadf5e9832 1-168,170-193
+  s_fe92d796c96f00::t_6076de2bb169bf 169
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 43,907-912
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_fe92d796c96f00::t_31c2a8312bdf6d 1500-1502
+  s_fe92d796c96f00::t_6076de2bb169bf 1499
+  h_f252eadf5e9832 1168,1495-1498,1503-1506
+python/sglang/srt/models/deepseek_v4.py
+  h_f252eadf5e9832 4051-4055,4057-4078
+  s_fe92d796c96f00::t_be3ce7a2e04f1a 118
+  h_f252eadf5e9832 4056
+python/sglang/kernels/ops/moe/dsv4_dp_route.py
+  h_f252eadf5e9832 1-47
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_f252eadf5e9832 611-612,1742-1751
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_f252eadf5e9832 124,265
+python/sglang/srt/runtime_context.py
+  h_f252eadf5e9832 722,746
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_f252eadf5e9832 282-289
+  s_fe92d796c96f00::t_dce361dea5cab4 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "51b6f81abb31bc6085e7fc74acc69bc0277aa7bd",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
