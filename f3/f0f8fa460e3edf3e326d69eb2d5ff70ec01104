@@ -1,0 +1,16 @@
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  h_a3dc1d2ad8ed2d 259-260,262,266-272,274-275,277-278,281,284-287,355-356,364-365,521-527,569-570,595-596,598-605,618-619,623-629
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  h_a3dc1d2ad8ed2d 398,477-511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3f0f8fa460e3edf3e326d69eb2d5ff70ec01104",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

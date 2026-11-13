@@ -1,0 +1,21 @@
+python/sglang/benchmark/serving.py
+  s_0790df9e291aa5::t_e1624c18de316d 698
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_0790df9e291aa5::t_53387c3a1f973b 1279-1283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9ae22593c61ef7b551686405ce5401b35ab9656f",
+  "prompts": {},
+  "sessions": {
+    "s_0790df9e291aa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c8b4-6d6a-7643-a309-486a46d48053",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
