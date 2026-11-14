@@ -1,0 +1,14 @@
+python/sglang/multimodal_gen/apps/ComfyUI_SGLDiffusion/worker_patches/h3.py
+  h_1f940cd96f2dab 141-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ecbf4bcf117d772c803f073ba33843eafb04da1",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
