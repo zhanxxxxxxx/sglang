@@ -1,0 +1,70 @@
+test/registered/unit/disaggregation/test_dsv41_request_window_pd_receive.py
+  s_ab0a0f27cc64b2::t_179a6b643eace5 38,78,174,184,206
+test/registered/unit/mem_cache/test_dsv41_window_injection_dynamic.py
+  s_ab0a0f27cc64b2::t_7062153bdacb09 12,30-31,41-42,57-63,66-71,84,99-100,106,113
+test/registered/unit/mem_cache/test_dsv4_compressed_pools.py
+  s_ab0a0f27cc64b2::t_bf18c84681ea5f 37,938-949,951-952,962-966,968-969
+test/registered/kernels/ops/memory/test_dsv41_direct_ring_cuda.py
+  s_ab0a0f27cc64b2::t_7062153bdacb09 3-4,15
+  s_ab0a0f27cc64b2::t_179a6b643eace5 114,185,233,344,389,399
+  s_ab0a0f27cc64b2::t_975b15d2aa9146 55,66,82,89,116,123,136,149-150,308-311,323,345,413,437
+test/registered/amd/test_deepseek_v4_pro_fp4_dspark.py
+  s_ab0a0f27cc64b2::t_51de6d96cc8835 20
+  s_ab0a0f27cc64b2::t_bf18c84681ea5f 125,134,141
+  s_ab0a0f27cc64b2::t_055c33e87d4b79 140
+test/registered/kernels/ops/memory/test_dsv41_request_window_pd_cuda.py
+  s_ab0a0f27cc64b2::t_975b15d2aa9146 67,85,108-111,126,128-132
+test/registered/unit/mem_cache/test_dsv41_layer_access.py
+  s_ab0a0f27cc64b2::t_f09f6f4517e46c 100-112,261
+  s_ab0a0f27cc64b2::t_8731c1069bc5e8 258-260
+test/registered/kernel/attention/dsv4/test_dsv41_swa_draft_query.py
+  s_ab0a0f27cc64b2::t_bf18c84681ea5f 117-124,126-127
+python/sglang/kernels/ops/kvcache/dsv4_main_kv_store.py
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 43,121
+test/registered/unit/mem_cache/test_dsv41_swa_transfer.py
+  s_ab0a0f27cc64b2::t_bf18c84681ea5f 1,4,7,44-51
+test/registered/unit/disaggregation/test_dsv41_native_bank_pd.py
+  s_ab0a0f27cc64b2::t_975b15d2aa9146 160,188-189,202,228
+test/registered/unit/mem_cache/test_dsv41_full_snapshot_runtime.py
+  s_ab0a0f27cc64b2::t_52648e0b1cadda 165,167-170
+  s_ab0a0f27cc64b2::t_975b15d2aa9146 34-49,60,68,82-83,106,140,142
+test/registered/kernel/attention/dsv4/test_dsv41_swa_packed_addressing.py
+  s_ab0a0f27cc64b2::t_7062153bdacb09 7,12-17,21-23,25,28-42,45-46,48-52,54-55,66
+test/registered/unit/mem_cache/test_dsv41_swa_injection.py
+  s_ab0a0f27cc64b2::t_bf18c84681ea5f 5,11,29-31,41,43-44,55,57-68
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_pool.py
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 4-5,162,171
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 335,1164,1305,1314,1343,1705,1724,1757,1828-1829
+test/registered/unit/mem_cache/test_dsv41_known_prefill_starts.py
+  s_ab0a0f27cc64b2::t_c52c383871f45b 128-130,153-154,161,167-169
+test/registered/unit/mem_cache/test_dsv41_snapshot_execution.py
+  s_ab0a0f27cc64b2::t_52648e0b1cadda 73,90-91,93-98
+python/sglang/kernels/ops/attention/dsv4/norm_rope.py
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 335
+test/registered/kernel/attention/dsv4/test_dsv41_swa_snapshot.py
+  s_ab0a0f27cc64b2::t_71a568929232db 140
+  s_ab0a0f27cc64b2::t_52648e0b1cadda 27,42,63-64,74-76,218,239-240,266
+test/registered/unit/mem_cache/test_dsv41_snapshot_runtime.py
+  s_ab0a0f27cc64b2::t_52648e0b1cadda 36,74-75,78-83,94,109-110
+test/registered/kernel/attention/dsv4/test_dsv41_swa_without_tags.py
+  s_ab0a0f27cc64b2::t_975b15d2aa9146 184
+test/registered/unit/mem_cache/test_dsv41_batch_geometry.py
+  s_ab0a0f27cc64b2::t_3199434a417461 10,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "157f9b166bc69c979c166e63492111fc20e5b00b",
+  "prompts": {},
+  "sessions": {
+    "s_ab0a0f27cc64b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d387-9e50-76b2-ab94-3dc82a755e32",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

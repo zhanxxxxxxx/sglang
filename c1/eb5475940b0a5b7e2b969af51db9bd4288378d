@@ -1,0 +1,19 @@
+python/sglang/srt/model_executor/runner/flashinfer_autotune.py
+  s_5e8ee733b2f3d3::t_c03cb78eb5be98 297-300,302-305,307,318-326,332,335-336,446-451
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c1eb5475940b0a5b7e2b969af51db9bd4288378d",
+  "prompts": {},
+  "sessions": {
+    "s_5e8ee733b2f3d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203484a0-7962-48df-8d94-f187cb66cc43",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

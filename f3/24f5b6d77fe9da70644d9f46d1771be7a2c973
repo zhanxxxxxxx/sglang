@@ -1,0 +1,26 @@
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  h_f252eadf5e9832 3516-3518
+python/sglang/srt/layers/attention/deepseek_v4_backend_hip_radix.py
+  h_f252eadf5e9832 3093,3126-3137,3144,3335
+python/sglang/srt/managers/scheduler_components/invariant_checker.py
+  h_f252eadf5e9832 184-187
+python/sglang/srt/mem_cache/dsv41_swa_storage.py
+  h_f252eadf5e9832 173-175,202-215,220-222
+test/registered/kernel/attention/dsv4/test_dsv41_final_storage_boundary.py
+  h_f252eadf5e9832 1-168
+test/registered/unit/layers/test_dsv41_ring_sparse_prefill.py
+  h_f252eadf5e9832 22,265-270
+test/registered/unit/mem_cache/test_dsv41_swa_storage_access.py
+  h_f252eadf5e9832 161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f324f5b6d77fe9da70644d9f46d1771be7a2c973",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
