@@ -1,0 +1,27 @@
+docs/docs/basic_usage/openai_api_completions.mdx
+  s_8d6e02f56d531e::t_f58016a0768cce 357-358,360
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_8d6e02f56d531e::t_8dce8177741711 85,1050,1058-1060
+python/sglang/srt/models/unlimited_ocr_v2_support/chat.py
+  s_8d6e02f56d531e::t_f2834f04250b26 804,882,1067
+test/registered/unit/entrypoints/openai/test_protocol.py
+  s_8d6e02f56d531e::t_529406a170cadd 569,572,597,599,604-605
+test/registered/unit/models/unlimited_ocr_v2/test_document_split.py
+  s_8d6e02f56d531e::t_cad18e219a1312 994-1004
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7393498582fb49ffc8dead872c45f117b3642dc7",
+  "prompts": {},
+  "sessions": {
+    "s_8d6e02f56d531e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167c6-e565-7440-a4c7-96fefe943ed5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

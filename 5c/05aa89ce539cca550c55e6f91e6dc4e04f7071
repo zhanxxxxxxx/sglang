@@ -1,0 +1,19 @@
+test/registered/unit/layers/quantization/test_mxfp4_sm100_trtllm_gen.py
+  s_4aa7dade5a6a55::t_32a7abbf13566b 342-345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5c05aa89ce539cca550c55e6f91e6dc4e04f7071",
+  "prompts": {},
+  "sessions": {
+    "s_4aa7dade5a6a55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be27-e2a2-7b30-930c-cc1d706503b4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

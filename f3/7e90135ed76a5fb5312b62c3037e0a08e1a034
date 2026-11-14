@@ -1,0 +1,27 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_9acce7e800ea9b::t_4d27ea2cdeb865 1731-1743
+python/sglang/srt/managers/scheduler.py
+  s_9acce7e800ea9b::t_8e7b451d1d4e9a 5149-5168,5903
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_9acce7e800ea9b::t_6d244dbd5ba19f 4-5,10,734-795
+test/registered/unit/managers/test_forward_isolation.py
+  s_9acce7e800ea9b::t_6ce00b4078c0b2 52-57,174-212
+test/registered/unit/managers/test_scheduler_on_idle_load.py
+  s_9acce7e800ea9b::t_8e5ed524ed6202 96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f37e90135ed76a5fb5312b62c3037e0a08e1a034",
+  "prompts": {},
+  "sessions": {
+    "s_9acce7e800ea9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_9acce7e800ea9b",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

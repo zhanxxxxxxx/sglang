@@ -1,0 +1,82 @@
+control/server.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 149,164,172-175,288
+  s_7b2946cc37b1ad::t_e361c260681332 111,141,143-145,150-153
+  s_7b2946cc37b1ad::t_4b46287f7d21cf 177-179
+  s_7b2946cc37b1ad::t_a1d4d755378690 187-189
+  s_7b2946cc37b1ad::t_60552801c48195 140,142
+docs/process-management.md
+  s_7b2946cc37b1ad::t_41d8e1517dd8e8 1-55
+execution/agent_worker.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 33-34
+control/process_observer.py
+  s_7b2946cc37b1ad::t_88b0252c529146 1-75,77-79,81-91,93-94,96-124
+  s_7b2946cc37b1ad::t_26591eace15561 76,80,92,95
+agents/codex_runtime.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 48-49
+README.md
+  s_7b2946cc37b1ad::t_41d8e1517dd8e8 127
+execution/sglang/provider.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 49-50
+tests/inference_rsi/test_managed_processes.py
+  s_7b2946cc37b1ad::t_bc057fa9fb9658 98-102,125,128
+  s_7b2946cc37b1ad::t_9d1fdb7d460219 165
+  s_7b2946cc37b1ad::t_282c948bd8c7b9 260-295
+  s_7b2946cc37b1ad::t_e4c9bcee80f07e 226-241
+  s_7b2946cc37b1ad::t_ae4dfb68de7896 58-65
+  s_7b2946cc37b1ad::t_68987e2a622408 1-57,66-97,103-124,126-127,129-148,153-164,166-189
+  s_7b2946cc37b1ad::t_60552801c48195 192-201
+  s_7b2946cc37b1ad::t_3078ccc2b60dde 149-152,190-191,202-225,242-259
+cli.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 144-150,337-345
+  s_7b2946cc37b1ad::t_4b46287f7d21cf 330-334,336
+  s_7b2946cc37b1ad::t_a1d4d755378690 143
+execution/loop_executor.py
+  s_7b2946cc37b1ad::t_60552801c48195 17,105
+  s_7b2946cc37b1ad::t_43e9191497cfb1 51-52,62,75
+  s_7b2946cc37b1ad::t_61978d2318933f 31,95,127,152
+  s_7b2946cc37b1ad::t_2c3c074970978a 38-50,53-61,63-70,78-82,125
+  s_7b2946cc37b1ad::t_1d49c7be5f9d53 1-16,18-30,32-37,71-74,76-77,83-94,96-104,106-124,126,128-151,153-159
+execution/attempt_worker.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 56-57
+control/processes.py
+  s_7b2946cc37b1ad::t_282c948bd8c7b9 119
+  s_7b2946cc37b1ad::t_61978d2318933f 134-141,233,235-236,301
+  s_7b2946cc37b1ad::t_43e9191497cfb1 64,72-77
+  s_7b2946cc37b1ad::t_60552801c48195 17,28,120,122-123
+  s_7b2946cc37b1ad::t_4b46287f7d21cf 229,285
+  s_7b2946cc37b1ad::t_51df14b4c4bbd4 213
+  s_7b2946cc37b1ad::t_e4c9bcee80f07e 253,261,283
+  s_7b2946cc37b1ad::t_a1d4d755378690 80-96,242-243,300
+  s_7b2946cc37b1ad::t_e361c260681332 190,194,270-271,273-274
+  s_7b2946cc37b1ad::t_3fc59c4cae8785 191,195-200,272,275-277,287
+  s_7b2946cc37b1ad::t_26591eace15561 234,237-240,244-252,254-256,263,294
+  s_7b2946cc37b1ad::t_ae4dfb68de7896 65-69
+  s_7b2946cc37b1ad::t_e06cb276bb7ec2 1-16,18-27,29-63,70-71,78-79,97-118,121,124-133,142-189,192-193,201-212,214-228,230-232,241,257-260,262,264-269,278-282,284,286,288-293,295-299
+execution/providers.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 56-57,151,153
+tools/rsi_observer.py
+  s_7b2946cc37b1ad::t_a09a03cdf6bf57 2,5-6,8
+docs/implementation-plan.md
+  s_7b2946cc37b1ad::t_7dd0611be0dc5b 1348-1349
+  s_7b2946cc37b1ad::t_498bfe9b378497 1340-1347
+execution/formal_command.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 124-125
+control/preparation.py
+  s_7b2946cc37b1ad::t_5b8fe4b7306f47 264-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a5139ec688ed0a1acb1f550e1ee3cbf7c6d55dab",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
