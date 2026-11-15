@@ -1,0 +1,37 @@
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_2e74a1768aafbe::t_7ae46a9dec47e4 342-425
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 466-468
+python/sglang/srt/model_executor/runner_utils/deepep_adapter.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 26-27,32,40
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 225-228,295-299,1425-1430,1540,1543,1545-1547,1595-1597
+  s_2e74a1768aafbe::t_70a8c2ead01e11 1541-1542,1544
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 1025-1028
+python/sglang/srt/layers/attention/base_attn_backend.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 129-132
+python/sglang/srt/speculative/dspark_components/dspark_draft.py
+  s_2e74a1768aafbe::t_7ae46a9dec47e4 356,358,360
+  s_2e74a1768aafbe::t_39524f4b3e5eac 357,359
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 573-574
+python/sglang/srt/layers/attention/hybrid_attn_backend.py
+  s_2e74a1768aafbe::t_12bb1a6f7d2a8d 63-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc9ef06c29960bc10358065226cab6d8adf2c504",
+  "prompts": {},
+  "sessions": {
+    "s_2e74a1768aafbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d441-07ec-70e0-b4c8-cfe91a21e8d9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}
