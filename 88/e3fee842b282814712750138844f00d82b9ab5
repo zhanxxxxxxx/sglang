@@ -1,0 +1,36 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_0c8ee8c8d06cd1::t_32b7a89d64d989 54
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_0c8ee8c8d06cd1::t_d6e22c7d49f12f 859-909
+  s_0c8ee8c8d06cd1::t_6bff167c58fb76 13
+python/sglang/srt/disaggregation/encoder/http_client.py
+  s_0c8ee8c8d06cd1::t_3c723d4863a0ba 149-172
+  s_0c8ee8c8d06cd1::t_3f218beb9f663d 6,13
+  s_56183ea0f7a74b::t_d42b9b1b460c91 14
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0c8ee8c8d06cd1::t_f37a4463a13dde 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "88e3fee842b282814712750138844f00d82b9ab5",
+  "prompts": {},
+  "sessions": {
+    "s_0c8ee8c8d06cd1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2e0a7f3c-cce4-4943-8b2f-f1c67e6939dc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_56183ea0f7a74b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d3e0-a405-7362-85bd-683e3beb67be",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

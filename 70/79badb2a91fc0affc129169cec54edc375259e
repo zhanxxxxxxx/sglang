@@ -1,0 +1,27 @@
+python/sglang/srt/layers/attention/linear/glm53_gate_fusion.py
+  s_f5a50be0fc3a60::t_f869ec20d1d1be 79,82-85
+  s_f5a50be0fc3a60::t_9792b2e26deda1 81
+python/sglang/srt/models/glm5_next.py
+  s_f5a50be0fc3a60::t_f869ec20d1d1be 701,704-705,715,718-719
+  s_f5a50be0fc3a60::t_9792b2e26deda1 702-703,716-717
+test/registered/kernels/test_glm53_gate_bmm.py
+  s_f5a50be0fc3a60::t_f869ec20d1d1be 16,40
+python/sglang/kernels/ops/kimi_k3/glm53_gate_bmm.py
+  s_f5a50be0fc3a60::t_f869ec20d1d1be 49-50,53,65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7079badb2a91fc0affc129169cec54edc375259e",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}

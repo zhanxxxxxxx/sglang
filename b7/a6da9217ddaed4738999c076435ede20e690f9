@@ -1,0 +1,28 @@
+tools/dashboard_view.html
+  s_1d32b085fb33ca::t_5f5ef1bb8a1277 79-102,107-108
+tools/dashboard_flow.js
+  s_1d32b085fb33ca::t_5f5ef1bb8a1277 22-25,69
+tests/inference_rsi/test_dashboard_ais_links.py
+  s_1d32b085fb33ca::t_0515de4b2ebb47 220-251
+  s_1d32b085fb33ca::t_605f84886eb382 138,152,166
+tests/inference_rsi/test_dashboard_flow.py
+  s_1d32b085fb33ca::t_0515de4b2ebb47 68-119
+tools/rsi_dashboard.py
+  s_1d32b085fb33ca::t_5f5ef1bb8a1277 163-184,237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b7a6da9217ddaed4738999c076435ede20e690f9",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
