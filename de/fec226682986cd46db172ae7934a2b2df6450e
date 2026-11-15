@@ -1,0 +1,16 @@
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  h_f252eadf5e9832 1150,1173
+test/registered/unit/mem_cache/test_dsv41_window_metadata_dynamic.py
+  h_f252eadf5e9832 137-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "defec226682986cd46db172ae7934a2b2df6450e",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_a3dc1d2ad8ed2d 506-512,1069-1073,1520
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  h_a3dc1d2ad8ed2d 326-330,432-443,471-475,628,632,657-659
+python/sglang/srt/mem_cache/snapshot_content_scope.py
+  h_a3dc1d2ad8ed2d 28,108
+python/sglang/srt/mem_cache/snapshot_first_output.py
+  h_a3dc1d2ad8ed2d 16
+python/sglang/srt/mem_cache/snapshot_native_import.py
+  h_a3dc1d2ad8ed2d 396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ea6a89dbec33db944a6a32aaa3257624d71484df",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

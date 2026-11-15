@@ -1,0 +1,69 @@
+tools/dashboard_flow.js
+  s_1d32b085fb33ca::t_f5bcd980e333ef 48-60
+  s_1d32b085fb33ca::t_ead85f6895b691 29
+  s_1d32b085fb33ca::t_f5987b08969764 1-28,30-47
+tests/inference_rsi/test_formal_review.py
+  s_1d32b085fb33ca::t_a5e329afaacb17 48-49,75,86,134-137
+  s_1d32b085fb33ca::t_c36afa13424afc 138-139
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_721debc7a8c0d1 1340-1349
+orchestrator/formal_review.py
+  s_1d32b085fb33ca::t_a5e329afaacb17 170-174
+tests/inference_rsi/test_dashboard_service_roles.py
+  s_7b2946cc37b1ad::t_7bcf5cea95c2aa 1-69
+tests/inference_rsi/test_dashboard_ais_links.py
+  s_1d32b085fb33ca::t_0bef26ecfb5e04 169-190
+  s_1d32b085fb33ca::t_b1106f2e18ba50 46,50-89
+  s_1d32b085fb33ca::t_7023bad6e1ad19 43-45,47-49,90-91
+  s_1d32b085fb33ca::t_401a429ca953b0 37,39
+tools/rsi_dashboard.py
+  s_1d32b085fb33ca::t_0bef26ecfb5e04 84-87,93
+  s_1d32b085fb33ca::t_d93cc2330f1249 17,100-152,196,201-203
+  s_7b2946cc37b1ad::t_947691a13194e1 197-200
+  s_7b2946cc37b1ad::t_acd92ea85bfdab 207-251
+  s_1d32b085fb33ca::t_ead85f6895b691 10,16,58-83,88-92,94-99,163,253-256
+tests/inference_rsi/test_dashboard_flow.py
+  s_1d32b085fb33ca::t_401a429ca953b0 1-38,43-62
+  s_1d32b085fb33ca::t_127447a1123ec1 39-42
+tools/dashboard_state.js
+  s_1d32b085fb33ca::t_b3f2b73da37f4b 11,17,40-41,51-52,57-65
+tests/inference_rsi/test_observer_recovery.py
+  s_1d32b085fb33ca::t_19c4ee88ff87d7 104
+  s_1d32b085fb33ca::t_9fd1123439506e 94-103,105-106,108-110
+  s_1d32b085fb33ca::t_2015fca57ea719 107
+tools/dashboard_view.html
+  s_1d32b085fb33ca::t_f5987b08969764 1-20,25-26,28-32,34-35,37,40,43-49,55-61
+  s_1d32b085fb33ca::t_71b728627d39ed 24,33,36,38-39,41-42
+  s_1d32b085fb33ca::t_b26fffdbf251ad 50
+  s_7b2946cc37b1ad::t_3533a183bfdb5a 22-23,27
+  s_1d32b085fb33ca::t_b3f2b73da37f4b 52-54
+  s_1d32b085fb33ca::t_aa394f806b343f 21,51
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_cc7f584405f1f4 371-375
+  s_1d32b085fb33ca::t_19c4ee88ff87d7 32-35,710,742
+  s_1d32b085fb33ca::t_f24fb0c19e018c 361-370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8a86b0cb14a19d66c9a0612467d1262597b4cc8b",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    },
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

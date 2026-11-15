@@ -1,0 +1,27 @@
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_tuning.py
+  s_f5a50be0fc3a60::t_585966db042cb1 204-229,232,235-236,238-239,241-242,244-245
+  s_f5a50be0fc3a60::t_d2de94088001d4 230-231,233-234,237,240,243,246-249
+  s_f5a50be0fc3a60::t_07fb75f1f4801f 10
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_f5a50be0fc3a60::t_585966db042cb1 260
+  s_f5a50be0fc3a60::t_d2de94088001d4 238,258,261
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  s_f5a50be0fc3a60::t_d2de94088001d4 120,138-139,152,163,170,176
+  s_f5a50be0fc3a60::t_585966db042cb1 121-137,140-151,153-162,164-169,171-175,177-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ac4840466ebc5e0bc84f883568e7f2b9670b0eb3",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

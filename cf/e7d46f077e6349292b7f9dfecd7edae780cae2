@@ -1,0 +1,28 @@
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_bbb22337e1ec96::t_367dd0c60dccbf 5,410-431,439-440,574-581,585-591,595-600,721
+python/sglang/srt/managers/tokenizer_manager.py
+  s_bbb22337e1ec96::t_367dd0c60dccbf 21,24,233,935-936,4084-4088,4090-4103,4107,4143-4154
+  s_bbb22337e1ec96::t_2bfcccbd1bf12f 59
+docker/Dockerfile
+  s_bbb22337e1ec96::t_c0f950b8506842 460,462-463,738,800-801,831-832,857,930-932,934,1011,1018
+docker/ant/README.md
+  s_bbb22337e1ec96::t_d5c2e211a4fe9a 15-16
+test/registered/unit/managers/test_batch_result_processor_flush_prefill.py
+  s_bbb22337e1ec96::t_d5c2e211a4fe9a 1-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cfe7d46f077e6349292b7f9dfecd7edae780cae2",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

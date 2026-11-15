@@ -1,0 +1,51 @@
+skills/rsi/scripts/setup_common.py
+  s_7b2946cc37b1ad::t_e56d82fdafafdb 1-39,43-44,50-51,53,55-61
+  s_7b2946cc37b1ad::t_fbcd7d6956287a 54
+  s_7b2946cc37b1ad::t_bcb48e8b2294e8 40-42,45-49
+  s_7b2946cc37b1ad::t_d3ea5cc6374a38 52
+pyproject.toml
+  s_7b2946cc37b1ad::t_bcb48e8b2294e8 35
+README.md
+  s_7b2946cc37b1ad::t_9f1d8a121f07a3 29,31-32,35,37-39
+docs/implementation-plan.md
+  s_7b2946cc37b1ad::t_04eb79d35bf063 1417-1424
+skills/rsi/scripts/install_deps.py
+  s_7b2946cc37b1ad::t_e56d82fdafafdb 1-18,21-28
+  s_7b2946cc37b1ad::t_514ae651ca1b3e 19-20
+skills/rsi/SKILL.md
+  s_7b2946cc37b1ad::t_a1eb13e578f966 14
+  s_7b2946cc37b1ad::t_bcb48e8b2294e8 3,10,16,18,20
+control/skill_install.py
+  s_7b2946cc37b1ad::t_bcb48e8b2294e8 22-23
+skills/rsi/references/setup.md
+  s_7b2946cc37b1ad::t_4a6563eabc6c9f 23-29
+tests/inference_rsi/test_skill_setup.py
+  s_7b2946cc37b1ad::t_1d3626b52fefa6 89
+  s_7b2946cc37b1ad::t_707e515ad26e40 96-100,105
+  s_7b2946cc37b1ad::t_fbcd7d6956287a 1-88,90-95,101-104
+tools/setup_env.py
+  s_7b2946cc37b1ad::t_e56d82fdafafdb 410,417,483,486-488,510
+skills/rsi/references/setup-command.md
+  s_7b2946cc37b1ad::t_fbcd7d6956287a 18,21-22
+  s_7b2946cc37b1ad::t_173f9f23de60e8 1-17,19-20,23-69
+skills/rsi/scripts/setup_auth_check.py
+  s_7b2946cc37b1ad::t_d3ea5cc6374a38 18,53-60
+  s_7b2946cc37b1ad::t_707e515ad26e40 49
+  s_7b2946cc37b1ad::t_e56d82fdafafdb 1-17,19-48,50-52,61-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3735b3905f3a827fb10208427ccf06b5ed7736e",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

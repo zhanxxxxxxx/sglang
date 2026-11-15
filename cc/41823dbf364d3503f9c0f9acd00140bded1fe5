@@ -1,0 +1,14 @@
+python/sglang/srt/layers/communicator.py
+  h_1d635ecd767a49 161-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc41823dbf364d3503f9c0f9acd00140bded1fe5",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
