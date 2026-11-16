@@ -1,0 +1,21 @@
+docker/ant/aci/modelspeed_publish.aci.yml
+  s_3d47b6b640ed76::t_42730904b346bb 1-59
+docker/ant/modelspeed/README.md
+  s_3d47b6b640ed76::t_11de0a4eddc6f3 56-67,116-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "32e2064d5abfdba8048823d6a2cb785e8f613293",
+  "prompts": {},
+  "sessions": {
+    "s_3d47b6b640ed76": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e32c-6973-72d1-ac00-3c681ea6d1eb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
