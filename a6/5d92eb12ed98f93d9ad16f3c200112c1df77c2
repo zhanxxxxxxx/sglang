@@ -1,0 +1,23 @@
+test/registered/debug_utils/test_parallel_exact_linear_reference.py
+  s_d2f4c9dc120b69::t_0ea1ee97355b66 14-16,29-31,38,47-51,54-58
+  s_d2f4c9dc120b69::t_399714349d5341 1-13,17-28,32-37,39-46,52-53,59-71
+python/sglang/srt/debug_utils/full_tensor_reference.py
+  s_d2f4c9dc120b69::t_399714349d5341 4-6,85,91-110,113-127
+  s_d2f4c9dc120b69::t_0ea1ee97355b66 90,111-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a65d92eb12ed98f93d9ad16f3c200112c1df77c2",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
