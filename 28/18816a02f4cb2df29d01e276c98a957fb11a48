@@ -1,0 +1,21 @@
+python/sglang/jit_kernel/tests/test_set_mla_kv_buffer.py
+  s_18bbfa9aac699b::t_194a195bb5ec42 125-161
+python/sglang/srt/mem_cache/utils.py
+  s_18bbfa9aac699b::t_194a195bb5ec42 137-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2818816a02f4cb2df29d01e276c98a957fb11a48",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
