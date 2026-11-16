@@ -1,0 +1,21 @@
+python/sglang/kernels/ops/kimi_k3/kda_decode_mtp.py
+  s_f5a50be0fc3a60::t_70b9136bdb7770 298,306,857-859
+  s_f5a50be0fc3a60::t_02c81ba18ac011 1075-1079
+  s_f5a50be0fc3a60::t_91c7f6754b4deb 303-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "512e8d0f4de1fc5bc20d7e460ef69dd2a6b1b553",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}

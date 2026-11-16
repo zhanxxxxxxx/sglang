@@ -1,0 +1,32 @@
+python/sglang/srt/debug_utils/native_layer_capture.py
+  s_d2f4c9dc120b69::t_7fe4cfaf86a958 181-184,226-228,240-242
+  s_d2f4c9dc120b69::t_b5c6d68aa7090e 17-28,185,225,239
+python/sglang/srt/debug_utils/native_layer_replay.py
+  s_d2f4c9dc120b69::t_b5c6d68aa7090e 80-84,87-97,104,108-109,113-121,126-128,352,382-385,623,669,693,1157-1159
+  s_d2f4c9dc120b69::t_7fe4cfaf86a958 85-86,98-103,105-107,110-112,122-125,339-348,378-381,386-388,433-435,624-628,670-677,1155-1156
+python/sglang/srt/debug_utils/replay_report_shapes.py
+  s_d2f4c9dc120b69::t_b5c6d68aa7090e 28-29
+  s_d2f4c9dc120b69::t_7fe4cfaf86a958 30-32
+test/registered/debug_utils/test_native_layer_capture.py
+  s_d2f4c9dc120b69::t_f738fc110ea56a 9,65,83,90-91,125-127,129-132,140-143,147,151-152
+  s_d2f4c9dc120b69::t_b83a8efb5db53d 66-68,85-87,128,144-146,148-150
+test/registered/debug_utils/test_native_layer_replay.py
+  s_d2f4c9dc120b69::t_b83a8efb5db53d 51-56,59-64,72-77,79-88,93-97
+  s_d2f4c9dc120b69::t_f738fc110ea56a 23-50,57-58,65-71,78,89-92,98-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ed04de76a6b891454157e396a2927ecdc0878db",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+test/registered/kernels/ops/speculative/test_compact_verify.py
+  s_44844fb1f654af::t_560182fb9db9d8 1-8,10-12,22-25,46-47,49,52,54-85,89-93
+  s_44844fb1f654af::t_3c40147055757c 9
+  s_44844fb1f654af::t_5c1044e90b6971 13-16,36-38,40-43
+  s_44844fb1f654af::t_fb082fe4f1249f 17-21,26-35,39,44-45,48,50-51,53,86-88
+python/sglang/kernels/ops/speculative/compact_verify.py
+  s_44844fb1f654af::t_fd959cb9ae6ae2 146,214-216
+  s_44844fb1f654af::t_b57c1545a1fbdd 2,4-8,112-120,122,124-132,137-141,148-149,152-153,155-159,181-191,196-198,200,203,206,231-239,251
+  s_44844fb1f654af::t_da179d113bca84 1,3,9-111,121,123,133-136,142-145,147,150-151,154,160-180,192-195,199,201-202,204-205,207-213,217-230,240-250
+python/sglang/srt/speculative/eagle_utils.py
+  s_44844fb1f654af::t_3c40147055757c 778,788
+  s_44844fb1f654af::t_6188b0b02edd2e 14,756-757,765-766,768-772,774-777,779-782,784-787,789-798,800-805,810,814-881
+python/sglang/kernels/ops/speculative/__init__.py
+  s_44844fb1f654af::t_79e32e23fd8d8e 26
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_995d9305a57f8c 1054-1055
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c90f70fb3597fc634ab29963c05821d99bdee33",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

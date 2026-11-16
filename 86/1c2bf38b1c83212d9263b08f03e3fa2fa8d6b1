@@ -1,0 +1,19 @@
+test/registered/unit/disaggregation/test_encoder_mm_meta.py
+  s_6814b9b1896915::t_08206657673875 432,437-439,446
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "861c2bf38b1c83212d9263b08f03e3fa2fa8d6b1",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

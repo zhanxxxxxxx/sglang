@@ -1,0 +1,41 @@
+python/sglang/multimodal_gen/test/unit/test_sdpa_cudnn_priority.py
+  s_e264e4a97219bf::t_2c2c19edd364ac 81,84-88
+  s_e264e4a97219bf::t_5fe28ce576b7d7 5-7,16,39-40,44-51,66-80,82-83
+  s_e264e4a97219bf::t_6cf59644a95a5f 103,106-108
+python/sglang/srt/models/kimi_k3.py
+  s_e264e4a97219bf::t_4478ca17d3e00e 3476-3478
+test/registered/unit/mem_cache/test_page_sharded_dsa_attention.py
+  s_e264e4a97219bf::t_2e075b5865d2fd 691-694,732-739
+  s_e264e4a97219bf::t_bc1b05bf10b90f 946
+python/sglang/srt/models/deepseek_common/utils.py
+  s_e264e4a97219bf::t_5ce6d69cb32043 19
+  s_e264e4a97219bf::t_5c256a03a32c2b 199-245
+test/registered/unit/entrypoints/openai/test_protocol.py
+  s_e264e4a97219bf::t_5ce6d69cb32043 37
+  s_e264e4a97219bf::t_b35505807248b0 982-1016
+python/sglang/srt/managers/scheduler_components/metrics_reporter.py
+  s_e264e4a97219bf::t_77dcf4e7eca889 587-588,1263-1265,1525
+  s_e264e4a97219bf::t_90a37d47cdbfc6 1522-1524
+docs/docs/advanced_features/server_arguments.mdx
+  s_e264e4a97219bf::t_6f205cd22f99c6 1188-1205,2874-2903,3513-3530
+test/registered/kernels/ops/layernorm/test_mhc_kernels.py
+  s_e264e4a97219bf::t_dc08b3321cfcf4 154-155,157
+  s_e264e4a97219bf::t_ac3057728e07e7 140-141,143,145-153,156,158,256-279,289,297-298,302,332-362,434-453
+  s_e264e4a97219bf::t_5bd45dfd51c8ad 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7785c64f87a6c4064f481b81e9e10875a9365e5c",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

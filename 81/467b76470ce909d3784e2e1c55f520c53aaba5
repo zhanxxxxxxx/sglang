@@ -1,0 +1,23 @@
+execution/sglang/eve.py
+  s_1d32b085fb33ca::t_d9e573e6c4d209 79-84,431,451,527
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_50d07d217ded51 28-30,32,37-39
+tests/inference_rsi/test_eve_submission_recovery.py
+  s_1d32b085fb33ca::t_fae95b191a9e0e 217-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "81467b76470ce909d3784e2e1c55f520c53aaba5",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

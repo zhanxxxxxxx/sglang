@@ -1,0 +1,36 @@
+test/registered/debug_utils/test_native_operator_graph.py
+  s_d2f4c9dc120b69::t_9b542a1b8b99dc 1-27,31-36,41-48,55
+  s_d2f4c9dc120b69::t_1c5cb998af7e89 28-30,37-40,49-54
+  s_d2f4c9dc120b69::t_9d1060ff8aefce 56-72
+test/registered/debug_utils/test_native_subgraph_replay.py
+  s_d2f4c9dc120b69::t_9b542a1b8b99dc 84-90,92-103,105-118
+  s_d2f4c9dc120b69::t_cf7da8362e34f6 91,104
+python/sglang/srt/debug_utils/native_subgraph_replay.py
+  s_d2f4c9dc120b69::t_9b542a1b8b99dc 180-208,210,256-258,260,262-267,285,288,298,300,303-305,331-339
+  s_d2f4c9dc120b69::t_9d1060ff8aefce 225-227
+  s_fe630e35e872c1::t_b545baf24edff0 259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "73459b8f3f9c4e23fd6d46f7a009e44e2d271dd4",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    },
+    "s_fe630e35e872c1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9b3-d1fe-7cf1-9b0f-7b050ace4db5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
