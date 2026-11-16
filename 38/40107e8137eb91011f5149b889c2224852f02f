@@ -1,0 +1,16 @@
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 39,2551-2564,2570,2582-2583,2585-2586,2661-2696
+test/registered/unit/layers/moe/test_monomoe_deepep_dispatch.py
+  h_1d635ecd767a49 1-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3840107e8137eb91011f5149b889c2224852f02f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
