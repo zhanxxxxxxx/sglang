@@ -1,0 +1,19 @@
+.aci/ut_it_metric.yml
+  s_44fcf214a8542c::t_103cbf6b5cdc99 425,475-476,484,505,510,512,528
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "acd934be2d29a955260c4b717bb726e45c40f419",
+  "prompts": {},
+  "sessions": {
+    "s_44fcf214a8542c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b479-e3db-70a1-9f5f-1cc1d9e6de04",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhengyoufu <zhengyoufu.zyf@antgroup.com>"
+    }
+  }
+}
