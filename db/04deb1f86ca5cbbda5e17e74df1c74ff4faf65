@@ -1,0 +1,48 @@
+python/sglang/srt/debug_utils/graph_snapshot.py
+  s_d2f4c9dc120b69::t_894661e08e7950 204-206,400-402
+  s_d2f4c9dc120b69::t_e3fe2d2f426899 195-196,207,397-399
+test/registered/debug_utils/test_rollout_precision.py
+  s_d2f4c9dc120b69::t_bd9f5c75b42d0a 169-170,183,187-188,193,197-198
+  s_d2f4c9dc120b69::t_894661e08e7950 171-182,184-186,189-192,194-196
+test/registered/debug_utils/test_native_graph_layer_replay.py
+  s_d2f4c9dc120b69::t_894661e08e7950 54-57,164-165,173-175
+  s_d2f4c9dc120b69::t_bd9f5c75b42d0a 23,26,28-29,31-32,34,89-90,94,116,118,129,135,158,160,167-171,176,198
+test/registered/debug_utils/test_graph_snapshot_cpu.py
+  s_d2f4c9dc120b69::t_894661e08e7950 42-44,55-59,62-64
+  s_d2f4c9dc120b69::t_dde6947a85ffde 37-41,45-54,60-61,65-69
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_e3fe2d2f426899 1088,1093-1096,1099-1100,1110-1115,1517-1519,1523
+  s_d2f4c9dc120b69::t_bd9f5c75b42d0a 1097-1098
+  s_d2f4c9dc120b69::t_894661e08e7950 1101-1102,1104-1109,1520-1522
+python/sglang/srt/debug_utils/native_graph_layer_replay.py
+  s_d2f4c9dc120b69::t_894661e08e7950 170-176
+  s_d2f4c9dc120b69::t_e3fe2d2f426899 169,177
+python/sglang/srt/debug_utils/native_layer_capture.py
+  s_d2f4c9dc120b69::t_894661e08e7950 210-214
+  s_d2f4c9dc120b69::t_e3fe2d2f426899 215-216
+test/registered/debug_utils/test_rollout_precision_worker.py
+  s_d2f4c9dc120b69::t_bd9f5c75b42d0a 704-713,717-720
+  s_d2f4c9dc120b69::t_894661e08e7950 714-716
+test/registered/debug_utils/test_graph_snapshot.py
+  s_d2f4c9dc120b69::t_bd9f5c75b42d0a 175,180
+python/sglang/srt/debug_utils/rollout_precision.py
+  s_d2f4c9dc120b69::t_894661e08e7950 920-922,957-959
+  s_d2f4c9dc120b69::t_e3fe2d2f426899 925,939,941,956,1246
+  s_d2f4c9dc120b69::t_43ce9f75bdedfe 1247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "db04deb1f86ca5cbbda5e17e74df1c74ff4faf65",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
