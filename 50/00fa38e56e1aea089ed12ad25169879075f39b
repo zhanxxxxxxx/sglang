@@ -1,0 +1,50 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_cd5b75225dd2e7::t_3c213f1e1f9f9e 5074-5075,5080-5081
+  s_cd5b75225dd2e7::t_89918f8fec739e 5050-5066
+  s_cd5b75225dd2e7::t_5cb2102d0d2a97 1277-1279
+  s_cd5b75225dd2e7::t_c717e11ffa0f2c 1210-1211
+  s_cd5b75225dd2e7::t_41b536f7bdb96d 2810,2812-2814,2822
+  s_cd5b75225dd2e7::t_a4db37b48b6bd0 1038
+  s_cd5b75225dd2e7::t_ba1cb9259d61f6 2815,2816-2821
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_cd5b75225dd2e7::t_89a44d0c44a1f3 44,53
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_cd5b75225dd2e7::t_e85e8a3155dce5 55-57,60-62,64-65,69-71
+  s_cd5b75225dd2e7::t_3b586b35e0a79f 99-104
+  s_cd5b75225dd2e7::t_7d07a7efda4e54 200,205,210,214
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_cd5b75225dd2e7::t_049b92872b24fa 913-917
+  s_cd5b75225dd2e7::t_c32cb2a4920ba4 1113-1121
+  s_cd5b75225dd2e7::t_b8df85b09ca6c7 3124
+  s_cd5b75225dd2e7::t_269e1df09f71da 1886
+  s_cd5b75225dd2e7::t_e02fe1fa12d09b 3496
+  s_cd5b75225dd2e7::t_15077a7681d571 3753
+  s_cd5b75225dd2e7::t_30d4a8d3988b11 905
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_cd5b75225dd2e7::t_e1a530a222c186 389
+  s_cd5b75225dd2e7::t_9487ca5f957180 468
+  s_cd5b75225dd2e7::t_2d2d2ed87e8351 459
+  s_cd5b75225dd2e7::t_fd39673647de04 399,408,446,458
+  s_cd5b75225dd2e7::t_4a7972b6574ea9 448
+  s_cd5b75225dd2e7::t_2a8fb985eb23b1 783
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_cd5b75225dd2e7::t_067d0e701de04c 157
+python/sglang/srt/managers/io_struct.py
+  s_cd5b75225dd2e7::t_4c5717dba5dc7e 2164,2167-2168,2493
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5000fa38e56e1aea089ed12ad25169879075f39b",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
