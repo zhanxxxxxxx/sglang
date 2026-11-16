@@ -1,0 +1,112 @@
+python/sglang/srt/disaggregation/encoder/preprocessor.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 14,16,22,86-122,130-143,351-352,531-542,546-579
+  s_3d47b6b640ed76::t_8b46c6c0a897df 644
+python/sglang/srt/environ.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 1324-1326,1329-1330
+  s_3d47b6b640ed76::t_a29fb65403e8f4 1340-1342
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 1083-1084
+  s_3d47b6b640ed76::t_71554801581b21 1670-1672,1680-1682,1694-1696,1876-1878,2134
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 1-221
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_3d47b6b640ed76::t_79f14e7e01d675 20,133-176
+  s_3d47b6b640ed76::t_9adca71dbdd169 177-178
+python/sglang/srt/multimodal/processors/qwen_audio.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 15,131-133
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 42,886-888
+  s_3d47b6b640ed76::t_8b46c6c0a897df 835
+python/sglang/srt/multimodal/processors/mimo_v2.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 37,2157,2162,2242,2251-2253
+python/sglang/srt/multimodal/processors/base_processor.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 102-108,610-612
+python/sglang/srt/entrypoints/openai/serving_completions.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 162-163
+  s_3d47b6b640ed76::t_477c985900a682 143-145,336-337,339-340,441-443,448-454,549-557,579-582,668-669,671-672
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 131-133,449
+python/sglang/srt/managers/scheduler.py
+  s_3d47b6b640ed76::t_31e1d4b23d1298 4819,4830,4843-4845,4873,4897,4909,4917,4925,4947,4969-4970,4974
+  s_3d47b6b640ed76::t_4c7a39b5ddb18e 4962,4971-4973
+test/registered/unit/disaggregation/test_encoder_completion.py
+  s_3d47b6b640ed76::t_d64343803466e3 1-85
+python/sglang/srt/multimodal/processors/kimi_common.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 16-18,132-134
+test/registered/unit/disaggregation/test_encoder_batch_isolation.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 1-95,97-145
+  s_3d47b6b640ed76::t_8b46c6c0a897df 96
+python/sglang/srt/disaggregation/encoder/mm_meta.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 1-10,12-45,47,52-54,56-72,98-270,301-318,322-380
+  s_3d47b6b640ed76::t_8b46c6c0a897df 11,46,48-51,55,73-97,271-300,319-321
+python/sglang/srt/disaggregation/encoder/runtime.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 118,147,162-169,255-261,285-288,361,994-998,1085-1101,1118-1121,1124-1125,1143,1145,1154-1155,1165,1175,1191-1192,1200-1201,1219,1223-1224,1234-1249,1341-1344,1494,1509-1528,1531-1533,1537-1538
+  s_3d47b6b640ed76::t_a29fb65403e8f4 1345-1346
+test/registered/unit/constrained/test_grammar_manager.py
+  s_3d47b6b640ed76::t_4c7a39b5ddb18e 29,340,352,366,375,385,390-399
+  s_3d47b6b640ed76::t_cf8863889a7613 400
+sgl-model-gateway/bindings/python/src/sglang_router/mini_lb.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 20,118-141,161-169,208-239,254-259
+python/sglang/srt/managers/tokenizer_manager.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 36,46,55,58,86,796-803,825,907-913,938-940,942-946,952-966,994-996,999-1004,1802,1828-1829,1911-1914,1933-1941,1944,2012-2024,2220-2225,2231-2243,2245-2263,2620-2626,2647-2651,2798-2800,3199-3202,3215-3218,3267-3269,3287-3289,3293-3295,3321-3323,3325-3327,3334-3337,3339-3343,3349-3351,3355-3363,3366-3368,3370-3372,3378-3380,3383-3391,3403-3411,4038-4048,4077-4078,4082-4126,4132-4145,4246,4251,4256,4260,4264,4272,4275,4279,4283,4287,4290,4294,4298,4302,4312,4315,4338,4344,4350,4357,4368,4377
+  s_3d47b6b640ed76::t_a29fb65403e8f4 54,56-57,59,795,826,1269-1289,4076,4079-4081,4146,4150-4154
+  s_3d47b6b640ed76::t_3ef8b739b3b256 4239,4242,4244-4245,4247,4249-4250,4252,4254-4255,4258-4259,4261-4263,4270-4271,4273-4274,4277-4278,4280-4282,4288-4289,4291-4293,4296-4297,4300-4301,4307,4309-4311,4313-4314,4317-4319,4325-4327,4333-4337,4339-4343,4345-4349,4353-4356,4361-4367,4375-4376
+sgl-model-gateway/bindings/python/tests/test_epd.py
+  s_3d47b6b640ed76::t_d64343803466e3 1-6,9-14,16-22,35-40,42-59,61-133,184-187
+  s_3d47b6b640ed76::t_e285b50e80fb6a 7-8,15,23-34,41,60,134-157,161-169,173-183
+  s_3d47b6b640ed76::t_1c1b5b985f989a 158-160,170-172
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 483-522
+  s_3d47b6b640ed76::t_8b46c6c0a897df 13,29-30,44,85-87,98,103,273-297,299-399,526,631-633
+python/sglang/srt/disaggregation/encoder/server.py
+  s_3d47b6b640ed76::t_a29fb65403e8f4 23-24,26,28-29,31,34,38,539,987-991,995,1001-1004,1021-1034,1894-1895,1897-1907,1914-1959,1970-1980
+  s_3d47b6b640ed76::t_8b46c6c0a897df 25,27,106,237-258,529-530,622-624,653-655,659-677,735-737,762-763,774,1810-1827,1892-1893,1960-1969,1983-1990,2001,2017,2086-2087,2107,2114-2120
+  s_3d47b6b640ed76::t_e5e62769c15cee 1981
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 13-14,18,38,64-69,570-571,626-627,705-707,732-739,741,743-745,747-766,781-809,815,828,840-842,860-862,889-939,1023-1028,1045-1054,1056-1075,1296-1310,1316,1432,1454,1783-1796,2071-2074,2226,2234-2237,2250,2362-2375,2381-2383,2392-2393,2401,2412,2443-2451,2457,2461-2462,2633,2653,2659,2669-2673,2676-2677,2680-2685,2891,2933-2950,2956-2957,2961-2967,2969-2972
+  s_3d47b6b640ed76::t_a29fb65403e8f4 725-731,740,742,746,767-780,810-814,816-827,829-839,843-850,2394,2429-2442,2452-2456,2458-2460,2463-2493,2984-3025
+  s_3d47b6b640ed76::t_4c7a39b5ddb18e 2228
+  s_3d47b6b640ed76::t_06dad85e5c5b60 3026
+docs/docs/advanced_features/epd_disaggregation.mdx
+  s_3d47b6b640ed76::t_a29fb65403e8f4 22-23
+python/sglang/srt/disaggregation/prefill.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 978-984
+  s_3d47b6b640ed76::t_aaeed2cda5b80d 733-735
+python/sglang/srt/managers/io_struct.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 334,336,974-975
+  s_3d47b6b640ed76::t_9997bd47018724 2121,2129-2132
+  s_3d47b6b640ed76::t_cc3cfd90e0edc1 26,52,1392,1422-1432,1437,1450,2133
+test/registered/unit/disaggregation/test_encoder_mm_meta.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 142-190,293,299-302
+  s_3d47b6b640ed76::t_a29fb65403e8f4 1-141,191-292,294-298,303-345
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_3d47b6b640ed76::t_45a6651892076a 448
+  s_3d47b6b640ed76::t_8b46c6c0a897df 426-427,998-999
+test/registered/unit/disaggregation/test_encode_server.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 10,170,305,389-391,444
+python/sglang/srt/entrypoints/engine.py
+  s_3d47b6b640ed76::t_f61d799d625c1f 113-114,130
+  s_3d47b6b640ed76::t_8b46c6c0a897df 416-417,436-437,533-534,553-554
+python/sglang/srt/disaggregation/encoder/completion.py
+  s_3d47b6b640ed76::t_8b46c6c0a897df 1-116
+python/sglang/srt/constrained/grammar_manager.py
+  s_3d47b6b640ed76::t_73c5e231495083 111,280-282
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_3d47b6b640ed76::t_489627f70b71f6 420-422,430-432
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "51b78e54bcbed1e905042b91ac70302017024ccd",
+  "prompts": {},
+  "sessions": {
+    "s_3d47b6b640ed76": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e32c-6973-72d1-ac00-3c681ea6d1eb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
