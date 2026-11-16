@@ -1,0 +1,22 @@
+python/sglang/srt/speculative/dspark_components/dspark_kv_inject.py
+  s_fe92d796c96f00::t_e6207ade1375be 58-62,300-310
+test/registered/unit/mem_cache/test_dsv41_dspark_prefill_placement.py
+  s_fe92d796c96f00::t_e6207ade1375be 1-18,21-137
+  s_fe92d796c96f00::t_19986b36a0e9e9 19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c3e610dd1331ff418368f5b25734bd61e5ba962f",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

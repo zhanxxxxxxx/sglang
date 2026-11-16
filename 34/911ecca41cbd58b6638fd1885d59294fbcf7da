@@ -1,0 +1,63 @@
+test/registered/kernels/ops/moe/test_humming_pre_quant_input.py
+  s_e4f6b4e83692e9::t_899b86afd7b091 36-45,47-56,62-70,79-94,116-118,120-123,125-127,148-150,164-170,173-175,178-179,181-194,197-206,217-219,222-226,230-232,236-240,242-243,245-249
+  s_e4f6b4e83692e9::t_d4a4c7d91274fb 24-31,33-35,46,57,61,72-78,95-96,98-101,104
+  s_e4f6b4e83692e9::t_fc9c408819cb99 23,32,58-60,71,97,102-103,130
+  s_e4f6b4e83692e9::t_d86f99b65aa620 1-6,9-22,141-147,151-163,171-172,176-177,180,195-196,207-216,220-221,227-229,233-235,241,244,250-273
+  s_e4f6b4e83692e9::t_061e864061177b 7-8,105-115,119,124,128-129,131-140
+test/registered/jit/benchmark/bench_ling_router_quant.py
+  s_e4f6b4e83692e9::t_899b86afd7b091 25,27,31-35,46-47,51,54-59
+  s_e4f6b4e83692e9::t_388e6358490f80 1-24,26,28-30,36-45,48-50,52-53,60-64
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_e4f6b4e83692e9::t_a0931778f87b1b 1224-1267
+  s_e4f6b4e83692e9::t_67ee90c3a8a807 86-87,119-120,139-140,155-156,671-672,773-774,789-800,1279-1282,1288,1290-1291
+python/sglang/kernels/ops/moe/ling_router_quant.py
+  s_e4f6b4e83692e9::t_adbc36020999d5 1-16,31-35,46-55,59-75,83,86-95,112-113
+  s_e4f6b4e83692e9::t_899b86afd7b091 17-30,36-45,76-82,84-85,96-111
+  s_e4f6b4e83692e9::t_30b8b3d9c2f26b 56-58
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  s_e4f6b4e83692e9::t_4a8d423c39cf91 1591-1593
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  s_e4f6b4e83692e9::t_e57ac04abc52d7 202-204
+  s_e4f6b4e83692e9::t_a0931778f87b1b 71-74
+test/registered/unit/layers/moe/test_humming_pre_quant_input.py
+  s_e4f6b4e83692e9::t_e57ac04abc52d7 16-18,42-45,61-65,77-78,85-88,123-126,133,137-139,143-145,147-148
+  s_e4f6b4e83692e9::t_d107b02fc5d345 1-15,19-41,46-60,66-76,79-84,89-122,127-132,134-136,140-142,146,149-161
+test/registered/jit/test_ling_router_quant.py
+  s_e4f6b4e83692e9::t_899b86afd7b091 31-35,43-45,50,55-58,60-65,70,94-96,105-108
+  s_e4f6b4e83692e9::t_30b8b3d9c2f26b 84-93,97-98
+  s_e4f6b4e83692e9::t_388e6358490f80 1-30,36-42,46-49,51-54,59,66-69,71-83,99-104,109-115
+python/sglang/srt/models/bailing_moe_v3.py
+  s_e4f6b4e83692e9::t_8947a023a94de5 742,745,1102,1107,1130,1139,1165-1166,1168-1170,1172,1177,1180,1188-1194,1201,1209-1211
+  s_e4f6b4e83692e9::t_fc9c408819cb99 1167,1171,1179,1182-1183
+test/registered/unit/layers/moe/test_ling_latent_down.py
+  s_e4f6b4e83692e9::t_061e864061177b 1-18,24-28,32,36-40,48-58
+  s_e4f6b4e83692e9::t_fc9c408819cb99 44
+  s_e4f6b4e83692e9::t_899b86afd7b091 19-23,29-31,33-35,41-43,45-47
+python/sglang/srt/layers/moe/ling_latent_down.py
+  s_e4f6b4e83692e9::t_899b86afd7b091 75-80
+  s_e4f6b4e83692e9::t_8947a023a94de5 17-18,67,101-102
+  s_e4f6b4e83692e9::t_fc9c408819cb99 1,26,54-66,120-126
+  s_e4f6b4e83692e9::t_8614976f16490b 2-16,19-25,27-53,68-74,81-100,103-119
+python/sglang/srt/environ.py
+  s_e4f6b4e83692e9::t_8614976f16490b 1491-1492
+  s_e4f6b4e83692e9::t_fc9c408819cb99 1489-1490
+python/sglang/srt/layers/communication/ling_latent_up.py
+  s_e4f6b4e83692e9::t_8947a023a94de5 202-203,207-210
+  s_e4f6b4e83692e9::t_fc9c408819cb99 201,204-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "34911ecca41cbd58b6638fd1885d59294fbcf7da",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

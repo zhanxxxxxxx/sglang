@@ -1,0 +1,32 @@
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_dfc9c05e659763::t_bf5099b7ee8356 729
+  s_dfc9c05e659763::t_e5b092cfb6c38a 756
+python/sglang/srt/disaggregation/prefill.py
+  s_dfc9c05e659763::t_a069404ce87ea5 601,604-611
+test/registered/unit/disaggregation/test_staging_step_prefetch.py
+  s_dfc9c05e659763::t_79fb3f6b89e626 1-139
+python/sglang/srt/disaggregation/common/staging_handler.py
+  s_dfc9c05e659763::t_b9da9dc622809a 1022,1027-1030,1034-1037,1041-1042,1051-1052
+python/sglang/srt/environ.py
+  s_dfc9c05e659763::t_91a1b6507919a5 1021-1026
+python/sglang/srt/arg_groups/pd_disaggregation_hook.py
+  s_dfc9c05e659763::t_8db55fea53bc23 173-181
+python/sglang/srt/disaggregation/common/staging_buffer.py
+  s_dfc9c05e659763::t_441108b9122b55 907-914
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f94aea2bfe654b2973426ca1fa397db244b70f7b",
+  "prompts": {},
+  "sessions": {
+    "s_dfc9c05e659763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "223a4687-df88-4ef7-be48-5525ca220117",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

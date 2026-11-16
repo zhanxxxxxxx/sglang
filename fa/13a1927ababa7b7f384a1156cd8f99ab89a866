@@ -1,0 +1,33 @@
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_bc50f2798032b9 583-607
+tests/inference_rsi/test_eve_backend.py
+  s_1d32b085fb33ca::t_97787b239c270e 25-39
+execution/sglang/eve.py
+  s_1d32b085fb33ca::t_7a4889a119263b 30-33
+execution/providers.py
+  s_1d32b085fb33ca::t_7a4889a119263b 20-30
+tests/inference_rsi/test_managed_processes.py
+  s_1d32b085fb33ca::t_97787b239c270e 32-45
+execution/loop_executor.py
+  s_1d32b085fb33ca::t_7a4889a119263b 40-49
+tests/inference_rsi/test_provider_configuration.py
+  s_1d32b085fb33ca::t_97787b239c270e 5-16
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_176d462469c329 710-715
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fa13a1927ababa7b7f384a1156cd8f99ab89a866",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

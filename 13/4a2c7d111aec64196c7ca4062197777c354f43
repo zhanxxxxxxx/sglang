@@ -1,0 +1,23 @@
+control/preparation.py
+  s_1d32b085fb33ca::t_745d2e4a499572 65-68,132-138,144-156,205
+tests/inference_rsi/test_preparation.py
+  s_1d32b085fb33ca::t_110c89893d4f84 104-125,129-152
+  s_1d32b085fb33ca::t_3ef88e4f472671 126-128
+  s_1d32b085fb33ca::t_35d634a38cc115 103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "134a2c7d111aec64196c7ca4062197777c354f43",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

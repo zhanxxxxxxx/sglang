@@ -1,0 +1,87 @@
+rust/sglang-server/src/api_server/http/openai/test_utils.rs
+  s_e264e4a97219bf::t_18ab65c583b66d 593,597
+test/registered/unit/multimodal/rust/qwen/_fixtures.py
+  s_e264e4a97219bf::t_d1aef81b538591 31,39,77,86,115
+  s_e264e4a97219bf::t_81b04682041783 32-38,84
+rust/sglang-processor/tests/scripts/generate_mm_parity.py
+  s_e264e4a97219bf::t_c92cdcd72dd259 262-263,270-273,329-331,337-341,350-356,364-372,376-385,397-399
+  s_e264e4a97219bf::t_77bd0367a4ced6 33
+  s_e264e4a97219bf::t_0fc5ff9425c94f 259-261,264,266,314-328,332-336,342-349,357-363,373-375,386-393,396,407-411
+rust/sglang-processor/src/mm/mod.rs
+  s_e264e4a97219bf::t_cdd5d15f97b28b 70-84,94
+  s_e264e4a97219bf::t_c9bde6fbc9b564 123-127,130-131
+rust/sglang-server/src/multi_modality/worker.rs
+  s_e264e4a97219bf::t_38eae92f1a878a 189-190,201
+  s_e264e4a97219bf::t_ffa2a9546433c7 554
+  s_e264e4a97219bf::t_fd66ffba4bc2fd 552-553,555-560,563-568,571-574,576-581,583-586,588-590,592-599
+  s_e264e4a97219bf::t_c2a59ca8743064 542-551,561-562,569-570,575,582,587,591,600-602
+test/registered/unit/multimodal/test_qwen_vl_preprocess_chunking.py
+  s_e264e4a97219bf::t_3480940b044554 257-258,273-278,280,282-285,289
+  s_e264e4a97219bf::t_1ce1d766a9e3dd 218
+rust/sglang-server/src/message/request.rs
+  s_e264e4a97219bf::t_c9bde6fbc9b564 160-162,412-414,1136-1137,1140-1142,1146-1152,1156-1162,1164-1173
+  s_e264e4a97219bf::t_3480940b044554 1135,1138-1139,1143-1145,1153-1155,1163,1174-1176
+  s_e264e4a97219bf::t_38eae92f1a878a 117,156-159,410-411,415-416,521-524,835
+  s_e264e4a97219bf::t_b3aee3dcf4c683 1134
+rust/sglang-api-types/tests/json_contract.rs
+  s_e264e4a97219bf::t_18ab65c583b66d 129-143
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_e264e4a97219bf::t_1ce1d766a9e3dd 18,1260-1265,1278-1291
+  s_e264e4a97219bf::t_d613a7ba994b29 1739-1742
+  s_e264e4a97219bf::t_64c8d8acbc4f00 257-261,266-270,276,284-291,331,1220-1229,1235-1236,1238-1245,1249-1259,1266-1267,1737-1738,1743
+  s_e264e4a97219bf::t_8013f1defd9512 262-265,1230-1234,1246-1248
+  s_e264e4a97219bf::t_3480940b044554 1237
+proto/sglang/api/v1/generate.proto
+  s_e264e4a97219bf::t_5b60b63cdd89df 90-92
+rust/sglang-processor/tests/fixtures/mm_parity/synthetic-qwen-request-geometry.json
+  s_e264e4a97219bf::t_c2a59ca8743064 1-38
+rust/sglang-mm/src/qwen_vl/mod.rs
+  s_e264e4a97219bf::t_c434c5d1547dcd 361-364,382-385,715-719
+  s_e264e4a97219bf::t_3480940b044554 374-377,381,684-689,694,703,708-710,720,725-726
+  s_e264e4a97219bf::t_c9bde6fbc9b564 61,64-68,70-72,77-79,81-83,107-113,690-693,695-702,704-707,711-714,721-724
+  s_e264e4a97219bf::t_cdd5d15f97b28b 56-60,62-63,69,73-76,80,84-86,92-101,106,347-358
+python/sglang/srt/rust_server/multimodal.py
+  s_e264e4a97219bf::t_1d310542ee97dc 315-327
+test/registered/unit/multimodal/rust/qwen/test_e2e_parity.py
+  s_e264e4a97219bf::t_8013f1defd9512 72-74,79-82,96,103-105,110-112,121-123,141-150,154-156,237,240-242
+  s_e264e4a97219bf::t_c2a59ca8743064 25,158-160,176-231
+  s_e264e4a97219bf::t_c92cdcd72dd259 401-405
+  s_e264e4a97219bf::t_d613a7ba994b29 161-175
+  s_e264e4a97219bf::t_bbb3488d8c76db 391-400,406-415
+  s_e264e4a97219bf::t_5bd7a4ae91273f 17,19,21,26,33,39-44,46,56-71,75-78,83-95,97-102,106-109,113-120,124-140,151-153,157,232-236,238-239,243-252
+  s_e264e4a97219bf::t_4f240a9a490249 253-254
+rust/sglang-processor/tests/mm_parity.rs
+  s_e264e4a97219bf::t_0fc5ff9425c94f 31-34,37,46,53-57,61-67,96-98
+  s_e264e4a97219bf::t_c92cdcd72dd259 35-36,38-45,47-52,58-60
+python/sglang/srt/multimodal/media_artifacts/base.py
+  s_e264e4a97219bf::t_253decbbfc25f3 28,92-94,133,143-146,278,294,326-331,361-364,415,444,448,484-487,491,512,538
+rust/sglang-server/src/api_server/http/openai/chat.rs
+  s_e264e4a97219bf::t_c2a59ca8743064 1212-1216,1218-1219,1222-1225
+  s_e264e4a97219bf::t_924b07b9a8b537 73,106,348
+  s_e264e4a97219bf::t_ffa2a9546433c7 1217
+  s_e264e4a97219bf::t_fd66ffba4bc2fd 1220-1221
+rust/sglang-server/src/multi_modality/payload.rs
+  s_e264e4a97219bf::t_38eae92f1a878a 50
+python/sglang/api/v1/api_types.py
+  s_e264e4a97219bf::t_adbb402ac3b0dd 283,1565-1566,1648-1649
+rust/sglang-api-types/src/generated/sglang.api.v1.rs
+  s_e264e4a97219bf::t_1b4b90f07caebe 447-450
+rust/sglang-api-types/src/generated/sglang.api.v1.serde.rs
+  s_e264e4a97219bf::t_025538055e5259 1757-1764,1820,2105-2115,2161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4bdbfecd18fe04da01803e5ed24893f62958bea9",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

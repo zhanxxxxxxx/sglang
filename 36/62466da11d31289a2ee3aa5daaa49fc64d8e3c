@@ -1,0 +1,32 @@
+python/sglang/srt/managers/scheduler.py
+  s_ef8665546180d1::t_cf7a5d7e5c49fb 24,979,2815-2816,2829,2843,2886,2926,2950
+  s_ef8665546180d1::t_468272de241d42 3112-3114,3169-3188
+python/sglang/srt/managers/scheduler_components/metrics_reporter.py
+  s_ef8665546180d1::t_68371e126da035 803-806
+  s_ef8665546180d1::t_d08b1377cd657b 801,808
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_ef8665546180d1::t_06d4372944c160 1490-1499,1815-1819,1895,1897
+  s_ef8665546180d1::t_10a9c9d0d48549 547,549-551
+  s_ef8665546180d1::t_c25ba0be767510 1434-1436,1573-1577,1894,1896
+  s_ef8665546180d1::t_468272de241d42 384,1489
+  s_ef8665546180d1::t_de4f2b4cb628f4 8,1433,1571-1572,1578-1601,1641,1834,2512
+  s_ef8665546180d1::t_7972f3686bd0e4 107,1037,1602-1606,1650,1671-1675,1721-1722,1827,1833,1835,1849,1870,1872,1898-1908,2513-2519,2572-2573,2738-2739
+  s_ef8665546180d1::t_c5e5a9567ed9f4 383
+  s_ef8665546180d1::t_d97b2d8f98f042 548,1810-1812
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3662466da11d31289a2ee3aa5daaa49fc64d8e3c",
+  "prompts": {},
+  "sessions": {
+    "s_ef8665546180d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9d4-7be0-75e2-ac79-cfda5726f657",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
