@@ -1,0 +1,30 @@
+test/manual/layers/moe/bench_humming_powlu_fp8_quant.py
+  s_e4f6b4e83692e9::t_f5787c95a134b8 1-74
+python/sglang/srt/layers/quantization/humming_activation.py
+  s_e4f6b4e83692e9::t_f58775e7b02941 7-10,14-16,30-32,44
+test/registered/kernels/ops/moe/test_humming_powlu_fp8_quant.py
+  s_e4f6b4e83692e9::t_a4173b9133d9f3 1-138,151-155,160-199
+  s_e4f6b4e83692e9::t_257991123fbf1c 139-150,156-159
+test/registered/kernels/ops/moe/test_humming_powlu.py
+  s_e4f6b4e83692e9::t_80fc4ac62ba8d5 133-135,154-156
+  s_e4f6b4e83692e9::t_f7f0ce2fc0e402 3,111-113,115-132,136-153,157-177
+  s_e4f6b4e83692e9::t_d3c34471be59bd 114,178
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_e4f6b4e83692e9::t_f58775e7b02941 189,200-204,268-284,384-390,542-567,760
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "22f7defabac829c75d28ccd0e679d399b3218e78",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

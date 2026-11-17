@@ -1,0 +1,14 @@
+test/registered/kernels/ops/communication/test_bf16_exchange_reduce.py
+  h_1d635ecd767a49 51-53,65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb55407e8fccd19f170e31f3399822210cc65dce",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

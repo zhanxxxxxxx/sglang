@@ -1,0 +1,22 @@
+python/sglang/srt/debug_utils/native_dcp_capture.py
+  s_d2f4c9dc120b69::t_c29637cb3119f3 17-31,158-161
+test/registered/debug_utils/test_native_dcp_capture.py
+  s_d2f4c9dc120b69::t_c50a54dfc3cc0f 38-53,57-62,66-72,77-78
+  s_d2f4c9dc120b69::t_7b09a100081c92 54-56,63-65,73-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b0651d0d43e888975369c4aeea9fd18aae6b52bb",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+test/manual/dsv4/epd_cookbook.md
+  s_6814b9b1896915::t_fc27a55ddd988a 6-247
+  s_6814b9b1896915::t_0834757f30e96d 3-5
+  s_6814b9b1896915::t_1ed3cede8358ef 248
+test/manual/dsv4/epd_bench.py
+  s_6814b9b1896915::t_41de00b6f1573b 137,214-457
+  s_6814b9b1896915::t_83f198c59a906e 134-136
+  s_6814b9b1896915::t_468639ba27e8fd 138-140,211-213
+  s_6814b9b1896915::t_9c0eb8007f73e6 458-460
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "86dafbf747c56ab3776e54e76d00ec3b64baf1fd",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

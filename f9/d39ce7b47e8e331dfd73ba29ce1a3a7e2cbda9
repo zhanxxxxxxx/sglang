@@ -1,0 +1,19 @@
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0c8ee8c8d06cd1::t_a58d728d4a0b5b 276-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f9d39ce7b47e8e331dfd73ba29ce1a3a7e2cbda9",
+  "prompts": {},
+  "sessions": {
+    "s_0c8ee8c8d06cd1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2e0a7f3c-cce4-4943-8b2f-f1c67e6939dc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

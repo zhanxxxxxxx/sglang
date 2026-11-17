@@ -1,0 +1,74 @@
+docs/cookbook/diffusion/MiniMax/MiniMax-H3.mdx
+  h_1f940cd96f2dab 1181-1185,1260,1262-1264,1270,1272,1276-1278
+docs/src/snippets/configs/MiniMaxAI/minimax-h3.jsx
+  h_1f940cd96f2dab 554-555,752
+python/sglang/kernels/ops/attention/__init__.py
+  h_1f940cd96f2dab 686-690,698-731
+python/sglang/kernels/ops/attention/gqa_verify_splitkv_2kv.py
+  h_1f940cd96f2dab 60,344
+python/sglang/kernels/ops/attention/muse_extend_flydsl.py
+  h_1f940cd96f2dab 1-883
+python/sglang/kernels/ops/attention/muse_extend_gluon.py
+  h_1f940cd96f2dab 44-46,50-53,80,102-105,108-111,147,156,186,189,204-205,253,302-306,312-326,330,344-345,349,352-361,365-366,368,372-373,379-380,403,421,458
+python/sglang/kernels/ops/attention/muse_verify_balanced.py
+  h_1f940cd96f2dab 1-344
+python/sglang/kernels/ops/attention/muse_verify_flydsl.py
+  h_1f940cd96f2dab 26,97,170-173,175-180,212,227-251,258-259,282-301,304-307,388-392,394-397,399-409,411-419,421-428,430-445,505-510,559-560,723-727,740,762,780,810,830-831,862-865,876
+python/sglang/kernels/ops/attention/swa_verify_splitkv.py
+  h_1f940cd96f2dab 187,214
+python/sglang/kernels/ops/attention/verify_reduce_norm_gate.py
+  h_1f940cd96f2dab 94-102
+python/sglang/kernels/ops/gemm/bf16_tiled_small_m_gemm.py
+  h_1f940cd96f2dab 46-47
+python/sglang/kernels/ops/moe/__init__.py
+  h_1f940cd96f2dab 362-390
+python/sglang/kernels/ops/moe/muse_moe_finalize.py
+  h_1f940cd96f2dab 1-267
+python/sglang/kernels/ops/moe/muse_moe_gemm.py
+  h_1f940cd96f2dab 1-958
+python/sglang/kernels/ops/moe/mxfp4_compact_a4_moe.py
+  h_1f940cd96f2dab 6-7,26-29,33-51,53-66,79,83,93-95,97-105,129-130,142,146,261-271,287-290,307,311-313,322,325-328,339,356
+python/sglang/kernels/ops/moe/router_pooler_topk.py
+  h_1f940cd96f2dab 428-431,433-436,438-440,460-461,521,523,530
+python/sglang/multimodal_gen/runtime/pipelines_core/stages/model_specific_stages/minimax_h3/constants.py
+  h_1f940cd96f2dab 59-67
+python/sglang/multimodal_gen/runtime/pipelines_core/stages/model_specific_stages/minimax_h3/stages/denoising.py
+  h_1f940cd96f2dab 35,489-498,657-662,680-681,686-688
+python/sglang/multimodal_gen/test/unit/test_minimax_h3_admission.py
+  h_1f940cd96f2dab 640-653
+python/sglang/srt/environ.py
+  h_1f940cd96f2dab 2322-2325,2335-2340,2381-2384,2396
+python/sglang/srt/layers/attention/aiter_backend.py
+  h_1f940cd96f2dab 77-79,89,103-109,126-131,274,288-302,334-336,340-342,345,883,950-960,969-970,978,1773-1774,1777,1803-1804,1819-1824,1836,5073-5080,5692-5713,5833-5839
+python/sglang/srt/models/dflash.py
+  h_1f940cd96f2dab 1498-1518
+python/sglang/srt/rocm_muse_spark/attention_kv_write.py
+  h_1f940cd96f2dab 36,73,180
+python/sglang/srt/rocm_muse_spark/finalize_allreduce.hip
+  h_1f940cd96f2dab 1,3,5-6,9-12,23-24,37,55,57,111,117-118,179-202,216
+python/sglang/srt/rocm_muse_spark/finalize_allreduce.py
+  h_1f940cd96f2dab 1,21-22,28,46,55,63,71-75,101,107,146,156-163,169,178,180,187,191,217-221,256,271-273
+python/sglang/srt/rocm_muse_spark/model.py
+  h_1f940cd96f2dab 359,397,415-418,1052-1053,1422
+python/sglang/srt/rocm_muse_spark/muse_moe_flydsl.py
+  h_1f940cd96f2dab 155,162,185
+python/sglang/srt/rocm_muse_spark/mxfp4_moe.py
+  h_1f940cd96f2dab 25,35-40,42-43
+python/sglang/srt/rocm_muse_spark/router_pooler.py
+  h_1f940cd96f2dab 37-38,44-56
+python/sglang/srt/speculative/dflash_worker_v2.py
+  h_1f940cd96f2dab 23,461-465,1276-1293,1300,1309-1311,1327,1350-1354
+test/registered/unit/spec/test_dflash_overlap_hostsync.py
+  h_1f940cd96f2dab 22-25,33-35,60-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "504aa2da038409e16ba69d8c2ab3d6eed16966d8",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_cd5b75225dd2e7::t_35adfcbfdda0ac 51-56
+  s_cd5b75225dd2e7::t_b5fae24e6f9a76 18-19,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd70546dc6bc30d26d120687b9a2b6f00edf378a",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

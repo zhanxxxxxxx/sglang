@@ -1,0 +1,39 @@
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_7eb817b8eb8d9a::t_98c96bf8eec05a 1610-1611
+python/sglang/srt/layers/attention/dsa/dsa_dcp_sharded.py
+  s_7eb817b8eb8d9a::t_b884c34f602c87 632,637,657,674-705,712-715,724,746
+  s_7eb817b8eb8d9a::t_79435cfd94a77f 595-600
+  s_7eb817b8eb8d9a::t_d5ec463d818d9f 448
+  s_7eb817b8eb8d9a::t_70d9d7eae439fe 465-467,476-482
+  s_7eb817b8eb8d9a::t_3c84a5f91cd6f1 606
+  s_7eb817b8eb8d9a::t_d8acaa66e54496 710
+  s_7eb817b8eb8d9a::t_555f15dc752686 27-28,38,40-47,483,575-594,601-605,607-631,633-636,638-656,658-673,706-709,711,716-723,725-745,747
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_7eb817b8eb8d9a::t_3e36f1f5ef95ae 944-952
+  s_7eb817b8eb8d9a::t_df9e99cc04017b 81
+python/sglang/srt/environ.py
+  s_7eb817b8eb8d9a::t_ac409301762b79 2311-2312
+  s_7eb817b8eb8d9a::t_38f65435fd3bd4 2313
+python/sglang/kernels/jit/csrc/dsa/dcp_fused_topk.cuh
+  s_7eb817b8eb8d9a::t_8a712192a39f7c 1-1920
+python/sglang/kernels/ops/attention/dsa/dcp_fused_topk.py
+  s_7eb817b8eb8d9a::t_f7878bcb3e9e3c 1-95
+test/registered/kernels/ops/attention/test_dsa_dcp_fused_topk.py
+  s_7eb817b8eb8d9a::t_54a8400dc1fb80 1-332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e23af804dd445fd7dc2496a8b1a8996ea302feec",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

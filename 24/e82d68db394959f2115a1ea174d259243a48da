@@ -1,0 +1,21 @@
+python/sglang/srt/managers/scheduler.py
+  s_3237101c2e69cd::t_2801fe5c7467af 5149-5157,5159-5161,5903
+test/registered/unit/managers/test_forward_isolation.py
+  s_3237101c2e69cd::t_ed8fec74765132 56,183,195,199-204,209,213-227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "24e82d68db394959f2115a1ea174d259243a48da",
+  "prompts": {},
+  "sessions": {
+    "s_3237101c2e69cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_3237101c2e69cd",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
