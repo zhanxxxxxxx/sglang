@@ -1,0 +1,22 @@
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  s_6814b9b1896915::t_f15b5e5e5d1905 287-289
+test/registered/unit/disaggregation/test_pd_prehandoff_failure.py
+  s_6814b9b1896915::t_94ee48dc229035 461-464,466-479
+  s_6814b9b1896915::t_e4af4363c76d3e 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a0339b6504306fc38bc1f49da5b9530347c0fc54",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

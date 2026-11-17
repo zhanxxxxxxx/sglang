@@ -1,0 +1,19 @@
+test/registered/unit/models/test_bailing_moe_v3_humming_attnres.py
+  s_e4f6b4e83692e9::t_e8523abb70ce7c 16,41-91,291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9ed17aa24d1c5e887abf8bae59cd74b6f7831f04",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

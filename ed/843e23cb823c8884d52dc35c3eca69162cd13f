@@ -1,0 +1,21 @@
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_cd5b75225dd2e7::t_f01096f78631cd 279-281
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_cd5b75225dd2e7::t_ce693f70cb89a2 104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ed843e23cb823c8884d52dc35c3eca69162cd13f",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+python/sglang/kernels/ops/moe/moe_route_warp.py
+  h_1f940cd96f2dab 123-126,128-129
+python/sglang/srt/kernel_plugins/nvidia/binding.py
+  h_1f940cd96f2dab 54,57,1185-1227,1250-1252
+test/registered/kernels/ops/moe/test_moe_route_warp.py
+  h_1f940cd96f2dab 332-334,340-355
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_capture_preparation.py
+  h_1f940cd96f2dab 1-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4ece6091b9a0427a75b6902507700f3d0d583360",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

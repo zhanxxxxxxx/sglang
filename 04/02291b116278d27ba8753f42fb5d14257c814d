@@ -1,0 +1,31 @@
+docker/ant/modelspeed/README.md
+  s_6814b9b1896915::t_19a7661aec0e7b 29-30,48,54-55,76,81-93
+docker/ant/modelspeed/prepare.sh
+  s_b76a5b8c7822ff::t_30f12f94e4bd40 1-83
+docker/ant/modelspeed/test_prepare.py
+  s_6814b9b1896915::t_11b79d807a2916 1,7,11-15,17-25,27-39,41-75,77-81,83-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0402291b116278d27ba8753f42fb5d14257c814d",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_b76a5b8c7822ff": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1dfbb-2a63-7d41-9a3d-4caee31f3747",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

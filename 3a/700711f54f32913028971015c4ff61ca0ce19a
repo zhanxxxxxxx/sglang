@@ -1,0 +1,42 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_d2f810a79875c2 112,119-120,206-212,226-230,293-296,315-319,368-381
+  s_d1126527e97f3a::t_e69a0a7b8980a7 382
+python/sglang/srt/managers/tokenizer_manager.py
+  s_6814b9b1896915::t_d2f810a79875c2 797-798,814-821,884,955,4049-4080,4159-4160
+  s_6814b9b1896915::t_6473e9e96c577b 55,81
+python/sglang/srt/managers/io_struct.py
+  s_6814b9b1896915::t_d2f810a79875c2 1851-1857
+  s_6814b9b1896915::t_5df57cf2c43d97 26,52
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_6814b9b1896915::t_f13a3401322fb4 762-764
+  s_6814b9b1896915::t_d2f810a79875c2 49,69,280-281,283-284,406-407,409-410,480-482,538,593-623
+  s_6814b9b1896915::t_c0cfda996f3e7a 624
+test/registered/unit/managers/test_multi_tokenizer_mixin.py
+  s_d1126527e97f3a::t_6a9d159c91c682 1-2,4,12-13,15,20,134-171
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_6814b9b1896915::t_e66ef23cc52591 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3a700711f54f32913028971015c4ff61ca0ce19a",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_d1126527e97f3a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e38b-9c54-7683-9855-232fe63a3ea2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

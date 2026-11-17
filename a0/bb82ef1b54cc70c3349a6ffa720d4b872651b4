@@ -1,0 +1,22 @@
+python/sglang/srt/mem_cache/allocator/base.py
+  s_fe92d796c96f00::t_c1deda70fd5515 19,115-120
+  s_fe92d796c96f00::t_5394aa2fde5ebd 121
+test/registered/unit/disaggregation/test_dsv41_request_window_pd_receive.py
+  s_fe92d796c96f00::t_c1deda70fd5515 371-386,390-391,393-394,398-401,439
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a0bb82ef1b54cc70c3349a6ffa720d4b872651b4",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
