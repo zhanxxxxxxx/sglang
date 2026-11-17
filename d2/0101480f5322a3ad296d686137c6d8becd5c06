@@ -1,0 +1,25 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_cd5b75225dd2e7::t_dcc30b24ab55df 1640-1642
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_cd5b75225dd2e7::t_8e64434a7a7cff 3044-3045,3346
+python/sglang/srt/entrypoints/openai/serving_completions.py
+  s_cd5b75225dd2e7::t_96b7cdc791346e 566-567,738
+python/sglang/srt/observability/req_time_stats.py
+  s_cd5b75225dd2e7::t_696870aab84fbd 433,595,597,740-741
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d20101480f5322a3ad296d686137c6d8becd5c06",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
