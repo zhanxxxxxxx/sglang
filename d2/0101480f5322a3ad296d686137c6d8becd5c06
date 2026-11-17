@@ -6,6 +6,13 @@ python/sglang/srt/entrypoints/openai/serving_completions.py
   s_cd5b75225dd2e7::t_96b7cdc791346e 566-567,738
 python/sglang/srt/observability/req_time_stats.py
   s_cd5b75225dd2e7::t_696870aab84fbd 433,595,597,740-741
+  s_6814b9b1896915::t_c7465e5efbdec0 514-516,596,598,600,602,683,739,783-791,796
+test/registered/unit/observability/test_req_time_stats.py
+  s_6814b9b1896915::t_88a8ba8686098f 64-99
+python/sglang/srt/managers/tokenizer_manager.py
+  s_6814b9b1896915::t_c7465e5efbdec0 4998-5000,5002
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_6814b9b1896915::t_589df27812d38d 397
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -13,6 +20,14 @@ python/sglang/srt/observability/req_time_stats.py
   "base_commit_sha": "d20101480f5322a3ad296d686137c6d8becd5c06",
   "prompts": {},
   "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
     "s_cd5b75225dd2e7": {
       "agent_id": {
         "tool": "cursor",
