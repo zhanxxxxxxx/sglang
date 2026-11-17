@@ -14,7 +14,7 @@ python/sglang/srt/model_executor/forward_batch_info.py
 python/sglang/srt/layers/moe/moe_runner/humming.py
   h_f252eadf5e9832 43,907-912
 python/sglang/srt/models/deepseek_v4.py
-  h_f252eadf5e9832 4073-4082
+  h_f252eadf5e9832 4066-4070,4072,4073-4082,4083-4093
   h_f252eadf5e9832 4066-4070,4072,4083-4093
 test/registered/kernel/moe/test_dsv4_dp_route.py
   h_f252eadf5e9832 1-168,170-173,174-193
