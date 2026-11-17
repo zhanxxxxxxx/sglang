@@ -3,5 +3,15 @@
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.4",
   "base_commit_sha": "fd3b0771a26aaf771b2e76a20eb903fda9b6ce1a",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
 }

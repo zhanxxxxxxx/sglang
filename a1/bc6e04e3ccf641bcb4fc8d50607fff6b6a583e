@@ -1,0 +1,61 @@
+test/registered/unit/test_force_sum_len_attn_dp.py
+  s_2e74a1768aafbe::t_d562e66fb5306e 96,107-115,137,195,198-200,202
+  s_2e74a1768aafbe::t_6088ae9bf9856b 196-197,201,203
+  s_2e74a1768aafbe::t_331d0bffbda18b 204
+test/registered/spec/dspark/test_bailing_hidden_capture.py
+  s_2e74a1768aafbe::t_2d2b255aa4e658 1,7-8,71-75,78-80,83-94,97-119,125
+  s_2e74a1768aafbe::t_6dadfcaca4b603 3,12-22
+  s_2e74a1768aafbe::t_359c62ae76da25 23-25,29,32-38,40,42-45,47,49-55,57-65,67-68,70,127-129,133,135-136
+  s_2e74a1768aafbe::t_c5f5a4651e3d0b 5,9,76-77,81-82,95-96,120-124,126,130-132
+  s_2e74a1768aafbe::t_bf9e024ec394d0 6
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_2e74a1768aafbe::t_6d6fca6549b457 306,313
+  s_2e74a1768aafbe::t_359c62ae76da25 294-298
+python/sglang/srt/speculative/dspark_components/dspark_draft.py
+  s_2e74a1768aafbe::t_49befb9f372af8 13,111,154-161,186,195,289
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_2e74a1768aafbe::t_f75f08eee71460 218-227,246,262,264,278-282
+  s_2e74a1768aafbe::t_359c62ae76da25 46-50,54-62,125-129,134-138,143-148,150-156,160-171,174-179,196,201-205,208-210,318-321,344-349,353-355,365-383,403-406,411-427,435-446,481-483,506-509,512-514,524-533,535-553,556-561,566-576,579-584,588-590,602-609,612-628,631-633,638-642,644-654,661-667,669-671,679-686,690-692,703,705-709,718-719,728-730,738,743,747-751
+  s_2e74a1768aafbe::t_50340f99ef0e52 186-192,199-200,206,214-217,228-231,242-245,247-261,263,265-277,283-317,322-339
+  s_2e74a1768aafbe::t_797d50a3f0f31c 340-341
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_2e74a1768aafbe::t_1818fcc5581093 15,102-108,240,292,367-376,386-391
+python/sglang/srt/layers/communicator.py
+  s_2e74a1768aafbe::t_2aebf25c407687 515
+  s_2e74a1768aafbe::t_0c5fc9ac7f6205 512-514,516-521,539-540
+  s_2e74a1768aafbe::t_01006b5d7e4e24 743
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_2e74a1768aafbe::t_49befb9f372af8 29,92,103,143-146
+python/sglang/srt/speculative/dspark_components/dspark_backend_contract.py
+  s_2e74a1768aafbe::t_01006b5d7e4e24 23-24
+  s_2e74a1768aafbe::t_6d6fca6549b457 1,3-4,22,25-26,28-30
+python/sglang/srt/layers/sampler.py
+  s_2e74a1768aafbe::t_3fb7f0298f2523 76,80,83-84,87,280
+  s_2e74a1768aafbe::t_78037c3f7cb338 152,208,245
+  s_2e74a1768aafbe::t_359c62ae76da25 140-142,158-160,210-216,247-250
+  s_2e74a1768aafbe::t_18cc2c145f0e27 532-536
+  s_2e74a1768aafbe::t_01d9354abc6134 18,78-79,81-82,85-86,281
+python/sglang/srt/models/bailing_moe_v3.py
+  s_2e74a1768aafbe::t_359c62ae76da25 96-99,141,149,1044-1046,1060-1062,1070-1072
+  s_2e74a1768aafbe::t_0c5fc9ac7f6205 2751,2753-2756
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_2e74a1768aafbe::t_6088ae9bf9856b 1373
+  s_2e74a1768aafbe::t_18ec3e7294862e 31,1364-1372,1374-1378,1388-1392,1397,1468
+  s_2e74a1768aafbe::t_b365a226a56081 1519-1521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a1bc6e04e3ccf641bcb4fc8d50607fff6b6a583e",
+  "prompts": {},
+  "sessions": {
+    "s_2e74a1768aafbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d441-07ec-70e0-b4c8-cfe91a21e8d9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

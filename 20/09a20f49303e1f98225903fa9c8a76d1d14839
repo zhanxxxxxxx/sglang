@@ -1,0 +1,24 @@
+control/preparation_worker.py
+  h_b9344c1153cd0b 56-65
+docs/e2e-repair-review-20261112.md
+  h_b9344c1153cd0b 156-172
+execution/sglang/ais.py
+  h_b9344c1153cd0b 280-288
+execution/sglang/verification.py
+  h_b9344c1153cd0b 1047-1049,1195-1199
+tests/inference_rsi/test_ais_backend.py
+  h_b9344c1153cd0b 681-698
+tests/inference_rsi/test_provider_verification.py
+  h_b9344c1153cd0b 975-1022
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2009a20f49303e1f98225903fa9c8a76d1d14839",
+  "prompts": {},
+  "humans": {
+    "h_b9344c1153cd0b": {
+      "author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

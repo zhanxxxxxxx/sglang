@@ -1,0 +1,29 @@
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 1289
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 25-28,40,1267-1271,1273-1282,1292
+python/sglang/kernels/ops/attention/fla/kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 1-109
+test/registered/unit/server_args/test_glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 8,98,100,119-120,307,316,344,458,461,503-510,515
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 59,75-76
+test/registered/kernels/ops/attention/test_kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_6679c833317fe0 1-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0830b1e87fcd25eb30b7c06b8e49cb683f391e73",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
