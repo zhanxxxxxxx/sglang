@@ -1,0 +1,16 @@
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 2226
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "51fd1835d5a2d6e0a3a8c9dedfb7ff894e16554c",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

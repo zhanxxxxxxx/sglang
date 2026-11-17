@@ -1,0 +1,35 @@
+test/registered/unit/layers/test_radix_attention_padded_extend.py
+  s_e264e4a97219bf::t_e02c9cc048de9c 275-276
+test/registered/unit/test_model_overrides.py
+  s_e264e4a97219bf::t_e02c9cc048de9c 1919-1925
+test/registered/unit/utils/test_gc_logging.py
+  s_e264e4a97219bf::t_d3dd4f57a25d17 12,36,49,51,53
+python/sglang/kernels/ops/kvcache/mla_buffer.py
+  s_e264e4a97219bf::t_f107fb482bc70c 104-105,121,123,273-274
+test/registered/kernels/ops/kvcache/test_set_mla_kv_buffer.py
+  s_e264e4a97219bf::t_f99c92a5f74a93 2,50-52,56-70,72-75,77-92,94-105
+  s_e264e4a97219bf::t_f107fb482bc70c 53-55,71,76,93
+  s_e264e4a97219bf::t_afef1d4a6df79e 106-107
+test/registered/unit/spec/test_dflash_model_config.py
+  s_e264e4a97219bf::t_e02c9cc048de9c 14,29
+python/sglang/srt/mem_cache/memory_pool.py
+  s_e264e4a97219bf::t_f99c92a5f74a93 5146-5148
+test/registered/unit/mem_cache/test_page_sharded_dsa_attention.py
+  s_e264e4a97219bf::t_7c7c4fe1c0b384 730
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "603025add14d4ca7f882a19de77125715c3c09cc",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
