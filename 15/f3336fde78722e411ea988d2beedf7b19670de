@@ -1,0 +1,47 @@
+test/registered/attention/test_kda_apl_decode_numerics.py
+  s_030cfbd488998e::t_f48e38af127b3d 233,352
+  s_030cfbd488998e::t_a6b3a0532a56bb 79-101,137-141,151,211,229-232,338,342-351,516,571-576
+  s_030cfbd488998e::t_77d6b23e430769 400
+  s_030cfbd488998e::t_41174c836a49e3 234-277
+  s_ce0f7433748e22::t_940cf835c02a48 31-34,74-75,103,418
+  s_ce0f7433748e22::t_5b1227a1756c63 278-336,353-368,370-388,390,393,395-399,401-414
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_030cfbd488998e::t_77d6b23e430769 598-612,644,646,676
+  s_030cfbd488998e::t_130a3212d33f29 597,645,647-675,677-691,737
+test/registered/unit/layers/attention/test_kda_apl_backend.py
+  s_030cfbd488998e::t_77d6b23e430769 680-693,930-939,942-946,948,952-963
+  s_030cfbd488998e::t_0a438bf0ba9c11 1368-1369
+  s_030cfbd488998e::t_41174c836a49e3 628,1351-1367
+  s_030cfbd488998e::t_a5156d123ec61a 629,644,662,666,735,750-751
+  s_030cfbd488998e::t_a009781db5ddfe 1-7,44,120-121,299-303,412-413,425-427,449,828-832,834,837-839,841-843,846-848,850-852,854,882,900,903,906-907,910,915-919,921-923,925-929,964
+  s_030cfbd488998e::t_c43a290efdf578 297-298,304-315,833,835-836,840,844-845,849,853,855-881
+python/sglang/srt/layers/attention/linear/kda_apl_backend.py
+  s_030cfbd488998e::t_41174c836a49e3 84-88,98-118,457,488,504
+  s_030cfbd488998e::t_83c326368feec7 4-7,10-11,16-20,27-34,36-39,50-52,539-560,622,629-630,632-633
+  s_030cfbd488998e::t_c43a290efdf578 69,142-149,178-182,316-318,390-392,430-443,529-538
+  s_030cfbd488998e::t_77d6b23e430769 603,605-609,611-617,619-621
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "15f3336fde78722e411ea988d2beedf7b19670de",
+  "prompts": {},
+  "sessions": {
+    "s_030cfbd488998e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19cbd-04fe-78c3-8c5d-ae6561cf3668",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    },
+    "s_ce0f7433748e22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cd4f-7f26-78b2-ad44-8b1fa0a6d038",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    }
+  }
+}

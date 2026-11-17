@@ -1,0 +1,14 @@
+test/registered/unit/models/test_bailing_kda_beta.py
+  h_1d635ecd767a49 130-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "100706647462502a60c8dfae01243fb127de6a50",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

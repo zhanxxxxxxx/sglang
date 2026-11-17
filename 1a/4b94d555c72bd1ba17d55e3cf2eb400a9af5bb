@@ -1,0 +1,27 @@
+python/sglang/srt/debug_utils/certified_reference.py
+  s_d2f4c9dc120b69::t_ceb926617ff077 48-58,681-686
+test/registered/debug_utils/test_whole_kda_reference.py
+  s_d2f4c9dc120b69::t_ceb926617ff077 22-34,36-51
+  s_d2f4c9dc120b69::t_1932ae4aca4d57 35
+test/registered/debug_utils/test_certified_reference.py
+  s_d2f4c9dc120b69::t_ceb926617ff077 46-63,65-74
+  s_d2f4c9dc120b69::t_2dffc02284b9f3 64
+python/sglang/srt/debug_utils/full_composite_reference.py
+  s_d2f4c9dc120b69::t_ceb926617ff077 73-75,153-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1a4b94d555c72bd1ba17d55e3cf2eb400a9af5bb",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

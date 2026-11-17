@@ -1,0 +1,29 @@
+python/sglang/srt/distributed/parallel_state.py
+  s_7c78049fef189c::t_d6753fe4de160c 2822-2840
+  s_7c78049fef189c::t_4e75846b092e34 2821
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_7c78049fef189c::t_d6753fe4de160c 163-169,181-183,188,425-430,441-446
+test/manual/dsv41_single_prefill.py
+  s_7c78049fef189c::t_554c8a91e6c83f 186-194
+  s_7c78049fef189c::t_912a568121571c 1-185,195-228
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_7c78049fef189c::t_b8f7b0c8ca97f0 12-13,16-21,66-67,73-81,88-89,128-211,224-225,236-242,245,251-256
+python/sglang/srt/model_executor/model_runner.py
+  s_7c78049fef189c::t_b8f7b0c8ca97f0 692-696
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fbdd549de240f730ebceebf4b5311d1a5bde9f0",
+  "prompts": {},
+  "sessions": {
+    "s_7c78049fef189c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f82-4102-7542-99a6-554a28936fb7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

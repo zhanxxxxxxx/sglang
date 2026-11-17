@@ -1,0 +1,31 @@
+python/sglang/multimodal_gen/runtime/models/vaes/minimax_h3_video_vae/vae_cnn.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 5,10,24-42,158-160,162-163
+test/registered/kernels/ops/diffusion/test_activation.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 13,25,34-81
+  s_b4757e5c5edf36::t_f35338d3776378 82-83
+python/sglang/kernels/kda_kernels/silu_temporal_pad.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 1-60
+python/sglang/kernels/ops/diffusion/__init__.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 460-465,847
+  s_b4757e5c5edf36::t_9894620ef62c97 459
+python/sglang/multimodal_gen/runtime/models/vaes/minimax_h3_video_vae/conv.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 62-74,79,83-84
+python/sglang/multimodal_gen/runtime/models/vaes/minimax_h3_video_vae/norm.py
+  s_b4757e5c5edf36::t_c85fdf77bb945e 186,188,191-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2604bae2724a7b4ee862abbc154121b57409998d",
+  "prompts": {},
+  "sessions": {
+    "s_b4757e5c5edf36": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d3e8-2155-79f1-bf5b-a228d78e2dbd",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "thomas <thomas@U-PJGH9VKC-0301.local>"
+    }
+  }
+}

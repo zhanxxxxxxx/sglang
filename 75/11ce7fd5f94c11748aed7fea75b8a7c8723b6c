@@ -1,0 +1,22 @@
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_4169fe12e1f1d1 27
+  s_1d32b085fb33ca::t_91e17af9b299d3 811-838
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_91e17af9b299d3 254-283,286-300,1225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7511ce7fd5f94c11748aed7fea75b8a7c8723b6c",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

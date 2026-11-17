@@ -1,0 +1,57 @@
+scripts/rollout_precision_campaign.py
+  s_821adae34fee5b::t_a79b3f149e85d1 353,357
+examples/rollout_precision/USER_GUIDE.md
+  s_821adae34fee5b::t_dfbeeff45af586 195
+  s_821adae34fee5b::t_58f1efb17d356c 640
+  s_821adae34fee5b::t_e7e79701675e18 652
+test/registered/debug_utils/test_rollout_precision_cluster.py
+  s_821adae34fee5b::t_1bbcbd9926ca28 471,473,476
+  s_821adae34fee5b::t_830aabd88e3f91 472
+  s_821adae34fee5b::t_da0517708288b9 458
+examples/rollout_precision/MULTINODE_DESIGN.md
+  s_821adae34fee5b::t_f32dc1626246e8 21
+test/registered/debug_utils/test_rollout_precision_campaign.py
+  s_821adae34fee5b::t_9d0ca8c27bb57a 303-315
+scripts/rollout_precision.py
+  s_821adae34fee5b::t_22ce5027eb6a88 729-749
+  s_821adae34fee5b::t_84cd60101e329c 24
+  s_821adae34fee5b::t_d25591b69f6689 932
+  s_821adae34fee5b::t_2a85cdb3b14b0a 979-980
+  s_821adae34fee5b::t_19b943cf1e7e39 1029-1032
+  s_821adae34fee5b::t_e588d869545a64 961,989-993
+  s_821adae34fee5b::t_9732118dcbc2c9 988
+test/registered/debug_utils/test_rollout_precision_one_click.py
+  s_821adae34fee5b::t_dfadbe41eb9135 379
+  s_821adae34fee5b::t_a1040dcb45821f 388-409
+  s_821adae34fee5b::t_7e2e4311030584 602-604
+  s_821adae34fee5b::t_2e3ae32e2f4b4a 533-535
+  s_821adae34fee5b::t_f1b5d39780f6f6 580,582
+  s_821adae34fee5b::t_6cac8932c09717 677-680
+  s_821adae34fee5b::t_e91e6b77659714 434-437
+  s_821adae34fee5b::t_eb809bc1ef29ae 636-639
+python/sglang/srt/debug_utils/rollout_precision_cluster.py
+  s_821adae34fee5b::t_9ba7d20eeb6f66 150,160-169
+  s_821adae34fee5b::t_7a2d027fc24fe5 221
+  s_821adae34fee5b::t_250af5b34bd823 347
+test/registered/debug_utils/test_rollout_precision_retry.py
+  s_821adae34fee5b::t_1d7cc0776ed511 887,889
+examples/rollout_precision/README.md
+  s_821adae34fee5b::t_9d3e2ab170e7ea 197
+  s_821adae34fee5b::t_8c68d5c3942318 189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "16d39ed6665f08a9a5cc4e1cc8403e285d1e5d52",
+  "prompts": {},
+  "sessions": {
+    "s_821adae34fee5b": {
+      "agent_id": {
+        "tool": "codefuse",
+        "id": "8062924b-db18-4868-a965-50893a005d2e",
+        "model": "codefuse_official_channel/Kimi-K3.1-Pro:glink_domestic"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
