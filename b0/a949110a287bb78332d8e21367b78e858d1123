@@ -1,0 +1,32 @@
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_939a7add12684f::t_36ca86fa088b74 9,339-342,359-372,481-482,539-540
+  s_939a7add12684f::t_373ccdd68973ca 1-8,10-197,199-306,308-315,328-329,332-338,343-358,373-424,428-480,483-497,499-538,541-543
+  s_939a7add12684f::t_3f8300850be7eb 307,316-327,330-331,425-427,498
+  s_939a7add12684f::t_86b7e609292a4d 198
+python/sglang/srt/mem_cache/qsa_index_key_cache.py
+  s_939a7add12684f::t_82d865e6a44073 63-72
+python/sglang/srt/layers/attention/dsa/qsa_pooling.py
+  s_939a7add12684f::t_82d865e6a44073 4-8,90-106
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_939a7add12684f::t_3b15c6b333198d 40,579,589,617
+  s_939a7add12684f::t_75a082efecdcc9 662-667
+python/sglang/kernels/ops/attention/dsa/qsa_decode_metadata.py
+  s_939a7add12684f::t_76b695284ace72 27-28
+  s_939a7add12684f::t_82d865e6a44073 1-26,29-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b0a949110a287bb78332d8e21367b78e858d1123",
+  "prompts": {},
+  "sessions": {
+    "s_939a7add12684f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e422-0721-7aa3-84ac-481db00fbc21",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chenmu.my <chenmu.my@antgroup.com>"
+    }
+  }
+}
