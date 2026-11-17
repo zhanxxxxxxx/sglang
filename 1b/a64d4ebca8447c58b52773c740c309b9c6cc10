@@ -1,0 +1,21 @@
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_939a7add12684f::t_c5a4cd5c08a528 331-361
+python/sglang/kernels/ops/attention/dsa/qsa_decode_metadata.py
+  s_939a7add12684f::t_e1dfa256c00718 120-123,128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1ba64d4ebca8447c58b52773c740c309b9c6cc10",
+  "prompts": {},
+  "sessions": {
+    "s_939a7add12684f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e422-0721-7aa3-84ac-481db00fbc21",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chenmu.my <chenmu.my@antgroup.com>"
+    }
+  }
+}

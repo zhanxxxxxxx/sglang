@@ -1,0 +1,16 @@
+python/sglang/srt/mem_cache/memory_pool.py
+  h_1d635ecd767a49 3932-3938
+test/registered/unit/mem_cache/test_bailing_dsa_pool.py
+  h_1d635ecd767a49 21-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "55ab2d98691094ef4027e82ed5ce7d84fe6e23aa",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

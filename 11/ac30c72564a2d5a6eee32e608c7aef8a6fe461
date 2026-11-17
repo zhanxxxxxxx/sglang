@@ -1,0 +1,18 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 203-209
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 2221-2226,2235-2238
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  h_1d635ecd767a49 193-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "11ac30c72564a2d5a6eee32e608c7aef8a6fe461",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

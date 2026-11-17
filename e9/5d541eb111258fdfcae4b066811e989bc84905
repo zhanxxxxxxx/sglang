@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/attention/fla/kda_replayssm_spec_decode.py
+  s_f5a50be0fc3a60::t_d42a215f88fbfd 21,27-28,35-38,43-57,305-343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e95d541eb111258fdfcae4b066811e989bc84905",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

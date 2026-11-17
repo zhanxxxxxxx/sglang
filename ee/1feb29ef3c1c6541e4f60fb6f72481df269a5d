@@ -1,0 +1,27 @@
+python/sglang/srt/constrained/base_grammar_backend.py
+  s_f249f0b3fd5e8a::t_a93e1c80568fd2 41-68,252-262,385-386,392,399-414
+python/sglang/srt/constrained/grammar_cache.py
+  s_f249f0b3fd5e8a::t_4d0ed1c8bd75ba 8-9,25-27,30-37,39,64-65
+python/sglang/srt/constrained/xgrammar_backend.py
+  s_f249f0b3fd5e8a::t_4ff7ac118738cb 260
+python/sglang/srt/environ.py
+  s_f249f0b3fd5e8a::t_532006314e96a2 428-434
+test/registered/unit/constrained/test_grammar_cache_release.py
+  s_f249f0b3fd5e8a::t_25b479d32d49ff 1-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ee1feb29ef3c1c6541e4f60fb6f72481df269a5d",
+  "prompts": {},
+  "sessions": {
+    "s_f249f0b3fd5e8a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_f249f0b3fd5e8a",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

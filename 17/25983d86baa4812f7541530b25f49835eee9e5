@@ -1,0 +1,20 @@
+python/sglang/srt/layers/moe/amega_moe.py
+  h_1d635ecd767a49 21-22,296,299,301,303-306,326,376-377,391-392,400-409,415,448-450,606-608,624-671
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1252-1261,1270
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 7646-7659
+test/registered/unit/server_args/test_amega_config.py
+  h_1d635ecd767a49 1,46,93-108,112,126-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1725983d86baa4812f7541530b25f49835eee9e5",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

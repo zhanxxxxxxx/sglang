@@ -1,0 +1,21 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_cd5b75225dd2e7::t_dcd0c7ee8fb367 800
+  s_cd5b75225dd2e7::t_7f0accecc2d57d 814
+  s_cd5b75225dd2e7::t_41fbdd7b7b074c 4124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7a9809de97d79451d2cc25f80703fc6e7b44e9b",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

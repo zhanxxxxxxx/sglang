@@ -1,0 +1,31 @@
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 35,50-57,107,121,185,208,235
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 306-307,756,761,790,985-986,1223-1229,1303-1306,1548,1556-1557,1580-1581,1607,1658
+test/manual/test_masked_clamped_rht.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 1-66
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  s_0452a5e74ce307::t_b50d24ab3554f3 25-32,223-225,243,290-327,638-640,642
+python/sglang/kernels/ops/quantization/__init__.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 133,155
+python/sglang/srt/models/bailing_moe_v3.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 1032-1043
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_0452a5e74ce307::t_b50d24ab3554f3 22,346-348,352,389,407-408,428-437,472-473,552-553,584-601,606-608,612
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5af1c1031bae904487c2736bbacda8e762ffa26a",
+  "prompts": {},
+  "sessions": {
+    "s_0452a5e74ce307": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2f5-6a7e-7273-8bc1-37bcd3710fe4",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "hanxudong.hxd <hanxudong.hxd@antgroup.com>"
+    }
+  }
+}
