@@ -1,0 +1,22 @@
+test/registered/unit/disaggregation/test_encoder_mm_meta.py
+  s_b4fd8fd5872695::t_4fc11bace8ebcf 63
+  s_b4fd8fd5872695::t_2cdf852b3e97f4 737-745,787-817
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_b4fd8fd5872695::t_2cdf852b3e97f4 357-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca37f13717ba07f55ed1ce07311cae4fd7891d77",
+  "prompts": {},
+  "sessions": {
+    "s_b4fd8fd5872695": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e875-4c55-7bf3-b8da-c15d1093c4dd",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+test/registered/unit/configs/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 1-121
+test/registered/unit/layers/test_bailing_mrope_shape.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 179
+python/sglang/srt/layers/attention/ling/rotary.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 15,22
+python/sglang/srt/layers/rotary_embedding/bailing_mrope.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 1,10,12-19,25-26,64-85,124,340-415
+test/registered/kernels/ops/attention/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 1-242
+python/sglang/srt/layers/rotary_embedding/factory.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 10-13,352-381
+python/sglang/kernels/ops/attention/rotary_triton.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 174,208-219,234-243,255,287
+python/sglang/srt/layers/rotary_embedding/rope_variant.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 21-22,362-363,377-385
+python/sglang/srt/models/bailing_moe_v3.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 246,248
+python/sglang/srt/configs/ling.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 41-42,73-90,99-100,105-106,112-127
+  s_7a64d91f26e78a::t_6dab8397a2bd21 128-129
+python/sglang/srt/layers/rotary_embedding/yarn.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 65-106
+python/sglang/srt/configs/bailing_hybrid.py
+  s_7a64d91f26e78a::t_c4110c9d27cbe1 441-442,444,453,457,459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5e1fe2730c19d8500a2308b69df0a7955ee8b0a6",
+  "prompts": {},
+  "sessions": {
+    "s_7a64d91f26e78a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e77d-3fa8-78d3-93fd-b7882982024b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
