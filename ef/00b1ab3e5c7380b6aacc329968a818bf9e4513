@@ -1,0 +1,24 @@
+python/sglang/srt/managers/generation_boundary.py
+  h_1c061c07072f6a 1-148
+python/sglang/srt/managers/scheduler.py
+  h_1c061c07072f6a 2140,2175,3226,3230-3233,4116-4118,4254,4615-4617
+python/sglang/srt/managers/scheduler_components/invariant_checker.py
+  h_1c061c07072f6a 58,246-249
+python/sglang/srt/managers/scheduler_components/load_inquirer.py
+  h_1c061c07072f6a 57,95
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_1c061c07072f6a 369-370
+test/registered/unit/mem_cache/test_generation_boundary.py
+  h_1c061c07072f6a 1-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ef00b1ab3e5c7380b6aacc329968a818bf9e4513",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
