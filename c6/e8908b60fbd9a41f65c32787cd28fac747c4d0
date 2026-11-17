@@ -1,0 +1,26 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_e264e4a97219bf::t_a6a38dc4740bbd 2563-2565
+  s_e264e4a97219bf::t_562bfab7a61a60 2437-2438,2553-2555,2559,2561-2562,2566-2569
+python/sglang/kernels/ops/attention/flash_attn/cute/flash_fwd_sm100_bias_decode.py
+  s_e264e4a97219bf::t_8e6b3d1c8ff574 8-35
+  s_e264e4a97219bf::t_282239d601882f 5-7
+  s_e264e4a97219bf::t_66deffd3b567ae 36-38
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_e264e4a97219bf::t_afba1b04cb7835 2022-2088
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6e8908b60fbd9a41f65c32787cd28fac747c4d0",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_1c061c07072f6a 739,745,1237-1266,1575-1576,1730
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  h_1c061c07072f6a 296
+python/sglang/srt/mem_cache/snapshot_live_transfer.py
+  h_1c061c07072f6a 132
+test/registered/unit/mem_cache/test_request_snapshot_rpc_observation.py
+  h_1c061c07072f6a 106-123
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  h_1c061c07072f6a 437-476
+test/registered/unit/mem_cache/test_snapshot_live_transfer.py
+  h_1c061c07072f6a 145,156-157,170-207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c4d499eb271db5ef8d16510dc7b862371c7e7f24",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
