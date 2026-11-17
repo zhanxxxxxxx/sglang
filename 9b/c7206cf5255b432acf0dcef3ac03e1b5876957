@@ -1,0 +1,19 @@
+test/registered/kernels/ops/kvcache/test_hicache.py
+  s_e264e4a97219bf::t_269aafd09bbb56 816,827,829,833,837-838,842,844
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9bc7206cf5255b432acf0dcef3ac03e1b5876957",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
