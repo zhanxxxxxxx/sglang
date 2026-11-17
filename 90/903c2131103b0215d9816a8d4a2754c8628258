@@ -1,0 +1,29 @@
+python/sglang/srt/managers/performance_observation.py
+  s_25c6621cf475a6::t_0ebb9affe055c7 97,99-100
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_25c6621cf475a6::t_9cd6a6d6aa601b 1543-1547
+python/sglang/srt/mem_cache/snapshot_loaded_content.py
+  s_25c6621cf475a6::t_26b1096174e17e 916-929,943,1006-1008,1015,1017-1018,1026-1028,1031,1040,1058-1066,1146-1162,1184-1186,1192,1194,1197,1204-1205
+python/sglang/srt/mem_cache/snapshot_observation.py
+  s_25c6621cf475a6::t_dbf1731d9426e0 10,20,99-104,117-123,173,176,196,208-209,211-213,229,257-258,321,331-332,344-351,354-357,359-395,489-490,492-495,505
+test/registered/unit/mem_cache/test_performance_observation.py
+  s_25c6621cf475a6::t_3f7d9d403a2eb4 133,156-157,169,229-294
+test/registered/unit/mem_cache/test_snapshot_training_publication.py
+  s_25c6621cf475a6::t_58789b688e6bff 511-594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "90903c2131103b0215d9816a8d4a2754c8628258",
+  "prompts": {},
+  "sessions": {
+    "s_25c6621cf475a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19a1b-68e4-7540-8537-e528ac01d211",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

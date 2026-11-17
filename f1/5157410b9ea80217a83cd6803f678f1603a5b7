@@ -1,0 +1,30 @@
+python/sglang/srt/entrypoints/openai/serving_completions.py
+  s_cd5b75225dd2e7::t_95700638a1c506 21
+  s_cd5b75225dd2e7::t_3d51130c7b0e35 166
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_cd5b75225dd2e7::t_3094e07af3d893 80
+  s_cd5b75225dd2e7::t_921932e60238d6 1496
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_cd5b75225dd2e7::t_0b9bcc5e3de1b0 357-365
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_cd5b75225dd2e7::t_d80aef714c3209 20,22-28,30-32
+  s_cd5b75225dd2e7::t_d73a2ae95fdbec 63,65-66
+  s_cd5b75225dd2e7::t_35adfcbfdda0ac 51-56
+  s_cd5b75225dd2e7::t_b5fae24e6f9a76 18-19,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f15157410b9ea80217a83cd6803f678f1603a5b7",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
