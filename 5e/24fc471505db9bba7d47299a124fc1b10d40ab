@@ -1,0 +1,29 @@
+scripts/rollout_precision_patch.py
+  s_d2f4c9dc120b69::t_eeaf6040ec59fa 54
+test/registered/debug_utils/test_native_triton_moe_replay.py
+  s_d2f4c9dc120b69::t_eeaf6040ec59fa 64-65,75-77,81-87,93,97-104,113,119,127-128,164-169,173-176,178-182,184-189,192,201-205,211-212,216-218,221-228
+  s_d2f4c9dc120b69::t_baa21d0fd9c4ac 78-80,88-92,94-96,105-112,114-118,120-126,129-163,170-172,177,183,190-191,193-200,206-210,213-215,219-220
+  s_d2f4c9dc120b69::t_b0f1dc96edf9d8 229-230
+python/sglang/srt/debug_utils/native_triton_moe_replay.py
+  s_d2f4c9dc120b69::t_50179441e5e4e0 131,137-138,188-191
+  s_d2f4c9dc120b69::t_baa21d0fd9c4ac 134-136
+python/sglang/srt/debug_utils/native_ep_moe_replay.py
+  s_d2f4c9dc120b69::t_baa21d0fd9c4ac 17-21,36-37,40-46,56-59,73-75,77-79,83-90,104-108,111-113,115-119,122-129,140-146,156-158,167-169,180-187,189-192
+  s_d2f4c9dc120b69::t_50179441e5e4e0 1-16,22-35,38-39,47-55,60-72,76,80-82,91-103,109-110,114,120-121,130-139,147-155,159-166,170-179,188,193-195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5e24fc471505db9bba7d47299a124fc1b10d40ab",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

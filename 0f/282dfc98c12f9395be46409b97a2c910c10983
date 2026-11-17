@@ -1,0 +1,47 @@
+python/sglang/srt/disaggregation/decode.py
+  s_3a9c9122506be4::t_8a6a31ab05c08f 2640-2656,2664-2672
+python/sglang/srt/managers/schedule_batch.py
+  s_3a9c9122506be4::t_06428979ab232f 99,2448
+  s_3a9c9122506be4::t_f7d87a91a94383 2447,2449-2450,3718-3721,3782-3786,3845-3846
+python/sglang/srt/disaggregation/decode_schedule_batch_mixin.py
+  s_3a9c9122506be4::t_f7d87a91a94383 9-10,120-124
+python/sglang/srt/speculative/eagle_worker_common.py
+  s_3a9c9122506be4::t_f7d87a91a94383 135,332
+python/sglang/srt/speculative/eagle_info.py
+  s_3a9c9122506be4::t_f7d87a91a94383 11,151-152,309-310,389,416
+python/sglang/srt/environ.py
+  s_3a9c9122506be4::t_06428979ab232f 1274
+  s_3a9c9122506be4::t_f7d87a91a94383 1275
+python/sglang/srt/managers/scheduler.py
+  s_3a9c9122506be4::t_8a6a31ab05c08f 5146-5152
+python/sglang/srt/speculative/generated_draft_kv.py
+  s_3a9c9122506be4::t_f7d87a91a94383 1-47
+python/sglang/srt/layers/attention/flashinfer_backend.py
+  s_3a9c9122506be4::t_06428979ab232f 2341
+  s_3a9c9122506be4::t_f7d87a91a94383 2145-2160,2339-2340,2342-2344,2362,2373
+python/sglang/kernels/ops/speculative/cache_locs.py
+  s_3a9c9122506be4::t_f7d87a91a94383 70,94-95,134-139
+python/sglang/srt/arg_groups/validation_hook.py
+  s_3a9c9122506be4::t_093ed8c05c0c72 56-57,67-68,74-75
+  s_3a9c9122506be4::t_f7d87a91a94383 51-55,58-59,61,64-66,69-73,76-77
+  s_3a9c9122506be4::t_06428979ab232f 60,62-63
+python/sglang/srt/speculative/eagle_worker_v2.py
+  s_3a9c9122506be4::t_8a6a31ab05c08f 1271-1277,1394-1413,1420-1438
+  s_3a9c9122506be4::t_49ec812aadad12 1439-1443
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f282dfc98c12f9395be46409b97a2c910c10983",
+  "prompts": {},
+  "sessions": {
+    "s_3a9c9122506be4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d341-ffa2-7a40-98f7-02957b5ae8d1",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

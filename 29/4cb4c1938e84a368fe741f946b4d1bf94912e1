@@ -1,0 +1,14 @@
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 2203-2217,2666
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "294cb4c1938e84a368fe741f946b4d1bf94912e1",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

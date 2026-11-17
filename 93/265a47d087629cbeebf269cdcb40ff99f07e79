@@ -1,0 +1,21 @@
+python/sglang/srt/layers/quantization/glm53_small_fp8_gemm.py
+  s_f5a50be0fc3a60::t_2b0db398a25fdf 24,26-31
+test/registered/kernels/ops/gemm/test_glm53_h20_swapab.py
+  s_f5a50be0fc3a60::t_2b0db398a25fdf 2-4,13,19-25,44-47,56,72-76,104-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93265a47d087629cbeebf269cdcb40ff99f07e79",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

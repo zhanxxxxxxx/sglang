@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/moe/fused_moe_triton_kernels.py
+  s_a966926f777d1f::t_aeaed31ff9fc97 391,707-711
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1a2b30a2015f2de40f643de436514009a64fa593",
+  "prompts": {},
+  "sessions": {
+    "s_a966926f777d1f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8bc-5024-73d3-aab6-594fd821fdaa",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

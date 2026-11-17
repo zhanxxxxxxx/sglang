@@ -1,0 +1,39 @@
+python/sglang/kernels/ops/moe/mega_moe_gluon_w4afp8.py
+  s_999842a87e9579::t_0a68bb39c38c9d 1,3-4,6-7
+test/registered/unit/utils/test_gluon_cache_install.py
+  s_999842a87e9579::t_7d52fbad1fe751 12,45,56
+  s_999842a87e9579::t_cfa52ee4dd40d6 1,47-48,50-52,58,60,85,90-92,96-101,115-118,125,134,147,149
+  s_999842a87e9579::t_4152fa8dbfbe36 93-95,135-146
+docker/ant/aci/sglang_fast.aci.yml
+  s_999842a87e9579::t_e5d47403c0cdd5 147
+  s_999842a87e9579::t_9428465cf7d9fe 34-37,49,118-119,146
+python/sglang/srt/model_executor/model_runner_components/mega_moe_gluon_setup.py
+  s_999842a87e9579::t_e5d47403c0cdd5 136
+  s_999842a87e9579::t_f8dd86bc9a9884 137-139,141
+  s_999842a87e9579::t_edf5cd97cf1a42 128,131,166,179-187
+python/sglang/srt/environ.py
+  s_999842a87e9579::t_edf5cd97cf1a42 1237
+test/registered/unit/layers/moe/test_gluon_prefill.py
+  s_999842a87e9579::t_7d52fbad1fe751 41,74,84-85,91-92
+  s_999842a87e9579::t_edf5cd97cf1a42 33-40
+docker/ant/install_gluon_cache.py
+  s_999842a87e9579::t_e5d47403c0cdd5 1,3-4,75,104,116,190,192,206
+python/sglang/srt/arg_groups/mega_moe_hook.py
+  s_999842a87e9579::t_edf5cd97cf1a42 12-23,147-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7236a63280c0837565189d3e63fce17ef2ea637e",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

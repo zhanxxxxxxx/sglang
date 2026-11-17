@@ -1,0 +1,55 @@
+python/sglang/srt/managers/scheduler.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 3752,3756
+python/sglang/srt/environ.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 1237
+python/sglang/srt/layers/quantization/humming.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 1275-1276,1397-1398
+python/sglang/srt/arg_groups/mega_moe_hook.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 13-14,31-32,53,62,65-66,68,78-86,113-114,119-122,124,126-127,133,140-141,151
+python/sglang/srt/layers/moe/mega_moe.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 24,29-32,195,200-208
+python/sglang/srt/layers/moe/mega_moe_gluon.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 2,16,18-22,141-147,149-152,154,164,173-191,204-210,220,222,224-226,235,240,242-247,259,262-267
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 857
+python/sglang/srt/model_executor/model_runner.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 715-721,723,1725
+python/sglang/srt/arg_groups/fields/exec_.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 662-663
+python/sglang/srt/layers/moe/utils.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 846-849
+python/sglang/kernels/ops/moe/mega_moe_gluon_w4afp8.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 4,6-7,530-532,4456,4465,4666
+python/sglang/srt/model_executor/model_runner_components/cuda_graph_setup.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 251
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 47-50
+python/sglang/srt/model_executor/model_runner_components/mega_moe_gluon_setup.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 2,22-25,88-89,91-92,94-101,103-104,108,110,113,115,118,122-126,131,147,155-156,158,164-165,168-169,171
+python/sglang/srt/speculative/eagle_worker_v2.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 997
+python/sglang/srt/models/deepseek_v2.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 3037-3038
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 327-333,335
+python/sglang/kernels/ops/moe/mega_moe_gluon_w4afp8.NOTICE
+  s_64e4e33f15215f::t_b62a898f4bfffb 1,4
+test/registered/unit/layers/moe/test_gluon_prefill.py
+  s_64e4e33f15215f::t_b62a898f4bfffb 1-5,15-18,22-24,30-31,35-56,59,66,68-71,81-90,94-95,98,103-108,110-131,135-139,143-148,150,153-158,161-170,172-173,175-182,184-186,188-195,197-198,200-207,209-226,230-231,236,239-276,278-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f7d7d3cb43f65bd90d0811d8cde722ce11ddce16",
+  "prompts": {},
+  "sessions": {
+    "s_64e4e33f15215f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e349-e352-7ed2-a066-a2c62df5b35c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
