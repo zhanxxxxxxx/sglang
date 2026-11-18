@@ -1,0 +1,26 @@
+python/sglang/srt/layers/moe/token_dispatcher/base.py
+  s_e4f6b4e83692e9::t_4b33ebec444c6d 320-324
+  s_e4f6b4e83692e9::t_114871410c0abd 317-319,325-326
+test/registered/unit/layers/moe/test_ling_topk_align.py
+  s_e4f6b4e83692e9::t_890b63dad9c5d7 19,42-49,86-87,113-114,117,119-120,125-126,164-189,193-195,197-200,202-203
+  s_e4f6b4e83692e9::t_9c3972d6a1494c 118,123-124,190-192,196,201
+  s_e4f6b4e83692e9::t_2f78ec6e57c7bd 204
+python/sglang/srt/layers/moe/ling_topk_align.py
+  s_e4f6b4e83692e9::t_5ef5502f723661 197-200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "619fda0b9030e0ddfa8e8445a942462793af0115",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

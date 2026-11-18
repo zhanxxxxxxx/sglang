@@ -1,0 +1,20 @@
+test/registered/unit/models/test_bailing_kda_prefill_cp.py
+  s_d2f4c9dc120b69::t_18953569a83baa 3,5,66-69,75
+  s_d2f4c9dc120b69::t_2fe5b92e8cd904 70-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59df4365a072617e853f066cf82d08272fc39583",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
