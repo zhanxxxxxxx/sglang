@@ -1,0 +1,29 @@
+python/sglang/srt/debug_utils/rollout_precision_offline.py
+  s_d2f4c9dc120b69::t_3274350be8c105 456-468
+python/sglang/srt/debug_utils/native_graph_layer_replay.py
+  s_d2f4c9dc120b69::t_3274350be8c105 3-4,10-21,27-33,37-39,43,48-49,55-68
+  s_d2f4c9dc120b69::t_7a310956741d72 22-26,34-36,40-42,45-47,50-54
+  s_d2f4c9dc120b69::t_14d84d84a88c36 44
+  s_d2f4c9dc120b69::t_b481f2dc644879 69-70
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_3274350be8c105 1168-1169
+test/registered/debug_utils/test_native_layer_replay.py
+  s_d2f4c9dc120b69::t_7a310956741d72 24-26,46-48
+  s_d2f4c9dc120b69::t_14d84d84a88c36 27-45,49-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "aa2257c60a664af4e16a09a3cb9e36cee1a472d0",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
