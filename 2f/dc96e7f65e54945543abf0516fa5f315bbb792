@@ -1,0 +1,33 @@
+python/sglang/srt/entrypoints/http_server.py
+  s_3e4a55f3f80e4f::t_275c2d6d9e5206 2592-2597,2599
+  s_3e4a55f3f80e4f::t_6d7fd65ef1bef4 92,2583,2588,2598
+python/sglang/srt/entrypoints/ling_kda_warmup.py
+  s_3e4a55f3f80e4f::t_a7c6959c4ed27c 132
+  s_3e4a55f3f80e4f::t_c41005008321fb 35-37,74-75,90-92,94-105,117-121,127-131,133-136,145-153
+  s_3e4a55f3f80e4f::t_99b794b75cb020 109-111
+  s_3e4a55f3f80e4f::t_275c2d6d9e5206 1-26,30-34,38-55,57-60,63-64,66-67,70-73,76-89,93,112-113,115-116,122-126,137-139,143-144
+  s_3e4a55f3f80e4f::t_7e3ea37d55cf8d 27-29,68-69,106-108,114,140-142
+  s_3e4a55f3f80e4f::t_c67c8d4c680616 56,61-62,65
+test/registered/unit/entrypoints/test_ling_kda_warmup.py
+  s_3e4a55f3f80e4f::t_c41005008321fb 12-15,19-24,46-55,78-84,89-91,116-123,128-141,144-151,164-173
+  s_3e4a55f3f80e4f::t_99b794b75cb020 182-195,197-201,215-217,222-224,228-230
+  s_3e4a55f3f80e4f::t_772cdbbd2afcce 175-181,196,202-214,218-221,225-227
+  s_3e4a55f3f80e4f::t_a7c6959c4ed27c 99
+  s_3e4a55f3f80e4f::t_dea8b27f85839a 1-11,16-18,25-45,56-77,85-88,92-98,100-115,124-127,142-143,152-163,174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2fdc96e7f65e54945543abf0516fa5f315bbb792",
+  "prompts": {},
+  "sessions": {
+    "s_3e4a55f3f80e4f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03c24-ee4c-7c60-879b-38244e8233f3",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
