@@ -1,0 +1,58 @@
+python/sglang/srt/multimodal/processors/lfm3_vl.py
+  s_e264e4a97219bf::t_c0aa1990b9ea53 87-89
+  s_e264e4a97219bf::t_3d9daee46739ad 98
+  s_e264e4a97219bf::t_307b901fbaf73f 73-81
+  s_e264e4a97219bf::t_0b6c10dd11dfad 71,82-86,90-97,99-101
+  s_e264e4a97219bf::t_90eea53ccb0c57 68-70
+  s_e264e4a97219bf::t_d2da2cef734c83 72
+  s_e264e4a97219bf::t_b11d51126ea296 102-104
+test/registered/unit/multimodal/test_lfm3_video_decode.py
+  s_e264e4a97219bf::t_28560a1ead47a4 3-4,6,12-14,26-40,44-48,53-69
+  s_e264e4a97219bf::t_21b5023edeb35a 1-2,7-11,15-19,21-25,70-107
+  s_e264e4a97219bf::t_c32e06dff44cfa 5,20,41-43,49-52
+python/sglang/srt/multimodal/multimodal_processor_mixin.py
+  s_e264e4a97219bf::t_62a0d3fed6d4e2 258-260
+  s_e264e4a97219bf::t_307b901fbaf73f 41,261
+  s_e264e4a97219bf::t_141ad770b064d6 40
+test/registered/unit/managers/test_hisparse_retract_rebootstrap.py
+  s_e264e4a97219bf::t_b1b82288a1f8aa 67
+  s_e264e4a97219bf::t_02426f67bb5459 64-66
+  s_e264e4a97219bf::t_18928a52bdcc04 68-70
+python/sglang/srt/multimodal/media_io.py
+  s_e264e4a97219bf::t_307b901fbaf73f 742,830-840
+python/sglang/srt/multimodal/processors/lfm3_omni.py
+  s_e264e4a97219bf::t_307b901fbaf73f 28
+  s_e264e4a97219bf::t_3b32e573a95a41 25-27
+  s_e264e4a97219bf::t_c893ba8f4692f7 29-31
+test/registered/unit/multimodal/test_processor_device_selection.py
+  s_e264e4a97219bf::t_c49bf5bfe86900 360
+test/registered/unit/utils/test_gc_logging.py
+  s_e264e4a97219bf::t_ef6426ac8ac057 10-11,22-23
+  s_e264e4a97219bf::t_21b5023edeb35a 1-9,12-21,24-73
+test/registered/unit/multimodal/test_feature_identity.py
+  s_e264e4a97219bf::t_c0aa1990b9ea53 19,39,92-94,108-110
+python/sglang/srt/utils/video_decoder.py
+  s_e264e4a97219bf::t_307b901fbaf73f 105,114,120,122-123
+test/registered/unit/multimodal/test_base_processor_image_decode.py
+  s_e264e4a97219bf::t_1428edd88a2497 105-106,111,115,122
+  s_e264e4a97219bf::t_28560a1ead47a4 125
+  s_e264e4a97219bf::t_c32e06dff44cfa 141-144
+python/sglang/srt/utils/log_utils.py
+  s_e264e4a97219bf::t_d8169eca170225 24,44,354-361,364-365,367-385
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "52d1cf38473312f5097c38d9792d76c1185f4e91",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

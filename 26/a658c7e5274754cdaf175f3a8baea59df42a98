@@ -1,0 +1,33 @@
+python/sglang/srt/constrained/base_grammar_backend.py
+  s_06c7715f7b38f2::t_9b28726462c553 18-19,21,24,28,42-128,212-215,277-279,285-313,415-416,424-435,437-473,477-478
+python/sglang/srt/constrained/grammar_cache.py
+  s_06c7715f7b38f2::t_e15bbbb5a32f1b 1-131
+python/sglang/srt/constrained/reasoner_grammar_backend.py
+  s_06c7715f7b38f2::t_f894cbc69c54b3 165-169,603-604,609
+python/sglang/srt/constrained/xgrammar_backend.py
+  s_06c7715f7b38f2::t_71b8c7bd8513f8 40-43,49,102-104,212-214,240-251
+python/sglang/srt/environ.py
+  s_06c7715f7b38f2::t_bdbc42c4a0803a 426-449
+test/registered/unit/constrained/test_base_grammar_backend.py
+  s_06c7715f7b38f2::t_29476eb5c56d54 49,62,123
+test/registered/unit/constrained/test_grammar_cache_limits.py
+  s_06c7715f7b38f2::t_2acaa8b146878d 1-359
+test/registered/unit/constrained/test_grammar_cache_release.py
+  s_06c7715f7b38f2::t_c6289edde159a6 1-309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "26a658c7e5274754cdaf175f3a8baea59df42a98",
+  "prompts": {},
+  "sessions": {
+    "s_06c7715f7b38f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_06c7715f7b38f2",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
