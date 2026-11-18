@@ -1,0 +1,116 @@
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_sm90/entry.cuh
+  h_f252eadf5e9832 1-117
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_sm90/kernel.cuh
+  h_f252eadf5e9832 1-1264
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_splitkv_sm90/entry.cuh
+  h_f252eadf5e9832 1-203
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_sm90.py
+  h_f252eadf5e9832 1-495
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_splitkv_sm90.py
+  h_f252eadf5e9832 1-211
+python/sglang/kernels/ops/quantization/fused_moe_activation_quant.py
+  h_f252eadf5e9832 1-246
+python/sglang/srt/entrypoints/server_utils.py
+  h_f252eadf5e9832 33,148,156
+python/sglang/srt/environ.py
+  h_f252eadf5e9832 1362
+python/sglang/srt/hf_transformers/processor.py
+  h_f252eadf5e9832 420-426
+python/sglang/srt/layers/attention/dsa/dsa_backend_kpool.py
+  h_f252eadf5e9832 56-59,64
+python/sglang/srt/layers/attention/dsa/dsa_backend_mtp_precompute.py
+  h_f252eadf5e9832 73-80,176,224,310,375
+python/sglang/srt/layers/attention/dsa/dsa_indexer_kpool.py
+  h_f252eadf5e9832 358-361,371-372,377
+python/sglang/srt/layers/attention/dsa/dsa_metadata_manager.py
+  h_f252eadf5e9832 102-105,197-200
+python/sglang/srt/layers/attention/dsa_backend.py
+  h_f252eadf5e9832 40-43,59,182,201,865-889,1814,1970-1971,2150,2524,3808-3820,3861,4859,5073-5078
+python/sglang/srt/layers/cp/cp_decode_attn_tp.py
+  h_f252eadf5e9832 23,38-42,71-99,195
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 18-24,189-190,197-200,554-645,760-762
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  h_f252eadf5e9832 1-146
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  h_f252eadf5e9832 1-164
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  h_f252eadf5e9832 1-146
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  h_f252eadf5e9832 1-164
+python/sglang/srt/layers/quantization/compressed_tensors/compressed_tensors.py
+  h_f252eadf5e9832 69-71,73,104,159-160,232-234,236-243,248-267,313-314,433-450,485-488,501,507-513,517,523,527-532,537,836,1027-1030,1041,1057-1064,1068-1070,1096-1098,1101-1105,1153,1155-1159,1202,1206,1242,1331-1339,1341-1344
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_w4a4_mxint4_moe.py
+  h_f252eadf5e9832 56-59,62,84
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_w4a8_fp8_moe.py
+  h_f252eadf5e9832 1,5,74,81,83-85,89-91,93-97
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_wNa16_moe.py
+  h_f252eadf5e9832 72,75,87
+python/sglang/srt/layers/quantization/compressed_tensors/utils.py
+  h_f252eadf5e9832 7,12-92,221-240,246
+python/sglang/srt/layers/quantization/fp8.py
+  h_f252eadf5e9832 76,318-326,793-800
+python/sglang/srt/layers/quantization/humming.py
+  h_f252eadf5e9832 6,36-43,48-50,83-84,256-300,302-345,347,475-478,484-485,488,603-612,622,624-626,632-636,644,648-684,718-743,745-760,764-770,772,777-781,794-825,830-837,856-858,862-869,871-878,930,939-941,954,960-962
+python/sglang/srt/layers/quantization/mxfp4_humming_moe.py
+  h_f252eadf5e9832 9,25,27-29,58-62,69
+python/sglang/srt/layers/quantization/w4afp8.py
+  h_f252eadf5e9832 4,31,46,54-57,62-65,87-107,113,115,379
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  h_f252eadf5e9832 3742-3751,3765-3769
+python/sglang/srt/models/deepseek_common/utils.py
+  h_f252eadf5e9832 190-198
+python/sglang/srt/models/deepseek_nextn.py
+  h_f252eadf5e9832 59-73,141-144,153,309-310
+python/sglang/srt/models/deepseek_v2.py
+  h_f252eadf5e9832 88,455,2107-2113,2150,2228,3323-3325,3381
+python/sglang/srt/models/glm5_next.py
+  h_f252eadf5e9832 3,17,22,59,81,149-201,434-440,514-516,523,628-630,635,950-954,976-981,1341-1343,1396-1397,1821-1897
+python/sglang/srt/utils/log_utils.py
+  h_f252eadf5e9832 233-239,268
+test/manual/glm53_tracker_migration_20261116/README.md
+  h_f252eadf5e9832 1-14
+test/manual/glm53_tracker_migration_20261116/test_current_tracker_adapters.py
+  h_f252eadf5e9832 1-158
+test/manual/glm53_tracker_migration_20261116/test_glm53_mhc_prewarm_contract.py
+  h_f252eadf5e9832 1-195
+test/manual/glm53_tracker_migration_20261116/test_glm53_tracker_contracts.py
+  h_f252eadf5e9832 1-269
+test/registered/kernels/ops/attention/test_glm53_sparse_mla_q8kv8_sm90.py
+  h_f252eadf5e9832 1-92
+test/registered/kernels/ops/moe/test_humming_fp8_dispatch.py
+  h_f252eadf5e9832 4,9-10,14-21,279-505
+test/registered/unit/attention/test_dsa_multistep_dedup.py
+  h_f252eadf5e9832 1-29
+test/registered/unit/layers/attention/test_dsa_kpool_decode_padding.py
+  h_f252eadf5e9832 1-85
+test/registered/unit/layers/attention/test_glm53_sparse_mla_dispatch.py
+  h_f252eadf5e9832 1-182
+test/registered/unit/layers/quantization/test_compressed_tensors_mixed_config.py
+  h_f252eadf5e9832 1-731
+test/registered/unit/layers/quantization/test_fp8_blockwise_linear_backends.py
+  h_f252eadf5e9832 196-239
+test/registered/unit/layers/quantization/test_humming_w4afp8_schemas.py
+  h_f252eadf5e9832 12,14,20-27,41-140,142-196,227-228,279-308
+test/registered/unit/layers/quantization/test_mxfp4_humming_moe.py
+  h_f252eadf5e9832 1-60
+test/registered/unit/layers/quantization/test_w4afp8_config.py
+  h_f252eadf5e9832 1-116
+test/registered/unit/models/test_deepseek_weight_loader_input_scale.py
+  h_f252eadf5e9832 1-133
+test/registered/unit/models/test_glm5_next_online_fp8.py
+  h_f252eadf5e9832 1-295
+test/registered/unit/models/test_nextn_hf_to_sglang_mapper.py
+  h_f252eadf5e9832 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d5cd91d6dcf7a005ffc437c9b13a28d2b87b67dc",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
