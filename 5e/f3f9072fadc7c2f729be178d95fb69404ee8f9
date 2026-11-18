@@ -1,0 +1,35 @@
+python/sglang/kernels/jit/csrc/moe/route_warp.cuh
+  s_bbb22337e1ec96::t_b4438e656da750 482-483
+python/sglang/kernels/ops/moe/moe_fused_gate.py
+  s_bbb22337e1ec96::t_b4438e656da750 311-316
+test/registered/unit/layers/test_grouped_topk_dispatch.py
+  s_bbb22337e1ec96::t_09e0863bfe90c5 8,16,18-23,26-27,29-30,34-38,40-60,62,65-66,68-73
+docker/Dockerfile.cu134
+  s_bbb22337e1ec96::t_bfb3631cc72cd6 912-914,918-919,923-928
+test/registered/kernels/ops/moe/test_bailing_moe_topk.py
+  s_bbb22337e1ec96::t_5baad1e6e6106b 1-2,42,52-53,89,103-104,137,142,153-158
+python/sglang/srt/model_executor/forward_context.py
+  s_bbb22337e1ec96::t_b4438e656da750 56-59
+test/registered/unit/layers/attention/test_mqa_logits_forward_budget.py
+  s_bbb22337e1ec96::t_bfb3631cc72cd6 12-16,191-196,198-199,201-203
+test/registered/attention/test_kda_kernels.py
+  s_bbb22337e1ec96::t_5c5214941bbc09 729-731
+  s_bbb22337e1ec96::t_1033f8debdf115 726-728
+  s_bbb22337e1ec96::t_5fc0deca0358d8 732-734
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5ef3f9072fadc7c2f729be178d95fb69404ee8f9",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

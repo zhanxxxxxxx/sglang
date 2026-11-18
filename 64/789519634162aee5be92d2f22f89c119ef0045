@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_939a7add12684f::t_ed5c535cebe1d8 662-665
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_939a7add12684f::t_ed5c535cebe1d8 219-225,228-234,238-240,246-252,255-261,267-273,276-282,286-288,295-297,300-317,361-364,388-390,393-396,403-405,414-421,441-451,459-461,467-469,471-474,481-483,501-512,543-548,551-555,577-586,595-597,615-625,635-643,655-661
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "64789519634162aee5be92d2f22f89c119ef0045",
+  "prompts": {},
+  "sessions": {
+    "s_939a7add12684f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e422-0721-7aa3-84ac-481db00fbc21",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chenmu.my <chenmu.my@antgroup.com>"
+    }
+  }
+}

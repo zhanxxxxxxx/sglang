@@ -1,0 +1,14 @@
+python/sglang/kernels/ops/attention/fla/kda_recurrent_ablation.py
+  h_1d635ecd767a49 54-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "160eb4983d9148474c376e09ded381f987687bd2",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+python/sglang/srt/models/deepseek_v2.py
+  s_89ecfa4641a1d9::t_040999e2c8f59b 1647-1658
+  s_89ecfa4641a1d9::t_1092a1efc72409 903-909
+python/sglang/srt/models/deepseek_v4.py
+  s_89ecfa4641a1d9::t_3503e506a4d8dc 4167-4183
+  s_89ecfa4641a1d9::t_6a1dd08e0ac829 4166
+python/sglang/srt/managers/scheduler_components/profiler_manager.py
+  s_89ecfa4641a1d9::t_f4a785ca4d74e1 102-106
+  s_89ecfa4641a1d9::t_224c76da5796d2 411-416
+python/sglang/srt/environ.py
+  s_89ecfa4641a1d9::t_ddb4733987359e 473-475
+python/sglang/srt/layers/moe/dsv41_route_load_observer.py
+  s_89ecfa4641a1d9::t_96f34a8e3d5653 69-78
+  s_89ecfa4641a1d9::t_f471de1a103468 9
+  s_89ecfa4641a1d9::t_7cdc181b332cd2 6-8
+  s_89ecfa4641a1d9::t_a9ecd9ba56c42b 10-12,66-68
+  s_89ecfa4641a1d9::t_512b3ede3389f8 79-81
+  s_89ecfa4641a1d9::t_eb67834802661f 1-5,13-65,82-444
+python/sglang/srt/layers/moe/dsv41_route_load_contract.py
+  s_89ecfa4641a1d9::t_d48755d506d432 1-697
+test/manual/test_dsv41_route_load_contract.py
+  s_89ecfa4641a1d9::t_230b8fe708672b 1-324
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b9e21b2a54615d3cd2c914d1173a6c80ab5c71db",
+  "prompts": {},
+  "sessions": {
+    "s_89ecfa4641a1d9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "523c0e74-dcdc-4bcb-bff7-a12566c81064",
+        "model": "grok-4.7"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

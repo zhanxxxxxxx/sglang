@@ -1,0 +1,20 @@
+python/sglang/srt/environ.py
+  h_f252eadf5e9832 1377
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 36-38,231-246
+python/sglang/srt/layers/moe/moe_runner/humming_tuning_override.py
+  h_f252eadf5e9832 1-92
+test/unit/test_humming_tuning_override.py
+  h_f252eadf5e9832 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "787516cffa496432f3a5a74790c712e447a3356a",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

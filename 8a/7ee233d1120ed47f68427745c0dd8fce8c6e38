@@ -1,0 +1,21 @@
+docker/Dockerfile
+  s_e264e4a97219bf::t_9a15058b4b377a 11-12
+docker/ant/README.md
+  s_e264e4a97219bf::t_9a15058b4b377a 29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8a7ee233d1120ed47f68427745c0dd8fce8c6e38",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

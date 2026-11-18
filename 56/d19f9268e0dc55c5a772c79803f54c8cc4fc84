@@ -1,0 +1,22 @@
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_6814b9b1896915::t_08206657673875 4,9,12,360-389
+  s_6814b9b1896915::t_0db4d3b3623f0a 390
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_08206657673875 1826-1827
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "56d19f9268e0dc55c5a772c79803f54c8cc4fc84",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

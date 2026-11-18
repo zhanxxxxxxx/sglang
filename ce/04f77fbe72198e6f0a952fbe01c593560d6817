@@ -1,0 +1,43 @@
+python/sglang/srt/entrypoints/http_server.py
+  s_26618feaba671a::t_533d9ce20e71da 1918-1919,1946-1947
+test/registered/unit/entrypoints/openai/test_serving_transcription.py
+  s_26618feaba671a::t_0a4c3c075af814 354
+python/sglang/srt/entrypoints/openai/transcription_adapters/ming_audio.py
+  s_26618feaba671a::t_533d9ce20e71da 3-5,16-27,36-37,39-43,45-71
+  s_26618feaba671a::t_20075c5c51a17a 72-74
+python/sglang/srt/entrypoints/openai/serving_transcription.py
+  s_26618feaba671a::t_533d9ce20e71da 75,96-102,148-149,233-242
+  s_26618feaba671a::t_78e2089871f880 243-245
+test/registered/unit/entrypoints/openai/test_ming_audio_transcription.py
+  s_26618feaba671a::t_402d99c65aecb1 1-11,19-36,45-46,53-58,66-78,80,87-92,95-97,106-110,116,122,127-130,137-141,146-151,153-156,158,161-162,168-170
+  s_26618feaba671a::t_94f4934d779a49 12-18,37-44,47-52,59-65,79,81-86,93-94,98-105,111-115,117-121,123-126,131-136,142-145,152,157,159-160,163-167,171-211
+  s_26618feaba671a::t_f67936800db552 212-214
+python/sglang/srt/multimodal/processors/bailing_audio.py
+  s_26618feaba671a::t_533d9ce20e71da 297,303-313,321
+  s_26618feaba671a::t_6af4521c3fe3e4 314-316
+  s_26618feaba671a::t_3e587be9f991a6 320
+test/registered/unit/multimodal/test_bailing_audio_processor.py
+  s_26618feaba671a::t_f4dbfceef520e9 101-126
+  s_26618feaba671a::t_e882f18659a777 127-129
+python/sglang/srt/entrypoints/openai/transcription_adapters/base.py
+  s_26618feaba671a::t_533d9ce20e71da 21-29
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_26618feaba671a::t_533d9ce20e71da 2396-2397,2402-2408
+  s_26618feaba671a::t_0bdd435c41b794 2409
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ce04f77fbe72198e6f0a952fbe01c593560d6817",
+  "prompts": {},
+  "sessions": {
+    "s_26618feaba671a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c415-8e10-76f3-9d42-d23598e73e84",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

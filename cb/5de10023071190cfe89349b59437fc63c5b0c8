@@ -1,0 +1,52 @@
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_bbb22337e1ec96::t_87576f3f7e34c9 550,643,661
+python/sglang/srt/managers/mm_data_processor.py
+  s_bbb22337e1ec96::t_cddefeea3ce8da 131-132
+  s_bbb22337e1ec96::t_52b1ea19efad26 135
+  s_bbb22337e1ec96::t_78bc94f2ee2a51 308
+python/sglang/srt/speculative/eagle_utils.py
+  s_bbb22337e1ec96::t_cddefeea3ce8da 932,936-941,943-967,969-997,1009-1032,1103,1122-1156,1168,1181-1185
+  s_bbb22337e1ec96::t_02eba261d3bf0a 1212
+  s_bbb22337e1ec96::t_f031d2218ab588 1213-1214
+  s_bbb22337e1ec96::t_e6f75582d125da 1215
+test/registered/unit/spec/test_eagle_verify_tp_broadcast.py
+  s_bbb22337e1ec96::t_a2fdac624cfa46 134-136,269-271,273-275
+  s_bbb22337e1ec96::t_bb70b3a18a779f 29,89-91,95,105,125-133,137-140,256-268,272,276
+  s_bbb22337e1ec96::t_1b2f9f83d11a55 277
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_bbb22337e1ec96::t_78bc94f2ee2a51 28
+python/sglang/srt/speculative/eagle_draft_cuda_graph_runner.py
+  s_bbb22337e1ec96::t_f031d2218ab588 712-717
+python/sglang/srt/managers/scheduler.py
+  s_bbb22337e1ec96::t_78bc94f2ee2a51 75
+  s_bbb22337e1ec96::t_d397567bd01f48 76
+test/registered/unit/spec/test_eagle_draft_cuda_graph_runner.py
+  s_bbb22337e1ec96::t_a2fdac624cfa46 286-288,357,361
+  s_bbb22337e1ec96::t_bb70b3a18a779f 270-285,289
+  s_bbb22337e1ec96::t_949d69fb30f91f 354-356
+  s_bbb22337e1ec96::t_1758f4631d490d 358-360
+  s_bbb22337e1ec96::t_2a68ea24922ac7 362-364
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_bbb22337e1ec96::t_a2fdac624cfa46 166-168
+  s_bbb22337e1ec96::t_02eba261d3bf0a 5,8-10,12,18,79,89,127,130
+  s_bbb22337e1ec96::t_604dcb5994db1a 163-165
+  s_bbb22337e1ec96::t_e94a4b0848d284 169-171
+python/sglang/srt/managers/scheduler_components/request_retirer.py
+  s_bbb22337e1ec96::t_87576f3f7e34c9 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb5de10023071190cfe89349b59437fc63c5b0c8",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+python/sglang/srt/arg_groups/fields/memory.py
+  s_e4dfcb804effb2::t_a6c528a95f0603 126
+python/sglang/srt/arg_groups/hicache_hook.py
+  s_e4dfcb804effb2::t_83b433fb9d10dc 110-111,122-123
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_cache_controller.py
+  s_e4dfcb804effb2::t_9aa89a487dde89 43-46,1151,1171
+python/sglang/srt/mem_cache/memory_pool_host.py
+  s_e4dfcb804effb2::t_5db69729bdd405 284,814
+python/sglang/srt/mem_cache/pool_host/base.py
+  s_e4dfcb804effb2::t_4a14c235552b37 87-94
+python/sglang/srt/mem_cache/unified_cache/ASYNC_WRITE_BACK.md
+  s_e4dfcb804effb2::t_6c91f8316f24b2 10-14,27-31,41-42,69-71,83
+python/sglang/srt/mem_cache/unified_cache/async_write_back.py
+  s_e4dfcb804effb2::t_e9c99c82e7d1c6 173-175,178-181,238-241
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_e4dfcb804effb2::t_a479140d94d806 2503-2520
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_e4dfcb804effb2::t_f04edf2a266068 82,150,537,2552-2553,2555,2571,2575,2581,2584-2585,2588-2591,2635,2637,2651,2661,2667,2669,2671-2672,2677-2684,2686-2709,2713,2720,2733-2744,2748-2750,2757,2759,2770,2774-2802,2815,2829,2846,2858
+test/registered/unit/mem_cache/test_dsv4_hicache_l2.py
+  s_e4dfcb804effb2::t_750554a7a5f19d 31,77-83,124-127
+test/registered/unit/mem_cache/test_unified_hicache_hybrid_retry.py
+  s_e4dfcb804effb2::t_89d3f7abcec59f 875
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_e4dfcb804effb2::t_e8303cf82fb0f7 19,1013-1014,1019-1029,1031,1097-1139,1360-1362,1797,2021-2025
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d3f7a55a45c56487dbae93ab74d81cb543f916e6",
+  "prompts": {},
+  "sessions": {
+    "s_e4dfcb804effb2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_e4dfcb804effb2",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

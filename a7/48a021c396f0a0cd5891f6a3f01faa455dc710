@@ -1,0 +1,19 @@
+test/registered/unit/mem_cache/test_request_snapshot_arm_batch.py
+  s_279d059d0ac394::t_01e30c5bcb97cb 31,167,182,329
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a748a021c396f0a0cd5891f6a3f01faa455dc710",
+  "prompts": {},
+  "sessions": {
+    "s_279d059d0ac394": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c047-238c-7922-bcb3-9263d4e8c8aa",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

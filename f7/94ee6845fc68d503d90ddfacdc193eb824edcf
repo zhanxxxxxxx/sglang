@@ -1,0 +1,20 @@
+python/sglang/kernels/ops/moe/mega_moe_gluon_w4afp8.py
+  s_999842a87e9579::t_f3a50467824caf 615
+  s_999842a87e9579::t_a21352ae84fa89 600,612-614,1387-1392,1409-1416,3308,3468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f794ee6845fc68d503d90ddfacdc193eb824edcf",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
