@@ -1,0 +1,30 @@
+python/sglang/kernels/ops/kvcache/dsv4_main_kv_store.py
+  s_a35fd2e463fa82::t_30ff8c886dd123 36-37
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_a35fd2e463fa82::t_30ff8c886dd123 1085
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_a35fd2e463fa82::t_30ff8c886dd123 643-645,1496,5065-5067
+python/sglang/srt/managers/schedule_policy.py
+  s_a35fd2e463fa82::t_30ff8c886dd123 929-931,938,1846
+test/registered/unit/mem_cache/test_dsv41_replay_admission.py
+  s_a35fd2e463fa82::t_30ff8c886dd123 45
+python/sglang/kernels/ops/attention/dsv4/attn_metadata_kernels.py
+  s_a35fd2e463fa82::t_359a5d2557583e 1091,1100-1101,1118,1122,1125,1127
+  s_a35fd2e463fa82::t_4eb60e96899077 1087-1089
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "75e6d103729bdf528ccc2ce8070b1b24077333cb",
+  "prompts": {},
+  "sessions": {
+    "s_a35fd2e463fa82": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d41d-238a-7bb0-882f-65c64cb1fff5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
