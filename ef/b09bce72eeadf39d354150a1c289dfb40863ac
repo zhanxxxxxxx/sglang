@@ -1,0 +1,27 @@
+python/sglang/srt/multimodal/media_artifacts/base.py
+  s_d683c736df6763::t_a695b240411c18 160-163
+python/sglang/srt/multimodal/processors/base_processor.py
+  s_d683c736df6763::t_b72590c8f048d8 805-811,820-823
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_d683c736df6763::t_d627a1b2248190 1008-1048,1070-1072
+test/registered/unit/multimodal/test_processor_device_selection.py
+  s_d683c736df6763::t_ae3cb2ee4f16ec 242-244,259-305
+test/registered/unit/multimodal/test_qwen_vl_gpu_oom.py
+  s_d683c736df6763::t_1ddc3f69047204 9-10,13,81-126,130-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efb09bce72eeadf39d354150a1c289dfb40863ac",
+  "prompts": {},
+  "sessions": {
+    "s_d683c736df6763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d683c736df6763",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

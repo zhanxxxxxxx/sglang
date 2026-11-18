@@ -1,0 +1,29 @@
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_410b7fb7a54e4b 709-714,717-732,734-757,759-762
+  s_719b88a4b4284a::t_7a4569154e7567 707-708,715-716,733,758,800-802
+  s_719b88a4b4284a::t_c1141bf8c6265c 763-780
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_719b88a4b4284a::t_410b7fb7a54e4b 497-502
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_410b7fb7a54e4b 591-595
+  s_719b88a4b4284a::t_c1141bf8c6265c 268,628-636
+python/sglang/srt/managers/scheduler_components/weight_updater.py
+  s_719b88a4b4284a::t_410b7fb7a54e4b 414,416-420
+  s_719b88a4b4284a::t_e4a384a2c5bf64 415
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "26643c5f5214508e500a373581cde1b7e88e6a2a",
+  "prompts": {},
+  "sessions": {
+    "s_719b88a4b4284a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ea28-908b-7322-9947-fef0ee5cb376",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

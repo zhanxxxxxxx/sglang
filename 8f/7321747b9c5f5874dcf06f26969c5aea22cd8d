@@ -1,0 +1,33 @@
+test/registered/kernels/ops/attention/test_kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_08532b2f6caa15 1-25,30-44,49-73,77-104
+  s_f5a50be0fc3a60::t_1374e3fee07aa7 26-29,45-48,74-76
+test/registered/unit/server_args/test_glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_a36efda078ada0 98-99,118-119,305,314,459
+  s_f5a50be0fc3a60::t_c4d8b7e4ee54bc 342,521
+  s_f5a50be0fc3a60::t_74252a0fafc8ca 8
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_94188c7181f05c 1287
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_a36efda078ada0 58,75-76,80-84
+python/sglang/kernels/ops/attention/fla/kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_c6ef1f9f17379d 1,3,9-71,73,75-76,78-80,82-86,88-103,105,107-109
+  s_f5a50be0fc3a60::t_94188c7181f05c 2,4-8,72,74,77,81,87,104,106
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_f5a50be0fc3a60::t_94188c7181f05c 25-28,40,1267-1271,1273-1282,1292
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8f7321747b9c5f5874dcf06f26969c5aea22cd8d",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

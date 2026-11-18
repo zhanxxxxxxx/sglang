@@ -1,0 +1,25 @@
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_4f45ba48752b7c::t_31d54a95d7387d 1-191
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4f45ba48752b7c::t_14d76245c3dc1c 303,421-437,2442-2451,3367-3370
+python/sglang/kernels/ops/attention/dsa/sparse_mla.py
+  s_4f45ba48752b7c::t_7120d6685ea55c 1-124
+python/sglang/srt/environ.py
+  s_4f45ba48752b7c::t_657ca55a66ce4f 1416-1418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e064227e219c875e617f6a3281cfd5136ede0eb",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}

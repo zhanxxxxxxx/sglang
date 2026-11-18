@@ -1,0 +1,19 @@
+python/sglang/srt/mem_cache/dsv41_swa_transfer.py
+  s_fe92d796c96f00::t_e2093bb141c153 7-12,15-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e04d62dede456f16cbb2c63a6cf57abcc6394a8",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

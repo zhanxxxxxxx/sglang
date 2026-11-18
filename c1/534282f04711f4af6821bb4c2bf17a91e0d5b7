@@ -1,0 +1,30 @@
+python/sglang/srt/managers/cache_controller.py
+  s_44844fb1f654af::t_1e0536e31add1b 365
+  s_44844fb1f654af::t_93906f4343d4d4 366,931-934
+  s_44844fb1f654af::t_d49c6c75d83999 935
+python/sglang/srt/managers/scheduler.py
+  s_44844fb1f654af::t_1a2b017744f74a 1147-1149
+  s_44844fb1f654af::t_4e122628857ea9 586,1143-1146
+  s_44844fb1f654af::t_f081bf193d9aa1 1150
+test/registered/unit/mem_cache/test_hicache_staged_write_back_dispatch.py
+  s_44844fb1f654af::t_4e122628857ea9 193-207,219-228,232-240,246-256
+  s_44844fb1f654af::t_1a2b017744f74a 229-231,241-245
+  s_44844fb1f654af::t_93906f4343d4d4 287
+  s_44844fb1f654af::t_1d35f8c128cd01 257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c1534282f04711f4af6821bb4c2bf17a91e0d5b7",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_50065d8a4ce1c2 1038,1700
+test/registered/unit/observability/test_req_time_stats.py
+  s_6814b9b1896915::t_b92a752d265aef 67,78
+  s_6814b9b1896915::t_163c9a00d03e45 76-77,79
+test/registered/unit/disaggregation/test_encoder_router.py
+  s_6814b9b1896915::t_d79bf63f2d3399 102-104,114
+  s_6814b9b1896915::t_21324ccdcfb855 61-63
+  s_6814b9b1896915::t_163c9a00d03e45 57-60,64-66,70-71,75-90,127-130,144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2bc959a517d70e0fca355ddbd8a0b9ac610baffc",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

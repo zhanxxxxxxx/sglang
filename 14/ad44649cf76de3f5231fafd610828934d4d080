@@ -1,0 +1,14 @@
+test/registered/unit/layers/test_layer_communicator_fusion_gate.py
+  h_1d635ecd767a49 24,26-28,54-55,57-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "14ad44649cf76de3f5231fafd610828934d4d080",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

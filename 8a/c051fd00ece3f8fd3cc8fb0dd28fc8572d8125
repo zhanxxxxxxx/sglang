@@ -1,0 +1,23 @@
+docker/ant/aci/modelspeed_git_verify.aci.yml
+  s_d1126527e97f3a::t_9b4110d6466271 1,11,14-15,19-25
+docker/ant/aci/modelspeed_git_verify_base.aci.yml
+  s_d1126527e97f3a::t_eb3451f1634eeb 1-26
+docker/ant/modelspeed/README.md
+  s_d1126527e97f3a::t_c3fa844773f4eb 105-106,117-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ac051fd00ece3f8fd3cc8fb0dd28fc8572d8125",
+  "prompts": {},
+  "sessions": {
+    "s_d1126527e97f3a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e38b-9c54-7683-9855-232fe63a3ea2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

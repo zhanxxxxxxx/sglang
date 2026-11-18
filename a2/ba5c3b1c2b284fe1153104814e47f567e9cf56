@@ -1,0 +1,21 @@
+docker/ant/k3-fixed/install.sh
+  s_fc5f788b50d85b::t_51dc9ec12a9df3 18
+docker/ant/k3-fixed/tested-source-lock.json
+  s_fc5f788b50d85b::t_d74822b5ddb084 4,112,5082
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a2ba5c3b1c2b284fe1153104814e47f567e9cf56",
+  "prompts": {},
+  "sessions": {
+    "s_fc5f788b50d85b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_fc5f788b50d85b",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

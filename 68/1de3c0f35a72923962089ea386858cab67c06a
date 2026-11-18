@@ -1,0 +1,25 @@
+python/sglang/srt/managers/data_parallel_controller.py
+  s_44844fb1f654af::t_eaa9fc873ab58e 806
+test/registered/unit/managers/test_data_parallel_controller.py
+  s_44844fb1f654af::t_233b0fbfba44e7 286-297
+test/registered/kernels/ops/attention/test_qsa_relative_prefill.py
+  s_44844fb1f654af::t_a8ed6dcfa5c652 94-95,100-102,112,114,116
+python/sglang/srt/layers/attention/qsa/sparse_attn.py
+  s_44844fb1f654af::t_a8ed6dcfa5c652 466-468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "681de3c0f35a72923962089ea386858cab67c06a",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

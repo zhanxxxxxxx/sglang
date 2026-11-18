@@ -1,0 +1,95 @@
+python/sglang/kernels/ops/attention/fla/fused_norm_gate.py
+  s_1a2403ab7d65d8::t_9b6375efae7f7b 5-6,26-36,391-399
+python/sglang/kernels/ops/moe/consistent_powlu.py
+  s_1a2403ab7d65d8::t_933fccd43d024d 1-18
+python/sglang/kernels/ops/moe/router_weight.py
+  s_1a2403ab7d65d8::t_9b66d842825360 1-28
+python/sglang/srt/arg_groups/overrides.py
+  s_1a2403ab7d65d8::t_20f718bd96f98e 1621-1622
+python/sglang/srt/configs/mamba_utils.py
+  s_1a2403ab7d65d8::t_cb9860be34e50c 317-326,330-339
+python/sglang/srt/layers/activation.py
+  s_1a2403ab7d65d8::t_45d74c516d1922 18,130-146,156-157,162-163
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_1a2403ab7d65d8::t_684e2af86cfd8a 46-57,59-72,89-90,154-155,316-317,489,555-573,624-629,635-647,663-664,682-696,707-720,722-764,770-772,789-790,792-800,819-851
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/__init__.py
+  s_1a2403ab7d65d8::t_d707dd9ceaabdf 1-27
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/activation.py
+  s_1a2403ab7d65d8::t_e2e9dce7df4478 1-35
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/cfbi.py
+  s_1a2403ab7d65d8::t_8f895b24d93c8c 1-179
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/conv1d.py
+  s_1a2403ab7d65d8::t_24e9b1b81f010b 1-191
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/kda.py
+  s_1a2403ab7d65d8::t_dc2a3c8046c615 1-405
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_1a2403ab7d65d8::t_5cb90853a23585 1-919
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/moe.py
+  s_1a2403ab7d65d8::t_389a541589cf86 1-257
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/providers.py
+  s_1a2403ab7d65d8::t_5efd7ea69534cc 1-176
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/rms_norm.py
+  s_1a2403ab7d65d8::t_15173613dd426e 1-96
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/source_check.py
+  s_1a2403ab7d65d8::t_fbdbf22034f750 1-4
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_1a2403ab7d65d8::t_ca303cd43c68b7 1-198
+python/sglang/srt/layers/attention/linear/utils.py
+  s_1a2403ab7d65d8::t_81d8ad37a6a330 25,47-49
+python/sglang/srt/layers/communicator.py
+  s_1a2403ab7d65d8::t_6cf98094e11aa2 82,122-160,928,1068-1069,1113-1129,1164-1168,1193-1198,1200,1217-1222,1263-1284,1412-1431,1477-1482,1484,1568-1569,1668-1685
+python/sglang/srt/layers/layernorm.py
+  s_1a2403ab7d65d8::t_b6833dad6a711e 18,169-185,497-503
+python/sglang/srt/layers/logits_processor.py
+  s_1a2403ab7d65d8::t_2413a716caccef 94,721-739
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  s_1a2403ab7d65d8::t_6c9a135ddbe923 8,140-151,301,410,513-514,1526-1527,1529-1538
+python/sglang/srt/layers/moe/moe_runner/base.py
+  s_1a2403ab7d65d8::t_b754504aa664ee 53
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_1a2403ab7d65d8::t_b8c9bac22a5ac6 28-30,84-88,195-201,307-321,338-348,430-449,671-681,821-834,986-989,991-994,997-1019,1047-1057,1126-1128,1261-1263,1311,1517-1527,1673-1682
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  s_1a2403ab7d65d8::t_00127b4438183a 14-16,79-89,228-229,351-403,555-557,561-566,770-841,850-855,985-986,992-1019,1175-1179
+python/sglang/srt/layers/moe/topk.py
+  s_1a2403ab7d65d8::t_c38b71f0a188e9 120-129,504-513,537-546
+python/sglang/srt/layers/sampler.py
+  s_1a2403ab7d65d8::t_e9ae5c9a767e79 21,94-97
+python/sglang/srt/managers/tokenizer_manager.py
+  s_1a2403ab7d65d8::t_21fed0588e8d91 140-144,148,1498-1504
+python/sglang/srt/mem_cache/memory_pool.py
+  s_1a2403ab7d65d8::t_4d3a60bddf9537 396-402,496-506,834-851,965-967,1007-1011,1059-1063,1082-1089,1610-1611
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_1a2403ab7d65d8::t_2d31040459fce0 278-284
+python/sglang/srt/model_executor/model_runner.py
+  s_1a2403ab7d65d8::t_a14b61f87b3027 212-213,761-807
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_1a2403ab7d65d8::t_0348c83ca6c307 332-340,1525
+python/sglang/srt/model_loader/loader.py
+  s_1a2403ab7d65d8::t_db195dc3f66de3 52,319-364,371
+python/sglang/srt/models/bailing_moe_v3.py
+  s_1a2403ab7d65d8::t_9329aa74c96bc1 13-16,112,152-161,430-438,731-741,800-823,867-868,1073-1085,1142,1150-1154,1375,1385,1390,1432,1444,1588-1589,1598,2953-2963
+python/sglang/srt/models/kimi_linear.py
+  s_1a2403ab7d65d8::t_cf6507f34581f2 220-227,503-504
+python/sglang/srt/sampling/sampling_batch_info.py
+  s_1a2403ab7d65d8::t_0b2a9ff102815a 20,91-95
+python/sglang/srt/sampling/sampling_params.py
+  s_1a2403ab7d65d8::t_4549f4830ee997 16,42,47-55
+python/sglang/srt/server_args.py
+  s_1a2403ab7d65d8::t_6a575b3f763828 16-50,54,3002,4042-4051,4285,5497-5543,7063-7064,7071,7137-7144,7896-7897,7909-7999,9169-9226,10972-10985
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "367802621deb62672b8ac77539884c49073befc1",
+  "prompts": {},
+  "sessions": {
+    "s_1a2403ab7d65d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a491-a5c3-7411-9049-e2594de4628d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+docker/ant/README.md
+  s_bbb22337e1ec96::t_5cb230115f7d38 24,27-31
+  s_bbb22337e1ec96::t_d86f890c08541c 32
+docker/Dockerfile
+  s_bbb22337e1ec96::t_f917ca8bb11d28 38-39,72,159,229,632-641,649-651,669-670,760,769,777-793
+  s_bbb22337e1ec96::t_ff619c20ea788f 794
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "edc77f3192dff3cc83fc2e0ad84ad6f0aafab1c9",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

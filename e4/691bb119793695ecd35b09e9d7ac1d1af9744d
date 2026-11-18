@@ -1,0 +1,39 @@
+test/manual/spec/check_exact_penalties_local.py
+  s_3a9c9122506be4::t_74253cbb977308 1-16,18,20-134,169-171,173,176-186
+  s_3a9c9122506be4::t_44cfc45ce66b7c 17,19,135-168,174-175
+  s_3a9c9122506be4::t_258552f8440e82 172
+python/sglang/srt/arg_groups/validation_hook.py
+  s_3a9c9122506be4::t_0c871cd75c0f32 20,32-49
+  s_3a9c9122506be4::t_1525aa826da07a 50
+python/sglang/srt/speculative/exact_penalties.py
+  s_3a9c9122506be4::t_94234e3b62bece 65,197-199,230,232-233,241,244
+  s_3a9c9122506be4::t_c2d9ad3a4dc5da 18-60,66,71,75-77,175,177,187-190,200-204,242-243
+  s_3a9c9122506be4::t_815d3d057a9d08 131-155,229,231,234-235,239,248-252,255-258
+  s_3a9c9122506be4::t_d28ee31bbcccd5 1-17,61-64,67-70,72-74,78-130,156-174,176,178-186,191-196,205-228,236-238,240,245-247,253-254
+python/sglang/srt/speculative/eagle_worker_v2.py
+  s_3a9c9122506be4::t_65962eb0eab62b 95,1408-1417,1430-1431,1955
+python/sglang/srt/managers/schedule_batch.py
+  s_3a9c9122506be4::t_65962eb0eab62b 1008,1854
+python/sglang/srt/environ.py
+  s_3a9c9122506be4::t_65962eb0eab62b 1272-1273
+python/sglang/srt/speculative/eagle_worker_common.py
+  s_3a9c9122506be4::t_65962eb0eab62b 19,514,625-629,636-640
+python/sglang/srt/speculative/eagle_utils.py
+  s_3a9c9122506be4::t_65962eb0eab62b 695,730-732,743,751
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e4691bb119793695ecd35b09e9d7ac1d1af9744d",
+  "prompts": {},
+  "sessions": {
+    "s_3a9c9122506be4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d341-ffa2-7a40-98f7-02957b5ae8d1",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
