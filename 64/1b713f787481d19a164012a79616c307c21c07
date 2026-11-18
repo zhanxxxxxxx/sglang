@@ -1,0 +1,35 @@
+test/registered/debug_utils/test_native_mixed_moe_replay.py
+  s_d2f4c9dc120b69::t_57e4eab9d55750 272,276-287,294-296,301-304,309-310,312,323-330,334-339
+  s_d2f4c9dc120b69::t_379a4f7afb12d3 273-275,288-293,297-300,305-308,311,313-322,331-333
+test/registered/debug_utils/test_representative_subgraphs.py
+  s_d2f4c9dc120b69::t_f8b9d79adf74f2 606-614,616,625-634,644,655,660-661
+  s_d2f4c9dc120b69::t_8518d3751e8db4 662-668,681-683
+python/sglang/srt/debug_utils/representative_subgraphs.py
+  s_d2f4c9dc120b69::t_379a4f7afb12d3 957-960,985-987,1009-1013,1016-1020,1041-1045
+  s_d2f4c9dc120b69::t_1544ec81be95f8 956,961-962,964-966,971-977,994,1025,1046,1080
+python/sglang/srt/debug_utils/native_subgraph_replay.py
+  s_d2f4c9dc120b69::t_379a4f7afb12d3 79-83,217-222
+  s_d2f4c9dc120b69::t_4ba7e95f91136c 78,84-85,223-229
+python/sglang/srt/debug_utils/native_triton_moe_replay.py
+  s_d2f4c9dc120b69::t_be0deec168687f 24-30,33-35,39,43-45,94-96,98-103,106,109-111,139,142-148,170,193
+  s_d2f4c9dc120b69::t_379a4f7afb12d3 31-32,36-38,40-42,46-48,97,104-105,107-108,112-114,171-172,194-196
+python/sglang/srt/debug_utils/native_mixed_moe_replay.py
+  s_d2f4c9dc120b69::t_f15075d5c8e8fc 1,50-51,56-57,75,92-95,101,110-112,116-118,127-130,134-135,139-144,148-149,156,172-174,202-204,208,226-229,238,244-247,251-256,261-266
+  s_d2f4c9dc120b69::t_379a4f7afb12d3 45-49,58-70,96-100,102-109,113-115,123-126,131-133,136-138,145-147,150-154,205-207,209-216,239-243,248-250,257-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "641b713f787481d19a164012a79616c307c21c07",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

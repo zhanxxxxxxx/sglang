@@ -1,0 +1,27 @@
+test/registered/kernels/ops/kvcache/test_dsv41_window_launch.py
+  s_fe92d796c96f00::t_7205c7f933b4b7 65-68
+  s_fe92d796c96f00::t_7b6e99b69969d8 1-64,69-109
+test/registered/unit/mem_cache/test_dsv41_snapshot_commit_graph.py
+  s_fe92d796c96f00::t_6351731d03eb9c 82-83,89
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_fe92d796c96f00::t_7b6e99b69969d8 512
+  s_fe92d796c96f00::t_0bf863f0fe14cc 18-24,452-511,513-527,2022-2023,2074-2075
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_pool.py
+  s_fe92d796c96f00::t_0bf863f0fe14cc 18,196-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8741dd12bb779480249587e0d4cc8bff08a4e559",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

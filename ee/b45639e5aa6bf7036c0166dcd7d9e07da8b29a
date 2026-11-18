@@ -1,0 +1,37 @@
+test/registered/kernels/ops/attention/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_0c37bfafb2af6b 8,17,118-121,128-130,141-142,149-150,154,170,173-178
+  s_7a64d91f26e78a::t_21fa09fd7662cf 122-127,131-140,143-148,151-153,155-165
+  s_7a64d91f26e78a::t_4cbdb315ea991e 166-169
+  s_7a64d91f26e78a::t_09559a05dd4258 171-172
+  s_7a64d91f26e78a::t_265083cc5d2007 179
+python/sglang/srt/configs/ling.py
+  s_7a64d91f26e78a::t_25eacc3d8a5a29 132-135
+  s_7a64d91f26e78a::t_60a980486c42de 30-44
+test/registered/unit/configs/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_5a3c5a6293e832 189-195
+  s_7a64d91f26e78a::t_54a42f4a31fadb 128-132,150
+  s_7a64d91f26e78a::t_60a980486c42de 6-7,133-137,139-145,149
+  s_7a64d91f26e78a::t_21fa09fd7662cf 116-118,121-126,157-159,162-166,170-175
+  s_7a64d91f26e78a::t_4cbdb315ea991e 138
+  s_7a64d91f26e78a::t_3c6e29367fbf12 146-148
+  s_7a64d91f26e78a::t_0c37bfafb2af6b 8,38,48,88,94-115,119-120,127,151-156,160-161,167-169,176-188,196-198
+  s_7a64d91f26e78a::t_afac3959bfa339 199
+python/sglang/srt/configs/bailing_hybrid.py
+  s_7a64d91f26e78a::t_60a980486c42de 23,213,253,464-466
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eeb45639e5aa6bf7036c0166dcd7d9e07da8b29a",
+  "prompts": {},
+  "sessions": {
+    "s_7a64d91f26e78a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e77d-3fa8-78d3-93fd-b7882982024b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
