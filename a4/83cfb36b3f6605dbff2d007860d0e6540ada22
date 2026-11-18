@@ -1,0 +1,25 @@
+test/registered/debug_utils/comparator/test_moe_routes.py
+  s_d2f4c9dc120b69::t_56932b5532a81c 519-549
+python/sglang/srt/debug_utils/comparator/aligner/token_aligner/route.py
+  s_d2f4c9dc120b69::t_1c6765bd77c0fb 14,41-42,326,330-332,347,359-360,362-363,365-366,377-391,564,632-635,802-804,808,885
+python/sglang/srt/debug_utils/comparator/prepared_views.py
+  s_d2f4c9dc120b69::t_2d085b9e63df37 82
+python/sglang/srt/debug_utils/comparator/bundle_comparator.py
+  s_d2f4c9dc120b69::t_2d085b9e63df37 349-350,693-709,714,724,739-740,746-752
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a483cfb36b3f6605dbff2d007860d0e6540ada22",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
