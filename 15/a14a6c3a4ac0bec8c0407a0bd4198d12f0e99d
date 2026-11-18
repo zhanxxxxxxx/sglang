@@ -1,0 +1,14 @@
+test/manual/qwen38_epd_encoder_cookbook.md
+  h_623190b123231f 10-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "15a14a6c3a4ac0bec8c0407a0bd4198d12f0e99d",
+  "prompts": {},
+  "humans": {
+    "h_623190b123231f": {
+      "author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

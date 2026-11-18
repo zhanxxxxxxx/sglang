@@ -1,0 +1,20 @@
+test/manual/glm53_paired_prefill_controller.py
+  s_999842a87e9579::t_64c48e2f500ca5 31-37,43-58,104,254,258-266
+  s_999842a87e9579::t_757ee0f5f20413 38-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "45b5f0fa6f7d371fadd8bb9cca6a0d63ddfe9149",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

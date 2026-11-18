@@ -1,0 +1,35 @@
+test/registered/unit/constrained/test_grammar_cache_release.py
+  s_06c7715f7b38f2::t_c6289edde159a6 1-315
+test/registered/unit/constrained/test_base_grammar_backend.py
+  s_06c7715f7b38f2::t_29476eb5c56d54 49,62,123
+python/sglang/srt/constrained/grammar_cache.py
+  s_06c7715f7b38f2::t_e15bbbb5a32f1b 1-119
+test/registered/unit/constrained/test_grammar_cache_limits.py
+  s_06c7715f7b38f2::t_2acaa8b146878d 1-407
+python/sglang/srt/constrained/reasoner_grammar_backend.py
+  s_06c7715f7b38f2::t_f894cbc69c54b3 165-169,603,608
+python/sglang/srt/constrained/base_grammar_backend.py
+  s_06c7715f7b38f2::t_9b28726462c553 18,20,23,27,41-133,217-220,282-284,290-317,419-420,428-435,437-472,476-477
+python/sglang/srt/constrained/xgrammar_backend.py
+  s_06c7715f7b38f2::t_71b8c7bd8513f8 40-43,49,102-104,212-214,240-251
+python/sglang/srt/environ.py
+  s_06c7715f7b38f2::t_bdbc42c4a0803a 439-448
+docs/docs/references/environment_variables.mdx
+  s_06c7715f7b38f2::t_7e01a60861dcf6 1408-1437
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8cb9c7cb9b07216d36b1be6ee76c90e9677bcff1",
+  "prompts": {},
+  "sessions": {
+    "s_06c7715f7b38f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_06c7715f7b38f2",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

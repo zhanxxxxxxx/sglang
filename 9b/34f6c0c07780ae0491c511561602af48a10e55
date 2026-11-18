@@ -1,0 +1,25 @@
+docker/ant/Dockerfile.gluon-prepare
+  s_999842a87e9579::t_7e7152e633c1ab 1-21
+docker/ant/aci/sglang_fast.aci.yml
+  s_999842a87e9579::t_7e7152e633c1ab 154-167
+test/registered/unit/utils/test_gluon_cache_install.py
+  s_999842a87e9579::t_7e7152e633c1ab 294
+docker/ant/Dockerfile.gluon-cache
+  s_999842a87e9579::t_7e7152e633c1ab 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9b34f6c0c07780ae0491c511561602af48a10e55",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

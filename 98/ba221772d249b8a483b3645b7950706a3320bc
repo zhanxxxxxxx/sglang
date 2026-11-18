@@ -1,0 +1,25 @@
+test/registered/debug_utils/test_graph_snapshot_cpu.py
+  s_d2f4c9dc120b69::t_4bdb70ce799fc2 270-272,276-318
+  s_d2f4c9dc120b69::t_a921c572276442 273-275
+python/sglang/srt/debug_utils/graph_snapshot.py
+  s_d2f4c9dc120b69::t_4bdb70ce799fc2 442-446,449,455,466-481,558-561
+test/registered/debug_utils/test_graph_snapshot.py
+  s_d2f4c9dc120b69::t_4bdb70ce799fc2 15,330-332,363-369,383-384,389,394-399
+  s_d2f4c9dc120b69::t_a921c572276442 402-406,410-413
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98ba221772d249b8a483b3645b7950706a3320bc",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
