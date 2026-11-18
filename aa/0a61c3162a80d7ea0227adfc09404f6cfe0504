@@ -1,0 +1,16 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 643,672-677,712-730,1144-1150
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  h_1d635ecd767a49 2,6,10,33,42-55,60-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "aa0a61c3162a80d7ea0227adfc09404f6cfe0504",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

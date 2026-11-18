@@ -1,0 +1,19 @@
+python/pyproject.toml
+  s_643826788d9a1c::t_b857c134b7767d 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "43f488799696b9f8d481c78d64292bd1bb981d01",
+  "prompts": {},
+  "sessions": {
+    "s_643826788d9a1c": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "c050a087-1d2f-4ee6-8d52-7c744868df44",
+        "model": "glink/Kimi-K3.1-Pro:glink_domestic"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

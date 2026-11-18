@@ -1,0 +1,127 @@
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_6a85bc7c5c5c34::t_f67dba52e6e02f 403-406
+python/sglang/srt/utils/auth_levels.json
+  s_6a85bc7c5c5c34::t_c8e3492b960b95 53,57
+test/registered/unit/disaggregation/test_decode_queue_cleanup.py
+  s_6a85bc7c5c5c34::t_74e1c8b9f6beb3 214,220-222
+test/registered/unit/disaggregation/test_deepseek_v41_encoder_mode.py
+  s_6a85bc7c5c5c34::t_ee71106ac29f4c 404,424,429,457-459,461
+test/registered/unit/disaggregation/test_deferred_decode_backend_gate.py
+  s_6a85bc7c5c5c34::t_084ec3fe9fa63e 149-151
+test/registered/unit/disaggregation/test_disaggregation_wire.py
+  s_6a85bc7c5c5c34::t_7b32d33a7dae46 1582-1585
+test/registered/unit/disaggregation/test_encoder_global_cache_rank0.py
+  s_6a85bc7c5c5c34::t_a0d0aa3b5eddd8 12,122-123,125-130,142
+test/registered/unit/disaggregation/test_mooncake_abort_drain.py
+  s_6a85bc7c5c5c34::t_24f39d1401137a 12,61,66-68,114-116,128,131-133
+test/registered/unit/disaggregation/test_pd_admission_limits.py
+  s_6a85bc7c5c5c34::t_ed3cde4836d493 24-27,132-135
+test/registered/unit/disaggregation/test_pd_cpu_backup_budget.py
+  s_6a85bc7c5c5c34::t_b26d31da79ed88 120-121,123-125,193-195
+test/registered/unit/disaggregation/test_pd_graceful_exit.py
+  s_6a85bc7c5c5c34::t_cee542c9a66be9 8-9,24,33
+test/registered/unit/disaggregation/test_pd_prehandoff_failure.py
+  s_6a85bc7c5c5c34::t_150a5f376e70dd 16,32,34,38,424,428-439,448,460-469,477-484,487
+test/registered/unit/disaggregation/test_pd_queued_abort.py
+  s_6a85bc7c5c5c34::t_333f31495c359c 7-12,31,56-58
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_6a85bc7c5c5c34::t_71649ebee679c7 38,40-42,110,113,142,147,160-161,164-167,170-172,175,178,183-186,189-190,193,198-200,203,208-210,213,222-225,228,234,241-244,278
+test/registered/unit/disaggregation/test_qwen_hicache_early_send.py
+  s_6a85bc7c5c5c34::t_8e54dc2ff4a9d2 38,70-72
+test/registered/unit/disaggregation/test_qwen_pd_spec_retraction.py
+  s_6a85bc7c5c5c34::t_34b3c377fde706 17,20,33-37,71
+test/registered/unit/disaggregation/test_unified_transfer_bookkeeping.py
+  s_6a85bc7c5c5c34::t_de467c8875d055 339-340
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  s_6a85bc7c5c5c34::t_55e61f252bf0e7 226-227
+test/registered/unit/layers/test_dsv41_late_layer_tail_readers.py
+  s_6a85bc7c5c5c34::t_de4adebea3e1b2 735-738
+test/registered/unit/layers/test_hc_prefill_tp.py
+  s_6a85bc7c5c5c34::t_567c1aa09d82fd 30-31
+test/registered/unit/layers/test_qsa_prefill_metadata.py
+  s_6a85bc7c5c5c34::t_7d42205c305f2b 4,25-34,228-232,253-254,258-260,318-326,328-329,331-333
+test/registered/unit/layers/test_qwen_hopper_dispatch.py
+  s_6a85bc7c5c5c34::t_c34a0874b5b055 70-75,83-84,137,175,192
+test/registered/unit/layers/test_qwen_ple_verify_routing.py
+  s_6a85bc7c5c5c34::t_3c413e38f1f728 83-86
+test/registered/unit/layers/test_qwen_qsa_stream_order.py
+  s_6a85bc7c5c5c34::t_3007d1a421290d 74-78
+test/registered/unit/layers/test_qwen_upstream_regressions.py
+  s_6a85bc7c5c5c34::t_2e672e97b644de 122-130,209-210
+test/registered/unit/managers/scheduler_components/test_request_list.py
+  s_6a85bc7c5c5c34::t_e31f6cf809b12e 76-85,89
+test/registered/unit/managers/test_mamba_checkpoint_depth.py
+  s_6a85bc7c5c5c34::t_928fdd37879a8c 366-368
+test/registered/unit/managers/test_prefill_adder.py
+  s_6a85bc7c5c5c34::t_4988d323707d69 1613-1616
+test/registered/unit/managers/test_request_class_override_points.py
+  s_6a85bc7c5c5c34::t_14c41ab020645d 73-74
+test/registered/unit/managers/test_scheduler_chunked_abort_race.py
+  s_6a85bc7c5c5c34::t_6696e6747e33f6 37-41,173-177
+test/registered/unit/managers/test_scheduler_sampling_mask_validation.py
+  s_6a85bc7c5c5c34::t_d0869d8106020b 33-34,56,148
+test/registered/unit/managers/test_tokenizer_manager_audio_rejection.py
+  s_6a85bc7c5c5c34::t_536f8ac1c42102 70-71
+test/registered/unit/mem_cache/kv/test_declared_parts.py
+  s_6a85bc7c5c5c34::t_efbded3adc4d7c 246-250
+test/registered/unit/mem_cache/test_hicache_storage_format_tag.py
+  s_6a85bc7c5c5c34::t_93d09219874166 147-151
+test/registered/unit/mem_cache/test_mamba_donated_alloc_ratio.py
+  s_6a85bc7c5c5c34::t_dd8ca386faedd2 53,56-58,86-89,384-385
+test/registered/unit/mem_cache/test_pd_prefill_spec_mamba_budget.py
+  s_6a85bc7c5c5c34::t_454b910540e388 39-40,153
+test/registered/unit/mem_cache/test_qwen_cache_state.py
+  s_6a85bc7c5c5c34::t_c122a8a5ff2a07 67-68,85,93,110-112,118-120,172,197-198,251-252,303,370-371,405-408,421,724-732,734-735,946,1080-1081,1083-1085,1100-1106,1182-1183
+test/registered/unit/mem_cache/test_qwen_mamba_finish_backup.py
+  s_6a85bc7c5c5c34::t_7928a18045dd05 17
+test/registered/unit/mem_cache/test_qwen_storage_namespace.py
+  s_6a85bc7c5c5c34::t_deed71da864c7e 113,156-157,163-164,178-179
+test/registered/unit/mem_cache/test_qwen_storage_prefix_candidates.py
+  s_6a85bc7c5c5c34::t_1dac001a89f951 3,49-51,89-102,105-106,168-169,188,191-202
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_6a85bc7c5c5c34::t_c57a1ddaf581fd 329-330,766-767
+test/registered/unit/mem_cache/test_unified_scheduler_hooks.py
+  s_6a85bc7c5c5c34::t_fad4af6fb1db88 244-245
+test/registered/unit/mem_cache/test_unified_stage_capacity.py
+  s_6a85bc7c5c5c34::t_3c1d6265b332b1 228-229
+test/registered/unit/model_executor/runner/test_cp_decode_graph_batch_sizes.py
+  s_6a85bc7c5c5c34::t_fcc08835a04f95 7,58-59
+test/registered/unit/model_executor/runner/test_graph_routing_context.py
+  s_6a85bc7c5c5c34::t_09d9539dd879e9 20-22,185-189
+test/registered/unit/models/test_deepseek_v41_bcg_multimodal.py
+  s_6a85bc7c5c5c34::t_214db27607e9de 5,52-58
+test/registered/unit/models/test_dsv41_prefill_graph.py
+  s_6a85bc7c5c5c34::t_94f23859ece053 275-278,291,361-362,373
+test/registered/unit/multimodal/rust/qwen/_fixtures.py
+  s_6a85bc7c5c5c34::t_85a333f8cd4cb5 88-89
+test/registered/unit/observability/test_forward_pass_metrics.py
+  s_6a85bc7c5c5c34::t_f4aaeb94dec5df 1061-1063
+test/registered/unit/observability/test_stat_loggers_di.py
+  s_6a85bc7c5c5c34::t_0db7d052138633 34-38,56,259-269,321-325,392-393
+test/registered/unit/spec/test_dspark_context_boundary.py
+  s_6a85bc7c5c5c34::t_bd8999113f1112 10,37-54,91-92,100-105
+test/registered/unit/spec/test_dspark_dp_spec_prefill_coordination.py
+  s_6a85bc7c5c5c34::t_f6b689fcace24e 140-143
+test/registered/unit/spec/test_dspark_verify_tensor_lifetime.py
+  s_6a85bc7c5c5c34::t_c6e5e3c21fd5de 21-25
+test/registered/unit/spec/test_eagle_draft_extend_replay_selection.py
+  s_6a85bc7c5c5c34::t_2e3ca2793d2bf7 30-36,57,108-114
+test/registered/unit/spec/test_spec_tp_sync.py
+  s_6a85bc7c5c5c34::t_fe3c48f2361710 60,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a69e5adfb92dd37b74f330b85a1f5726b6926dbd",
+  "prompts": {},
+  "sessions": {
+    "s_6a85bc7c5c5c34": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_6a85bc7c5c5c34",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

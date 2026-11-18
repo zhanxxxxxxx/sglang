@@ -1,0 +1,59 @@
+tools/dashboard_view.html
+  s_1d32b085fb33ca::t_804b455573d5ba 31,34,37,42-43,48,51
+control/task_view.py
+  s_1d32b085fb33ca::t_804b455573d5ba 105
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_8bcc660a1c9cb6 187-188,230-271
+  s_1d32b085fb33ca::t_504c7e58375197 272-274
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_8bcc660a1c9cb6 37
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_8bcc660a1c9cb6 421
+execution/pipeline.py
+  s_1d32b085fb33ca::t_8bcc660a1c9cb6 259,267,321-325,341-343
+  s_1d32b085fb33ca::t_55a13339bc5857 319-320
+tools/dashboard_flow.js
+  s_1d32b085fb33ca::t_804b455573d5ba 50
+tools/rsi_dashboard.py
+  s_1d32b085fb33ca::t_804b455573d5ba 131
+docs/design.md
+  s_1d32b085fb33ca::t_a991c3bd632ae7 428
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_cfab0f17942d3b 11,16,1368-1380
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_a23c9d891353cf 40,56
+skills/rsi/references/setup.md
+  s_1d32b085fb33ca::t_ebeb8bf20e38a4 115,117,337
+tests/inference_rsi/test_baseline_quality.py
+  s_117f6a24ec453c::t_b7d88283c3394a 23,345-549
+tests/inference_rsi/test_cleanup_recovery.py
+  s_117f6a24ec453c::t_a2eb84be73d7b2 94
+tests/inference_rsi/test_dashboard_ais_links.py
+  s_1d32b085fb33ca::t_83b9e19a4d49d3 46,53-54,66
+tests/inference_rsi/test_sglang_stages.py
+  s_117f6a24ec453c::t_fedf695f8bcb56 97-98,103-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "621e4c32731561650a487ffaba553bf0320d207c",
+  "prompts": {},
+  "sessions": {
+    "s_117f6a24ec453c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c4d0-ef81-7cd2-8718-0eed30ce8510",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    },
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

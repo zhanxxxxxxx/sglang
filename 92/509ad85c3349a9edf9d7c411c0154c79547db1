@@ -1,0 +1,14 @@
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  h_1c061c07072f6a 153-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "92509ad85c3349a9edf9d7c411c0154c79547db1",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

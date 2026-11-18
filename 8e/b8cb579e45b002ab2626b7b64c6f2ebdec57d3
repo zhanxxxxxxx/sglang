@@ -1,0 +1,31 @@
+python/sglang/srt/arg_groups/pd_disaggregation_hook.py
+  s_44844fb1f654af::t_a1cc1b4ab94929 147-155
+python/sglang/srt/disaggregation/common/conn.py
+  s_44844fb1f654af::t_9d700f47ca7498 111,897-901,1081-1082,1962,2033-2035,2037,2137,2142-2143
+python/sglang/srt/disaggregation/common/staging_buffer.py
+  s_44844fb1f654af::t_fb36a3619cd699 538,546-548,554,605,615-617,641,688,702,714,762,770-772,779,787-821
+python/sglang/srt/disaggregation/common/staging_handler.py
+  s_44844fb1f654af::t_1d365cd72d78a4 19,441,782
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_44844fb1f654af::t_da6115326e848e 515,555-556,564-567,581-585,1015-1028
+python/sglang/srt/environ.py
+  s_44844fb1f654af::t_12d658b0afc299 746
+test/registered/unit/disaggregation/test_staging_dedup_layout.py
+  s_44844fb1f654af::t_2b878c9ea97b19 1-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8eb8cb579e45b002ab2626b7b64c6f2ebdec57d3",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

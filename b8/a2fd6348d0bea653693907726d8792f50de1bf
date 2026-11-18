@@ -1,0 +1,14 @@
+test/registered/unit/constrained/test_grammar_manager.py
+  h_0eaad948cda463 32,492,504,518,527,537
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8a2fd6348d0bea653693907726d8792f50de1bf",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

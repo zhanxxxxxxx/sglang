@@ -1,0 +1,33 @@
+python/sglang/kernels/ops/attention/fla/l2norm.py
+  s_fc5b7e55a816ab::t_45db34de85aa27 125-153,158-185,209
+  s_fc5b7e55a816ab::t_8c656a5cb8973a 154-157
+  s_fc5b7e55a816ab::t_46989bff750f99 186-188,206-208
+  s_fc5b7e55a816ab::t_0bfdbbcdde3acc 210-212
+test/registered/kernels/ops/attention/test_kda_prefill_prepare.py
+  s_fc5b7e55a816ab::t_8da7dae1092a81 1-116
+  s_fc5b7e55a816ab::t_231277001724a2 117-119
+python/sglang/srt/layers/attention/mamba/mamba2_metadata.py
+  s_fc5b7e55a816ab::t_ec7aac8b1dcffd 50-52
+python/sglang/kernels/ops/attention/fla/index.py
+  s_fc5b7e55a816ab::t_ec7aac8b1dcffd 11-34
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_fc5b7e55a816ab::t_ec7aac8b1dcffd 754-765,767,1228-1229
+  s_fc5b7e55a816ab::t_45db34de85aa27 14,766
+  s_fc5b7e55a816ab::t_b6793da364aff4 753
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "899b8428705cd20c38afea979c2ee05f68af5950",
+  "prompts": {},
+  "sessions": {
+    "s_fc5b7e55a816ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e411-e343-7321-b36e-19b1801de54b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
