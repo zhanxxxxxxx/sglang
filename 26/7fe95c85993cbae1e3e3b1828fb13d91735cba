@@ -1,0 +1,32 @@
+test/registered/unit/configs/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_ba6ef9d21f2a40 242-246,255-268,272-280,286-318
+  s_7a64d91f26e78a::t_9481692cb587b6 269-271
+  s_7a64d91f26e78a::t_433dc40aa46fd1 281-285
+  s_e4f6b4e83692e9::t_03e2f0565e7818 319
+python/sglang/srt/configs/bailing_hybrid.py
+  s_7a64d91f26e78a::t_97e1f86d17918b 452,463-471,473-475,477,481-491
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "267fe95c85993cbae1e3e3b1828fb13d91735cba",
+  "prompts": {},
+  "sessions": {
+    "s_7a64d91f26e78a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e77d-3fa8-78d3-93fd-b7882982024b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    },
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
