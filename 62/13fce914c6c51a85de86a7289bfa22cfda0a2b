@@ -1,0 +1,44 @@
+control/task_view.py
+  s_1d32b085fb33ca::t_2caf9c7ddc0ae0 12
+  s_1d32b085fb33ca::t_c7d9f12e00d8a3 87,101-110,132
+execution/sglang/workloads.py
+  s_1d32b085fb33ca::t_96def587d99ce2 119,128-131,133,144,147-165,168-170,173-179,181,184,189-192,197,201-202,212,218-221,230-236
+  s_1d32b085fb33ca::t_2bcc06c10d7535 1,6,17-18,59,76-103,109,118
+tests/inference_rsi/test_inference_latency.py
+  s_1d32b085fb33ca::t_2caf9c7ddc0ae0 1-30,32-36,38-55
+  s_1d32b085fb33ca::t_e6022561c3b187 31,37
+tests/inference_rsi/test_sglang_workloads.py
+  s_1d32b085fb33ca::t_2caf9c7ddc0ae0 132-192,194-201
+  s_1d32b085fb33ca::t_96def587d99ce2 193,202-208
+docs/performance-datasets-and-latency.md
+  s_1d32b085fb33ca::t_3025f535fffd9e 1-71
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_3025f535fffd9e 30-33
+tools/dashboard_view.html
+  s_1d32b085fb33ca::t_2caf9c7ddc0ae0 6
+  s_1d32b085fb33ca::t_6fb5d097a22c7f 53-59,71
+.gitignore
+  s_1d32b085fb33ca::t_cfbd12335864fe 19-22
+cli.py
+  s_1d32b085fb33ca::t_4b3e4fe14b06d2 59-61,295-301
+execution/sglang/measure.py
+  s_1d32b085fb33ca::t_27a242954d0462 22,311,499,536,574
+execution/sglang/metrics.py
+  s_1d32b085fb33ca::t_61cf11eba004bd 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6213fce914c6c51a85de86a7289bfa22cfda0a2b",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}
