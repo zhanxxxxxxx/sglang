@@ -1,0 +1,25 @@
+python/sglang/srt/managers/scheduler.py
+  s_a35fd2e463fa82::t_e9a87f221ea56c 75-76,5897
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_a35fd2e463fa82::t_3452da88a979ef 188
+python/sglang/srt/mem_cache/dsv41_swa_storage.py
+  s_a35fd2e463fa82::t_3452da88a979ef 84-85
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_a35fd2e463fa82::t_e9a87f221ea56c 27-28,30-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0759001cc5a48906031c9ab622e4f05797915c15",
+  "prompts": {},
+  "sessions": {
+    "s_a35fd2e463fa82": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d41d-238a-7bb0-882f-65c64cb1fff5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

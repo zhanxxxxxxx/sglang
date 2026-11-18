@@ -1,0 +1,19 @@
+python/sglang/kernels/jit/csrc/deepseek_v4/main_norm_rope.cuh
+  s_a35fd2e463fa82::t_4b4c39b569f89e 751
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6a057e9723dde5fe5daf0b0aab08e64f6b71dd77",
+  "prompts": {},
+  "sessions": {
+    "s_a35fd2e463fa82": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d41d-238a-7bb0-882f-65c64cb1fff5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+test/registered/unit/layers/test_radix_linear_attention.py
+  s_3e4a55f3f80e4f::t_104b3222b88849 264
+test/registered/unit/layers/test_radix_attention_padded_extend.py
+  s_3e4a55f3f80e4f::t_f7099b577486d7 8,289-315
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mha.py
+  s_3e4a55f3f80e4f::t_104b3222b88849 317,408
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla_rocm.py
+  s_3e4a55f3f80e4f::t_104b3222b88849 1110
+python/sglang/srt/models/deepseek_common/utils.py
+  s_3e4a55f3f80e4f::t_104b3222b88849 118
+test/registered/unit/models/test_rocm_mla_absorb_fusion_gate.py
+  s_3e4a55f3f80e4f::t_104b3222b88849 107,183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "df50f4756c5037a76ba3527d71fc82169fc0ef7f",
+  "prompts": {},
+  "sessions": {
+    "s_3e4a55f3f80e4f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03c24-ee4c-7c60-879b-38244e8233f3",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
