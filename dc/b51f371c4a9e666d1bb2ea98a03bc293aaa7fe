@@ -1,0 +1,356 @@
+.agents/skills/babysit-pr-to-pass-ci/SKILL.md
+  h_1f940cd96f2dab 74,89,168
+.agents/skills/ci-workflow-guide/SKILL.md
+  h_1f940cd96f2dab 230,232-233
+.github/FOLDER_README.md
+  h_1f940cd96f2dab 15-16,21-44,47
+.github/workflows/nightly-benchmark-amd.yml
+  h_1f940cd96f2dab 48-53,462-561
+.github/workflows/pr-gate.yml
+  h_1f940cd96f2dab 9,16-19,29-30,82-86,92-95,99
+.github/workflows/pr-states.yml
+  h_1f940cd96f2dab 174-190,195,202,219,225-227
+.github/workflows/pr-test-amd-extra.yml
+  h_1f940cd96f2dab 123-125,138,168,196,224
+.github/workflows/pr-test-arm64.yml
+  h_1f940cd96f2dab 67-68,73
+.github/workflows/pr-test-extra.yml
+  h_1f940cd96f2dab 97-99,116,136,168,178,190
+.github/workflows/pr-test-mlu.yml
+  h_1f940cd96f2dab 4,33,39
+.github/workflows/pr-test-mlx.yml
+  h_1f940cd96f2dab 4-5,65-66,81,181
+.github/workflows/pr-test-musa.yml
+  h_1f940cd96f2dab 98-99,105,144,177,206
+.github/workflows/pr-test-npu.yml
+  h_1f940cd96f2dab 109-110,128,346-347,359-360,377-378,395-396,416-417,434-435,460-461,603-604,734-735,754-755,773-774,792-793,818-819
+.github/workflows/pr-test-ppu.yml
+  h_1f940cd96f2dab 107,113,171,251,259,266
+.github/workflows/pr-test-xeon.yml
+  h_1f940cd96f2dab 23,79,84,90-118
+.github/workflows/pr-test-xpu.yml
+  h_1f940cd96f2dab 126-127,133,245
+assets/sglang-diffusion/README.md
+  h_1f940cd96f2dab 45-46,53-56
+assets/sglang-diffusion/logo-dark.svg
+  h_1f940cd96f2dab 1
+assets/sglang-diffusion/logo.svg
+  h_1f940cd96f2dab 1
+docker/rocm.Dockerfile
+  h_1f940cd96f2dab 76,86-88,100,124,134-136,148,325,347
+docs/cookbook/autoregressive/DeepSeek/DeepSeek-V4_1.mdx
+  h_1f940cd96f2dab 344-358
+docs/cookbook/autoregressive/Moonshotai/Kimi-K3.1-Pro.mdx
+  h_1f940cd96f2dab 13,20
+docs/cookbook/diffusion/intro.mdx
+  h_1f940cd96f2dab 9-12
+docs/docs/advanced_features/server_arguments.mdx
+  h_1f940cd96f2dab 1564-1569,3150-3155,3326
+docs/docs/developer_guide/contribution_guide.mdx
+  h_1f940cd96f2dab 146,148-152,157,159,161,165,173
+docs/docs/hardware-platforms/ascend-npus/development/contribution_guide.mdx
+  h_1f940cd96f2dab 147,149
+docs/docs/references/environment_variables.mdx
+  h_1f940cd96f2dab 140-144,738-742,2029-2033
+docs/docs/sglang-diffusion/index.mdx
+  h_1f940cd96f2dab 5-9
+docs/src/snippets/diffusion/logo.jsx
+  h_1f940cd96f2dab 1-12
+python/sglang/kernels/aot/csrc/cpu/interface.cpp
+  h_1f940cd96f2dab 81
+python/sglang/kernels/aot/csrc/cpu/shm.cpp
+  h_1f940cd96f2dab 556-557,584-594,605-606,612,622,624-640
+python/sglang/kernels/aot/csrc/cpu/shm.h
+  h_1f940cd96f2dab 29
+python/sglang/kernels/plugin_kernels/nvidia/spec.py
+  h_1f940cd96f2dab 569-588
+python/sglang/multimodal_gen/runtime/distributed/parallel_state.py
+  h_1f940cd96f2dab 504-515
+python/sglang/multimodal_gen/runtime/entrypoints/openai/realtime/timer.py
+  h_1f940cd96f2dab 7,10
+python/sglang/multimodal_gen/runtime/layers/quantization/rowwise_fp8.py
+  h_1f940cd96f2dab 98-99
+python/sglang/multimodal_gen/runtime/models/dits/causal_wanvideo.py
+  h_1f940cd96f2dab 714-728
+python/sglang/multimodal_gen/runtime/models/dits/minimax_h3.py
+  h_1f940cd96f2dab 97,457,1139-1142
+python/sglang/multimodal_gen/runtime/models/dits/sana_wm.py
+  h_1f940cd96f2dab 309,330,333-334,361-362,402-406
+python/sglang/multimodal_gen/runtime/pipelines/diffusers_pipeline.py
+  h_1f940cd96f2dab 69,93-94,98,105,125
+python/sglang/multimodal_gen/runtime/pipelines_core/stages/model_specific_stages/minimax_h3/reference_encoding.py
+  h_1f940cd96f2dab 535-546,553,632-635
+python/sglang/multimodal_gen/runtime/utils/quantization_utils.py
+  h_1f940cd96f2dab 617-627
+python/sglang/multimodal_gen/test/server/testcase_configs.py
+  h_1f940cd96f2dab 63-64
+python/sglang/srt/arg_groups/field_order.py
+  h_1f940cd96f2dab 588-590
+python/sglang/srt/arg_groups/fields/device.py
+  h_1f940cd96f2dab 88-96
+python/sglang/srt/arg_groups/fields/disagg.py
+  h_1f940cd96f2dab 96
+python/sglang/srt/arg_groups/fields/exec_.py
+  h_1f940cd96f2dab 355-367,536-540,619-627
+python/sglang/srt/arg_groups/mega_moe_hook.py
+  h_1f940cd96f2dab 212-214,251-257
+python/sglang/srt/arg_groups/model_hook.py
+  h_1f940cd96f2dab 13,1072-1073
+python/sglang/srt/arg_groups/model_override_base.py
+  h_1f940cd96f2dab 280-294,297-298
+python/sglang/srt/arg_groups/model_overrides/kimi_k3.py
+  h_1f940cd96f2dab 241-244
+python/sglang/srt/arg_groups/overrides.py
+  h_1f940cd96f2dab 45,267
+python/sglang/srt/arg_groups/pipeline.py
+  h_1f940cd96f2dab 27-33
+python/sglang/srt/arg_groups/speculative_hook.py
+  h_1f940cd96f2dab 177-178,330,332-333,441,1063-1064,1067,1071-1074,1079-1097,1122
+python/sglang/srt/arg_groups/validation_hook.py
+  h_1f940cd96f2dab 28,229,231-232,235-236,306-329,526-527
+python/sglang/srt/configs/model_config.py
+  h_1f940cd96f2dab 259-265,267
+python/sglang/srt/disaggregation/decode.py
+  h_1f940cd96f2dab 171,920
+python/sglang/srt/disaggregation/mooncake/conn.py
+  h_1f940cd96f2dab 2371-2376
+python/sglang/srt/disaggregation/prefill.py
+  h_1f940cd96f2dab 113,464,1882-1883
+python/sglang/srt/disaggregation/role_switch.py
+  h_1f940cd96f2dab 144
+python/sglang/srt/disaggregation/utils.py
+  h_1f940cd96f2dab 1840,1908-1911
+python/sglang/srt/distributed/parallel_state.py
+  h_1f940cd96f2dab 1160-1163,1374-1377
+python/sglang/srt/environ.py
+  h_1f940cd96f2dab 255-262,295-296,342-344,533-534,537,1318,1442,1763,1874-1908,1922,2001-2005,2588,2600
+python/sglang/srt/hardware_backend/npu/compile_backend.py
+  h_1f940cd96f2dab 1-60
+python/sglang/srt/hardware_backend/npu/graph_runner/npu_cudagraph_backend.py
+  h_1f940cd96f2dab 345-347,350,449-453
+python/sglang/srt/hardware_backend/sail/attention/dsa_backend.py
+  h_1f940cd96f2dab 3,57-65
+python/sglang/srt/kernel_plugins/nvidia/binding.py
+  h_1f940cd96f2dab 17,20,23,41-46,48-49,60,68,107,127-218,268-270,312-313,315-317,319-321,323-328,331-351,357-378,380-387,389-432,434-435,437-446,454,462-467,469,490-491,498,504,686-687,756-757,760-761,771,774-784,787,836-841,849-852,855,861,863-869,871,937-1016,1081-1104,1229-1236,1239,1248-1253,1259-1267,1269-1274,1283-1285,1398-1422
+python/sglang/srt/kernel_plugins/nvidia/kimi_k31_decode_binding.py
+  h_1f940cd96f2dab 1-104
+python/sglang/srt/kernel_plugins/nvidia/kimi_k31_gb_runtime_optimization.py
+  h_1f940cd96f2dab 1-37
+python/sglang/srt/kernel_plugins/nvidia/kimi_k31_verify_binding.py
+  h_1f940cd96f2dab 1-355
+python/sglang/srt/kernel_plugins/nvidia/kimi_k31_verify_dsa_binding.py
+  h_1f940cd96f2dab 1-201
+python/sglang/srt/layers/attention/base_attn_backend.py
+  h_1f940cd96f2dab 108-111
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  h_1f940cd96f2dab 5,17,90,104,196-205,484-485,487-489,657-678,749-758,1189-1197,1270,1285,1294,1307,1321-1337,1567-1568,1582-1587,1861,1873-1879,1890,1950-1956,2018-2019,2026-2030,2094-2156,2501-2510,2516-2517
+python/sglang/srt/layers/attention/dsa_backend.py
+  h_1f940cd96f2dab 47-50,323-339,798-799,802,865-885,893-903,922,927-938,1804,2023-2044,2992-3009,3011,3198,3881-3926,3945-3950,3952-3954,4085,4105-4114,4616-4630,4723-4725,4937-4961
+python/sglang/srt/layers/attention/graph_utils.py
+  h_1f940cd96f2dab 164-166,173-174
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  h_1f940cd96f2dab 1350-1353
+python/sglang/srt/layers/attention/linear/gdn_backend.py
+  h_1f940cd96f2dab 1467
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  h_1f940cd96f2dab 1342
+python/sglang/srt/layers/attention/linear/kernels/kda_flashinfer_prefill.py
+  h_1f940cd96f2dab 62-63,67-68
+python/sglang/srt/layers/attention/linear/utils.py
+  h_1f940cd96f2dab 127-130
+python/sglang/srt/layers/attention/trtllm_mla_backend.py
+  h_1f940cd96f2dab 53,82,97,258-264,321-336,1492,1496-1497,1508-1521,1626-1633,1636-1638,1773-1775,1826-1829,1843,1847,1852-1853
+python/sglang/srt/layers/attn_residual.py
+  h_1f940cd96f2dab 31,150-154,156-159,172,203,256
+python/sglang/srt/layers/communication/k3_ar_fusion.py
+  h_1f940cd96f2dab 69-72,188-189,244-269
+python/sglang/srt/layers/communication/k3_sp_collective.py
+  h_1f940cd96f2dab 137,141-150
+python/sglang/srt/layers/logits_processor.py
+  h_1f940cd96f2dab 511,1185-1192,1267-1289,1294-1298,1301-1302,1304-1305,1315-1325
+python/sglang/srt/layers/quantization/unquant.py
+  h_1f940cd96f2dab 5,709-749
+python/sglang/srt/managers/scheduler.py
+  h_1f940cd96f2dab 277,791,2181-2186,2841-2847,5797-5798,6071,6328
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1f940cd96f2dab 1778
+python/sglang/srt/managers/scheduler_components/gc_freezer.py
+  h_1f940cd96f2dab 1-89
+python/sglang/srt/managers/scheduler_components/weight_updater.py
+  h_1f940cd96f2dab 175,234,286,314,378,393,428
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1f940cd96f2dab 1342-1351
+python/sglang/srt/managers/utils.py
+  h_1f940cd96f2dab 106-107
+python/sglang/srt/mem_cache/allocation.py
+  h_1f940cd96f2dab 284,287
+python/sglang/srt/mem_cache/cache_init_params.py
+  h_1f940cd96f2dab 48
+python/sglang/srt/mem_cache/hisparse_memory_pool.py
+  h_1f940cd96f2dab 68,91
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  h_1f940cd96f2dab 526-527,658-674,677-679,842-853,855,951-957,960,2545,2825,3298,3730-3731
+python/sglang/srt/mem_cache/memory_pool.py
+  h_1f940cd96f2dab 51,868-872,874,4282,4371,4864,5140-5156,5497,5520-5526
+python/sglang/srt/mem_cache/registry.py
+  h_1f940cd96f2dab 23,156-162,203-204
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  h_1f940cd96f2dab 318-320,1804-1808,1834-1839,5626-5627,5708-5709
+python/sglang/srt/model_executor/model_runner.py
+  h_1f940cd96f2dab 40,770,1425-1436
+python/sglang/srt/model_executor/model_runner_components/attention_backend_setup.py
+  h_1f940cd96f2dab 9,77-78
+python/sglang/srt/model_executor/pool_configurator.py
+  h_1f940cd96f2dab 149-150
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1f940cd96f2dab 38,43-47,284,420-423,643,878-879,882-883,979-980,2044-2055
+python/sglang/srt/model_executor/runner/eager_runner.py
+  h_1f940cd96f2dab 27,280-284
+python/sglang/srt/models/deepseek_common/attention_backend_handler.py
+  h_1f940cd96f2dab 265-267
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  h_1f940cd96f2dab 41,169-172,196-199,271-285,438,474,504,508-514,516,520-521,532-577,680-682,904,950,966
+python/sglang/srt/models/dflash.py
+  h_1f940cd96f2dab 8,15,28,158-221,281-286,1112-1113,1205-1206,1216-1227,1306-1307,1310-1334,1472-1481,1588-1589
+python/sglang/srt/models/dspark.py
+  h_1f940cd96f2dab 516-518
+python/sglang/srt/models/kimi_k3.py
+  h_1f940cd96f2dab 963,978,992-1003,1012-1025,1044-1046,1399-1401,2580-2581,3191-3194,3861-3873,3989-3994
+python/sglang/srt/models/qwen3.py
+  h_1f940cd96f2dab 606-608
+python/sglang/srt/speculative/dflash_draft_l2_prefetch.py
+  h_1f940cd96f2dab 1-61
+python/sglang/srt/speculative/dflash_draft_ring.py
+  h_1f940cd96f2dab 43,58-59
+python/sglang/srt/speculative/dflash_sim_acc.py
+  h_1f940cd96f2dab 1-31
+python/sglang/srt/speculative/dflash_utils.py
+  h_1f940cd96f2dab 17,604-657
+python/sglang/srt/speculative/dflash_worker_v2.py
+  h_1f940cd96f2dab 8,16,24-39,55-59,72,77,80,88-91,98,147,292-302,382-441,511-514,516,542,568-577,585-586,775-874,893,916-917,929-930,979-980,996-998,1018-1020,1042-1043,1049-1050,1074-1079,1111-1115,1197-1281,1310-1316,2278,2282-2283,2389-2393,2501-2694,2824-2829,2833-2851,2853-2876,2888-3239,3302,3305-3315,3317,3327-3330,3465-3474,3476-3483,3600,3609-3613,3615-3620,3640,3738-3741,3743-3753,3862,3911-3915,3994-4002,4050-4051,4053-4054,4077-4079,4085-4121,4138-4142,4154-4172,4202,4228-4230,4232-4247,4263
+python/sglang/srt/speculative/eagle_worker_common.py
+  h_1f940cd96f2dab 274-284
+python/sglang/srt/speculative/eagle_worker_v2.py
+  h_1f940cd96f2dab 101,262-264
+python/sglang/srt/speculative/multi_layer_eagle_worker_v2.py
+  h_1f940cd96f2dab 68,212-214
+python/sglang/srt/speculative/standalone_worker_v2.py
+  h_1f940cd96f2dab 24,120-122
+python/sglang/srt/utils/__init__.py
+  h_1f940cd96f2dab 5
+python/sglang/srt/utils/device.py
+  h_1f940cd96f2dab 1289-1294
+python/sglang/srt/utils/gc_utils.py
+  h_1f940cd96f2dab 1-99
+python/sglang/srt/utils/log_utils.py
+  h_1f940cd96f2dab 15,22
+python/sglang/srt/utils/rank_consensus_checker.py
+  h_1f940cd96f2dab 9,23-25,219-228
+python/sglang/test/ascend/test_npu_rl_utils.py
+  h_1f940cd96f2dab 1-773
+python/sglang/test/ascend/test_npu_rl_weights.py
+  h_1f940cd96f2dab 1-394
+scripts/ci/opt_in_ci_tiers.json
+  h_1f940cd96f2dab 32-33,38-39,43-78
+scripts/ci/ppu/test_ppu_ci_suite.py
+  h_1f940cd96f2dab 4,169-171,220-252,258-260
+scripts/ci/utils/slash_command_handler.py
+  h_1f940cd96f2dab 339-375,591-597,612-613,643-646,1929-1940,2040-2049,2051,2054-2058,2060-2069,2072,2074-2076,2081,2084-2086,2088-2089,2106,2126-2150,2152
+test/registered/amd/perf/mi35x/test_muse_spark_agentx_mi35x.py
+  h_1f940cd96f2dab 1-48
+test/registered/cpu/test_comm.py
+  h_1f940cd96f2dab 13,108-111,113-115,117,119,121
+test/registered/dcp/test_trtllm_mla_family_dcp_metadata.py
+  h_1f940cd96f2dab 123
+test/registered/e2e/models/test_kimi_k31_b300.py
+  h_1f940cd96f2dab 1-99
+test/registered/e2e/models/test_kimi_k31_low_latency_b300.py
+  h_1f940cd96f2dab 1-82
+test/registered/kernels/ops/attention/test_dsa_indexer.py
+  h_1f940cd96f2dab 1597-1598
+test/registered/kernels/ops/attention/test_dsa_multi_ctas_counter.py
+  h_1f940cd96f2dab 44-45
+test/registered/kernels/ops/attention/test_flashmla_sched_meta.py
+  h_1f940cd96f2dab 430-431
+test/registered/kernels/ops/communication/test_gemma4_ar_fusion.py
+  h_1f940cd96f2dab 31,237-241
+test/registered/npu/basic_function/optimization_debug/test_npu_compile_graph_tp1_bf16.py
+  h_1f940cd96f2dab 1-72
+test/registered/npu/basic_function/optimization_debug/test_npu_compile_graph_tp2_bf16.py
+  h_1f940cd96f2dab 1-76
+test/registered/npu/rl/state_transitions/test_npu_device_barrier.py
+  h_1f940cd96f2dab 1-236
+test/registered/npu/rl/state_transitions/test_npu_memory_occupation.py
+  h_1f940cd96f2dab 1-119
+test/registered/npu/rl/state_transitions/test_npu_memory_occupation_preload.py
+  h_1f940cd96f2dab 1-40
+test/registered/npu/rl/state_transitions/test_npu_pause_continue.py
+  h_1f940cd96f2dab 1-360
+test/registered/npu/rl/weight_transfer/test_npu_update_weights_from_distributed.py
+  h_1f940cd96f2dab 1-286
+test/registered/npu/rl/weight_transfer/test_npu_update_weights_from_tensor.py
+  h_1f940cd96f2dab 1-233
+test/registered/radix_cache/test_swa_radix_cache_kl.py
+  h_1f940cd96f2dab 10
+test/registered/sessions/test_streaming_session_swa_extra.py
+  h_1f940cd96f2dab 17
+test/registered/unit/disaggregation/test_pd_role_switch.py
+  h_1f940cd96f2dab 56,242,256
+test/registered/unit/hardware_backend/npu/test_npugraph_ex_backend.py
+  h_1f940cd96f2dab 1-160
+test/registered/unit/kernel_plugins/nvidia/test_eagle_binding.py
+  h_1f940cd96f2dab 655-656
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_binding.py
+  h_1f940cd96f2dab 6,53,64,72,74,84,104
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_runtime.py
+  h_1f940cd96f2dab 7,14,20,40,46-48,73,79-81
+test/registered/unit/layers/attention/test_dsa_backend_dp_padding.py
+  h_1f940cd96f2dab 257
+test/registered/unit/layers/moe/paged_experts/test_paged_experts.py
+  h_1f940cd96f2dab 1646-1648
+test/registered/unit/layers/test_radix_attention.py
+  h_1f940cd96f2dab 185-187
+test/registered/unit/layers/test_radix_attention_padded_extend.py
+  h_1f940cd96f2dab 102,104-107
+test/registered/unit/managers/scheduler_components/test_gc_freezer.py
+  h_1f940cd96f2dab 1-134
+test/registered/unit/managers/test_batch_result_processor_spec_grammar.py
+  h_1f940cd96f2dab 343-346,398
+test/registered/unit/managers/test_overlap_uocr_decode.py
+  h_1f940cd96f2dab 341
+test/registered/unit/managers/test_priority_scheduling_disaggregation.py
+  h_1f940cd96f2dab 292
+test/registered/unit/managers/test_scheduler_flush_cache_after_retract.py
+  h_1f940cd96f2dab 90,99
+test/registered/unit/managers/test_scheduler_on_idle_load.py
+  h_1f940cd96f2dab 154-155
+test/registered/unit/managers/test_scheduler_pause_generation.py
+  h_1f940cd96f2dab 156
+test/registered/unit/managers/test_scheduler_weight_version_tracking.py
+  h_1f940cd96f2dab 4,333-334,740-833
+test/registered/unit/mem_cache/test_mamba_capacity.py
+  h_1f940cd96f2dab 72
+test/registered/unit/mem_cache/test_page_sharded_dsa_attention.py
+  h_1f940cd96f2dab 617,728-729,952,956-961
+test/registered/unit/mem_cache/unified_radix_cache/test_decode_state_free_radix.py
+  h_1f940cd96f2dab 1-90
+test/registered/unit/spec/test_dflash_mla_draft_window.py
+  h_1f940cd96f2dab 1,3,5-7,9,11,14,16-19,23-64,68
+test/registered/unit/test_model_overrides.py
+  h_1f940cd96f2dab 209,256
+test/registered/unit/utils/test_common.py
+  h_1f940cd96f2dab 25
+test/run_suite.py
+  h_1f940cd96f2dab 32-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dcb51f371c4a9e666d1bb2ea98a03bc293aaa7fe",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
