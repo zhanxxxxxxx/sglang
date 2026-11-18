@@ -1,0 +1,24 @@
+python/sglang/kernels/ops/gemm/cutedsl_bf16_gemm.py
+  s_c77b21dc3eb712::t_8fb410f665067f 1585,1587,1592-1607,1615,1622
+test/manual/kernels/benchmark/gemm/bench_kimi_decode_projections.py
+  s_c77b21dc3eb712::t_8fb410f665067f 1-35,39-53,60-160,162-184
+  s_c77b21dc3eb712::t_be2fcbda287950 36-38,54-59,161
+test/registered/kernels/ops/gemm/test_cutedsl_bf16_gemm.py
+  s_c77b21dc3eb712::t_8fb410f665067f 81-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b40a7dbaa1f63f19b9428e9a7dd91c48a0490668",
+  "prompts": {},
+  "sessions": {
+    "s_c77b21dc3eb712": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9dd3-4140-7080-88e6-8a797a8643b7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}
