@@ -1,0 +1,20 @@
+test/manual/dsv41_prefill_ttft.py
+  s_5fc677a9fc7c1d::t_5bf39981a084fa 3-4,8,12,20-23,29-110,124,153,157,170-171,220-221,224-236
+  s_5fc677a9fc7c1d::t_1948f6e5b3f8b1 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9bc1d59f37800078ee61a9ec73a349a7ad8fc44a",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/srt/debug_utils/comparator/dp_utils.py
+  s_d2f4c9dc120b69::t_5833f75d1efbd4 41-56,58-62,67-79,87-93,131,135-136,139-140,144-145,154,163,203-206,220,222-230
+  s_d2f4c9dc120b69::t_d62ab3adbf1ee7 57,63-66,80-86
+test/registered/debug_utils/comparator/test_offline_batch_routes.py
+  s_d2f4c9dc120b69::t_5c4ef3ee13126e 119-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ee550fde46d873a3bce8f0cfcf005b3881d42f56",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

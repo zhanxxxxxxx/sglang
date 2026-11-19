@@ -1,0 +1,24 @@
+python/sglang/kernels/ops/attention/dsa/qsa_cache.py
+  h_1d635ecd767a49 13-163
+python/sglang/kernels/ops/attention/dsa/transform_index.py
+  h_1d635ecd767a49 67-121
+python/sglang/srt/layers/attention/dsa/qsa_backend.py
+  h_1d635ecd767a49 5,30-34,67-68
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_1d635ecd767a49 421,425-426,434-437,532-533,540-542,545,548-564,570,574-577,581
+python/sglang/srt/layers/attention/dsa_backend.py
+  h_1d635ecd767a49 1196-1198,1200,1205,2160,2299,2302,2304-2306,2317
+test/registered/dcp/test_bailing_qsa_cache.py
+  h_1d635ecd767a49 9-10,318,321,329,453-486,489-530
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6528f2f9eef2eb6deaa94f30dd23e05e45cf70ec",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

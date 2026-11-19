@@ -1,0 +1,14 @@
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 630-633
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6306f891cda268b68d5023aba62019d2e6d9554a",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
