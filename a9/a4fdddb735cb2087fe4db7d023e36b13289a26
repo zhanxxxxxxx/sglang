@@ -1,0 +1,36 @@
+rust/sglang-server/src/message/config.rs
+  s_f3e5574164d7e0::t_28539087609839 994-997,1002-1006
+  s_f3e5574164d7e0::t_77213f8a6fec59 998-1001
+rust/sglang-server/src/api_server/http/openai/tokenize.rs
+  s_f3e5574164d7e0::t_5782e2d6dce027 223-228,234-237,279,314-317,358-360,366,421,423,439-441
+  s_f3e5574164d7e0::t_77213f8a6fec59 229-233,361-365,424-425,428-429
+rust/sglang-server/src/multi_modality/worker.rs
+  s_f3e5574164d7e0::t_28539087609839 1307
+python/sglang/srt/multimodal/multimodal_processor_mixin.py
+  s_f3e5574164d7e0::t_0a93e01b041102 225
+rust/sglang-server/src/tokenizer_manager/to_scheduler_types.rs
+  s_f3e5574164d7e0::t_28539087609839 26,42
+rust/sglang-server/src/tokenizer_manager/to_scheduler_validation.rs
+  s_f3e5574164d7e0::t_77213f8a6fec59 58-61
+rust/sglang-server/src/tokenizer_manager/to_scheduler_tests.rs
+  s_f3e5574164d7e0::t_28539087609839 215,1017-1026,1028-1029,1039
+test/registered/unit/multimodal/test_npu_image_decode_modes.py
+  s_f3e5574164d7e0::t_0a93e01b041102 60-62,66-67
+  s_f3e5574164d7e0::t_77213f8a6fec59 57-59,63-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a9a4fdddb735cb2087fe4db7d023e36b13289a26",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
