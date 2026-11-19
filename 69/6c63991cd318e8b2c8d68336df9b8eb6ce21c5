@@ -1,0 +1,23 @@
+test/registered/unit/multimodal/test_mm_inline_tensor_storage.py
+  s_9567ae34b5f63a::t_e78d2ae3ef4eea 107-109
+  s_9567ae34b5f63a::t_c6a3652b28a7d9 1-106,110-283
+python/sglang/srt/managers/mm_data_processor.py
+  s_9567ae34b5f63a::t_e78d2ae3ef4eea 230,1442-1444,1472-1475,1481-1483,1487-1489
+  s_9567ae34b5f63a::t_a524cfa801fa1c 205-229,231-252,307-316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "696c63991cd318e8b2c8d68336df9b8eb6ce21c5",
+  "prompts": {},
+  "sessions": {
+    "s_9567ae34b5f63a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09b1e-e340-7c11-b46c-d72a5878cd18",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "ly409648 <ly409648@alibaba-inc.com>"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+python/sglang/srt/models/kimi_linear.py
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 19-23,520-522
+  s_d2f4c9dc120b69::t_7aa8fbb46ddae4 209,489-496,519
+python/sglang/srt/debug_utils/rollout_precision_offline.py
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 161-162,242-244,337-339
+  s_d2f4c9dc120b69::t_7aa8fbb46ddae4 158-160,210-211,228,230-231,241,340
+test/registered/debug_utils/test_rollout_precision_worker.py
+  s_d2f4c9dc120b69::t_166b5dcfdf2756 262-263,267-273
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 264-266
+python/sglang/srt/debug_utils/rollout_precision.py
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 1044-1046,1062-1064
+  s_d2f4c9dc120b69::t_7aa8fbb46ddae4 1040-1043,1047
+python/sglang/srt/model_executor/runner/eager_runner.py
+  s_d2f4c9dc120b69::t_e3d055ebbee3e1 410-411,416
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 412-415
+test/registered/unit/models/test_bailing_kda_prefill_cp.py
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 15-17,19-23,34-36,48-50,52-57
+  s_d2f4c9dc120b69::t_166b5dcfdf2756 1-14,18,24-33,37-47,51,58-60
+python/sglang/srt/server_args.py
+  s_d2f4c9dc120b69::t_e3d055ebbee3e1 7216-7218
+python/sglang/srt/models/bailing_moe_v3.py
+  s_d2f4c9dc120b69::t_9005f4246a9a9f 3235-3246,3252-3264,3270-3272
+  s_d2f4c9dc120b69::t_e3d055ebbee3e1 3247-3251,3265-3269,3273,3291
+  s_d2f4c9dc120b69::t_540edebd9268e7 3234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "691324c2b04a82e9cca2679f5f6d7cbf7b421ec1",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
