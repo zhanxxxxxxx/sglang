@@ -1,0 +1,20 @@
+python/sglang/srt/layers/moe/utils.py
+  h_1d635ecd767a49 102
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 1125-1128,2202-2225,2534-2560,2632-2660
+python/sglang/srt/layers/quantization/fp8_utils.py
+  h_1d635ecd767a49 2195-2222
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7514732d71545c19d22de0e8ab60775bf1f2cd2f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

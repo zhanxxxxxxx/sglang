@@ -1,0 +1,60 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_cd5b75225dd2e7::t_3c213f1e1f9f9e 4098-4102
+  s_cd5b75225dd2e7::t_89918f8fec739e 4068-4084
+  s_cd5b75225dd2e7::t_5cb2102d0d2a97 999-1001
+  s_cd5b75225dd2e7::t_c717e11ffa0f2c 945-946
+  s_cd5b75225dd2e7::t_41b536f7bdb96d 2221,2223-2225,2234
+  s_cd5b75225dd2e7::t_a4db37b48b6bd0 798
+  s_cd5b75225dd2e7::t_ba1cb9259d61f6 2226-2233
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_cd5b75225dd2e7::t_89a44d0c44a1f3 42,49
+  s_cd5b75225dd2e7::t_92357f6b1d8d60 748-753
+  s_cd5b75225dd2e7::t_b89fbb585589db 553-558,560-567
+  s_cd5b75225dd2e7::t_dcac91f83d4e0f 719-722
+  s_cd5b75225dd2e7::t_b9c847c3e4de41 559
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_cd5b75225dd2e7::t_e85e8a3155dce5 55-57,60-62,64-65,69-71
+  s_cd5b75225dd2e7::t_3b586b35e0a79f 99-104
+  s_cd5b75225dd2e7::t_7d07a7efda4e54 200,205,210,214
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_cd5b75225dd2e7::t_049b92872b24fa 751-755
+  s_cd5b75225dd2e7::t_c32cb2a4920ba4 883-891
+  s_cd5b75225dd2e7::t_b8df85b09ca6c7 2427
+  s_cd5b75225dd2e7::t_269e1df09f71da 1409
+  s_cd5b75225dd2e7::t_e02fe1fa12d09b 2669
+  s_cd5b75225dd2e7::t_3baec56b4e32fc 2686
+  s_cd5b75225dd2e7::t_15077a7681d571 2908
+  s_cd5b75225dd2e7::t_30d4a8d3988b11 743
+  s_cd5b75225dd2e7::t_e2afa771b53e16 2955
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_cd5b75225dd2e7::t_c3879c9ec5e831 354
+  s_cd5b75225dd2e7::t_e1a530a222c186 276
+  s_cd5b75225dd2e7::t_9487ca5f957180 371
+  s_cd5b75225dd2e7::t_2d2d2ed87e8351 362
+  s_cd5b75225dd2e7::t_fd39673647de04 286,295,313,352,361
+  s_cd5b75225dd2e7::t_5ae5bf713b4ef4 30
+  s_cd5b75225dd2e7::t_4a7972b6574ea9 315
+  s_cd5b75225dd2e7::t_2a8fb985eb23b1 630
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_cd5b75225dd2e7::t_067d0e701de04c 132
+python/sglang/srt/entrypoints/http_server.py
+  s_cd5b75225dd2e7::t_965f0c7748dc03 1678
+python/sglang/srt/managers/io_struct.py
+  s_cd5b75225dd2e7::t_4c5717dba5dc7e 1858-1864,2140-2141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "18986ea09b86ed7df586c5d07310c381ba1947be",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

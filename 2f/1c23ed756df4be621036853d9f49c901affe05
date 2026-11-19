@@ -1,0 +1,23 @@
+docker/Dockerfile.cu134
+  s_e264e4a97219bf::t_21d01b2aced88b 1,964-968,974,976-979
+docker/Dockerfile
+  s_e264e4a97219bf::t_21d01b2aced88b 1,790-794,800,802-805
+docker/mega-release.md
+  s_e264e4a97219bf::t_fc843f9c8b2386 29-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2f1c23ed756df4be621036853d9f49c901affe05",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

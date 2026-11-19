@@ -1,0 +1,24 @@
+test/registered/unit/multimodal/test_qwen_video_preprocess_api.py
+  s_6814b9b1896915::t_25625e52a6804a 3,109-124,126-139
+  s_6814b9b1896915::t_7fb9095c36696d 13,125
+  s_6814b9b1896915::t_67af685aa641ef 140-141
+python/sglang/srt/disaggregation/encoder/preprocessor.py
+  s_6814b9b1896915::t_56bf585736bf8e 31,617,623-636
+  s_6814b9b1896915::t_2f1ff050fbb9b0 637
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d31eaacce9362bfea5eb9ad3afaf21a608345ab0",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

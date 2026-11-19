@@ -1,0 +1,26 @@
+python/sglang/srt/debug_utils/native_layer_replay.py
+  s_d2f4c9dc120b69::t_3f564e173b5b39 728-730
+  s_d2f4c9dc120b69::t_bcc83474afe6e4 731-733
+python/sglang/srt/debug_utils/native_graph_layer_replay.py
+  s_d2f4c9dc120b69::t_3f564e173b5b39 106,113-117,127-128,165-166
+  s_d2f4c9dc120b69::t_bcc83474afe6e4 108-112,118-126
+test/registered/debug_utils/test_native_layer_replay.py
+  s_d2f4c9dc120b69::t_5c15d329b40429 78-80,86,88,96-99,124-126
+  s_d2f4c9dc120b69::t_286b64a3053fa8 72,82,90-95,100-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "87b0d4c42ca006be8807a62c3765e7908c990840",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
