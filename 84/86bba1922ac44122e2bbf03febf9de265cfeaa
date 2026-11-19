@@ -1,0 +1,14 @@
+python/sglang/srt/layers/dcp/comm.py
+  h_1d635ecd767a49 413,438-440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8486bba1922ac44122e2bbf03febf9de265cfeaa",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

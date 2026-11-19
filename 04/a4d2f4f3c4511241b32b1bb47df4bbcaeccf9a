@@ -1,0 +1,18 @@
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_1d635ecd767a49 1315-1329
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 3159
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  h_1d635ecd767a49 222-256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "04a4d2f4f3c4511241b32b1bb47df4bbcaeccf9a",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
