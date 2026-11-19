@@ -1,0 +1,24 @@
+python/sglang/kernels/jit/csrc/elementwise/activation.cuh
+  h_1d635ecd767a49 95-97,102-106,243-244,246-250
+python/sglang/kernels/ops/activation/activation.py
+  h_1d635ecd767a49 206,211-214,222-223,225,228
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 635,671-675,708,710-718,746,749-756,775-782,1109-1111,1125-1127,1135-1137,1246,1346-1351,1412,1415,1437,1451,1470,1522-1524,1527-1529,1633,1638-1640,1677-1679,1682-1684,1697-1699,1709-1711,2541-2546,2548-2553
+test/registered/kernels/ops/activation/test_activation.py
+  h_1d635ecd767a49 45-47,50,53-66,89-90,96-98
+test/registered/unit/models/test_bailing_moe_v3_deepep_sbo.py
+  h_1d635ecd767a49 210-212
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  h_1d635ecd767a49 19-24,35,75,87-88,115,121,123,135-136,144,169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d832a4ed36e94f2f7e95089d796d355be61be58f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

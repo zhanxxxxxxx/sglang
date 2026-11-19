@@ -1,0 +1,25 @@
+python/sglang/srt/speculative/dflash_utils.py
+  s_f5a50be0fc3a60::t_473bec1e36f141 1018-1032
+python/sglang/srt/speculative/eagle_utils.py
+  s_f5a50be0fc3a60::t_473bec1e36f141 811-813,815-831
+python/sglang/srt/speculative/fused_verify_probs.py
+  s_f5a50be0fc3a60::t_473bec1e36f141 1-55
+python/sglang/kernels/ops/speculative/verify_target_probs.py
+  s_f5a50be0fc3a60::t_473bec1e36f141 1-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4b40a8e3f126367b02967692b9bfc486ef063f9e",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

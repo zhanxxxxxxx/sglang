@@ -1,0 +1,21 @@
+python/sglang/srt/mem_cache/mamba_radix_cache.py
+  s_357c03dbde9ca4::t_57e899c61567d1 733-735
+test/registered/unit/mem_cache/test_request_snapshot.py
+  s_357c03dbde9ca4::t_e7f89a9a9200b3 134-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9f39ec545e3e35387a0e7d24198c2a818679527c",
+  "prompts": {},
+  "sessions": {
+    "s_357c03dbde9ca4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18418-d059-78c1-83e7-0477ca8bc33b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

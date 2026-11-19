@@ -1,0 +1,36 @@
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 2,56-57
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_bbb22337e1ec96::t_ffc1ac2f16520c 932
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 5,12,101-107,1771-1775,1778
+python/sglang/utils.py
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 17,322-323
+test/registered/unit/layers/attention/test_minimax_sparse_nvfp4_idle.py
+  s_bbb22337e1ec96::t_8844b951f7b943 21-22,25-32,35,38-40,42-45
+python/sglang/srt/environ.py
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 850-852,1053-1058,1306-1308,1405-1407,2075-2076,2260-2261,2317-2322
+  s_bbb22337e1ec96::t_62e7c4460d3423 2323
+python/sglang/srt/utils/common.py
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 49,51-52,901-965
+python/sglang/srt/observability/trace.py
+  s_bbb22337e1ec96::t_2a122f6220ccae 34
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 30
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_bbb22337e1ec96::t_c34cd191fb1aa0 31,167-185,199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "283adc569d0852193cdcd412a6e0e1c74b7d4fa2",
+  "prompts": {},
+  "sessions": {
+    "s_bbb22337e1ec96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af2c-7f20-71a2-9454-f23653234f11",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

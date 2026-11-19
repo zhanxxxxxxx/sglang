@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/attention/dsa/qsa_cache.py
+  h_1d635ecd767a49 92,95-97
+test/registered/dcp/test_bailing_qsa_cache.py
+  h_1d635ecd767a49 461-464
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e5f6c5e5562a7c6f9e65143a53488a0d03fafaf",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

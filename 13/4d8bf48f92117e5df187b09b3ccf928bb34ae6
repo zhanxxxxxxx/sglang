@@ -1,0 +1,14 @@
+python/sglang/srt/layers/attention/trtllm_mla_backend.py
+  h_1d635ecd767a49 80-82,238-242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "134d8bf48f92117e5df187b09b3ccf928bb34ae6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

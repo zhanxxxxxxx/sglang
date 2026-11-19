@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/attention/dcp_kernels.py
+  h_1d635ecd767a49 93,118-122
+python/sglang/srt/layers/attention/cutedsl_mla_backend.py
+  h_1d635ecd767a49 135
+test/registered/dcp/test_cutedsl_mla_dcp_graph_metadata.py
+  h_1d635ecd767a49 104-105,126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "df633bf9e2fa027eae7fb719f6fc40ce008052f4",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

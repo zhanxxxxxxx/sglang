@@ -1,0 +1,39 @@
+test/registered/unit/constrained/test_base_grammar_backend.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 90,103,164
+test/registered/unit/constrained/test_grammar_cache_release.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 1-206
+python/sglang/srt/environ.py
+  s_7fe19efdf30275::t_db156fc2e73c41 416-431
+test/registered/unit/constrained/test_grammar_cache_limits.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 1-398
+python/sglang/srt/constrained/grammar_cache.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 1-136
+test/registered/unit/constrained/test_grammar_manager.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 28,97,925-981
+  s_7fe19efdf30275::t_9788ff8b03d196 982-983
+python/sglang/srt/constrained/xgrammar_backend.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 38-41,43,96-98,222-224,249-260
+python/sglang/srt/constrained/base_grammar_backend.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 18-19,21,24,28,42-116,190-193,283-285,291-313,347-350,398-399,407-418,420-445,449-450
+python/sglang/srt/constrained/reasoner_grammar_backend.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 100-104,269-272,350-357
+  s_7fe19efdf30275::t_e2782dbcbd200d 358
+python/sglang/srt/constrained/grammar_manager.py
+  s_7fe19efdf30275::t_79e4b7fd74638e 15,52-56,163-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "71e521944e7c61b35874c65c0d596797ccbeba44",
+  "prompts": {},
+  "sessions": {
+    "s_7fe19efdf30275": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c35a-6ff9-7080-b3f1-9764aafcc66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

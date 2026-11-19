@@ -1,0 +1,19 @@
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_c3ffcd88280fa5::t_cba72cc341ba4c 506-510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cf8d9153940bb0e265e5df00006e6a51713683ac",
+  "prompts": {},
+  "sessions": {
+    "s_c3ffcd88280fa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1eab1-2720-7431-acd3-72e7c0e43ef2",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

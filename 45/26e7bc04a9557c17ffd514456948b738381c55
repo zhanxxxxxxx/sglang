@@ -1,0 +1,40 @@
+test/registered/attention/test_kda_apl_decode_numerics.py
+  s_ce0f7433748e22::t_940cf835c02a48 31-34,74-75,103,374
+  s_030cfbd488998e::t_77d6b23e430769 356
+  s_ce0f7433748e22::t_5b1227a1756c63 234-293,309-315,317-322,324,326-344,346,349,351-355,357-370
+python/sglang/srt/layers/attention/linear/kda_apl_backend.py
+  s_030cfbd488998e::t_c43a290efdf578 69,117-124,153-157,291-293,365-367,405-418,504-513
+  s_030cfbd488998e::t_77d6b23e430769 578,580-584,586-592,594-596
+  s_030cfbd488998e::t_83c326368feec7 4-7,10-11,16-20,27-34,36-39,50-52,514-535,597,604-605,607-608
+test/registered/unit/layers/attention/test_kda_apl_backend.py
+  s_030cfbd488998e::t_77d6b23e430769 680-693,930-939,942-946,948,952-963
+  s_030cfbd488998e::t_c43a290efdf578 297-298,304-315,833,835-836,840,844-845,849,853,855-881
+  s_030cfbd488998e::t_a009781db5ddfe 1-7,44,120-121,299-303,412-413,425-427,449,828-832,834,837-839,841-843,846-848,850-852,854,882,900,903,906-907,910,915-919,921-923,925-929,964
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_030cfbd488998e::t_77d6b23e430769 598-612,644,646,676
+  s_030cfbd488998e::t_130a3212d33f29 597,645,647-675,677-691,737
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4526e7bc04a9557c17ffd514456948b738381c55",
+  "prompts": {},
+  "sessions": {
+    "s_030cfbd488998e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19cbd-04fe-78c3-8c5d-ae6561cf3668",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    },
+    "s_ce0f7433748e22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cd4f-7f26-78b2-ad44-8b1fa0a6d038",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    }
+  }
+}

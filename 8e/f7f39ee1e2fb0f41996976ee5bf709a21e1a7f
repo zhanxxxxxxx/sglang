@@ -1,0 +1,22 @@
+python/sglang/srt/models/bailing_audio_v3.py
+  s_26618feaba671a::t_533d9ce20e71da 203-204
+test/registered/unit/models/test_bailing_audio_feature_layouts.py
+  s_26618feaba671a::t_f4dbfceef520e9 1-51
+  s_26618feaba671a::t_8c7432b702219e 52-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ef7f39ee1e2fb0f41996976ee5bf709a21e1a7f",
+  "prompts": {},
+  "sessions": {
+    "s_26618feaba671a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c415-8e10-76f3-9d42-d23598e73e84",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
