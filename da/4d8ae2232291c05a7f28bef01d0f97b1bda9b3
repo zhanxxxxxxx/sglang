@@ -1,0 +1,21 @@
+python/sglang/srt/layers/dcp/planner.py
+  s_957f9e2242daf0::t_4f591afa13ad85 135-137
+test/registered/unit/layers/test_dcp_prefix_alignment.py
+  s_957f9e2242daf0::t_4f591afa13ad85 1-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da4d8ae2232291c05a7f28bef01d0f97b1bda9b3",
+  "prompts": {},
+  "sessions": {
+    "s_957f9e2242daf0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef359-bbf9-7011-9bcf-f03e360526b0",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}
