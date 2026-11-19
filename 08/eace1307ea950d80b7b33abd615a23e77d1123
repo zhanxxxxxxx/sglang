@@ -1,0 +1,25 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  s_daf8edf2310675::t_30798257ec1056 1185
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  s_daf8edf2310675::t_47ffb3dec9a0de 237-257,467-468
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_daf8edf2310675::t_e37f9dbaf765ff 278-311
+test/registered/unit/mem_cache/test_snapshot_astate_tensor_processes.py
+  s_daf8edf2310675::t_87cb97ea5a58da 15,60-69,121-122,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "08eace1307ea950d80b7b33abd615a23e77d1123",
+  "prompts": {},
+  "sessions": {
+    "s_daf8edf2310675": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ab7f-f852-7640-ad4d-26f84b572a1c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

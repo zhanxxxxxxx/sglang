@@ -1,0 +1,42 @@
+python/sglang/srt/managers/scheduler.py
+  s_e264e4a97219bf::t_25b3e9a9bac877 3295-3303
+  s_e264e4a97219bf::t_a1f93d4feb0385 3291-3294
+test/registered/unit/disaggregation/test_prefill_complete_integration.py
+  s_e264e4a97219bf::t_d4933736c974c1 26,41,46-50,680-732
+  s_e264e4a97219bf::t_5ac75ffa85afdb 733
+test/registered/unit/managers/test_multimodal_abort_cleanup.py
+  s_e264e4a97219bf::t_7c569f9742a5eb 125,138,141-143
+python/sglang/multimodal_gen/runtime/entrypoints/http_server.py
+  s_e264e4a97219bf::t_33fdd612139d52 430,441-450,472,485,495,500,507,517,550,560
+  s_e264e4a97219bf::t_a09fb566053d46 475-477
+  s_e264e4a97219bf::t_6e65f793d2194e 9,16,19,22-25,68,390-429,431-440,451-471,473-474,478-484,486-494,496-499,501-506,508-516,518-549,551-559,561-562
+python/sglang/multimodal_gen/runtime/pipelines_core/executors/pipeline_executor.py
+  s_e264e4a97219bf::t_33fdd612139d52 315,320-321
+python/sglang/multimodal_gen/test/unit/test_pipeline_stage_profiling.py
+  s_e264e4a97219bf::t_6f39646f26a25c 1,6,79-80,87-124,127-130,133-134,139-149,153-154,156-163,166-193,315-317
+  s_e264e4a97219bf::t_fb93089ea0413a 197-199,264-266,280-282,307-310
+  s_e264e4a97219bf::t_6aa009f4dd8d87 81-86,150-152
+  s_e264e4a97219bf::t_342459f66d4486 48-50,55,125-126,131-132,135-138,155,164-165
+  s_e264e4a97219bf::t_c705caf47e2b8e 194-196,200-263,267-279,283-306,311-313
+python/sglang/multimodal_gen/benchmarks/bench_serving.py
+  s_e264e4a97219bf::t_a09fb566053d46 697-735
+  s_e264e4a97219bf::t_1b4900593a2a84 10-12,26,182-190,517-556,567-568,896-901,908-913
+python/sglang/multimodal_gen/runtime/utils/profiler.py
+  s_e264e4a97219bf::t_33fdd612139d52 151-194,214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f511989e25ea727418c1819a6f5392995c2a9b43",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+docker/ant/aci/modelspeed.aci.yml
+  h_623190b123231f 11
+docker/ant/aci/modelspeed_xruntime.aci.yml
+  h_623190b123231f 9
+docker/ant/modelspeed/Dockerfile
+  h_623190b123231f 4
+docker/ant/modelspeed/README.md
+  h_623190b123231f 32-35,45
+docker/ant/modelspeed/modelspeed-revision
+  h_623190b123231f 1
+docker/ant/modelspeed/modelspeed-source.sha256
+  h_623190b123231f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4df39b2060c83bad342fb222d956d0448239b959",
+  "prompts": {},
+  "humans": {
+    "h_623190b123231f": {
+      "author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

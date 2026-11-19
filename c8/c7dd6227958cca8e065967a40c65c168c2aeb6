@@ -1,0 +1,67 @@
+python/sglang/srt/disaggregation/common/conn.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 280-281,1409-1413,1416
+test/registered/unit/disaggregation/test_deferred_decode_kv_release.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 7,28,128,140,208-226
+  s_7fe19efdf30275::t_bd61c0f9f9ae30 227
+python/sglang/srt/disaggregation/utils.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 13,937-956
+  s_7fe19efdf30275::t_975814e5cb1b2d 957-958
+docker/ant/aci/sglang_fast.aci.yml
+  s_7fe19efdf30275::t_662baeb44b7b1d 28,41,155,163,172,185,197
+python/sglang/srt/managers/scheduler_components/load_inquirer.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 59,243
+python/sglang/srt/managers/load_snapshot.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 217-219
+test/registered/unit/disaggregation/test_disaggregation_wire.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 49,689-865
+  s_7fe19efdf30275::t_910ffa7c58afb3 866-867
+python/sglang/srt/managers/scheduler.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 2464,4796-4806
+  s_7fe19efdf30275::t_6173912214b543 4807
+python/sglang/srt/managers/tokenizer_manager.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 958-961,2067,3923,3935,3944,3955-3957,3974-4009
+  s_7fe19efdf30275::t_aeb912d79bb30c 4010
+test/registered/unit/disaggregation/test_pd_drain_protocol.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 201-203
+test/registered/unit/mem_cache/test_unified_radix_cache_unittest.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 1680-1787
+python/sglang/srt/arg_groups/fields/disagg.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 82
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 1104-1109,1114-1116,1150
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 14,18,437,456,479-516,940-985
+  s_7fe19efdf30275::t_561ba4a4ed9245 986-987
+test/registered/unit/server_args/test_server_args.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 869-926
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 53,321-328,681,704-725,748-749,751-753,761-765,773,1579-1590
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 131-143
+python/sglang/srt/disaggregation/decode.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 2099-2101,2505-2519
+python/sglang/srt/environ.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 722-723
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 107-112,123
+test/registered/unit/model_executor/test_pool_configurator.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 932,944-961,963-964,966-970,1015,1036-1038,1045,1101-1103,1158,1162,1174-1177,1184-1253
+test/registered/unit/spec/test_spec_registry.py
+  s_7fe19efdf30275::t_662baeb44b7b1d 227-228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c8c7dd6227958cca8e065967a40c65c168c2aeb6",
+  "prompts": {},
+  "sessions": {
+    "s_7fe19efdf30275": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c35a-6ff9-7080-b3f1-9764aafcc66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
