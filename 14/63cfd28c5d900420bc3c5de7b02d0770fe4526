@@ -1,0 +1,22 @@
+python/sglang/srt/environ.py
+  s_5e8ee733b2f3d3::t_4d1b486d0e8828 1797-1800
+python/sglang/srt/speculative/dflash_worker_v2.py
+  s_5e8ee733b2f3d3::t_4d1b486d0e8828 821-836,2779-2819,3492,3511-3512,3646,4085-4087
+  s_5e8ee733b2f3d3::t_a7e9b86063ef66 4088
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1463cfd28c5d900420bc3c5de7b02d0770fe4526",
+  "prompts": {},
+  "sessions": {
+    "s_5e8ee733b2f3d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203484a0-7962-48df-8d94-f187cb66cc43",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+python/sglang/srt/managers/cache_controller.py
+  s_ef8665546180d1::t_88fa120622ca88 233-246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd167c978e35ceba2f70490bc001cb8eb373f330",
+  "prompts": {},
+  "sessions": {
+    "s_ef8665546180d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9d4-7be0-75e2-ac79-cfda5726f657",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "mubin <yelibin.ylb@antgroup.com>"
+    }
+  }
+}

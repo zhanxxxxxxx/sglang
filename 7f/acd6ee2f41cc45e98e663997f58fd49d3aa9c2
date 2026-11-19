@@ -1,0 +1,22 @@
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_down_tuning.py
+  s_f5a50be0fc3a60::t_552a8282752a8a 1-52
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_f5a50be0fc3a60::t_552a8282752a8a 246-266
+  s_f5a50be0fc3a60::t_6c4d91dc41116f 245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7facd6ee2f41cc45e98e663997f58fd49d3aa9c2",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

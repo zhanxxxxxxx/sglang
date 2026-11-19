@@ -1,0 +1,48 @@
+python/sglang/srt/environ.py
+  s_c77b21dc3eb712::t_1a5b88695a32a2 1485-1488
+python/sglang/srt/models/bailing_moe_v3.py
+  s_c77b21dc3eb712::t_1a5b88695a32a2 741-744,1097-1099
+python/sglang/srt/layers/communication/ling_latent_up.py
+  s_c77b21dc3eb712::t_80827704d4471c 91
+  s_c77b21dc3eb712::t_b652ee3a895236 118
+  s_c77b21dc3eb712::t_862483b2b167c7 100,110-117
+  s_c77b21dc3eb712::t_a83c5a4c9727ba 131
+  s_c77b21dc3eb712::t_1a5b88695a32a2 1-90,92-99,107-109,119-130,132-218
+  s_c77b21dc3eb712::t_9298099b63a5b8 101-106
+python/sglang/kernels/ops/communication/__init__.py
+  s_c77b21dc3eb712::t_1a5b88695a32a2 1,3-11,13-16
+  s_c77b21dc3eb712::t_bd9ca74e577519 12
+python/sglang/kernels/jit/csrc/communication/ling_latent_up.cuh
+  s_c77b21dc3eb712::t_80827704d4471c 3-4,34-37
+  s_c77b21dc3eb712::t_1a5b88695a32a2 1-2,5-11,14-33,38-56
+  s_c77b21dc3eb712::t_50a1acdb61e0a9 12-13
+python/sglang/kernels/ops/communication/ling_latent_up.py
+  s_c77b21dc3eb712::t_1a5b88695a32a2 1-46
+test/registered/unit/layers/test_ling_latent_up.py
+  s_c77b21dc3eb712::t_bd9ca74e577519 1-25,29-65,69-102
+  s_c77b21dc3eb712::t_796212fb9ca661 26-28,66-68
+test/registered/kernels/ops/communication/test_ling_latent_up.py
+  s_c77b21dc3eb712::t_bd9ca74e577519 1-8,12-28,31-52,57-72,79-81,83-97,110-156,208-220,226-236
+  s_c77b21dc3eb712::t_55cc5c1b2151a1 9-11,29-30,82,157-166,170-172,176-191,195-207
+  s_c77b21dc3eb712::t_796212fb9ca661 53-56,73-78,98-109,167-169,173-175,192-194,221-225,237-239
+benchmark/kernels/ling_csa/bench_latent_up_gather.py
+  s_c77b21dc3eb712::t_092e38be1ce54b 1-22,27-46,51-64,70-80,84-85,90,96,98-100,104-107,109-113,117-120,124,128-142,146-163,170
+  s_c77b21dc3eb712::t_796212fb9ca661 23-26,47-50,65-69,81-83,86-89,91-95,101-103,108,114-116,121-123,125-127,143-145,164-169
+  s_c77b21dc3eb712::t_a83c5a4c9727ba 97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b2c9c07f8ab6ccc55ea8d721247221b5bbb7fabd",
+  "prompts": {},
+  "sessions": {
+    "s_c77b21dc3eb712": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9dd3-4140-7080-88e6-8a797a8643b7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

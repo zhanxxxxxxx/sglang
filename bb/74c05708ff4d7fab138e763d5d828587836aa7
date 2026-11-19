@@ -1,0 +1,47 @@
+test/registered/unit/multimodal/test_processor_device_selection.py
+  s_e264e4a97219bf::t_6de52efd08d9bc 114-116
+  s_e264e4a97219bf::t_8fd728626ebd29 9,60-113,117-123
+  s_e264e4a97219bf::t_9eb63fe576ff12 124
+test/registered/unit/layers/moe/test_standard_dispatcher.py
+  s_e264e4a97219bf::t_411246e98b707f 142,782
+test/registered/unit/layers/quantization/test_unquant_gfx115_weight_padding.py
+  s_e264e4a97219bf::t_411246e98b707f 91-94
+test/registered/unit/layers/moe/test_deep_gemm_layout_budget.py
+  s_e264e4a97219bf::t_5a43a9a6a37c69 33
+  s_e264e4a97219bf::t_43b198e8491b06 35-37,45-53,63-66,68-71,79-81,85-89,91-93
+  s_e264e4a97219bf::t_2731b548477f3a 1-32,34,38-44,54-62,67,72-78,82-84,90,94-99
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_e264e4a97219bf::t_1f241447bf1404 170-174,179-186
+  s_8d6e02f56d531e::t_49de31d77fc8b0 327-329,350,368-370,467-468,694,698,706,819-820,938,942,969
+test/registered/unit/layers/test_kimi_mlp_parallel_groups.py
+  s_e264e4a97219bf::t_411246e98b707f 13,53
+test/registered/unit/layers/quantization/test_flashinfer_trtllm_bf16_moe_reload.py
+  s_e264e4a97219bf::t_d39102920c5f90 210-211,478
+test/registered/unit/layers/test_grouped_topk_dispatch.py
+  s_e264e4a97219bf::t_d39102920c5f90 15-20,47
+  s_e264e4a97219bf::t_411246e98b707f 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bb74c05708ff4d7fab138e763d5d828587836aa7",
+  "prompts": {},
+  "sessions": {
+    "s_8d6e02f56d531e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167c6-e565-7440-a4c7-96fefe943ed5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    },
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

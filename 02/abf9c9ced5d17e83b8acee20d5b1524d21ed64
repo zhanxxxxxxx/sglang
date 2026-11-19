@@ -1,0 +1,22 @@
+python/sglang/srt/configs/bailing_hybrid.py
+  s_7a64d91f26e78a::t_f9faaa098c4076 477-482
+test/registered/unit/configs/test_ling_video_yarn.py
+  s_7a64d91f26e78a::t_abd50ca84866f7 360-361
+  s_7a64d91f26e78a::t_2b167fc4ebffd9 320-359,362-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "02abf9c9ced5d17e83b8acee20d5b1524d21ed64",
+  "prompts": {},
+  "sessions": {
+    "s_7a64d91f26e78a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e77d-3fa8-78d3-93fd-b7882982024b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

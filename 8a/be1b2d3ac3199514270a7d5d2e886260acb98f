@@ -1,0 +1,25 @@
+test/registered/kernels/ops/communication/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_d4d4092b5dd0d9 45
+test/registered/unit/distributed/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_a2ddf5c31c96e0 64,201-202
+python/sglang/kernels/jit/csrc/distributed/glm53_moe_finalize.cuh
+  s_f5a50be0fc3a60::t_a2ddf5c31c96e0 123
+python/sglang/kernels/ops/communication/glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_a2ddf5c31c96e0 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8abe1b2d3ac3199514270a7d5d2e886260acb98f",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

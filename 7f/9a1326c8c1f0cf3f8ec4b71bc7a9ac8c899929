@@ -1,0 +1,25 @@
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_0c8ee8c8d06cd1::t_c95a47c0d524a0 105
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0c8ee8c8d06cd1::t_ef5c98ad11987f 344-345,358-359
+  s_0c8ee8c8d06cd1::t_005aea011c2488 346
+python/sglang/srt/disaggregation/encoder/completion.py
+  s_0c8ee8c8d06cd1::t_009c128ac78a22 4
+  s_0c8ee8c8d06cd1::t_74cbf8c00b995c 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7f9a1326c8c1f0cf3f8ec4b71bc7a9ac8c899929",
+  "prompts": {},
+  "sessions": {
+    "s_0c8ee8c8d06cd1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2e0a7f3c-cce4-4943-8b2f-f1c67e6939dc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

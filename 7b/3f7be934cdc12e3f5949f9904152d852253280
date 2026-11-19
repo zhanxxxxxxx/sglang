@@ -1,0 +1,19 @@
+python/sglang/srt/arg_groups/validation_hook.py
+  s_3a9c9122506be4::t_1c727df526bf1b 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7b3f7be934cdc12e3f5949f9904152d852253280",
+  "prompts": {},
+  "sessions": {
+    "s_3a9c9122506be4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d341-ffa2-7a40-98f7-02957b5ae8d1",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
