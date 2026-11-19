@@ -1,0 +1,37 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_1a2403ab7d65d8::t_0ffd3eb0fa9dcb 673-674,676-677
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/moe.py
+  s_1a2403ab7d65d8::t_708ef45970531c 66,68,71
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_1a2403ab7d65d8::t_ca6e40d23c23b3 104,116-123
+python/sglang/srt/layers/communicator.py
+  s_1a2403ab7d65d8::t_82cb9471aac40d 864
+python/sglang/srt/layers/sampler.py
+  s_1a2403ab7d65d8::t_b840c21af75a2c 101-102,151-157,169,286-288
+python/sglang/srt/managers/tokenizer_manager.py
+  s_1a2403ab7d65d8::t_8c6c5f0d7efa2c 2127-2134,2144-2148
+python/sglang/srt/model_loader/loader.py
+  s_1a2403ab7d65d8::t_000cd0cec94dc0 336-337,339-340
+python/sglang/srt/server_args.py
+  s_1a2403ab7d65d8::t_3a89209d375164 4052-4054,7938-7939
+python/sglang/srt/utils/common.py
+  s_1a2403ab7d65d8::t_5db8e9a104efd2 3488,3505-3509,3537-3538,3560-3567,3584-3585,3592,3594-3595
+test/registered/unit/models/test_bailing_consistency_contracts.py
+  s_1a2403ab7d65d8::t_987329bb893e04 203,232-392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5646f9bd144da869236fccda49e3acb24fa137df",
+  "prompts": {},
+  "sessions": {
+    "s_1a2403ab7d65d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a491-a5c3-7411-9049-e2594de4628d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
