@@ -1,0 +1,18 @@
+test/registered/unit/managers/test_pp_micro_batch_affinity.py
+  h_1d635ecd767a49 612
+test/registered/unit/managers/test_pp_result_stream_order.py
+  h_1d635ecd767a49 95-96,101,103,127
+test/registered/unit/state_capturer/test_routed_experts_pp.py
+  h_1d635ecd767a49 281-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "edadf170e52ad42264477a38cfd3f6a41ceaa335",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

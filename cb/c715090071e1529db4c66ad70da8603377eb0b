@@ -1,0 +1,64 @@
+python/sglang/kernels/jit/csrc/deepseek_v4/main_norm_rope.cuh
+  s_fe92d796c96f00::t_a2633731732117 469-476
+  s_fe92d796c96f00::t_0f53b4be29bcbe 288-294,304-307,369-371,467-468,529-531,673,675,801-820
+test/registered/kernel/attention/dsv4/test_dsv41_swa_without_tags.py
+  s_fe92d796c96f00::t_358a71b9ad4abe 50-57,64-68,72,87-89,93-95,107-109,111-118,121-123,127-132,134-137,141-143,145-147,149-151,154-158,166-171,176-183
+  s_fe92d796c96f00::t_c2c64c099d96cd 1-49,58-63,69-71,73-86,90-92,96-106,110,119-120,124-126,133,138-140,144,148,152-153,159-165,172-175,184-192
+test/registered/kernels/ops/memory/test_dsv41_direct_ring_cuda.py
+  s_fe92d796c96f00::t_a2633731732117 53,63,65,114,119,124,140-143,145-146
+  s_fe92d796c96f00::t_5da708212d0ad7 161-165,292-294,330-333,342-345,357,359,394-395,409-412,419-424,426-428,439-447,449-451,454-466
+  s_fe92d796c96f00::t_b750b207ed252d 7,115-117,417-418,425,429-438,448,452-453,467-470
+  s_fe92d796c96f00::t_50329b71d8d217 471-472
+python/sglang/srt/mem_cache/dsv41_swa_snapshot.py
+  s_fe92d796c96f00::t_358a71b9ad4abe 143-148,157
+python/sglang/kernels/ops/kvcache/dsv4_request_window_copy.py
+  s_fe92d796c96f00::t_d0df046d543dae 122-123
+test/registered/unit/disaggregation/_dsv41_pd_fixture.py
+  s_fe92d796c96f00::t_5da708212d0ad7 4,24
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_pool.py
+  s_fe92d796c96f00::t_d0df046d543dae 4-5,70-72,108-112,140-141,151,166,181-188,194-195,197,335-336,377-379
+  s_fe92d796c96f00::t_9d77394c3e435c 193
+  s_fe92d796c96f00::t_04a90f40d063f0 196
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_fe92d796c96f00::t_3411d1a5cb4ae0 319,364-365,1146-1147,1253,1275,1330-1332,1345,1355,1512,1523,1564-1565,1569-1571,1589-1596,1675,1685,1690,1736-1737,1772,1779,1789,1801-1803,1884-1888,1952-1954,1978,2013-2014,2020-2021,2065,2131-2132
+  s_fe92d796c96f00::t_382301304a5749 1287-1290,1773,1912-1913
+test/registered/unit/mem_cache/test_dsv41_snapshot_radix.py
+  s_fe92d796c96f00::t_7a0b32b4c7627a 3,44
+  s_fe92d796c96f00::t_358a71b9ad4abe 16,30
+  s_fe92d796c96f00::t_7c66402ebc2428 31-33
+python/sglang/srt/model_executor/pool_configurator.py
+  s_fe92d796c96f00::t_f397aeb3af93c6 1345
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_runtime.py
+  s_fe92d796c96f00::t_d0df046d543dae 52-53,108
+  s_fe92d796c96f00::t_358a71b9ad4abe 183,266-268
+test/registered/unit/mem_cache/test_dsv41_snapshot_execution.py
+  s_fe92d796c96f00::t_bb1a62d81d0f28 3,126
+test/registered/kernel/attention/dsv4/test_dsv41_snapshot_coverage_cuda.py
+  s_fe92d796c96f00::t_a2633731732117 22,31,53,57,79-80,96-99
+  s_fe92d796c96f00::t_c2c64c099d96cd 54-56,102-103
+test/registered/unit/mem_cache/test_dsv41_full_snapshot_runtime.py
+  s_fe92d796c96f00::t_5da708212d0ad7 34,43,68-70,97-98,108-109,113-114,117-138
+test/registered/unit/mem_cache/test_dsv41_request_window_pd.py
+  s_fe92d796c96f00::t_a2633731732117 15,36
+python/sglang/srt/mem_cache/kv/memory/request_window.py
+  s_fe92d796c96f00::t_d0df046d543dae 47-49,65,79-80,82,85-88
+  s_fe92d796c96f00::t_1fd00f7d2bfd8f 45-46
+  s_fe92d796c96f00::t_35899b03154c67 78
+  s_fe92d796c96f00::t_754defb8d84dda 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cbc715090071e1529db4c66ad70da8603377eb0b",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

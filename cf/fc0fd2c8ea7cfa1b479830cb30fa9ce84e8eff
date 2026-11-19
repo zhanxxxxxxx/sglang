@@ -1,0 +1,30 @@
+python/sglang/srt/managers/pp_prefill_wave.py
+  h_1d635ecd767a49 1-454
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 1351,1381-1382
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 244-248,258,262-267,521-522,999-1003,1560-1567,1614-1615,1617-1618
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 1249-1255,3257-3269,3285-3291,3324-3329,3386-3387,3432-3451,3453-3454,3476-3497,3516-3517,3520,3536-3544,3589-3607,4896-4898,5012-5018
+python/sglang/srt/managers/scheduler_components/pp_wave_scheduling.py
+  h_1d635ecd767a49 1-372
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 45-47,154,484,565,581,633,690,870,897,903,2280-2289,2291-2314
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4013,4050-4051,4056-4070,10213-10216
+test/registered/unit/managers/test_pp_prefill_wave.py
+  h_1d635ecd767a49 1-266
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 46-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cffc0fd2c8ea7cfa1b479830cb30fa9ce84e8eff",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

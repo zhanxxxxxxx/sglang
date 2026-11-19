@@ -1,0 +1,44 @@
+python/sglang/srt/mem_cache/dsv41_swa_snapshot.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 148
+test/registered/unit/mem_cache/test_dsv41_full_snapshot_runtime.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 144,146,148,152-153,163-164
+test/registered/unit/mem_cache/test_dsv41_swa_snapshot.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 301
+test/registered/unit/mem_cache/test_dsv41_snapshot_decode.py
+  s_fe92d796c96f00::t_a57e673e40a6db 12,26-28
+  s_fe92d796c96f00::t_6cd52025156457 117,149-158
+test/registered/unit/mem_cache/_dsv41_pool_fixture.py
+  s_fe92d796c96f00::t_26aa7bd278411b 4,14
+  s_fe92d796c96f00::t_a57e673e40a6db 10,15-20
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 1253,1345,1512
+test/registered/kernel/attention/dsv4/test_dsv41_swa_without_tags.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 183-185
+test/registered/unit/mem_cache/test_dsv41_snapshot_radix.py
+  s_fe92d796c96f00::t_a57e673e40a6db 73-75,79,90-92,136
+  s_fe92d796c96f00::t_6cd52025156457 78,116,134
+test/registered/unit/mem_cache/test_dsv41_request_window_pd_registration.py
+  s_fe92d796c96f00::t_26aa7bd278411b 81
+  s_fe92d796c96f00::t_a57e673e40a6db 107,146,155
+  s_fe92d796c96f00::t_6cd52025156457 88-89
+  s_fe92d796c96f00::t_43785a7eb2cf55 94-97,100-103,108-110,112
+  s_fe92d796c96f00::t_6c26618a6751b6 111
+test/registered/unit/mem_cache/test_dsv41_snapshot_shared_coverage.py
+  s_fe92d796c96f00::t_b4e6c9d8350810 164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ad39cc95be0bda70e9d856221c4f5444e41fc54d",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}
