@@ -1,0 +1,88 @@
+python/sglang/srt/server_args.py
+  s_4f45ba48752b7c::t_26501dbf5aa7d3 4419,9354-9367
+  s_4f45ba48752b7c::t_969234c5bda35a 9368
+test/registered/unit/server_args/test_bailing_dsa.py
+  s_4f45ba48752b7c::t_acbb2866188470 3,53-72,74-78
+  s_4f45ba48752b7c::t_26501dbf5aa7d3 73
+  s_4f45ba48752b7c::t_63f54168316f80 79
+test/registered/dcp/test_dsa_bi_candidates.py
+  s_4f45ba48752b7c::t_8f9b4755ff6056 5,53-54,71-88
+  s_4f45ba48752b7c::t_ad9521154c1a88 47-52,55-70,89-99,102
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_4f45ba48752b7c::t_ad9521154c1a88 1,26,69
+  s_4f45ba48752b7c::t_794294a3d2a3e1 36-51
+  s_4f45ba48752b7c::t_1a699e60b3d2d2 103
+  s_4f45ba48752b7c::t_dbe78f2087ada0 53,104,132-133,141-144
+  s_053d675529bb1b::t_124284fa69ae60 54-55,60,93-98,100,109,113-118,158-160
+  s_053d675529bb1b::t_00347448bf32dd 161
+  s_053d675529bb1b::t_ca3894b90dac17 235-256
+  s_053d675529bb1b::t_a6ba1017193899 164-185
+  s_053d675529bb1b::t_2a230b164d8443 318,323-324
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4f45ba48752b7c::t_8bb351c9d05a0f 428,436
+  s_4f45ba48752b7c::t_e5ff653f291e52 437
+  s_053d675529bb1b::t_54dc45a168f7a4 2452
+python/sglang/kernels/ops/attention/dsa/dcp_sparse_indices.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 150,152,182
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_4f45ba48752b7c::t_ad9521154c1a88 868-869
+  s_4f45ba48752b7c::t_e5ff653f291e52 870-880
+  s_4f45ba48752b7c::t_97b52a3e10b22c 664,827-831,882
+  s_053d675529bb1b::t_124284fa69ae60 662-663,721
+python/sglang/srt/layers/attention/dsa/dcp_backend.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 47-48,364,367-369,371,374
+  s_4f45ba48752b7c::t_bf9359fe0edb34 27-28,30
+  s_053d675529bb1b::t_54dc45a168f7a4 370,372-373
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/sparse_mla.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 33,35-37,39-60,63-66
+  s_4f45ba48752b7c::t_8bb351c9d05a0f 146-147
+  s_4f45ba48752b7c::t_97b52a3e10b22c 16-32
+  s_053d675529bb1b::t_ca3894b90dac17 77-78
+  s_053d675529bb1b::t_a63b4a9d0a760d 167-169
+  s_053d675529bb1b::t_54dc45a168f7a4 34,38,61-62,111,119-120,148-154,156-157,188-191
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_053d675529bb1b::t_4da8d465a1d4d6 199
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_053d675529bb1b::t_acdbba3cc7bd01 1253-1254,1285
+  s_053d675529bb1b::t_17d4791120b704 1231
+python/sglang/kernels/ops/attention/rotary_triton.py
+  s_053d675529bb1b::t_17d4791120b704 174,193-194,211-220,250,282
+python/sglang/srt/layers/attention/ling/rotary.py
+  s_053d675529bb1b::t_1c5ac507207f1f 114
+  s_053d675529bb1b::t_17d4791120b704 82,92,115-125
+test/registered/unit/layers/test_logprob_fast_input.py
+  s_053d675529bb1b::t_4c1524f35f75b0 10,13,128-137
+python/sglang/srt/layers/logprob_processor.py
+  s_053d675529bb1b::t_0acb6804296fe2 426,432-433
+test/registered/unit/layers/test_ling_qsa_positions.py
+  s_053d675529bb1b::t_1c5ac507207f1f 53
+  s_053d675529bb1b::t_dbf40f11d093c7 229
+  s_053d675529bb1b::t_acdbba3cc7bd01 26-36
+python/sglang/srt/layers/sampler.py
+  s_4f45ba48752b7c::t_75b381c0a07f59 82-84,135-145,228-229,231-232,267-272
+  s_4f45ba48752b7c::t_32624ab2585846 146,160,219,230,247,255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "acf34f7b7a0d87d1b0b15976dc1f99096ac1275a",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    },
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
