@@ -1,0 +1,20 @@
+python/sglang/srt/layers/sampler.py
+  s_4f45ba48752b7c::t_75b381c0a07f59 82-84,135-145,228-229,231-232,267-272
+  s_4f45ba48752b7c::t_32624ab2585846 146,160,219,230,247,255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3b8f569b974a03564f1fb8cb30977adcfeffb00",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
