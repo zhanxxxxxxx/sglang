@@ -1,0 +1,19 @@
+test/manual/glm53_paired_prefill_client.py
+  s_999842a87e9579::t_871a1b21272d5a 9,21-27,49-53,55-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b0eb313ac20fafebc5056c99c10966b93304f1d6",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

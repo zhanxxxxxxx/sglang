@@ -1,0 +1,16 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1708-1710
+test/registered/unit/models/test_bailing_kda_beta.py
+  h_1d635ecd767a49 1,50-61,73,82,114-115,118,120,153,157,174-189,191-192,201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8898d8c03e2013db25f8c0b44eede8dc795abac6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

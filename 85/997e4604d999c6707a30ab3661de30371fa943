@@ -1,0 +1,26 @@
+python/sglang/srt/layers/attention/linear/kernels/kda_flashkda.py
+  s_d2f4c9dc120b69::t_917ab2095d8aa3 78-79,185-193
+3rdparty/flashkda/unbounded-gate.patch
+  s_d2f4c9dc120b69::t_b6692ce3cb7ca5 1-201
+test/registered/attention/test_kda_prefill_flashkda.py
+  s_d2f4c9dc120b69::t_318048e048596f 1,4-5
+  s_d2f4c9dc120b69::t_917ab2095d8aa3 134,137,165,169-172,178-184,189-201,205-209,217,222-224
+  s_d2f4c9dc120b69::t_4f2297f51d9bf3 166-168,173-177,185-188,202-204,210-216,218-221
+  s_d2f4c9dc120b69::t_30ea1b6ddb1828 225-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "85997e4604d999c6707a30ab3661de30371fa943",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

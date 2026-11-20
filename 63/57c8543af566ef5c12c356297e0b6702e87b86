@@ -1,0 +1,23 @@
+test/manual/qwen38_epd_encoder_cookbook.md
+  s_0790df9e291aa5::t_10b85234e3a489 3,290
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_0790df9e291aa5::t_10b85234e3a489 7
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_0790df9e291aa5::t_10b85234e3a489 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6357c8543af566ef5c12c356297e0b6702e87b86",
+  "prompts": {},
+  "sessions": {
+    "s_0790df9e291aa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c8b4-6d6a-7643-a309-486a46d48053",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

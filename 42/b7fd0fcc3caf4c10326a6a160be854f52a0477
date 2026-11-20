@@ -1,0 +1,28 @@
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_0c8ee8c8d06cd1::t_d659855264605a 20
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0c8ee8c8d06cd1::t_fdaa9675c45201 361
+  s_0c8ee8c8d06cd1::t_673ca416da4aca 273,275-276,278-279,283,287-290,294-295,298
+  s_0c8ee8c8d06cd1::t_db1de092e72615 281
+  s_0c8ee8c8d06cd1::t_88cccef54c0f71 284-286
+  s_0c8ee8c8d06cd1::t_a92275c056743e 282
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_0c8ee8c8d06cd1::t_fb189589adbf5f 730,732
+  s_0c8ee8c8d06cd1::t_ff0fffd1853604 2899-2900,2906
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "42b7fd0fcc3caf4c10326a6a160be854f52a0477",
+  "prompts": {},
+  "sessions": {
+    "s_0c8ee8c8d06cd1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2e0a7f3c-cce4-4943-8b2f-f1c67e6939dc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

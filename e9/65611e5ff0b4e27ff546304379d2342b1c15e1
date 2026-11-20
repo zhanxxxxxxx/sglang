@@ -1,0 +1,14 @@
+python/sglang/srt/managers/scheduler.py
+  h_a3dc1d2ad8ed2d 1808-1809,1813
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e965611e5ff0b4e27ff546304379d2342b1c15e1",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

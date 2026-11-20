@@ -1,0 +1,21 @@
+python/sglang/kernels/ops/attention/fla/fused_sigmoid_gating_recurrent.py
+  s_44844fb1f654af::t_4e51eca54a9951 1,11-17,409-427
+test/registered/kernels/ops/attention/test_fused_verify_triton_gdn.py
+  s_44844fb1f654af::t_4e51eca54a9951 237-289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "691e14aacb14d9704f586de42f40f7221b13ff12",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

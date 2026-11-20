@@ -1,0 +1,21 @@
+test/manual/kernels/gluon_profile_trace.py
+  s_999842a87e9579::t_1bcf42fdaaf848 1-71
+test/manual/kernels/validate_gluon_prefill_cache.py
+  s_999842a87e9579::t_1bcf42fdaaf848 24,230,250-255,257-258,269,414-423,429-432
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b74be9975ccb6c894b726c08d36fa1b5dd5f440c",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+test/registered/debug_utils/test_subgraph_plan.py
+  s_d2f4c9dc120b69::t_2cf7948fd3a8b9 748-753
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b5f8cdfec6f7d55fa784f7c42d7b1f909a47422b",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

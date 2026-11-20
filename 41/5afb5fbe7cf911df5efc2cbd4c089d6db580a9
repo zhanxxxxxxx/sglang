@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/moe/moe_fused_gate.py
+  h_1d635ecd767a49 136,229-262,417-425,463
+test/registered/kernels/ops/moe/test_moe_fused_gate.py
+  h_1d635ecd767a49 185-217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "415afb5fbe7cf911df5efc2cbd4c089d6db580a9",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

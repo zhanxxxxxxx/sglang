@@ -1,0 +1,23 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_cd5b75225dd2e7::t_dfb0caf778f332 2660
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_cd5b75225dd2e7::t_ad5416455fdbe8 435,452
+python/sglang/srt/managers/tokenizer_manager.py
+  s_cd5b75225dd2e7::t_67dc99693b1551 2206,2217-2223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8078a4b6ead004837e3df3a9d8f72931d0782ec1",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

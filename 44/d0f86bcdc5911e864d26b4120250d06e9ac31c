@@ -1,0 +1,21 @@
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_301ded5a315b83 706-708
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_301ded5a315b83 170-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "44d0f86bcdc5911e864d26b4120250d06e9ac31c",
+  "prompts": {},
+  "sessions": {
+    "s_719b88a4b4284a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ea28-908b-7322-9947-fef0ee5cb376",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

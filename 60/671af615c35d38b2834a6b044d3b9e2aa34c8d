@@ -1,0 +1,16 @@
+python/sglang/srt/layers/moe/humming_route_capture.py
+  h_f252eadf5e9832 1-106
+python/sglang/srt/models/deepseek_v2.py
+  h_f252eadf5e9832 124,1223,1238,1245,1429,1436,1443,1536,1629,1634
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "60671af615c35d38b2834a6b044d3b9e2aa34c8d",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

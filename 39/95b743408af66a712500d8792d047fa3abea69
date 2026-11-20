@@ -1,0 +1,25 @@
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_ef8665546180d1::t_d97b2d8f98f042 547,1666-1668,1714-1715,1808,1816,1838,1881,1888-1891,1895,2499-2506,2559-2560,2725-2726
+  s_ef8665546180d1::t_de4f2b4cb628f4 8,1431,1564-1570,1576-1599,1634,1643,1664-1665
+  s_ef8665546180d1::t_c25ba0be767510 1432-1434,1571-1575,1822-1824,1882-1887,1892-1894
+  s_ef8665546180d1::t_468272de241d42 382-383,1487-1492
+  s_ef8665546180d1::t_10a9c9d0d48549 546,548-550
+python/sglang/srt/managers/scheduler.py
+  s_ef8665546180d1::t_468272de241d42 3104-3106,3161-3180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3995b743408af66a712500d8792d047fa3abea69",
+  "prompts": {},
+  "sessions": {
+    "s_ef8665546180d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9d4-7be0-75e2-ac79-cfda5726f657",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

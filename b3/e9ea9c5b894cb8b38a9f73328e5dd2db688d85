@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/communication/rank_ordered_reduce.py
+  h_1d635ecd767a49 1-23
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 1092-1107
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b3e9ea9c5b894cb8b38a9f73328e5dd2db688d85",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

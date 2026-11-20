@@ -1,0 +1,47 @@
+python/sglang/srt/managers/scheduler.py
+  s_7fe19efdf30275::t_2f605774d00f6e 2465-2466
+test/registered/unit/mem_cache/test_mooncake_hybrid_storage_keys.py
+  s_7fe19efdf30275::t_2f605774d00f6e 7-9,238-283
+  s_7fe19efdf30275::t_a00568a40a2335 284-285
+python/sglang/srt/mem_cache/hicache_storage.py
+  s_7fe19efdf30275::t_2f605774d00f6e 41-43
+python/sglang/srt/managers/scheduler_components/load_inquirer.py
+  s_7fe19efdf30275::t_2f605774d00f6e 60-69,253
+python/sglang/srt/managers/tokenizer_manager.py
+  s_7fe19efdf30275::t_2f605774d00f6e 3974-3976,3987-3990,3995,4012-4020
+test/registered/unit/managers/test_load_inquirer.py
+  s_7fe19efdf30275::t_2f605774d00f6e 74-96
+test/registered/unit/managers/test_scheduler_hicache_attach.py
+  s_7fe19efdf30275::t_2f605774d00f6e 81-107
+python/sglang/srt/mem_cache/pool_host/mla.py
+  s_7fe19efdf30275::t_2f605774d00f6e 531-556
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_cache_controller.py
+  s_7fe19efdf30275::t_2f605774d00f6e 768-774,777
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_7fe19efdf30275::t_2f605774d00f6e 943-947,955,960,966-968,972-979,983-989,991,995-997,1000-1001
+test/registered/unit/mem_cache/test_dsa_pool_host_unit.py
+  s_7fe19efdf30275::t_2f605774d00f6e 364,366,417-419,463-467,482-499,501-504,510-511,574-585,598-614
+test/registered/unit/mem_cache/test_mooncake_tenant_config.py
+  s_7fe19efdf30275::t_2f605774d00f6e 91-92,213-251
+  s_7fe19efdf30275::t_7d8690b3602ca2 252-253
+python/sglang/srt/managers/cache_controller.py
+  s_7fe19efdf30275::t_2f605774d00f6e 549-556,576-591,757,760-761
+python/sglang/srt/mem_cache/storage/mooncake_store/mooncake_store.py
+  s_7fe19efdf30275::t_2f605774d00f6e 590-594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9410fd1d6d4d44509a176decc6393e69add2635a",
+  "prompts": {},
+  "sessions": {
+    "s_7fe19efdf30275": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c35a-6ff9-7080-b3f1-9764aafcc66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

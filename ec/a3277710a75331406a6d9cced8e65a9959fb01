@@ -1,0 +1,22 @@
+test/registered/unit/utils/test_compile_cache.py
+  s_5422e3e7a0f70c::t_6cf488f29e8ea9 299-307,311-318,322-325,330-359
+  s_5422e3e7a0f70c::t_cac13d948fe5ff 308-310,319-321,326-329
+python/sglang/srt/utils/compile_cache.py
+  s_5422e3e7a0f70c::t_24db86607c7cfb 4-5,289-323,347-348,350-351,360,380-393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eca3277710a75331406a6d9cced8e65a9959fb01",
+  "prompts": {},
+  "sessions": {
+    "s_5422e3e7a0f70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8c1-0e8c-77b2-a6c3-e3f03ffb1b3b",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "克终 <dingningyuan.dny@antgroup.com>"
+    }
+  }
+}

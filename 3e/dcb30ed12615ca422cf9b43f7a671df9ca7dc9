@@ -1,0 +1,29 @@
+python/sglang/srt/managers/scheduler.py
+  s_9567ae34b5f63a::t_b1c238981da9c3 1047-1054,1708,1835,1843-1845,3581,3632
+python/sglang/srt/session/session_controller.py
+  s_9567ae34b5f63a::t_0fde2b815ae291 274,278,352-357
+python/sglang/srt/utils/cpu_memory_trace.py
+  s_9567ae34b5f63a::t_f11f0ad2c14115 14,101-243,253,270,276-282,288-292,450-451,569,575-579,591-594,637
+python/sglang/srt/utils/scheduler_cpu_memory.py
+  s_9567ae34b5f63a::t_132945ec666995 129,131-132,139-141,177,196-229,238,240,258-261,268,277-283,287,290-294,296-298,305-311,324-325,337-339,372-491
+test/registered/unit/managers/test_scheduler_cpu_memory.py
+  s_9567ae34b5f63a::t_cff05bb95d1be5 10,429-692
+test/registered/unit/utils/test_cpu_memory_trace.py
+  s_9567ae34b5f63a::t_4867574e3ee0c8 537-689
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3edcb30ed12615ca422cf9b43f7a671df9ca7dc9",
+  "prompts": {},
+  "sessions": {
+    "s_9567ae34b5f63a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09b1e-e340-7c11-b46c-d72a5878cd18",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "ly409648 <ly409648@alibaba-inc.com>"
+    }
+  }
+}

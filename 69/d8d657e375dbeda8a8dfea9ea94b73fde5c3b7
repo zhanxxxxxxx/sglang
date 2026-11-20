@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/attention/dsa/qsa_select.py
+  h_1d635ecd767a49 116-159
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  h_1d635ecd767a49 5,128-132,699-701,730-732
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "69d8d657e375dbeda8a8dfea9ea94b73fde5c3b7",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
