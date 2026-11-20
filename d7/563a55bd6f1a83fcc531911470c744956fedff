@@ -1,0 +1,19 @@
+docker/ant/aci/sglang_fast.aci.yml
+  s_040c1c0bb64bcb::t_fbe71635834f38 11-22,24-25,28-29,36-37,39,42,45-47,55-60,62-67,81-92,112-130,132,138-142,148,161,169,178-192,197-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d7563a55bd6f1a83fcc531911470c744956fedff",
+  "prompts": {},
+  "sessions": {
+    "s_040c1c0bb64bcb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f4c5-7bf9-7bf2-91e9-b57290c6f5cf",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
