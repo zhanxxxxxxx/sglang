@@ -1,0 +1,30 @@
+python/sglang/srt/model_executor/runner/base_runner.py
+  h_1d635ecd767a49 250,260
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 107,1031-1032,1074-1076,1088-1093
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/__init__.py
+  h_1d635ecd767a49 8,22
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  h_1d635ecd767a49 35-46
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_1d635ecd767a49 55,57
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 96,157-161,180-182,184-188,534-536
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 8175-8199
+test/registered/unit/model_executor/runner/test_prefill_cuda_graph_padding.py
+  h_1d635ecd767a49 22
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 14,24-28,74-113,382
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2a47bd533c31c99e0afcd56e8b41dba7e2dec349",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
