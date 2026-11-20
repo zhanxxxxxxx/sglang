@@ -1,0 +1,21 @@
+python/sglang/srt/layers/sampler.py
+  s_1a2403ab7d65d8::t_46d8abbc0b9f86 154
+test/registered/unit/models/test_bailing_consistency_contracts.py
+  s_1a2403ab7d65d8::t_ffbf1ea6bcdc80 331-337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "464c6b4efe93d24824ac713d76a4cdd3744a2444",
+  "prompts": {},
+  "sessions": {
+    "s_1a2403ab7d65d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a491-a5c3-7411-9049-e2594de4628d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 147-153,158-159,314
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_1d635ecd767a49 1829,1835,1845-1846
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 1751-1753
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1d635ecd767a49 1304-1308,1325-1329,1399-1401,1408,1451-1455
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 4,47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8e5fa007189f8dd9e4f8d88eba0b2307a5e51cd8",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+python/sglang/srt/debug_utils/rollout_precision_cluster.py
+  s_d2f4c9dc120b69::t_2a8a641ebc4dcf 399-401
+  s_d2f4c9dc120b69::t_08ba857e714f61 379
+test/registered/debug_utils/test_rollout_precision_capture_reuse.py
+  s_d2f4c9dc120b69::t_2a8a641ebc4dcf 399,401,439,466-471,480-490
+python/sglang/srt/debug_utils/rollout_precision.py
+  s_d2f4c9dc120b69::t_3256ce8964d44e 1341-1343
+  s_d2f4c9dc120b69::t_2a8a641ebc4dcf 1210
+test/registered/debug_utils/test_rollout_precision_cluster.py
+  s_d2f4c9dc120b69::t_3256ce8964d44e 50,55-62,75-84
+  s_d2f4c9dc120b69::t_21b2dc86f7f6d4 45-49,51-54,63-74,85-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7a05977dc9a8e6247accff9c02570914e41e25a9",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+docker/Dockerfile
+  s_f3e5574164d7e0::t_31007a1e7550d0 220-221,832-835
+  s_f3e5574164d7e0::t_e8cf2c256d0cd3 836
+docker/ant/aci/sglang_auto.aci.yml
+  s_f3e5574164d7e0::t_f72678bbb6291f 363,365-367
+  s_f3e5574164d7e0::t_a5f790738cd942 362,364
+docker/ant/aci/sglang_fast.aci.yml
+  s_f3e5574164d7e0::t_31007a1e7550d0 110,113-114
+  s_f3e5574164d7e0::t_93505dc6d0374f 109,111
+  s_f3e5574164d7e0::t_dd8e1701f84bda 112
+test/registered/unit/test_model_overrides.py
+  s_f3e5574164d7e0::t_802e3103cdcc6b 975-976
+  s_f3e5574164d7e0::t_8386a29a0f2c40 4603-4634
+docker/Dockerfile.community
+  s_f3e5574164d7e0::t_31007a1e7550d0 16,546-548
+  s_f3e5574164d7e0::t_738f74e3256a2d 549
+docker/ant/README.md
+  s_f3e5574164d7e0::t_93505dc6d0374f 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c654902a717e28d76647ffd89b4758ef1e31a069",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

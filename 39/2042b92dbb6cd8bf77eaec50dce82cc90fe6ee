@@ -1,0 +1,19 @@
+test/registered/unit/layers/moe/test_dsv41_gluon_draft_scope.py
+  s_7c78049fef189c::t_faaccc7e1f5baa 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "392042b92dbb6cd8bf77eaec50dce82cc90fe6ee",
+  "prompts": {},
+  "sessions": {
+    "s_7c78049fef189c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f82-4102-7542-99a6-554a28936fb7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

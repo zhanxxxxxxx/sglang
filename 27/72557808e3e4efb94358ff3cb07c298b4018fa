@@ -1,0 +1,22 @@
+test/registered/unit/layers/moe/test_deepep_capacity.py
+  s_d2f4c9dc120b69::t_db4543ce9a7844 56-71
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  s_d2f4c9dc120b69::t_db4543ce9a7844 389-390
+  s_d2f4c9dc120b69::t_98f84f15a98190 393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2772557808e3e4efb94358ff3cb07c298b4018fa",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_4f45ba48752b7c::t_97b52a3e10b22c 664,826-830,881
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/sparse_mla.py
+  s_4f45ba48752b7c::t_97b52a3e10b22c 16-32
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_4f45ba48752b7c::t_794294a3d2a3e1 36-51
+  s_4f45ba48752b7c::t_1a699e60b3d2d2 95
+  s_4f45ba48752b7c::t_dbe78f2087ada0 53-54,96,120-121,129-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "964b86e4ee4e4fc7031e0f9fa78c6646b6fea230",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

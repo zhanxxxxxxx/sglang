@@ -1,0 +1,43 @@
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_3e4a55f3f80e4f::t_117cfd49ade293 66,175
+python/sglang/srt/arg_groups/field_order.py
+  s_3e4a55f3f80e4f::t_117cfd49ade293 591
+docs/docs/advanced_features/server_arguments.mdx
+  s_3e4a55f3f80e4f::t_63e3d79c886199 1353,1668-1672
+  s_3e4a55f3f80e4f::t_9a38630322bbf2 1673
+test/registered/unit/configs/test_model_config.py
+  s_3e4a55f3f80e4f::t_35d738e7ad5c31 234
+  s_3e4a55f3f80e4f::t_117cfd49ade293 3,21-24,168-233,235-261
+python/sglang/srt/arg_groups/fields/spec.py
+  s_3e4a55f3f80e4f::t_63e3d79c886199 43-51
+python/sglang/srt/arg_groups/muse_spark_hook.py
+  s_3e4a55f3f80e4f::t_117cfd49ade293 111
+python/sglang/srt/arg_groups/model_override_base.py
+  s_3e4a55f3f80e4f::t_63e3d79c886199 8,209-224
+  s_3e4a55f3f80e4f::t_875b2393966f59 225-226
+python/sglang/srt/configs/model_config.py
+  s_3e4a55f3f80e4f::t_63e3d79c886199 1100-1104,1155-1165
+  s_3e4a55f3f80e4f::t_e54ee67571679a 1166
+python/sglang/srt/arg_groups/fields/model.py
+  s_3e4a55f3f80e4f::t_63e3d79c886199 165-166
+python/sglang/srt/arg_groups/boundary_reduction.py
+  s_3e4a55f3f80e4f::t_117cfd49ade293 5-8,78-82,93-95
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_3e4a55f3f80e4f::t_117cfd49ade293 14,132-159,184-187,949,1205,1273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c4bc989915a09bd8b3a89615af2212544970046d",
+  "prompts": {},
+  "sessions": {
+    "s_3e4a55f3f80e4f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03c24-ee4c-7c60-879b-38244e8233f3",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

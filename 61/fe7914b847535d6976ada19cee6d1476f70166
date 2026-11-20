@@ -1,0 +1,46 @@
+python/sglang/kernels/jit/csrc/attention/kda_packed_decode.cuh
+  h_1d635ecd767a49 11-12,107-108,113-114
+python/sglang/kernels/jit/csrc/elementwise/pos_enc.cuh
+  h_1d635ecd767a49 39-45
+python/sglang/kernels/jit/csrc/elementwise/rope.cuh
+  h_1d635ecd767a49 74-79,100-101
+python/sglang/kernels/ops/attention/fla/chunk_delta_h.py
+  h_1d635ecd767a49 49,81,97-105,107,109,111,142-149,153-158,163-168,173-178,185-190,195-200,205-210,215-220,228-231,237-240,246-249,255-258,295-299,301-305,314-318,320-324,333-337,339-343,352-356,358-362,369-370,376-377,383-384,390-391,395-402,406-411,416-421,426-431,448-449,470-471,507
+python/sglang/kernels/ops/attention/fla/fused_recurrent.py
+  h_1d635ecd767a49 470-473
+python/sglang/kernels/ops/attention/fla/kda.py
+  h_1d635ecd767a49 759,780,823-826,840-842,882,910,1186,1201,1206-1209
+python/sglang/kernels/ops/moe/moe_fused_gate.py
+  h_1d635ecd767a49 89-100,161-162,193-194,203-208,234-242,248-252
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1076-1077,1507-1511
+python/sglang/srt/layers/moe/topk.py
+  h_1d635ecd767a49 1481-1487,1489-1491
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 42-43,725-731,747-754,1103-1112,1121-1127,1264,1334-1348,1536-1540,1544-1546,1548,1598
+test/registered/attention/test_kda_kernels.py
+  h_1d635ecd767a49 18,552-676
+test/registered/kernels/ops/attention/test_kda_state_layout.py
+  h_1d635ecd767a49 1-73
+test/registered/kernels/ops/attention/test_rope.py
+  h_1d635ecd767a49 61-91
+test/registered/kernels/ops/moe/test_moe_fused_gate.py
+  h_1d635ecd767a49 79-84,105-177
+test/registered/unit/models/test_bailing_clamped_swiglu.py
+  h_1d635ecd767a49 1-60
+test/registered/unit/models/test_bailing_moe_v3_deepep_sbo.py
+  h_1d635ecd767a49 82,196-217
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  h_1d635ecd767a49 1-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "61fe7914b847535d6976ada19cee6d1476f70166",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+python/sglang/srt/lora/lora_manager.py
+  s_5873c3370fdcfa::t_f298d9cc1d6d15 656-658,671
+python/sglang/srt/lora/lora_config.py
+  s_5873c3370fdcfa::t_f298d9cc1d6d15 19,21,27,95-168
+  s_5873c3370fdcfa::t_3629b0e30a5dee 169
+python/sglang/srt/lora/lora.py
+  s_5873c3370fdcfa::t_f298d9cc1d6d15 157,160-174
+test/registered/lora/test_lora_checkpoint_scope.py
+  s_5873c3370fdcfa::t_ba7b1f7b2a3ec6 1-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c613ff7bf5fca3c905f1968cd2fc0b80b493a836",
+  "prompts": {},
+  "sessions": {
+    "s_5873c3370fdcfa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a9b6-dd33-7a61-be0c-09ada2c0101d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

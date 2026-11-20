@@ -1,0 +1,42 @@
+python/sglang/kernels/jit/csrc/deepseek_v4/topk_kpool_v2.cuh
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 1-1694
+  s_f5a50be0fc3a60::t_0673e0e36a120b 1695
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 329,2993,3003,3029-3031,3048-3049
+python/sglang/srt/layers/attention/dsa/dsa_indexer_kpool.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 55-60,713,742,752-758,781-783,786,803,822,908-919,989
+python/sglang/kernels/jit/csrc/occupancy/cluster_probe.cuh
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 1-57
+python/sglang/srt/layers/attention/dsa/kpool_plan.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 12,16,124,615,664-668,734-737,804-807
+python/sglang/kernels/ops/attention/dsv4/topk_kpool_v2.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 1-147
+python/sglang/kernels/jit/include/sgl_kernel/deepseek_v4/topk_kpool_impl.cuh
+  s_f5a50be0fc3a60::t_8a923bb0d8a5a0 1-1032
+python/sglang/kernels/jit/utils/occupancy.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 1-53
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 257
+python/sglang/srt/layers/attention/dsa/kpool_fp8_index.py
+  s_f5a50be0fc3a60::t_cbcd9a7581e44f 9-13,577-749,761,790-804
+  s_f5a50be0fc3a60::t_22cef16c795a60 805
+test/registered/kernels/ops/attention/test_glm53_kpool_topk_v2.py
+  s_f5a50be0fc3a60::t_2ea2b8accf54a0 165-168
+  s_f5a50be0fc3a60::t_d19de0c552d4e5 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bf2ce70148906796a9abcb641f010dabc10d535c",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}

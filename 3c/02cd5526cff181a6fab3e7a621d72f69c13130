@@ -1,0 +1,31 @@
+test/manual/qwen38_epd_design.md
+  s_6814b9b1896915::t_06c5873c78928a 236
+  s_6814b9b1896915::t_17ee1921eab0ff 1-4,6-16,19-235,237-421
+  s_6814b9b1896915::t_ae594e1fd15339 5,17-18
+test/manual/qwen38_epd_architecture.drawio
+  s_6814b9b1896915::t_9d5f356066f0cd 2
+  s_6814b9b1896915::t_e9b3cd44793549 1
+test/manual/qwen38_epd_encoder_cookbook.md
+  s_6814b9b1896915::t_b0b4db1614f9dc 3,298,300
+  s_6814b9b1896915::t_6e6bfc7723b1fd 302
+  s_6814b9b1896915::t_ad2dfb4530be78 315
+  s_6814b9b1896915::t_33ab63fc3396de 313-314
+test/manual/qwen38_epd_architecture.mmd
+  s_6814b9b1896915::t_8541eddb1c58dd 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3c02cd5526cff181a6fab3e7a621d72f69c13130",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
