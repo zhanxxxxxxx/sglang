@@ -1,0 +1,21 @@
+python/sglang/srt/utils/common.py
+  s_afa16db978a192::t_e40ea294f5dd09 1687,1689-1691,1749-1798,2127,2293
+test/registered/unit/multimodal/test_media_url_security.py
+  s_afa16db978a192::t_368d1d69ca9533 6,12,18,21,261-387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a76e998f119268b07ef30fba159bf2c9bd2df1ae",
+  "prompts": {},
+  "sessions": {
+    "s_afa16db978a192": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_afa16db978a192",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
