@@ -1,0 +1,32 @@
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 134,249-259
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  h_1d635ecd767a49 86,142-150
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 34,37,103-111,448,457-458,533-537,555-556,1707-1724,1953-1956,1959-1964
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 1642-1644
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 10270-10274
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  h_1d635ecd767a49 262-269,272
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 20-33,104-105,167-168,186-190,269-301
+test/registered/unit/managers/test_scheduler_recv_skipper.py
+  h_1d635ecd767a49 37-54
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 46-52
+test/registered/unit/spec/test_pipeline_eagle_worker.py
+  h_1d635ecd767a49 228-253
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6e020eac90e3fb7e6b0c81306366c7f8e7257cf2",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

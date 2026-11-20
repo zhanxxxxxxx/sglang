@@ -1,0 +1,28 @@
+python/sglang/srt/debug_utils/operator_reference.py
+  s_d2f4c9dc120b69::t_b266bf62d3920b 544-549,568-570
+  s_d2f4c9dc120b69::t_64c6817c819afd 15,507,564-566,577,587,608
+test/registered/debug_utils/test_native_dp_calls.py
+  s_d2f4c9dc120b69::t_b266bf62d3920b 177,179,196,202-205,236-246,265-269
+python/sglang/srt/debug_utils/representative_subgraphs.py
+  s_d2f4c9dc120b69::t_64c6817c819afd 944,952-954,961,970
+  s_d2f4c9dc120b69::t_b266bf62d3920b 939-943,945-951
+python/sglang/srt/debug_utils/native_subgraph_replay.py
+  s_d2f4c9dc120b69::t_b266bf62d3920b 364-366,383-385,403-405,419-421,512-514,524-527,529-532,563-568,580-583,1198-1199
+  s_d2f4c9dc120b69::t_64c6817c819afd 382,386-390,412,418,422-426,522-523,528,533-534,561,589-590,1190,1200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d3e603b66f1ec98b402c9f1ace877919d5a3ce5d",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

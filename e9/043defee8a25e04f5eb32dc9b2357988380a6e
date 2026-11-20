@@ -1,0 +1,19 @@
+test/registered/unit/mem_cache/test_kv_cache_configurator_npu_indexer.py
+  s_f3e5574164d7e0::t_371fa0827bb17f 52-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e9043defee8a25e04f5eb32dc9b2357988380a6e",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

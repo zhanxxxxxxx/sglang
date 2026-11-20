@@ -1,0 +1,113 @@
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_f252eadf5e9832 282-289
+  s_fe92d796c96f00::t_dce361dea5cab4 30
+python/sglang/kernels/ops/moe/dsv4_dp_route.py
+  h_f252eadf5e9832 1-47
+python/sglang/srt/runtime_context.py
+  h_f252eadf5e9832 722,746
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_f252eadf5e9832 1168,1495-1498,1503-1506
+  s_fe92d796c96f00::t_6076de2bb169bf 1499
+  s_fe92d796c96f00::t_31c2a8312bdf6d 1500-1502
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_f252eadf5e9832 611-612,1742-1751
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 43,907-912
+python/sglang/srt/models/deepseek_v4.py
+  h_f252eadf5e9832 4057-4066
+  h_f252eadf5e9832 4050-4054,4056,4067-4077
+test/registered/kernel/moe/test_dsv4_dp_route.py
+  h_f252eadf5e9832 1-168,170-173,174-193
+  s_fe92d796c96f00::t_6076de2bb169bf 169
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_f252eadf5e9832 124,265
+python/sglang/srt/managers/schedule_policy.py
+  s_fe92d796c96f00::t_6076de2bb169bf 1447
+python/sglang/srt/model_executor/encoder_swa_replay.py
+  s_fe92d796c96f00::t_1109ebbed7857f 58-59
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_fe92d796c96f00::t_9e42185fdebb29 820-822,923-925,927-929,1421-1423,2465-2467,2979-2981,4507-4509,4866-4868,4870-4872
+  s_a35fd2e463fa82::t_30ff8c886dd123 646-648,4920-4922
+python/sglang/srt/mem_cache/dsv41_request_window.py
+  s_fe92d796c96f00::t_6d8d0a17c4225b 1
+  s_fe92d796c96f00::t_19f18299deab14 10
+  s_fe92d796c96f00::t_c5e025ebffbe29 176
+  s_fe92d796c96f00::t_3411d1a5cb4ae0 367
+  s_7ee955a9c6d222::t_47a682a219ae90 102
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 271
+python/sglang/kernels/ops/speculative/dspark/commit_swa.py
+  s_fe92d796c96f00::t_7e9f92152c129f 27-29
+  s_fe92d796c96f00::t_ad725bbebebff6 10-13,15-17
+  s_fe92d796c96f00::t_9705790e7deb62 8,9
+  s_fe92d796c96f00::t_48d730482bd08d 9
+python/sglang/kernels/jit/csrc/deepseek_v4/main_norm_rope.cuh
+  s_fe92d796c96f00::t_0f53b4be29bcbe 287-288
+  s_a35fd2e463fa82::t_4b4c39b569f89e 751
+python/sglang/kernels/ops/speculative/dspark/dspark_verify_window.py
+  s_fe92d796c96f00::t_9705790e7deb62 655
+  s_fe92d796c96f00::t_48d730482bd08d 656
+python/sglang/kernels/ops/attention/dsv4/attn_metadata_kernels.py
+  s_7ee955a9c6d222::t_c4c09abfb08060 492
+  s_7ee955a9c6d222::t_4f0540bd91b11a 476-484,485-488,494-500,504-519,521-523,525-526,528
+  s_a35fd2e463fa82::t_359a5d2557583e 493,502-503,520,524,527,529
+  s_a35fd2e463fa82::t_4eb60e96899077 489-491
+python/sglang/srt/managers/scheduler.py
+  s_a35fd2e463fa82::t_e9a87f221ea56c 73,75
+  s_a35fd2e463fa82::t_e194dbccc3667b 74,5879-5881
+python/sglang/kernels/ops/kvcache/dsv4_main_kv_store.py
+  s_ab0a0f27cc64b2::t_f5b0dd3aee52d9 115
+  s_a35fd2e463fa82::t_30ff8c886dd123 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3f28aeb2ea9a80c53b9633a2a8c76be14f4f2846",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_0cedcf3e36c08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c42c-e0c3-7a33-aff0-93518a53287e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    },
+    "s_7ee955a9c6d222": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c946-e19e-7900-9655-eda3af36bd09",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    },
+    "s_a35fd2e463fa82": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d41d-238a-7bb0-882f-65c64cb1fff5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    },
+    "s_ab0a0f27cc64b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d387-9e50-76b2-ab94-3dc82a755e32",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    },
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

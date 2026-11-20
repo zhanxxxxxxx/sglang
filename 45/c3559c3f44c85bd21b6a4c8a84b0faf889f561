@@ -1,0 +1,18 @@
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 782-806,809
+python/sglang/srt/sampling/sampling_batch_info.py
+  h_1d635ecd767a49 5,7,29-45,87,181,183-185,320,342-355,359-360,370-376,397-400
+test/registered/unit/sampling/test_sampling_batch_info.py
+  h_1d635ecd767a49 15,17,116,118-119,121-122,127-128,130-131,135,137-204,389-391,393-397,404-406,469-471,477,480-483,667-670
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "45c3559c3f44c85bd21b6a4c8a84b0faf889f561",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
