@@ -1,0 +1,38 @@
+test/registered/unit/spec/test_eagle_verify_tp_broadcast.py
+  s_f3e5574164d7e0::t_4923c56e61e51b 72,74
+test/registered/unit/managers/test_scheduler_running_reqs.py
+  s_f3e5574164d7e0::t_11c6d25e672349 37,362,364
+  s_f3e5574164d7e0::t_35bce3bc57af0b 363
+python/sglang/srt/sampling/sampler_params.py
+  s_f3e5574164d7e0::t_11c6d25e672349 1-120
+test/registered/unit/disaggregation/test_decode_retraction_transfer_progress.py
+  s_f3e5574164d7e0::t_11c6d25e672349 50,189-193
+python/sglang/srt/managers/scheduler.py
+  s_f3e5574164d7e0::t_11c6d25e672349 403,405,711,1414-1420,3479,3553,4377-4378,5064,5509-5516,5520-5524,5971-5972
+python/sglang/srt/managers/schedule_batch.py
+  s_f3e5574164d7e0::t_11c6d25e672349 60,153-154,501,576-577,920-927,2090,2796-2798,3292-3293,3295-3297
+test/registered/unit/sampling/test_sampling_batch_info.py
+  s_f3e5574164d7e0::t_11c6d25e672349 10,14,19-23,25,38,40,48-55,58-73,75-76,78-79,81-84,86-87,89-91,93-123,125-127,129-144,154-156,158,160,164,178-180,182,187,196-197,202-208,218-220,225,233-234,243-245,248,264,280,296-297,300,330-331,339,343-346,355-361,364-371,374-375,377-383,385-387,389-390,392-393,395-407,409-410,412-415,417-419,424-426,440-441,448-458,462-463,467-468,479-480
+test/registered/unit/sampling/test_sampler_params.py
+  s_f3e5574164d7e0::t_11c6d25e672349 1-151
+python/sglang/benchmark/one_batch.py
+  s_f3e5574164d7e0::t_11c6d25e672349 102,513-523
+python/sglang/srt/sampling/sampling_batch_info.py
+  s_f3e5574164d7e0::t_11c6d25e672349 11,19-22,26-27,33-35,37-38,40,43-44,50-51,65,67-78,80,87,92,95-96,102-103,109,111-112,114-116,118-122,124-125,127,129,137-139,141-153,155-171,174-185,187-188,190-193,205-224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba8f5fad53039db6606e5897c0645e0951aa67ca",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
