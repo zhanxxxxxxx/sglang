@@ -1,0 +1,24 @@
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_189832ae7cc8a8::t_cd439f1b821fe7 242-243
+  s_189832ae7cc8a8::t_b917d2e97202ea 122-128,231-241,244
+  s_189832ae7cc8a8::t_233b99f4903e8c 245-246
+python/sglang/srt/speculative/dspark_components/dspark_backend_contract.py
+  s_189832ae7cc8a8::t_cd439f1b821fe7 17,21
+  s_189832ae7cc8a8::t_b917d2e97202ea 11-12,18-20,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de0ede4fd0f79e049ecca7d7ce43ca484dbde9e7",
+  "prompts": {},
+  "sessions": {
+    "s_189832ae7cc8a8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f9fb-16eb-79e2-9ea1-e636c2470c87",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}
