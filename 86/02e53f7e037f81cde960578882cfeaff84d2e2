@@ -1,0 +1,14 @@
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  h_e649179cb6218a 77-80,92-278,583-590,595,980-982,1055-1199,1208-1219,1241,1361-1393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8602e53f7e037f81cde960578882cfeaff84d2e2",
+  "prompts": {},
+  "humans": {
+    "h_e649179cb6218a": {
+      "author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
