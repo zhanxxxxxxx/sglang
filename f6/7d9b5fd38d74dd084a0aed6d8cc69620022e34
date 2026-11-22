@@ -1,0 +1,84 @@
+python/sglang/srt/mem_cache/registry.py
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 231-232
+python/sglang/srt/mem_cache/unified_cache/tree_core_registry.py
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 69-70
+test/registered/unit/model_executor/model_runner_components/test_startup_weight_load.py
+  s_f3e5574164d7e0::t_6747fa9ad66b56 678,693,707
+  s_f3e5574164d7e0::t_d780c976f158dc 690-692
+python/sglang/srt/observability/request_logger.py
+  s_f3e5574164d7e0::t_cbef2fc93099fd 232-233
+test/registered/kernels/ops/moe/test_deepgemm_clamped_activation.py
+  s_f3e5574164d7e0::t_d780c976f158dc 24-26,41-42,44-45
+  s_f3e5574164d7e0::t_0b07fad59a461b 1-4,10-16,22-23,27-38,40,46-49
+  s_f3e5574164d7e0::t_e4752f72eea1cf 5-9,17-21,39,43,50-66
+python/sglang/srt/model_loader/utils.py
+  s_f3e5574164d7e0::t_cbef2fc93099fd 307-309
+test/registered/unit/model_executor/model_runner_components/test_deferred_weight_load.py
+  s_f3e5574164d7e0::t_d780c976f158dc 175-187,196-198
+  s_f3e5574164d7e0::t_cfe59e9f615e4d 305-310
+  s_f3e5574164d7e0::t_0d575bdff49696 248-286,304
+  s_f3e5574164d7e0::t_6747fa9ad66b56 124,146-174,188-195,199-202,206-208,295,298-301,330-331
+  s_f3e5574164d7e0::t_aaedea487fd07f 303
+python/sglang/srt/model_loader/remote_instance_weight_loader_utils.py
+  s_f3e5574164d7e0::t_cfe59e9f615e4d 161-163
+python/sglang/srt/mem_cache/cache_init_params.py
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 72
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_f3e5574164d7e0::t_d780c976f158dc 757-759,764-767,1041-1043
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 92-95,97-100,589,760-763,768-770,1044-1050
+python/sglang/srt/model_loader/weight_utils.py
+  s_f3e5574164d7e0::t_e4752f72eea1cf 1713
+  s_f3e5574164d7e0::t_cbef2fc93099fd 1711-1712
+python/sglang/srt/model_executor/model_runner.py
+  s_f3e5574164d7e0::t_cbef2fc93099fd 188,809,1615
+  s_f3e5574164d7e0::t_cfe59e9f615e4d 1259-1261
+  s_f3e5574164d7e0::t_c44c07defd163e 1262
+python/sglang/srt/models/qwen3_moe.py
+  s_f3e5574164d7e0::t_cbef2fc93099fd 64,1172
+test/registered/unit/mem_cache/test_tree_core_registry.py
+  s_f3e5574164d7e0::t_6747fa9ad66b56 492,499-500,505
+  s_f3e5574164d7e0::t_d780c976f158dc 493-498,501-504
+test/registered/unit/model_loader/test_prefetch_checkpoints.py
+  s_f3e5574164d7e0::t_6747fa9ad66b56 21,396
+test/registered/unit/observability/test_request_logger_redaction.py
+  s_f3e5574164d7e0::t_6747fa9ad66b56 76-82,86-88
+  s_f3e5574164d7e0::t_d780c976f158dc 83-85
+python/sglang/srt/models/qwen3.py
+  s_f3e5574164d7e0::t_cbef2fc93099fd 45,903
+python/sglang/srt/models/seed_oss.py
+  s_f3e5574164d7e0::t_d780c976f158dc 489-492
+  s_f3e5574164d7e0::t_cbef2fc93099fd 486-487,493-495
+test/registered/unit/models/test_seed_oss_tied_weights.py
+  s_f3e5574164d7e0::t_0b07fad59a461b 1-24,28-29,31,33-40
+  s_f3e5574164d7e0::t_d780c976f158dc 25-27,30,32
+python/sglang/srt/model_executor/model_runner_components/remote_instance_weight_transporter.py
+  s_f3e5574164d7e0::t_e4752f72eea1cf 72
+  s_f3e5574164d7e0::t_cfe59e9f615e4d 73
+test/registered/unit/model_executor/model_runner_components/test_cuda_graph_setup.py
+  s_f3e5574164d7e0::t_6747fa9ad66b56 265-268
+  s_f3e5574164d7e0::t_cfe59e9f615e4d 352
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 2640-2641,2644
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_f3e5574164d7e0::t_d780c976f158dc 360-362,368
+  s_f3e5574164d7e0::t_cbef2fc93099fd 363-367,369-385,470,472-473
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_f3e5574164d7e0::t_d780c976f158dc 743
+  s_f3e5574164d7e0::t_894e0b0b3ceba9 710-711,744-752,767-769,814-815
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f67d9b5fd38d74dd084a0aed6d8cc69620022e34",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

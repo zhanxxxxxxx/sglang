@@ -1,0 +1,22 @@
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 512-513,990-991,1600-1605
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 19,270-273,3229-3235,3239,3251-3253,3260,3275-3280,3289-3301,3307-3308,3318,3345-3346,3356-3357,3403-3423,3425-3426,3430-3432,3460-3461,3490-3491,3522-3525,3539-3548
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 47-48,109-207,210-221,425-429
+python/sglang/srt/mem_cache/allocation.py
+  h_1d635ecd767a49 228-240,259
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 19-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "317231aa19076d842a7198c7764ece65f4f4d950",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

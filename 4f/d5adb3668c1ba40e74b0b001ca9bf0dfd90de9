@@ -1,0 +1,40 @@
+docs/docs/references/environment_variables.mdx
+  h_1d635ecd767a49 399-403
+python/sglang/kernels/jit/csrc/bailing_v3/powlu_and_mul_masked_post_quant.cuh
+  h_1d635ecd767a49 27,99-101,147-148,157,159-165,207-209,212-213,215-216,225,252-254,276
+python/sglang/kernels/ops/moe/bailing_powlu.py
+  h_1d635ecd767a49 20,28,57,72-76,85-89
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  h_1d635ecd767a49 292-293,304,355-362,398,424-426,439,511-512,524
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 1-69
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1542-1545
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  h_1d635ecd767a49 179-184,291,385,455-457,459
+python/sglang/srt/layers/moe/moe_runner/base.py
+  h_1d635ecd767a49 53
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 17-20,60,394,396-397,407-408,412-414,543-544,650-651,800,813,946-947,1231,1236-1241,1249-1257,1401-1410,1506,1508-1509,1525-1526,1535-1538,1540-1541,1545,1577,1592,1601-1607,1620,1650
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  h_1d635ecd767a49 144-159,181,895-897,905,921,934,946,978-988,1024-1049,1051-1066,1162,1175,1195
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1146-1152,1169,1171,1192-1199,1202
+test/registered/kernels/ops/moe/test_bailing_powlu_mul_post_quant.py
+  h_1d635ecd767a49 21-24,47-51,53-63,66-67
+test/registered/unit/layers/moe/test_cutedsl_deepep_dispatch_config.py
+  h_1d635ecd767a49 153-154,408
+test/registered/unit/layers/moe/test_deepep_router_weight.py
+  h_1d635ecd767a49 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4fd5adb3668c1ba40e74b0b001ca9bf0dfd90de9",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
