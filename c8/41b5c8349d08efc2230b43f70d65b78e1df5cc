@@ -1,0 +1,73 @@
+python/sglang/srt/entrypoints/openai/serving_base.py
+  s_f3e5574164d7e0::t_fde4d4d87fd61a 226-227,229
+  s_f3e5574164d7e0::t_a5f9ecf84169be 228
+python/sglang/srt/beam_search/coordinator.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 199,226
+test/registered/unit/entrypoints/openai/test_serving_completions.py
+  s_f3e5574164d7e0::t_085382d080dfc4 101-103
+test/registered/unit/multimodal/test_npu_image_decode_modes.py
+  s_f3e5574164d7e0::t_343d7208e3a48d 1-57,65-82
+  s_f3e5574164d7e0::t_085382d080dfc4 58-64
+rust/sglang-server/src/tokenizer_manager/to_scheduler_tests.rs
+  s_f3e5574164d7e0::t_4eeb1ad00b4f5e 1016-1031,1037-1039
+  s_f3e5574164d7e0::t_0427f4eb6e82ed 1032-1036
+  s_f3e5574164d7e0::t_88d858b2697c01 1015
+test/registered/unit/entrypoints/test_rust_server_dp_ports.py
+  s_f3e5574164d7e0::t_343d7208e3a48d 180
+  s_f3e5574164d7e0::t_a5f9ecf84169be 48-49
+python/sglang/srt/managers/tokenizer_manager.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 1894,1909,1992
+python/sglang/srt/entrypoints/openai/serving_tokenize.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 212
+test/registered/unit/entrypoints/openai/test_serving_tokenize.py
+  s_f3e5574164d7e0::t_085382d080dfc4 139-144
+rust/sglang-server/src/api_server/http/openai/tokenize.rs
+  s_f3e5574164d7e0::t_4eeb1ad00b4f5e 223-227,233-236
+  s_f3e5574164d7e0::t_0427f4eb6e82ed 228-232,415-420
+  s_f3e5574164d7e0::t_08dc321d1aa06d 406-414,421-423
+python/sglang/srt/disaggregation/encoder/preprocessor.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 338,942-944
+python/sglang/srt/beam_search/trie_config.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 144
+test/registered/unit/beam_search/test_fork.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 27
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  s_f3e5574164d7e0::t_085382d080dfc4 187-189
+rust/sglang-server/src/tokenizer_manager/to_scheduler_validation.rs
+  s_f3e5574164d7e0::t_4eeb1ad00b4f5e 58-63
+rust/sglang-processor/Cargo.toml
+  s_f3e5574164d7e0::t_8b0f9f7f4baa36 28
+python/sglang/srt/multimodal/multimodal_processor_mixin.py
+  s_f3e5574164d7e0::t_8b0f9f7f4baa36 39,232
+  s_f3e5574164d7e0::t_a5f9ecf84169be 225
+test/registered/unit/managers/test_sampling_mask_validation.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 55-56,129
+test/registered/unit/entrypoints/test_server_info.py
+  s_f3e5574164d7e0::t_fde4d4d87fd61a 434
+python/sglang/srt/rust_server/config.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 197
+python/sglang/srt/multimodal/encoder_preprocessing.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 25
+test/registered/unit/models/test_inkling2.py
+  s_f3e5574164d7e0::t_343d7208e3a48d 1-599,603-606,611-668
+  s_f3e5574164d7e0::t_085382d080dfc4 600-602,607-610
+python/sglang/srt/models/inkling2.py
+  s_f3e5574164d7e0::t_a5f9ecf84169be 1-284,288-532
+  s_f3e5574164d7e0::t_085382d080dfc4 285-287
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c841b5c8349d08efc2230b43f70d65b78e1df5cc",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

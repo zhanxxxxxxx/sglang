@@ -1,0 +1,37 @@
+python/sglang/srt/layers/attention_residual.py
+  s_4517e4240bb588::t_e4fb57072f3165 9,279-286
+test/registered/kernels/ops/attention/test_kda_state_layout.py
+  s_4517e4240bb588::t_e1f2480bd83da8 74-108
+test/registered/kernels/test_attention_residual.py
+  s_4517e4240bb588::t_e1f2480bd83da8 160-172
+python/sglang/srt/batch_invariant_ops/batch_invariant_ops.py
+  s_4517e4240bb588::t_bc2e1e2ffb9b7f 284,295-296
+python/sglang/srt/server_args.py
+  s_4517e4240bb588::t_bc2e1e2ffb9b7f 9100,9125-9130,9132,9144
+python/sglang/srt/layers/attention/linear/kernels/kda_triton.py
+  s_4517e4240bb588::t_e4fb57072f3165 5,232-242,257
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_4517e4240bb588::t_e4fb57072f3165 1101,1187,1232,1257
+python/sglang/srt/arg_groups/overrides.py
+  s_4517e4240bb588::t_e1f2480bd83da8 2159-2160
+  s_4517e4240bb588::t_bc2e1e2ffb9b7f 2156-2158,2161-2170,2177-2178
+  s_4517e4240bb588::t_1fcdb71c54d34b 2179
+python/sglang/kernels/ops/attention/fla/chunk_delta_h.py
+  s_4517e4240bb588::t_e4fb57072f3165 449,472
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4f84299bddfeb7bb6b6375cc7d8a4e15880b0dc7",
+  "prompts": {},
+  "sessions": {
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

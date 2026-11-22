@@ -1,0 +1,18 @@
+python/sglang/srt/managers/pp_ingress_placement.py
+  h_1d635ecd767a49 136-150,152-162,165,195-201
+python/sglang/srt/managers/scheduler_components/pp_wave_scheduling.py
+  h_1d635ecd767a49 186-187
+test/registered/unit/managers/test_pp_ingress_placement.py
+  h_1d635ecd767a49 11,22-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7ccbe5466f6778609a5698526627983fdbcbf89b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

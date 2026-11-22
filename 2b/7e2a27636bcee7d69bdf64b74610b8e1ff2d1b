@@ -1,0 +1,16 @@
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 4768-4788
+test/registered/unit/managers/test_scheduler_pause_generation.py
+  h_1d635ecd767a49 34,222-242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2b7e2a27636bcee7d69bdf64b74610b8e1ff2d1b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

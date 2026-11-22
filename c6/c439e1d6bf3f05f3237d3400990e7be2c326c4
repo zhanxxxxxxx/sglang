@@ -1,0 +1,24 @@
+python/sglang/kernels/ops/attention/dsa/qsa_cache.py
+  h_1d635ecd767a49 191
+python/sglang/kernels/ops/attention/dsa/transform_index.py
+  h_1d635ecd767a49 161-163,169
+python/sglang/kernels/ops/attention/rotary_triton.py
+  h_1d635ecd767a49 156-157,165
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 666-669,840-843,851-887
+python/sglang/srt/sampling/sampling_batch_info.py
+  h_1d635ecd767a49 68,73-77,176-178,228,231-250,365-366,368,370,380,404,409,438-441
+test/registered/unit/sampling/test_custom_processor_routing.py
+  h_1d635ecd767a49 1-391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6c439e1d6bf3f05f3237d3400990e7be2c326c4",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

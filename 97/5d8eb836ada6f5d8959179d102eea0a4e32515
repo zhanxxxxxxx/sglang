@@ -1,0 +1,24 @@
+python/sglang/kernels/ops/attention/dsa/qsa_dcp.py
+  h_1d635ecd767a49 221-284
+python/sglang/kernels/ops/attention/dsa/qsa_decode_metadata.py
+  h_1d635ecd767a49 126,129,143-144,274-278,293-298,302-312
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_1d635ecd767a49 424,428-429,437-440,535-536,582-594,623-624
+python/sglang/srt/mem_cache/memory_pool.py
+  h_1d635ecd767a49 3994-3997,4590-4591
+python/sglang/srt/mem_cache/qsa_index_key_cache.py
+  h_1d635ecd767a49 59,68,73-76
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  h_1d635ecd767a49 20-24,204-221,393-404,415,647-648
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "975d8eb836ada6f5d8959179d102eea0a4e32515",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

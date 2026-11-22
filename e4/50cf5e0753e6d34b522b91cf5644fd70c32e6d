@@ -1,0 +1,42 @@
+test/registered/kernels/ops/moe/test_ling_topk_align.py
+  s_e4f6b4e83692e9::t_40158d7c4ced08 5,140-156
+  s_e4f6b4e83692e9::t_35a4c136547791 1-4,6-139,157-164
+python/sglang/srt/environ.py
+  s_e4f6b4e83692e9::t_13457f32d3dce5 1493-1496
+test/registered/unit/layers/moe/test_ling_topk_align.py
+  s_e4f6b4e83692e9::t_e2834dfff7d077 1-218
+python/sglang/kernels/ops/moe/ling_topk_align.py
+  s_e4f6b4e83692e9::t_4ffc6dbb24450f 1-20,22-44,46-54,60-98
+  s_e4f6b4e83692e9::t_35a4c136547791 21,45,55-59
+test/registered/kernels/ops/moe/test_humming_topk_align.py
+  s_e4f6b4e83692e9::t_f1cc44c644a4a7 1-120,131-132,134,147,154,158,178-181
+  s_e4f6b4e83692e9::t_036e5c833d83c1 121-130,133,135-146,148-153,155-157,159-177
+python/sglang/kernels/ops/moe/_ling_topk_align_warp.py
+  s_e4f6b4e83692e9::t_5b4d27cf220230 1-112,114-117,122-133
+  s_e4f6b4e83692e9::t_9a90e69f2b8bd9 113
+  s_e4f6b4e83692e9::t_40158d7c4ced08 118-121
+python/sglang/srt/layers/moe/ling_topk_align.py
+  s_e4f6b4e83692e9::t_e2834dfff7d077 1-227
+python/sglang/srt/layers/communication/ling_latent_up.py
+  s_e4f6b4e83692e9::t_a62af54f5ac89d 206-216
+python/sglang/srt/models/bailing_moe_v3.py
+  s_e4f6b4e83692e9::t_9196a442cc342b 743,747,1186-1190,1194-1201
+test/registered/kernels/benchmark/moe/bench_ling_topk_align.py
+  s_e4f6b4e83692e9::t_ae01ed80d0eeb0 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e450cf5e0753e6d34b522b91cf5644fd70c32e6d",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

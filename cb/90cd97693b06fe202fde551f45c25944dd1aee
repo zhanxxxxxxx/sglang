@@ -1,0 +1,30 @@
+python/sglang/srt/arg_groups/overrides.py
+  h_1d635ecd767a49 2783-2795,2798
+python/sglang/srt/distributed/bootstrap.py
+  h_1d635ecd767a49 256
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 299,415-416,1996,2006,2157-2161,2461,2842-2861,3091-3094
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 438-445,3675-3678,5119-5122
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 18-22,94-105,109-328,1502-1503,1597-1598,1743-1746
+python/sglang/srt/managers/tp_worker.py
+  h_1d635ecd767a49 395-397
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 10074-10078
+test/manual/pp_nccl_rma/test_transport.py
+  h_1d635ecd767a49 34,102-135,325
+test/registered/unit/test_model_overrides.py
+  h_1d635ecd767a49 1089,1098,1103-1130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb90cd97693b06fe202fde551f45c25944dd1aee",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

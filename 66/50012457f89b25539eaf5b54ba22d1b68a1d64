@@ -1,0 +1,16 @@
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1d635ecd767a49 1020,1023-1025
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  h_1d635ecd767a49 97-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6650012457f89b25539eaf5b54ba22d1b68a1d64",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+test/registered/unit/managers/test_scheduler_held_row_admission.py
+  s_f3e5574164d7e0::t_8787d00c748403 137-143,228
+test/registered/unit/managers/test_flat_raw_top_logprobs.py
+  s_f3e5574164d7e0::t_8787d00c748403 437,466,470,497-501,558
+python/sglang/srt/managers/scheduler_components/logprob_result_processor.py
+  s_f3e5574164d7e0::t_8787d00c748403 55
+test/registered/unit/multimodal/test_npu_image_decode_modes.py
+  s_f3e5574164d7e0::t_8787d00c748403 63,67-69
+  s_f3e5574164d7e0::t_a6e48f2321e570 64-66
+test/registered/unit/mem_cache/test_kv_cache_configurator_npu_indexer.py
+  s_f3e5574164d7e0::t_53c594ab789fae 104-106,136-138
+  s_f3e5574164d7e0::t_b859e0b7f1d829 131-133
+  s_f3e5574164d7e0::t_8573fe58b2a853 102-103,107-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7d204518973691bb8c6ab8525e7a3c5ec2c0e097",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
