@@ -1,0 +1,18 @@
+python/sglang/kernels/jit/csrc/attention/kda_fused_decode.cuh
+  h_1d635ecd767a49 163-223,521-523,651-652,655,673-674,677,709,723,731,739,758-767,772-773,828-829,851-852,858-859,938-944,946,950-951
+python/sglang/kernels/ops/attention/kda_fused_decode.py
+  h_1d635ecd767a49 50-52,139-142
+test/registered/kernels/ops/attention/test_kda_fused_decode.py
+  h_1d635ecd767a49 400-401,467-476
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2cc31a38227e6129aa3ea996e211b14cf88801bf",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

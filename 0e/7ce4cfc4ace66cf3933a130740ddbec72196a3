@@ -1,0 +1,36 @@
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_4083e58d2c5afa::t_e749e10b1bbca7 581,584,588
+test/registered/unit/mem_cache/test_session_write_back.py
+  s_4083e58d2c5afa::t_625ad90d25ee72 469,476-482,488,490,492,494-496,500-501,510-512,522-524,561,707,710,713
+  s_4083e58d2c5afa::t_7dd8e137fe8553 484-487,489,550-558
+  s_4083e58d2c5afa::t_044c6a134c90c8 497-499
+  s_4083e58d2c5afa::t_e749e10b1bbca7 110-112,483,491,493,502-509,513-521,525-549,559-560,1014,1020,1025-1027,1054,1064-1066,1083,1461,1471-1509
+python/sglang/srt/server_args.py
+  s_4083e58d2c5afa::t_e749e10b1bbca7 1975-1978,5977-5980
+test/registered/unit/mem_cache/test_unified_radix_cache_unittest.py
+  s_4083e58d2c5afa::t_625ad90d25ee72 4566,4572,4576,4588-4589
+  s_4083e58d2c5afa::t_e749e10b1bbca7 4476,4624
+  s_4083e58d2c5afa::t_7dd8e137fe8553 4538
+  s_4083e58d2c5afa::t_044c6a134c90c8 4591-4592,4601
+python/sglang/srt/mem_cache/session_write_back.py
+  s_4083e58d2c5afa::t_e749e10b1bbca7 11,38,43,69,148,169-170,176-182,448-458
+  s_4083e58d2c5afa::t_625ad90d25ee72 33-37,167,171-173
+  s_4083e58d2c5afa::t_044c6a134c90c8 168
+  s_4083e58d2c5afa::t_8517bc7d3bdd51 459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0e7ce4cfc4ace66cf3933a130740ddbec72196a3",
+  "prompts": {},
+  "sessions": {
+    "s_4083e58d2c5afa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a0d1-2249-7b10-a165-4db8b8ec8784",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}

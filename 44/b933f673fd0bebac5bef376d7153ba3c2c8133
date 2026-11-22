@@ -1,0 +1,36 @@
+test/registered/dcp/test_dsa_bi_candidates.py
+  s_4f45ba48752b7c::t_8f9b4755ff6056 5,53-54,71-88
+  s_4f45ba48752b7c::t_ad9521154c1a88 47-52,55-70,89-99,102
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_4f45ba48752b7c::t_ad9521154c1a88 1,26,50
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4f45ba48752b7c::t_8bb351c9d05a0f 428,436
+  s_4f45ba48752b7c::t_e5ff653f291e52 437
+python/sglang/kernels/ops/attention/dsa/dcp_sparse_indices.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 150,152,182
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_4f45ba48752b7c::t_ad9521154c1a88 862-863
+  s_4f45ba48752b7c::t_e5ff653f291e52 864-874
+python/sglang/srt/layers/attention/dsa/dcp_backend.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 47-48,364,367-374
+  s_4f45ba48752b7c::t_bf9359fe0edb34 27-28,30
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/sparse_mla.py
+  s_4f45ba48752b7c::t_e5ff653f291e52 16-48
+  s_4f45ba48752b7c::t_8bb351c9d05a0f 124-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "44b933f673fd0bebac5bef376d7153ba3c2c8133",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

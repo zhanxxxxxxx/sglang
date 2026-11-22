@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/moe/moe_fused_mul_sum.py
+  s_5081bcbcd28c7c::t_3af4a85a0f6a50 26-30,209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "043d33d728c5cc086374ec49c0cfe165756d3f77",
+  "prompts": {},
+  "sessions": {
+    "s_5081bcbcd28c7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f2fa-1783-7eb0-a246-b4bab136fdb3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}

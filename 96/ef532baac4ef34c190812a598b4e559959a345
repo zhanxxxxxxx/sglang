@@ -1,0 +1,24 @@
+test/registered/debug_utils/test_native_collective_reference.py
+  s_d2f4c9dc120b69::t_6bcf96a891cafc 11-14,20-57,61-67,71-87,93-98,100,133
+  s_d2f4c9dc120b69::t_ac0d815b3c3117 58-60,68-70
+python/sglang/srt/debug_utils/native_subgraph_capture.py
+  s_d2f4c9dc120b69::t_904b0fb89c9b48 138-151,157-172,178-194,299,310,324
+  s_d2f4c9dc120b69::t_6b97e32ad02ab5 12,302-309
+  s_d2f4c9dc120b69::t_ac0d815b3c3117 152-156,173-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "96ef532baac4ef34c190812a598b4e559959a345",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

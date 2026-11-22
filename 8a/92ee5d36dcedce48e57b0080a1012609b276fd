@@ -1,0 +1,26 @@
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  h_1d635ecd767a49 210-211,223-224,234,240,250-252,256,265-267,294-309,465-471,626-627,629,641-662,673-677,679-680
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 63-84,87-89,93-99
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  h_1d635ecd767a49 35,49,56,62,101-102,116,119-124,183-184,207-209,214-218,241-242
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 947,1541,1601-1619
+test/registered/kernels/ops/moe/test_deepgemm_masked_scale_padding.py
+  h_1d635ecd767a49 21-29,31,34-36,47,79,92-93
+test/registered/kernels/ops/moe/test_router_weight.py
+  h_1d635ecd767a49 1-26
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  h_1d635ecd767a49 434-481
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8a92ee5d36dcedce48e57b0080a1012609b276fd",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

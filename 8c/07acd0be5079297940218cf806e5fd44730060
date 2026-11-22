@@ -1,0 +1,26 @@
+test/manual/glm53_paired_prefill_entry.py
+  s_999842a87e9579::t_07cd97f11d564d 3-72,74-147
+  s_999842a87e9579::t_17869d23f39cce 1-2,73
+test/manual/glm53_paired_prefill_client.py
+  s_999842a87e9579::t_07cd97f11d564d 1-88,94-123,126-131,136,139-142,154-157,171-181
+  s_999842a87e9579::t_17869d23f39cce 89-93,124-125,132-135,137-138,143-153,158-170
+test/manual/glm53_paired_prefill_controller.py
+  s_999842a87e9579::t_58c1f1b25c7822 1-47,54-82,85-90,94-137,154-156,173-185,193,200-215,220-227,235-246,250-258
+  s_999842a87e9579::t_17869d23f39cce 48-53,83-84,91-93,138-153,157-172,186-192,194-199,216-219,228-234,247-249
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8c07acd0be5079297940218cf806e5fd44730060",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

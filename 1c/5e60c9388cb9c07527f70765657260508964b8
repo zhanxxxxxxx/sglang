@@ -1,0 +1,43 @@
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_053d675529bb1b::t_54dc45a168f7a4 2452
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_053d675529bb1b::t_acdbba3cc7bd01 1253-1254,1285
+  s_053d675529bb1b::t_17d4791120b704 1231
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/sparse_mla.py
+  s_053d675529bb1b::t_a63b4a9d0a760d 167-169
+  s_053d675529bb1b::t_54dc45a168f7a4 34,38,61-62,111,119-120,148-154,156-157,188-191
+python/sglang/kernels/ops/attention/rotary_triton.py
+  s_053d675529bb1b::t_17d4791120b704 174,193-194,211-220,250,282
+python/sglang/srt/layers/attention/dsa/dcp_backend.py
+  s_053d675529bb1b::t_54dc45a168f7a4 370,372-373
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_053d675529bb1b::t_a6ba1017193899 164-185
+  s_053d675529bb1b::t_2a230b164d8443 318,323-324
+python/sglang/srt/layers/attention/ling/rotary.py
+  s_053d675529bb1b::t_1c5ac507207f1f 114
+  s_053d675529bb1b::t_17d4791120b704 82,92,115-125
+test/registered/unit/layers/test_logprob_fast_input.py
+  s_053d675529bb1b::t_4c1524f35f75b0 10,13,128-137
+python/sglang/srt/layers/logprob_processor.py
+  s_053d675529bb1b::t_0acb6804296fe2 426,432-433
+test/registered/unit/layers/test_ling_qsa_positions.py
+  s_053d675529bb1b::t_1c5ac507207f1f 53
+  s_053d675529bb1b::t_dbf40f11d093c7 229
+  s_053d675529bb1b::t_acdbba3cc7bd01 26-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c5e60c9388cb9c07527f70765657260508964b8",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

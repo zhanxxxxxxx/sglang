@@ -1,0 +1,27 @@
+python/sglang/kernels/ops/attention/dsa/sparse_mla.py
+  s_4f45ba48752b7c::t_7120d6685ea55c 1-213
+python/sglang/srt/environ.py
+  s_4f45ba48752b7c::t_657ca55a66ce4f 1416-1419
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4f45ba48752b7c::t_14d76245c3dc1c 303,421-440,2434-2466,2478-2487,3403-3406
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_4f45ba48752b7c::t_ffb83c1cf8086f 305-315,317,496-498,700-711
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_4f45ba48752b7c::t_31d54a95d7387d 1-349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "653f9cb6f569c2ce87b20382d38d7f220d223fbb",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+test/registered/unit/managers/test_scheduler_cpu_memory.py
+  s_2a8f87d2f5a85b::t_4b66e5bb07f947 328
+  s_2a8f87d2f5a85b::t_a6d108e58131df 1-327,329
+python/sglang/srt/managers/scheduler.py
+  s_2a8f87d2f5a85b::t_337fe0571c6873 309-329,3124-3125,3127-3128
+python/sglang/srt/utils/scheduler_cpu_memory.py
+  s_2a8f87d2f5a85b::t_323d5113409b27 1-304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6b43caeb1c5ef11883cdd1449760a368e6f8f4de",
+  "prompts": {},
+  "sessions": {
+    "s_2a8f87d2f5a85b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c986-10b0-7be1-992e-18d7cce44046",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "ly409648 <ly409648@alibaba-inc.com>"
+    }
+  }
+}
