@@ -1,0 +1,20 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_053d675529bb1b::t_ef59a4eab656ec 51-55,156
+  s_053d675529bb1b::t_0e39f7142a4b2d 30,39,157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5909a08943a25af420ce34a7aabd4eaf08b3291e",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
