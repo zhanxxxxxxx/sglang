@@ -1,0 +1,22 @@
+test/registered/unit/layers/quantization/test_mxfp8_scale_decode.py
+  s_7a64d91f26e78a::t_0f9a864d40aa45 23-25,35-37,46-48
+  s_7a64d91f26e78a::t_a669c170d2cdce 1-22,26-34,38-45,49-60
+python/sglang/srt/layers/quantization/mxfp8_block_convert.py
+  s_7a64d91f26e78a::t_a669c170d2cdce 23-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c260950272fef2a4d51753abee4e4071970c0920",
+  "prompts": {},
+  "sessions": {
+    "s_7a64d91f26e78a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e77d-3fa8-78d3-93fd-b7882982024b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

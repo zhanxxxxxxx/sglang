@@ -1,0 +1,20 @@
+python/sglang/srt/managers/scheduler_components/pp_request_mailbox.py
+  h_1d635ecd767a49 1-165
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  h_1d635ecd767a49 96,109-137,285-287,297-301
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 239-242,249-271,276-290,339-340
+test/registered/unit/managers/test_pp_distributed_request_mailbox.py
+  h_1d635ecd767a49 1-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c92903a6c15e5e2ddfebf0efcf92e6b651680b5a",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

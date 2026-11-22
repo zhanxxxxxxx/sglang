@@ -1,0 +1,31 @@
+python/sglang/srt/debug_utils/native_attention_reference.py
+  s_d2f4c9dc120b69::t_bed9fcecec35e3 16
+  s_d2f4c9dc120b69::t_6c6b85d18961ef 17-19,99
+python/sglang/srt/debug_utils/native_dp_calls.py
+  s_d2f4c9dc120b69::t_bed9fcecec35e3 8-9,40,50-71,81-82,87-89,94,142-143,150-152
+  s_d2f4c9dc120b69::t_709b466a9568de 153-154,195
+test/registered/debug_utils/test_native_attention_dp_layout.py
+  s_d2f4c9dc120b69::t_d291ec469f351e 394-401,409-417,421-423,426,428-431,434-436
+  s_d2f4c9dc120b69::t_9255e000b507fe 381-393,402-408,418-420,424-425,427,432-433,437-440
+python/sglang/srt/debug_utils/native_parallel_layout.py
+  s_d2f4c9dc120b69::t_45a2de7b3c7416 1,38,43-44,56-59,70-71,74-77,101-114,117-122,149,152-153,155,160-165,185-186
+  s_d2f4c9dc120b69::t_d291ec469f351e 39-42,66-68,89-92,154,156-159,187-189
+python/sglang/srt/debug_utils/native_layer_replay.py
+  s_d2f4c9dc120b69::t_45a2de7b3c7416 15,202-212,917,1065,1222,1281,1547,1585,1955
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c0f739ce50959e7a35117bf6b2daed547fbd9b2b",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

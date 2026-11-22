@@ -1,0 +1,16 @@
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 10,74-89,581,583-590
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 20-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "69ac9bdb9bdd474134f74f61cc7600c00408fbd9",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

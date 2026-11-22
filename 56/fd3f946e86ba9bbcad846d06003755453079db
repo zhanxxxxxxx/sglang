@@ -1,0 +1,20 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 1626-1627,1629-1630,1657,1747-1748,1787-1789,1823-1824,1845-1849
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 3329-3331,3338
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 9,123,305,340-346,358,362-367,394,430-431,434-441,444-446,491-493,651
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 3,20-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "56fd3f946e86ba9bbcad846d06003755453079db",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

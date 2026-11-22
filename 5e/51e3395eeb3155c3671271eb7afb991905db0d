@@ -1,0 +1,21 @@
+test/registered/debug_utils/test_native_layer_replay.py
+  s_d2f4c9dc120b69::t_5ee08698ca7469 900-901,913-914
+python/sglang/srt/debug_utils/native_layer_replay.py
+  s_d2f4c9dc120b69::t_5ee08698ca7469 2032-2035
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5e51e3395eeb3155c3671271eb7afb991905db0d",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

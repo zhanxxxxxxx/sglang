@@ -1,0 +1,22 @@
+test/registered/unit/models/test_dsa_sparse_mla.py
+  s_053d675529bb1b::t_124284fa69ae60 54-55,60,93-98,100,109,113-118,158-160
+  s_053d675529bb1b::t_00347448bf32dd 161
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_053d675529bb1b::t_124284fa69ae60 662-663,721
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "562585a977f1c9acd5294e5125bb52a65f29ee7e",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
