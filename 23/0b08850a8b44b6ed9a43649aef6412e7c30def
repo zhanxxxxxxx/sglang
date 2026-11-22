@@ -1,0 +1,33 @@
+python/sglang/srt/utils/common.py
+  s_1a2403ab7d65d8::t_2f677e4e867ac0 3483-3487
+  s_1a2403ab7d65d8::t_7e22179beedc5e 3482
+  s_1a2403ab7d65d8::t_5039e6fb7a1c01 3488
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  s_1a2403ab7d65d8::t_87ee8b666a14c1 641-644,740-741
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_1a2403ab7d65d8::t_92b13895f917aa 104-105,107,109-113,132-133
+python/sglang/srt/model_loader/loader.py
+  s_1a2403ab7d65d8::t_e3d8eba3fbe5d6 337-338
+python/sglang/srt/server_args.py
+  s_1a2403ab7d65d8::t_6eb8724d56309e 7925-7933,7935
+test/registered/unit/models/test_bailing_consistency_contracts.py
+  s_1a2403ab7d65d8::t_1974b486d597b8 53,58-61,87,89,98,116-117,154-155,167-173,176,186-228
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  s_1a2403ab7d65d8::t_a3c6433bafe460 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "230b08850a8b44b6ed9a43649aef6412e7c30def",
+  "prompts": {},
+  "sessions": {
+    "s_1a2403ab7d65d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a491-a5c3-7411-9049-e2594de4628d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
