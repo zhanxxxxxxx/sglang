@@ -1,0 +1,25 @@
+docker/ant/precompile_gluon_cache.py
+  s_f0a8de6ecf55c7::t_0eca1686a7eb4b 1-40,43-45,47-137,143-282
+  s_f0a8de6ecf55c7::t_ca415d0f18f93e 41-42,46,138-142
+docker/ant/gluon_profiles/glm53_h20_ep8_1024.json
+  s_f0a8de6ecf55c7::t_e296ba03602c3c 1-128
+docker/ant/aci/sglang_fast.aci.yml
+  s_f0a8de6ecf55c7::t_89d1aa5a4f9c3f 30,38-39,46,126-127
+  s_f0a8de6ecf55c7::t_b99b382e93ea7c 12,27,41-42,44,47-53,67-83,103,111-124,128,133,146,154,163-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2be9ff812cd1eddca0d2606d8a027530979141ee",
+  "prompts": {},
+  "sessions": {
+    "s_f0a8de6ecf55c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1f7-178c-7893-b079-4b20fbed9dae",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

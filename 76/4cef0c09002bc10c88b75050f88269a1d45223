@@ -1,0 +1,95 @@
+python/sglang/srt/layers/attention/ling/__init__.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 49,109,252-264,266-267,285,327-363,557,626,650-651,1550,1654-1655,1657,1677-1678,1870
+python/sglang/srt/model_loader/ling_vl_sparse_weights.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-125
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 18,332-334,2432-2436,3171-3179
+python/sglang/srt/model_executor/pool_configurator.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 183-190,407
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1521-1529
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla_rocm.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 43,61,463-476
+test/registered/unit/layers/test_ling_dsa_indexer.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-271
+test/registered/unit/models/test_bailing_vl_multiaxis_rope.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-385
+python/sglang/srt/configs/bailing_hybrid.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 386-441,443-445,447-454,456,458-474
+python/sglang/srt/models/bailing_moe_v3.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 149-190,223-235,255-259,1912-1926,1929-1930,2914-2915,3500-3509,3563,3758,3760,3767
+python/sglang/srt/mem_cache/qsa_index_key_cache.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 35-54,69-77,103-104
+test/registered/unit/configs/test_ling_vl_sparse_config.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-163
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 10,14-21,28-29,35-36,46,131,139,157-179,395-396,428-432,450-451,459-463,470-481,503-505,512-514,534-535,578-589,620-625,628-636,703,1180-1338
+test/registered/unit/models/test_ling_vl_sparse_weight_coverage.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-80
+python/sglang/srt/layers/attention/dsa/qsa_pooling.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 26-112
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mha.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 3,28,179-189
+python/sglang/srt/layers/attention/ling/indexer_policy.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-40
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 177,807,1088,1204,1270,1288,1524-1527,1716
+python/sglang/srt/configs/model_config.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 31-34,112,133-134,163,165,170,182,236,238,243,274,276,292,294,381
+python/sglang/srt/layers/rotary_embedding/bailing_mrope.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 6,70-78,89
+test/registered/unit/models/test_ling_vl_sparse_weight_lifecycle.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-310
+python/sglang/srt/layers/attention/ling/dsa_indexer.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-108
+python/sglang/srt/configs/ling.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-174
+test/registered/unit/configs/test_bailing_vl_rope_scope.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-202
+python/sglang/srt/arg_groups/overrides.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 39,1269-1273,1279-1295,1814-1818,1931-1939,1942-1951,1975
+python/sglang/srt/layers/attention/ling/rotary.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-129
+test/registered/unit/model_executor/test_vl_qsa_idle_mlp_sync.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-282
+test/registered/unit/layers/test_ling_qsa_positions.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-328
+python/sglang/srt/mem_cache/memory_pool.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 3629,3710,4507,4509-4510,4565,4677-4680
+python/sglang/srt/layers/rotary_embedding/mrope.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 68,71-77,146-148,151-152,178-180,183,185,198-199,201-202,222,230,279-293,307
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 202-207
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 38,63,467-480
+test/registered/unit/server_args/test_ling_vl_token_dsa_backends.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-318
+python/sglang/srt/configs/sparse_attention.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 1-67
+python/sglang/srt/models/deepseek_v2.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 88,124,403,1767-1769,1816,1860-1861,1952-1962
+python/sglang/srt/model_loader/loader.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 999-1012,1221-1231
+python/sglang/srt/layers/rotary_embedding/factory.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 225
+python/sglang/srt/server_args.py
+  s_4517e4240bb588::t_0bfd4588d62c0d 6012,6093,6097,7159,10063
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "764cef0c09002bc10c88b75050f88269a1d45223",
+  "prompts": {},
+  "sessions": {
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

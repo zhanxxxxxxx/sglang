@@ -1,0 +1,24 @@
+python/sglang/srt/layers/attention/linear/kda_apl_backend.py
+  s_030cfbd488998e::t_41174c836a49e3 84-88,98-118,457,504
+test/registered/unit/layers/attention/test_kda_apl_backend.py
+  s_030cfbd488998e::t_41174c836a49e3 628,1351-1367
+  s_030cfbd488998e::t_0a438bf0ba9c11 1368-1369
+test/registered/attention/test_kda_apl_decode_numerics.py
+  s_030cfbd488998e::t_41174c836a49e3 234-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6834b2fecb174547f589a90db1fcadf8ef7820b3",
+  "prompts": {},
+  "sessions": {
+    "s_030cfbd488998e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19cbd-04fe-78c3-8c5d-ae6561cf3668",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zq398709 <zq398709@antgroup.com>"
+    }
+  }
+}

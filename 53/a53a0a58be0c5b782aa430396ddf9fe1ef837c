@@ -1,0 +1,16 @@
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 157,173-174,177-185,199-206,208,211-217,220,235-238
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 215-220,239-240,249-265,268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "53a53a0a58be0c5b782aa430396ddf9fe1ef837c",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

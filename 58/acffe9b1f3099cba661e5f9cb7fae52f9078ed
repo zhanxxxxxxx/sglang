@@ -1,0 +1,16 @@
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 1935-1941
+test/registered/unit/managers/test_schedule_batch_prepare_for_decode.py
+  h_1d635ecd767a49 13-16,87-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "58acffe9b1f3099cba661e5f9cb7fae52f9078ed",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

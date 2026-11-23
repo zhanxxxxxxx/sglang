@@ -1,0 +1,30 @@
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 1660-1671,1675,1679,1685-1693,1697
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1d635ecd767a49 892-898
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 661-662
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 1630-1635,1637-1646,1658-1663,1665-1670
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  h_1d635ecd767a49 288-290
+python/sglang/srt/state_capturer/base.py
+  h_1d635ecd767a49 304-305,316-318,320,323-327
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  h_1d635ecd767a49 97-149
+test/registered/unit/managers/test_stop_str_speculative.py
+  h_1d635ecd767a49 70-101
+test/registered/unit/state_capturer/test_routed_experts_pp.py
+  h_1d635ecd767a49 22,64-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6b6a9cd906d3abbf0d436054021c89d716546ee",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

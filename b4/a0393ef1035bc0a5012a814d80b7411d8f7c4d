@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 70-71,74,77-86,102-106,108
+python/sglang/kernels/ops/quantization/__init__.py
+  h_1d635ecd767a49 133-134,144-146,159-160
+test/registered/kernels/ops/moe/test_router_weight.py
+  h_1d635ecd767a49 14-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b4a0393ef1035bc0a5012a814d80b7411d8f7c4d",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

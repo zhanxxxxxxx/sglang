@@ -1,0 +1,26 @@
+python/sglang/srt/models/bailing_mm_v3.py
+  h_1d635ecd767a49 212-214
+python/sglang/srt/entrypoints/openai/protocol.py
+  h_1d635ecd767a49 387,881
+python/sglang/srt/managers/io_struct.py
+  h_1d635ecd767a49 281-282
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 2575-2577,2579,4319-4320,4754
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 515
+test/registered/unit/managers/test_pp_metrics_logging.py
+  h_1d635ecd767a49 142
+test/registered/unit/managers/test_pp_micro_batch_affinity.py
+  h_1d635ecd767a49 575-577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d1f57907f3f6ce47888498da2269ed7eed8cca36",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

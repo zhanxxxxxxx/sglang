@@ -1,0 +1,16 @@
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  h_1d635ecd767a49 183
+test/registered/unit/managers/test_batch_result_processor_mamba_boundary.py
+  h_1d635ecd767a49 77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd02e029fbc30edb5bdba552f44895a3da3c2060",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

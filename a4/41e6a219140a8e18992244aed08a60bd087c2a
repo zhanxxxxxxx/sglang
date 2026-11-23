@@ -1,0 +1,44 @@
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_8b7d5bc292f433 1427-1434
+execution/pipeline.py
+  s_1d32b085fb33ca::t_d632abc6ef15f8 385-394
+tests/inference_rsi/test_baseline_quality.py
+  s_1d32b085fb33ca::t_351c87bc89f09c 470-471
+execution/attempt_worker.py
+  s_1d32b085fb33ca::t_d632abc6ef15f8 16-18,45,126-131
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_d632abc6ef15f8 213-215,428-442,610-614
+tests/inference_rsi/test_cleanup_recovery.py
+  s_1d32b085fb33ca::t_584ed169d7d803 124
+  s_1d32b085fb33ca::t_0e8187e403babb 83-84,95-98,110-114,142-143
+  s_1d32b085fb33ca::t_c23431eafae643 12-13,31-32,36,59-60,72,99-101,119-123,125-130,134
+  s_1d32b085fb33ca::t_f40810f4d5d054 131-133,135-141,144-165
+tests/inference_rsi/test_pipeline_recovery.py
+  s_1d32b085fb33ca::t_584ed169d7d803 13
+  s_1d32b085fb33ca::t_c23431eafae643 7-12,14-28
+execution/providers.py
+  s_1d32b085fb33ca::t_d632abc6ef15f8 167-176
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_6a8968ddeac3ec 740-746
+  s_1d32b085fb33ca::t_943a2ec97443d0 721-725
+tests/inference_rsi/test_provider_configuration.py
+  s_1d32b085fb33ca::t_48459975f7c95b 258-277
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_f513680fa71950 864-887
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a441e6a219140a8e18992244aed08a60bd087c2a",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

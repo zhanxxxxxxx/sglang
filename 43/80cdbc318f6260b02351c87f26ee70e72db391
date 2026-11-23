@@ -1,0 +1,24 @@
+python/sglang/srt/managers/scheduler.py
+  s_6814b9b1896915::t_57ba6228dba7b2 4792-4794
+test/registered/unit/disaggregation/test_encoder_pool_lifetime.py
+  s_6814b9b1896915::t_57ba6228dba7b2 2,25-50
+  s_6814b9b1896915::t_d5bf333f0ada64 51-52
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_d8dbea5ebd4151 1754-1755,1764-1773,1870-1871
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4380cdbc318f6260b02351c87f26ee70e72db391",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

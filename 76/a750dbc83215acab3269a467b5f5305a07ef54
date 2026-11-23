@@ -1,0 +1,26 @@
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1d635ecd767a49 654-660,1276-1280
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 1770
+python/sglang/srt/managers/utils.py
+  h_1d635ecd767a49 104,178-179
+python/sglang/srt/speculative/eagle_worker_common.py
+  h_1d635ecd767a49 498,625-631,695
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  h_1d635ecd767a49 6,109,215-217,229-285,373-374
+test/registered/unit/managers/test_batch_result_processor_spec_grammar.py
+  h_1d635ecd767a49 103
+test/registered/unit/spec/test_pipeline_eagle_worker.py
+  h_1d635ecd767a49 228-250,502
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "76a750dbc83215acab3269a467b5f5305a07ef54",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

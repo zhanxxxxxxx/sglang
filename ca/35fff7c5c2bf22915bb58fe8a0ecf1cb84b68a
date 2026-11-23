@@ -1,0 +1,41 @@
+python/sglang/srt/managers/schedule_policy.py
+  s_ef8665546180d1::t_a5b8de58263186 1241,1256
+python/sglang/srt/managers/schedule_batch.py
+  s_ef8665546180d1::t_a5b8de58263186 875
+python/sglang/srt/managers/scheduler.py
+  s_ef8665546180d1::t_cf7a5d7e5c49fb 24,979,2815-2816,2829,2843,2886,2926,2950
+  s_ef8665546180d1::t_468272de241d42 3123-3125,3180-3199
+  s_ef8665546180d1::t_a5b8de58263186 3048-3058
+python/sglang/srt/managers/scheduler_components/metrics_reporter.py
+  s_ef8665546180d1::t_053ae7a48edb69 824
+  s_ef8665546180d1::t_68371e126da035 827-830
+  s_ef8665546180d1::t_d08b1377cd657b 825,832
+  s_ef8665546180d1::t_a5b8de58263186 66-69,125-126,509-510,554-557,707-710,817-823
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_ef8665546180d1::t_7972f3686bd0e4 107,1038,1607-1611,1655,1676-1680,1726-1727,1832,1838,1840,1854,1875,1877,1904-1914,2519-2525,2580-2581
+  s_ef8665546180d1::t_c25ba0be767510 1435-1437,1574-1578,1900,1902
+  s_ef8665546180d1::t_10a9c9d0d48549 548,550-552
+  s_ef8665546180d1::t_de4f2b4cb628f4 8,1434,1572-1573,1579-1593,1598-1606,1646,1839,2518
+  s_ef8665546180d1::t_d97b2d8f98f042 549,1815-1817
+  s_ef8665546180d1::t_a5b8de58263186 296,1594-1597,1891,2575-2577,2582-2587
+  s_ef8665546180d1::t_f98f355ac38489 2588-2589,2754-2755,3134
+  s_ef8665546180d1::t_06d4372944c160 1491-1500,1820-1824,1901,1903
+  s_ef8665546180d1::t_468272de241d42 385,1490
+  s_ef8665546180d1::t_c5e5a9567ed9f4 384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca35fff7c5c2bf22915bb58fe8a0ecf1cb84b68a",
+  "prompts": {},
+  "sessions": {
+    "s_ef8665546180d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9d4-7be0-75e2-ac79-cfda5726f657",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
