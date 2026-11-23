@@ -1,0 +1,26 @@
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  h_1d635ecd767a49 304-305,307
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  h_1d635ecd767a49 351-352,354,362,601-602,604,610
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 11,22-26,29,48
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 526-528,638-640,952-955
+test/registered/kernels/ops/moe/test_bailing_tp_router_weight.py
+  h_1d635ecd767a49 18-19,23,28,38,55,58-62,64,92,100-101,106-109,120-123,127
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  h_1d635ecd767a49 210-212,427,431
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  h_1d635ecd767a49 460-462,481-482,484,487
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a7c34d869780bba72dd447d0cda6595ba056e860",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

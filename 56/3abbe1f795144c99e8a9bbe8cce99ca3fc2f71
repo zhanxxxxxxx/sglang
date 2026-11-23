@@ -1,0 +1,27 @@
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_7a9c276cb55fe7::t_c717155f83f43e 14,18,52-53,55-57,62-63,107,139
+test/registered/unit/disaggregation/test_glm53_epd_metadata.py
+  s_7a9c276cb55fe7::t_4c31a28303159a 151,167
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_7a9c276cb55fe7::t_218ef21b601599 817-820
+test/registered/unit/layers/test_interleave_kpool_inputs.py
+  s_7a9c276cb55fe7::t_86e5814e55278e 81-99
+test/registered/unit/mem_cache/test_page_interleave_shard.py
+  s_7a9c276cb55fe7::t_3db3d419f407fc 63-65,2529-2530
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "563abbe1f795144c99e8a9bbe8cce99ca3fc2f71",
+  "prompts": {},
+  "sessions": {
+    "s_7a9c276cb55fe7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_7a9c276cb55fe7",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_053d675529bb1b::t_73afaf7a9c4f9f 316-346
+test/registered/unit/models/test_dsa_batch_invariant.py
+  s_053d675529bb1b::t_94b72a88b1395a 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "32e70d193e79b611121b3945cf9d9360d3959711",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}
