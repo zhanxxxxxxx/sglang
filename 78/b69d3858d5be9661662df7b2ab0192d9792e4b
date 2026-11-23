@@ -1,0 +1,26 @@
+python/sglang/srt/layers/attention/cutedsl_mla_backend.py
+  h_1d635ecd767a49 523-532
+python/sglang/srt/layers/sampler.py
+  h_1d635ecd767a49 820-823
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_1d635ecd767a49 411-413,823
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 1831-1850,1894-1900,1914-1916
+python/sglang/srt/model_executor/pp_nonfinite_probe.py
+  h_1d635ecd767a49 1-447
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1d635ecd767a49 480-485,1259-1273,1520-1525,1530-1531
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 29,2123,2221,2248,2314,2321-2326,2406,2461
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "78b69d3858d5be9661662df7b2ab0192d9792e4b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/kernels/jit/csrc/attention/kda_fused_decode.cuh
+  h_1d635ecd767a49 156-162,588-589,615-616,655,669,809-814,816
+python/sglang/kernels/ops/attention/kda_fused_decode.py
+  h_1d635ecd767a49 135-139
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1534
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1743-1744,1748
+test/registered/kernels/ops/attention/test_kda_fused_decode.py
+  h_1d635ecd767a49 1,7-8,34-42,104,116-153,166,173,190,199,208-210,226-230,264,289-290,341-347,349-350,421-423
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6ab690849ab9964a0f8f75fb59f0e6b345502c7",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

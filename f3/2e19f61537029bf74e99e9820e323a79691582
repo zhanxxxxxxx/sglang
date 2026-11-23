@@ -1,0 +1,24 @@
+python/sglang/srt/speculative/eagle_worker.py
+  s_18bbfa9aac699b::t_40d829e79e59b2 48,1037-1041,1322
+test/registered/unit/spec/test_v1_rs_rewrite_order.py
+  s_18bbfa9aac699b::t_40d829e79e59b2 1-26
+python/sglang/srt/speculative/eagle_info.py
+  s_18bbfa9aac699b::t_40d829e79e59b2 255-256,571-575,605-608,919-925
+  s_18bbfa9aac699b::t_bfce4cb1a7681c 926
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f32e19f61537029bf74e99e9820e323a79691582",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

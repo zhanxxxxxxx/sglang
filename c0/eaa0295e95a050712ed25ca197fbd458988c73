@@ -1,0 +1,21 @@
+docker/ant/aci/sglang_fast.aci.yml
+  s_f0a8de6ecf55c7::t_292ffba63f9332 105,111
+docker/ant/test_precompile_gluon_cache.py
+  s_f0a8de6ecf55c7::t_58d8e6c4da32e1 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c0eaa0295e95a050712ed25ca197fbd458988c73",
+  "prompts": {},
+  "sessions": {
+    "s_f0a8de6ecf55c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1f7-178c-7893-b079-4b20fbed9dae",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

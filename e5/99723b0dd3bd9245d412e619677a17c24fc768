@@ -1,0 +1,27 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/kimi_gemm.py
+  s_053d675529bb1b::t_1ea726ff96c4db 2-46,48-51,53-88
+  s_053d675529bb1b::t_0e59b3892ffa41 1,97-111
+  s_053d675529bb1b::t_13a985a64aca8d 47,52
+  s_053d675529bb1b::t_0bee04a7e4ab85 89-96
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_053d675529bb1b::t_0bee04a7e4ab85 24-31,33-34,45,54,187
+  s_053d675529bb1b::t_0e59b3892ffa41 32,35-38,66-76,92-105,154-155
+python/sglang/srt/environ.py
+  s_053d675529bb1b::t_0bee04a7e4ab85 1449-1450
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e599723b0dd3bd9245d412e619677a17c24fc768",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

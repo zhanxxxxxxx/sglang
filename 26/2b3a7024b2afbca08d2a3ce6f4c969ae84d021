@@ -1,0 +1,24 @@
+test/registered/unit/models/test_bailing_kda_prefill_cp.py
+  s_d2f4c9dc120b69::t_d5030d09993534 61-65,69-75,82-95
+  s_d2f4c9dc120b69::t_56464d32aab4a7 66-68,76-81
+python/sglang/srt/models/bailing_moe_v3.py
+  s_d2f4c9dc120b69::t_56464d32aab4a7 49-53,198-199,1861-1863,1865-1867,1871-1873,1880-1882,1885-1887,2036-2040,2251-2254
+  s_d2f4c9dc120b69::t_531e47682837b6 44,197,200,1857-1860,1864,1868-1870,1874-1879,1883-1884,2035,2041-2050
+  s_d2f4c9dc120b69::t_d74ff89d087ef1 1888-1889
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "262b3a7024b2afbca08d2a3ce6f4c969ae84d021",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
