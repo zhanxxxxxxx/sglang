@@ -1,0 +1,32 @@
+test/registered/unit/multimodal/test_qwen_vl_preprocess_chunking.py
+  s_e264e4a97219bf::t_5a379a6e1e7b76 7-20,72-73,77-93,98,100-110,113-116,120-125,130-209,217-221,225-239,255-258,269-271,275-276,286,293-294,296,309-311,315,326
+  s_e264e4a97219bf::t_556505d122f345 27
+  s_e264e4a97219bf::t_f22fdaaa96dff1 96-97,99,111-112,126-129
+  s_e264e4a97219bf::t_6664fd8187370f 264-266
+  s_e264e4a97219bf::t_98a6436a142db0 61,67,117-119,210-216,222-224,240-254,259-263,267-268,272-274,277-285,287-292,297-308,312-314,316-325,327-330
+  s_e264e4a97219bf::t_891091619faf04 1-6,21-26,28-60,62-66,68-71,74-76,94-95,295,331-334
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_e264e4a97219bf::t_98a6436a142db0 1512-1514
+  s_e264e4a97219bf::t_f22fdaaa96dff1 361-362
+  s_e264e4a97219bf::t_0572667cfa4378 358,367-435,612-614,1081-1123
+  s_e264e4a97219bf::t_6f2170769dfcf9 1124-1209,1231-1234,1510-1511,1515-1520
+  s_e264e4a97219bf::t_8dca59a2a27afa 355-357
+  s_e264e4a97219bf::t_f7fb5188d2f97e 359-360
+  s_e264e4a97219bf::t_a4aae584deb4a2 363-366
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5203c2c3a19a097ad39254102d3233f4e11cd731",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

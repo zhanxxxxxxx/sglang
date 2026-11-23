@@ -1,0 +1,30 @@
+python/sglang/srt/sampling/custom_logit_processor.py
+  s_26618feaba671a::t_533d9ce20e71da 27-29,177
+  s_26618feaba671a::t_f6b99d632cc6e4 178
+python/sglang/srt/sampling/sampling_batch_info.py
+  s_26618feaba671a::t_533d9ce20e71da 282-292
+test/registered/unit/sampling/test_sampling_batch_info.py
+  s_26618feaba671a::t_0a4c3c075af814 728
+test/registered/unit/sampling/test_history_dependent_sampling.py
+  s_26618feaba671a::t_90af8036ddccc2 39
+  s_26618feaba671a::t_f4dbfceef520e9 1-38,40-116
+  s_26618feaba671a::t_8b720b6e9efe4a 117-119
+python/sglang/srt/managers/tp_worker.py
+  s_26618feaba671a::t_533d9ce20e71da 668-671
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cdc8502a9502d42b9fbe698e87f99f6f39307a55",
+  "prompts": {},
+  "sessions": {
+    "s_26618feaba671a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c415-8e10-76f3-9d42-d23598e73e84",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

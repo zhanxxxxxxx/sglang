@@ -1,0 +1,14 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/mla.py
+  h_e649179cb6218a 502-503,855-856
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "82df35fe7a499ab4190dfbda5bd243b602436dd3",
+  "prompts": {},
+  "humans": {
+    "h_e649179cb6218a": {
+      "author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

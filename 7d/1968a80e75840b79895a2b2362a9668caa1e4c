@@ -1,0 +1,26 @@
+python/sglang/srt/utils/process.py
+  s_f3e5574164d7e0::t_95c4b7dfb6b897 250-251
+  s_f3e5574164d7e0::t_a55a4da2a9cfd3 42,45-46,252-272
+test/registered/core/test_srt_endpoint.py
+  s_f3e5574164d7e0::t_38b8272be63e5e 359-361
+  s_f3e5574164d7e0::t_908da72b550d86 356-358
+  s_f3e5574164d7e0::t_c0bf007ada3ae7 362-364
+python/sglang/srt/managers/req_types.py
+  s_f3e5574164d7e0::t_e09e2e280595d2 650-656
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7d1968a80e75840b79895a2b2362a9668caa1e4c",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

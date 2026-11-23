@@ -1,0 +1,28 @@
+python/sglang/kernels/ops/attention/fla/kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 1-98
+python/sglang/kernels/ops/attention/__init__.py
+  s_f5a50be0fc3a60::t_4525b13aace0d6 78-87
+  s_f5a50be0fc3a60::t_b2e8d6283df369 88
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 2057-2058
+test/registered/kernels/ops/attention/test_kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 1-42
+python/sglang/srt/layers/attention/linear/kernels/kda_triton.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 5,20-23,43-49,275-277,286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7a0242e2d7eecc9e32d3e614eb70891419337d81",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+docker/ant/aci/modelspeed.aci.yml
+  h_623190b123231f 1-67
+docker/ant/modelspeed/.gitignore
+  h_623190b123231f 1-2
+docker/ant/modelspeed/Dockerfile
+  h_623190b123231f 1-37
+docker/ant/modelspeed/README.md
+  h_623190b123231f 1-83
+docker/ant/modelspeed/prepare.py
+  h_623190b123231f 1-123
+docker/ant/modelspeed/test_prepare.py
+  h_623190b123231f 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e2219c544cd8aa5ecef3822cf7cf69318c36e38c",
+  "prompts": {},
+  "humans": {
+    "h_623190b123231f": {
+      "author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

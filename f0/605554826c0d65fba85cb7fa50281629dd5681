@@ -1,0 +1,23 @@
+examples/runtime/ling_v3_audio/README.md
+  s_537ed9731c43f2::t_afb5725a22d8b5 31,35-39
+examples/runtime/ling_v3_audio/launch_server.sh
+  s_537ed9731c43f2::t_6fb2f4ae51944c 19
+examples/runtime/ling_v3_audio/pretrain_chat_template.jinja
+  s_537ed9731c43f2::t_0a6bd145e09eed 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f0605554826c0d65fba85cb7fa50281629dd5681",
+  "prompts": {},
+  "sessions": {
+    "s_537ed9731c43f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c011-7a7f-7221-8a15-27026a0ee393",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaohailin.zhl <zhaohailin.zhl@antgroup.com>"
+    }
+  }
+}

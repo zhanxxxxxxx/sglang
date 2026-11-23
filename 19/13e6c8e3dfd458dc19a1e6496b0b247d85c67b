@@ -1,0 +1,27 @@
+docker/ant/aci/sglang_fast.aci.yml
+  s_999842a87e9579::t_7befa19cfb025c 34-38,50,73-75,124-125,143-147
+docker/ant/install_gluon_cache.py
+  s_999842a87e9579::t_f3a50467824caf 89-91,124-126,130-132,192-194,201-204,225-228,232-241
+  s_999842a87e9579::t_c0fbacc4c10cc0 1-88,92-108,112-123,127-129,133-160,169-191,195-200,205-224,229-231
+  s_999842a87e9579::t_7befa19cfb025c 109-111
+  s_999842a87e9579::t_e53daf96b25046 161-168
+test/registered/unit/utils/test_gluon_cache_install.py
+  s_999842a87e9579::t_a03d619002e881 1-61,65-91,95-100,105-167,171-181,185-186,190-197
+  s_999842a87e9579::t_f3a50467824caf 62-64,92-94,101-104,168-170,182-184,187-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1913e6c8e3dfd458dc19a1e6496b0b247d85c67b",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+examples/rollout_precision/NEXT_EXECUTION_PLAN.md
+  s_821adae34fee5b::t_7a37730c0dec47 47,49
+python/sglang/srt/debug_utils/rollout_precision_ainsight.py
+  s_821adae34fee5b::t_009c2d03abfef7 340
+examples/rollout_precision/AINSIGHT_USER_GUIDE.md
+  s_821adae34fee5b::t_3df5fe37238e26 3,8-9,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a2c89c1bd0bd033d768e5f1fbbe32dd680138ac8",
+  "prompts": {},
+  "sessions": {
+    "s_821adae34fee5b": {
+      "agent_id": {
+        "tool": "codefuse",
+        "id": "8062924b-db18-4868-a965-50893a005d2e",
+        "model": "codefuse_official_channel/Kimi-K3.1-Pro:glink_domestic"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

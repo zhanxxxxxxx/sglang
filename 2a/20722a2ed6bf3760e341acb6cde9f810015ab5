@@ -1,0 +1,16 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 2801-2803
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  h_1d635ecd767a49 166-173,624,651-652,729-739,757-763,765-775,835-849
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2a20722a2ed6bf3760e341acb6cde9f810015ab5",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

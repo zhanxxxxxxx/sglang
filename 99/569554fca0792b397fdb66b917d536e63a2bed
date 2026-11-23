@@ -1,0 +1,16 @@
+python/sglang/srt/managers/scheduler_components/pp_request_mailbox.py
+  h_1d635ecd767a49 18-20,43,66,76-77,97,104-110,114-115,137,149-154,161,179-182
+test/registered/unit/managers/test_pp_distributed_request_mailbox.py
+  h_1d635ecd767a49 52,80-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "99569554fca0792b397fdb66b917d536e63a2bed",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

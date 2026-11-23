@@ -1,0 +1,24 @@
+python/sglang/srt/managers/schedule_batch.py
+  h_1c68eae29642ae 1021
+python/sglang/srt/managers/schedule_policy.py
+  h_1c68eae29642ae 35,209-210,232-233,241-243,248-263,289-294,331-332,415-493
+python/sglang/srt/managers/scheduler.py
+  h_1c68eae29642ae 1253-1259,1266-1271,3590,4542
+python/sglang/srt/server_args.py
+  h_1c68eae29642ae 911-912
+test/manual/test_schedule_policy.py
+  h_1c68eae29642ae 3,11-12,34-98
+test/registered/unit/test_server_args_cli_metadata.py
+  h_1c68eae29642ae 114-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bec8ac7e3b4e068a926afadb378438d71560d219",
+  "prompts": {},
+  "humans": {
+    "h_1c68eae29642ae": {
+      "author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+python/sglang/srt/debug_utils/deterministic_kda_compare.py
+  s_d2f4c9dc120b69::t_773988366007a6 120-162,176,188-193,256-257,279-282,284-288,356,370
+  s_d2f4c9dc120b69::t_2726b90703b93b 283,371-373
+test/registered/debug_utils/test_rollout_precision_offline.py
+  s_d2f4c9dc120b69::t_59744ebf76b51e 241-263
+  s_d2f4c9dc120b69::t_dc97c6826f05f0 240
+test/registered/debug_utils/test_rollout_precision.py
+  s_d2f4c9dc120b69::t_59744ebf76b51e 199-215,217-218
+  s_d2f4c9dc120b69::t_3b9ca3aa9bcd33 216
+python/sglang/srt/debug_utils/comparator/dp_utils.py
+  s_d2f4c9dc120b69::t_cf34ca8db72487 110-115
+  s_d2f4c9dc120b69::t_ff207d40229cfc 116-118
+python/sglang/srt/debug_utils/rollout_precision_offline.py
+  s_d2f4c9dc120b69::t_cf34ca8db72487 389-391,394-419,527-539,565-567,586-588,596-599
+  s_d2f4c9dc120b69::t_59744ebf76b51e 3-4,392-393
+test/registered/debug_utils/comparator/test_offline_batch_routes.py
+  s_d2f4c9dc120b69::t_59744ebf76b51e 153-163
+test/registered/debug_utils/test_deterministic_kda_compare.py
+  s_d2f4c9dc120b69::t_59744ebf76b51e 45,70-80,82-91
+  s_d2f4c9dc120b69::t_6eca0ccf89ec3d 81,92-93
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_773988366007a6 2010-2011
+  s_d2f4c9dc120b69::t_cf34ca8db72487 1074-1082
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "71e748a71849239c0db759e3b1713fa92e89d77d",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

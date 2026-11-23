@@ -1,0 +1,50 @@
+python/sglang/srt/arg_groups/field_order.py
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 557
+  s_3e4a55f3f80e4f::t_aa63550d8b223e 556
+python/sglang/srt/arg_groups/boundary_reduction.py
+  s_3e4a55f3f80e4f::t_f11ec821344495 5-8,78,80
+  s_3e4a55f3f80e4f::t_9cb2bb8213d72a 79,92-94
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 77,81
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 45,153
+python/sglang/srt/arg_groups/fields/spec.py
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 43-51
+test/registered/unit/configs/test_model_config.py
+  s_3e4a55f3f80e4f::t_f220155812f553 91-92
+  s_3e4a55f3f80e4f::t_d4560f107f8a85 14-17,120
+  s_3e4a55f3f80e4f::t_86011279821902 101-102
+  s_3e4a55f3f80e4f::t_99bf2b1817b92c 3,75-78,83-86,118-119,121-125,135-146,150,155-158,162-167
+  s_3e4a55f3f80e4f::t_9cb2bb8213d72a 79-82,87-90,93-100,103-117,126-134,147-149,151-154,159-161
+docs/docs/advanced_features/server_arguments.mdx
+  s_3e4a55f3f80e4f::t_f220155812f553 1311,1608-1612
+  s_3e4a55f3f80e4f::t_a68390c754ba9a 1613
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_3e4a55f3f80e4f::t_d4560f107f8a85 122,146-147,175
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 123-126,130,134-137,139-145,148-149,174,176-177,426,985,1060
+  s_3e4a55f3f80e4f::t_f11ec821344495 9,138
+  s_3e4a55f3f80e4f::t_9cb2bb8213d72a 127-129,131-133
+python/sglang/srt/arg_groups/fields/model.py
+  s_3e4a55f3f80e4f::t_0af3f733fdecc3 154-155
+python/sglang/srt/arg_groups/model_override_base.py
+  s_3e4a55f3f80e4f::t_f11ec821344495 8,193-208
+  s_3e4a55f3f80e4f::t_e214feac9b1b43 209-210
+python/sglang/srt/configs/model_config.py
+  s_3e4a55f3f80e4f::t_1639c4a6a65e4c 962-966,1014-1024
+  s_3e4a55f3f80e4f::t_85d95c346719d9 1025
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6c2cf7de318feca2b92fce06edf6a6aa3f0997f5",
+  "prompts": {},
+  "sessions": {
+    "s_3e4a55f3f80e4f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03c24-ee4c-7c60-879b-38244e8233f3",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+python/sglang/srt/mem_cache/unified_cache/components/swa.py
+  s_c37cdff1ca50b2::t_d0874ee08190cf 1588-1593
+python/sglang/srt/mem_cache/prefix_cache_audit.py
+  s_c37cdff1ca50b2::t_7b66ed89cee35d 3-4,8-12,24-49
+  s_c37cdff1ca50b2::t_d0874ee08190cf 1-2,5-7,13-23,50
+python/sglang/srt/mem_cache/events.py
+  s_c37cdff1ca50b2::t_d0874ee08190cf 36,271,274,369-370,430-444,448-451,481-482
+python/sglang/srt/managers/schedule_batch.py
+  s_c37cdff1ca50b2::t_7b66ed89cee35d 126,1168,1203,1239
+python/sglang/srt/mem_cache/unified_cache/components/mamba.py
+  s_c37cdff1ca50b2::t_d0874ee08190cf 1453-1458
+python/sglang/srt/environ.py
+  s_c37cdff1ca50b2::t_d0874ee08190cf 933
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_c37cdff1ca50b2::t_73b0931ed96497 95
+  s_c37cdff1ca50b2::t_d0874ee08190cf 554-559,2587-2588,2595,2597,2691,2707-2714
+  s_c37cdff1ca50b2::t_96ccfcea367a06 2596,2706
+  s_c37cdff1ca50b2::t_4433c279b5b2ae 2702-2705
+python/sglang/srt/managers/scheduler.py
+  s_c37cdff1ca50b2::t_4433c279b5b2ae 360,687-691,4718,4806-4813,4840-4845,4954-4958
+  s_c37cdff1ca50b2::t_df393f1d914cb4 4959
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "43393f2474070479a919f7b2b99e2fee82f3bf95",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

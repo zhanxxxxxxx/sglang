@@ -1,0 +1,37 @@
+python/sglang/srt/models/bailing_mm_v3.py
+  s_c050a148f13520::t_d113750150f2cb 919-925
+python/sglang/srt/speculative/dflash_info.py
+  s_c050a148f13520::t_d113750150f2cb 19,53
+test/registered/unit/layers/test_bailing_qsa_pooling.py
+  s_c050a148f13520::t_d113750150f2cb 14,19,30-77
+python/sglang/srt/layers/attention/dsa/qsa_pooling.py
+  s_c050a148f13520::t_d113750150f2cb 21,131-193
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_c050a148f13520::t_d113750150f2cb 29-32,34,84,110-115,274-287,334
+test/registered/unit/layers/test_ling_qsa_positions.py
+  s_c050a148f13520::t_d113750150f2cb 209-210,232,234,236-307,309-310,312-320
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_c050a148f13520::t_d113750150f2cb 507-515,519,529-532,561-563,567-568,594-595,1068-1081,1105
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_c050a148f13520::t_d113750150f2cb 759-761
+test/registered/unit/server_args/test_bailing_qsa.py
+  s_c050a148f13520::t_d113750150f2cb 88-117
+python/sglang/srt/arg_groups/overrides.py
+  s_c050a148f13520::t_d113750150f2cb 1289,1291,1299-1301,1334,1353-1372
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c1c7a5d39c20c2ed5cf77cd01315c30d05b4fee",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}
