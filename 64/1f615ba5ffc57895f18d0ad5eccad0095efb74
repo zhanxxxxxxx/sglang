@@ -1,0 +1,42 @@
+python/sglang/kernels/jit/csrc/bailing_v3/powlu_and_mul_masked_post_quant.cuh
+  h_1d635ecd767a49 77,93,150,201,206,209
+python/sglang/kernels/ops/moe/bailing_powlu.py
+  h_1d635ecd767a49 57
+python/sglang/kernels/ops/moe/powlu.py
+  h_1d635ecd767a49 186,279
+python/sglang/srt/layers/moe/moe_runner/base.py
+  h_1d635ecd767a49 72-80
+python/sglang/srt/layers/moe/moe_runner/flashinfer_cutedsl.py
+  h_1d635ecd767a49 423
+python/sglang/srt/layers/powlu.py
+  h_1d635ecd767a49 22-26,32-33
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 724-725,806,808,954-961
+python/sglang/test/kernels/test_powlu.py
+  h_1d635ecd767a49 10,25,31,35-47
+test/registered/kernels/ops/moe/test_bailing_powlu_mul_post_quant.py
+  h_1d635ecd767a49 19
+test/registered/kernels/ops/moe/test_fp8_powlu_masked.py
+  h_1d635ecd767a49 23
+test/registered/moe/test_bailing_nvfp4_dispatch.py
+  h_1d635ecd767a49 528
+test/registered/unit/layers/moe/test_apl_fp4.py
+  h_1d635ecd767a49 71,166,220-225
+test/registered/unit/layers/moe/test_cutedsl_sm_budget.py
+  h_1d635ecd767a49 142,168
+test/registered/unit/layers/test_amega_moe_gpu.py
+  h_1d635ecd767a49 92,208,338-339,405-408,575-576,684-686
+test/registered/unit/layers/test_powlu.py
+  h_1d635ecd767a49 26,31-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "641f615ba5ffc57895f18d0ad5eccad0095efb74",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
