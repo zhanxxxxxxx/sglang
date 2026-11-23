@@ -1,0 +1,26 @@
+docs/docs/references/environment_variables.mdx
+  h_1d635ecd767a49 401
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 30-33,37-39,41
+python/sglang/kernels/ops/quantization/__init__.py
+  h_1d635ecd767a49 7-8,62
+python/sglang/kernels/ops/quantization/_per_token_group_quant_jit.py
+  h_1d635ecd767a49 1-261
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  h_1d635ecd767a49 1,3,5,7-8,11,29-40,42-52
+test/registered/kernels/ops/moe/test_bailing_tp_router_weight.py
+  h_1d635ecd767a49 92-94,102,104
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  h_1d635ecd767a49 19,43-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5372efcb78b809d89157790e10a8eddd8e6e8e76",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
