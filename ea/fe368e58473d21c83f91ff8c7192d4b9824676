@@ -1,0 +1,42 @@
+python/sglang/srt/layers/attention/dsv4/indexer.py
+  h_1d635ecd767a49 872-874
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1d635ecd767a49 166-167,892-893
+python/sglang/srt/managers/scheduler_components/output_streamer.py
+  h_1d635ecd767a49 558-560
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 71-75,87,123,217,256,316,407,619-628,1717-1718,1885,1887-1893,1902-1903,1908,1935,2005,2054,2166-2170
+python/sglang/srt/managers/tp_worker.py
+  h_1d635ecd767a49 694
+python/sglang/srt/model_executor/model_runner.py
+  h_1d635ecd767a49 33,1017-1023,1025-1034,1532-1535,1538-1540,1649-1652,1657,1659-1667
+python/sglang/srt/speculative/eagle_worker_common.py
+  h_1d635ecd767a49 676-681
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  h_1d635ecd767a49 252-254,280-298
+python/sglang/srt/state_capturer/base.py
+  h_1d635ecd767a49 140
+python/sglang/srt/state_capturer/indexer_topk.py
+  h_1d635ecd767a49 16-18
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  h_1d635ecd767a49 97-121
+test/registered/unit/managers/test_output_streamer_customized_info.py
+  h_1d635ecd767a49 57-83
+test/registered/unit/managers/test_pp_result_stream_order.py
+  h_1d635ecd767a49 98-102
+test/registered/unit/spec/test_pipeline_eagle_worker.py
+  h_1d635ecd767a49 180-183
+test/registered/unit/state_capturer/test_routed_experts_pp.py
+  h_1d635ecd767a49 98-100,105,136,152,158,179-182,202,275,354-357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eafe368e58473d21c83f91ff8c7192d4b9824676",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

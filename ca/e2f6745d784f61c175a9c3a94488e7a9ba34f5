@@ -1,0 +1,16 @@
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 89-100,634-664,1968-1969,2006
+python/sglang/srt/managers/utils.py
+  h_1d635ecd767a49 147-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cae2f6745d784f61c175a9c3a94488e7a9ba34f5",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

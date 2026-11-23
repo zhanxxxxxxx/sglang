@@ -1,0 +1,192 @@
+.github/actions/check-pr-test-health/action.test.cjs
+  h_1f940cd96f2dab 18,26-31,45,58,199-231
+.github/actions/check-pr-test-health/action.yml
+  h_1f940cd96f2dab 41-62,68,73,94,99,150-154,158
+.github/workflows/_diffusion-pr-test-stage.yml
+  h_1f940cd96f2dab 10-13,15,65,130-131
+.github/workflows/pr-test-multimodal-gen.yml
+  h_1f940cd96f2dab 82,98,122,138-139,177,197
+docs/docs.json
+  h_1f940cd96f2dab 1003
+docs/docs/advanced_features/cuda_graph_persistence.mdx
+  h_1f940cd96f2dab 1-88
+docs/docs/advanced_features/server_arguments.mdx
+  h_1f940cd96f2dab 2687-2698
+python/pyproject.toml
+  h_1f940cd96f2dab 181-187
+python/sglang/benchmark/one_batch_server.py
+  h_1f940cd96f2dab 22,24-25,43,66-71,123-149,523-531,541,554,591-596,621-745,829,831-836,1017-1027,1029-1047,1064,1069-1076,1078-1079,1097-1112,1178-1180,1278-1279,1503,1527-1534,1665,1720,1786
+python/sglang/benchmark/utils.py
+  h_1f940cd96f2dab 34-50
+python/sglang/kernels/plugin_kernels/nvidia/spec.py
+  h_1f940cd96f2dab 31-37,79-80,116-121
+python/sglang/multimodal_gen/configs/models/vaes/flux.py
+  h_1f940cd96f2dab 67-69
+python/sglang/multimodal_gen/runtime/models/encoders/flux3_text_encoder.py
+  h_1f940cd96f2dab 26-28,119-123,183-200,234-244
+python/sglang/multimodal_gen/runtime/models/encoders/text_encoder_graphs.py
+  h_1f940cd96f2dab 1-91
+python/sglang/multimodal_gen/runtime/pipelines_core/composed_pipeline_base.py
+  h_1f940cd96f2dab 246
+python/sglang/multimodal_gen/runtime/pipelines_core/stages/model_specific_stages/qwen_image21.py
+  h_1f940cd96f2dab 22-24
+python/sglang/multimodal_gen/runtime/utils/hf_diffusers_utils.py
+  h_1f940cd96f2dab 980,992-993,1079-1091,1109
+python/sglang/multimodal_gen/test/runner/diffusion_suite_runner.py
+  h_1f940cd96f2dab 63,238-255,371,387
+python/sglang/multimodal_gen/test/server/gpu_cases.py
+  h_1f940cd96f2dab 1618,1654-1655,1661,1685-1712,1736-1737,1745
+python/sglang/multimodal_gen/test/single_test_file/test_ar_models.py
+  h_1f940cd96f2dab 52-56,91,98,105,131,137
+python/sglang/multimodal_gen/test/single_test_file/test_disagg_server.py
+  h_1f940cd96f2dab 37,43,119-138,145,157,178-183,199-200,208,221-227,229,240-242,257,263,270,283
+python/sglang/multimodal_gen/test/test_utils.py
+  h_1f940cd96f2dab 286-287,294-297
+python/sglang/multimodal_gen/test/unit/sana_wm/conftest.py
+  h_1f940cd96f2dab 1-12
+python/sglang/multimodal_gen/test/unit/sana_wm/test_streaming_forward_long.py
+  h_1f940cd96f2dab 429
+python/sglang/multimodal_gen/test/unit/sana_wm/test_streaming_stage.py
+  h_1f940cd96f2dab 182
+python/sglang/multimodal_gen/test/unit/test_flux3_image_served.py
+  h_1f940cd96f2dab 875,902-966
+python/sglang/multimodal_gen/test/unit/test_hf_diffusers_utils.py
+  h_1f940cd96f2dab 378-454
+python/sglang/multimodal_gen/test/unit/test_input_validation.py
+  h_1f940cd96f2dab 268,273-276,288-296
+python/sglang/multimodal_gen/test/unit/test_qwen_image21_cuda.py
+  h_1f940cd96f2dab 35-37
+python/sglang/multimodal_gen/test/unit/test_suite_partitioning.py
+  h_1f940cd96f2dab 118-145,305-355
+python/sglang/srt/arg_groups/cuda_graph_hook.py
+  h_1f940cd96f2dab 349-403
+python/sglang/srt/arg_groups/field_order.py
+  h_1f940cd96f2dab 597-598
+python/sglang/srt/arg_groups/fields/exec_.py
+  h_1f940cd96f2dab 804-814
+python/sglang/srt/arg_groups/pipeline.py
+  h_1f940cd96f2dab 203-204,207,381
+python/sglang/srt/arg_groups/resolution_hooks.py
+  h_1f940cd96f2dab 43,104
+python/sglang/srt/batch_overlap/two_batch_overlap.py
+  h_1f940cd96f2dab 1192-1199
+python/sglang/srt/distributed/bootstrap.py
+  h_1f940cd96f2dab 48,114-115
+python/sglang/srt/distributed/device_communicators/triton_symm_mem_ag.py
+  h_1f940cd96f2dab 542-556,563-566,578
+python/sglang/srt/entrypoints/engine.py
+  h_1f940cd96f2dab 165,930-932,971,1003-1005
+python/sglang/srt/kernel_plugins/nvidia/binding.py
+  h_1f940cd96f2dab 7-12,34,79,128-139,278-368,411-415,429-431,465-469,585-589,612-614,616-617,622-638,645-659,811-825,828-829,836,840-843,845,852-854,860-863
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  h_1f940cd96f2dab 238
+python/sglang/srt/layers/logits_processor.py
+  h_1f940cd96f2dab 62-65,662-674,1942-1966
+python/sglang/srt/layers/moe/token_dispatcher/base.py
+  h_1f940cd96f2dab 10,436-472
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  h_1f940cd96f2dab 444-454,1114-1124
+python/sglang/srt/layers/moe/token_dispatcher/deepep_v2.py
+  h_1f940cd96f2dab 537-540
+python/sglang/srt/layers/moe/token_dispatcher/flashinfer.py
+  h_1f940cd96f2dab 277-283
+python/sglang/srt/layers/moe/token_dispatcher/mooncake.py
+  h_1f940cd96f2dab 402-408
+python/sglang/srt/layers/moe/token_dispatcher/nixl.py
+  h_1f940cd96f2dab 485
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_1f940cd96f2dab 153-185,259,261
+python/sglang/srt/layers/quantization/unquant.py
+  h_1f940cd96f2dab 1044
+python/sglang/srt/managers/scheduler.py
+  h_1f940cd96f2dab 434,7189-7190,7231
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  h_1f940cd96f2dab 137,3508-3512,3517,3525-3526
+python/sglang/srt/model_executor/model_runner_components/capture_state.py
+  h_1f940cd96f2dab 1-56
+python/sglang/srt/model_executor/runner/base_runner.py
+  h_1f940cd96f2dab 49-51,273,406-415
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_1f940cd96f2dab 101,138,1313-1327,1340-1350
+python/sglang/srt/model_executor/runner/flashinfer_autotune.py
+  h_1f940cd96f2dab 42,96-99,101-104,180-196
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1f940cd96f2dab 102-104,190,1842-1856
+python/sglang/srt/model_executor/runner_backend/full_cuda_graph_backend.py
+  h_1f940cd96f2dab 46,151-165
+python/sglang/srt/speculative/eagle_draft_cuda_graph_runner.py
+  h_1f940cd96f2dab 423-441,584
+python/sglang/srt/speculative/eagle_draft_extend_cuda_graph_runner.py
+  h_1f940cd96f2dab 419-424,544
+python/sglang/srt/speculative/eagle_worker_v2.py
+  h_1f940cd96f2dab 250-264,282-283
+python/sglang/srt/utils/foundry_adapter.py
+  h_1f940cd96f2dab 1-304
+python/sglang/srt/utils/network.py
+  h_1f940cd96f2dab 3,219,224-243
+python/sglang/test/kits/attention_unittest/runner_modes/speculative_draft_extend_runner.py
+  h_1f940cd96f2dab 436-439,468-471
+python/sglang/test/kits/attention_unittest/runner_modes/speculative_draft_runner.py
+  h_1f940cd96f2dab 173-176,225-228
+python/sglang/test/simple_eval_mmmu_vlm.py
+  h_1f940cd96f2dab 303,321
+rust/Cargo.lock
+  h_1f940cd96f2dab 4166
+rust/sglang-server/Cargo.toml
+  h_1f940cd96f2dab 48-49
+rust/sglang-server/src/lib.rs
+  h_1f940cd96f2dab 32,46
+rust/sglang-server/src/multi_modality/encoded.rs
+  h_1f940cd96f2dab 54-58,121,177-251,263-272,284-290,343-348
+scripts/ci/cuda/ci_install_dependency.sh
+  h_1f940cd96f2dab 223-226
+scripts/ci/utils/diffusion/verify_diffusion_coverage.py
+  h_1f940cd96f2dab 32-33,36-47
+test/registered/e2e/cuda_graph/persistence/test_cuda_graph_persistence.py
+  h_1f940cd96f2dab 1-511
+test/registered/e2e/cuda_graph/persistence/test_cuda_graph_persistence_multigpu.py
+  h_1f940cd96f2dab 1-10,13-79,83
+test/registered/e2e/cuda_graph/persistence/test_cuda_graph_persistence_nightly.py
+  h_1f940cd96f2dab 1-9,12-19,23
+test/registered/e2e/diffusion/test_async_video_serving.py
+  h_1f940cd96f2dab 212-217
+test/registered/e2e/diffusion/test_diffusion_1_gpu_b200.py
+  h_1f940cd96f2dab 8
+test/registered/kernels/ops/attention/test_inkling_checkpoint_indices.py
+  h_1f940cd96f2dab 868
+test/registered/unit/bench/test_one_batch_dp_listeners.py
+  h_1f940cd96f2dab 1-368
+test/registered/unit/distributed/test_multimem_all_gatherer.py
+  h_1f940cd96f2dab 1-69
+test/registered/unit/kernel_plugins/nvidia/_fakes.py
+  h_1f940cd96f2dab 70-79
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_binding.py
+  h_1f940cd96f2dab 113-233
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_draft_capture.py
+  h_1f940cd96f2dab 1-207
+test/registered/unit/kernel_plugins/nvidia/test_megakernel_guards.py
+  h_1f940cd96f2dab 3,11,20,57-119
+test/registered/unit/layers/moe/test_standard_dispatcher.py
+  h_1f940cd96f2dab 9,13-16,36-133
+test/registered/unit/multimodal/rust/qwen/test_e2e_parity.py
+  h_1f940cd96f2dab 22,338,342
+test/registered/unit/spec/test_eagle_draft_embed_share.py
+  h_1f940cd96f2dab 1-89
+test/registered/unit/utils/test_foundry_adapter.py
+  h_1f940cd96f2dab 1-416
+test/registered/utils/test_socket_utils.py
+  h_1f940cd96f2dab 10,157-171
+test/run_suite.py
+  h_1f940cd96f2dab 92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "deed0a14f354c3471439d7096a11c3a30eb75626",
+  "prompts": {},
+  "humans": {
+    "h_1f940cd96f2dab": {
+      "author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+python/sglang/srt/model_executor/model_runner_components/layer_setup.py
+  h_1d635ecd767a49 8-9,54,56-61,73-74
+python/sglang/srt/model_executor/runner/base_runner.py
+  h_1d635ecd767a49 35-37,46-51,242-282
+python/sglang/srt/model_executor/runner/eager_runner.py
+  h_1d635ecd767a49 289-290
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 117,278-318,612-620,732-740,746,1043-1045,1173-1177,1709-1711,1742-1746,1844-1846
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_1d635ecd767a49 42-74,166-178
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 84,94,97-99,154-184,513-534
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4782-4792,4794-4795,5468-5471
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 12-15,68-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a3337293a91f0f103a44aaf22013c75d4a274b9",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
