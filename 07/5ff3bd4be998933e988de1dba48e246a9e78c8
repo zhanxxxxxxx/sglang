@@ -1,0 +1,21 @@
+docker/ant/modelspeed/modelspeed-revision
+  s_d1126527e97f3a::t_8fade3f6c57f0a 1
+docker/ant/modelspeed/modelspeed-source.sha256
+  s_d1126527e97f3a::t_3e8a73264ff154 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "075ff3bd4be998933e988de1dba48e246a9e78c8",
+  "prompts": {},
+  "sessions": {
+    "s_d1126527e97f3a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e38b-9c54-7683-9855-232fe63a3ea2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

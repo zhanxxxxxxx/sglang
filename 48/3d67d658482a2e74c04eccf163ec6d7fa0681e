@@ -1,0 +1,23 @@
+python/sglang/srt/function_call/qwen3_coder_detector.py
+  s_d38a96ca724e6e::t_78999606147479 19,64-68,74-77,97,253,265,267-274,277-278,345,414,416,465
+python/sglang/srt/function_call/utils.py
+  s_d38a96ca724e6e::t_3d490412f03e88 326-392
+test/registered/unit/function_call/test_function_call_parser.py
+  s_d38a96ca724e6e::t_bd86cdce84b108 6030-6082,6141-6227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "483d67d658482a2e74c04eccf163ec6d7fa0681e",
+  "prompts": {},
+  "sessions": {
+    "s_d38a96ca724e6e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d38a96ca724e6e",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

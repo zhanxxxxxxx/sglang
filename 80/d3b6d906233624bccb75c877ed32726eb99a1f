@@ -1,0 +1,36 @@
+test/registered/kernel/attention/dsv4/test_dsv41_tail_graph_access.py
+  s_fe92d796c96f00::t_b64a6a51894a70 1-3,5-10,15-66,140
+  s_fe92d796c96f00::t_71e70287d5b376 4,11-13,67-86,88,93-99,105-107,112,119-122,125,127-128,130-132,139
+  s_fe92d796c96f00::t_7c6bfb89c24a86 14,87,89-92,100-104,108-111,113-114,116-118,123-124,126,129,133-138
+  s_fe92d796c96f00::t_4551c26ff7f367 115
+python/sglang/srt/models/deepseek_v4_replay_tail.py
+  s_fe92d796c96f00::t_71e70287d5b376 293,297-304
+python/sglang/srt/layers/attention/deepseek_v4_backend_hip_radix.py
+  s_fe92d796c96f00::t_d8e2529c5d5897 1698,3033
+python/sglang/srt/mem_cache/dsv41_swa_storage.py
+  s_fe92d796c96f00::t_d8e2529c5d5897 209-214
+test/registered/unit/mem_cache/test_dsv41_swa_storage_dispatch.py
+  s_fe92d796c96f00::t_71e70287d5b376 9,11,55,57,74-85,97-98,100-101,103-104
+  s_fe92d796c96f00::t_239b9c46bcd76c 99
+test/registered/unit/mem_cache/test_dsv41_layer_access.py
+  s_fe92d796c96f00::t_8a82fa5770df11 24,37,225-226,228-229
+  s_fe92d796c96f00::t_b6b803df01f4ea 227
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_fe92d796c96f00::t_d8e2529c5d5897 1522,1633-1635,4892,4923-4924,4933-4935
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "80d3b6d906233624bccb75c877ed32726eb99a1f",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

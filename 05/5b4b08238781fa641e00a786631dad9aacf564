@@ -1,0 +1,37 @@
+python/sglang/srt/environ.py
+  s_c37cdff1ca50b2::t_9893bfaa9a44e9 2032-2033
+python/sglang/srt/disaggregation/encoder/health.py
+  s_c37cdff1ca50b2::t_3d69773a6d755d 8,25-27,40-53,55-56,58-60
+  s_c37cdff1ca50b2::t_9893bfaa9a44e9 1-7,9-24,28-39,54,57,61-103
+test/registered/unit/disaggregation/test_encoder_health.py
+  s_c37cdff1ca50b2::t_3d69773a6d755d 23-28,34,45-55,57-69
+  s_c37cdff1ca50b2::t_228aefc70de33f 1-22,29-33,35-44,56,70-114
+python/sglang/srt/disaggregation/encoder/server.py
+  s_c37cdff1ca50b2::t_228aefc70de33f 2336
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_c37cdff1ca50b2::t_f578bc7a937e15 486-488
+  s_c37cdff1ca50b2::t_228aefc70de33f 295-296
+  s_c37cdff1ca50b2::t_047bfd1e030d05 30,46,95,106,108-109,113-115,124,142-145,190,276-294,297-314,317,354,356-358,366-378,759-770
+  s_c37cdff1ca50b2::t_3d69773a6d755d 321-326,355,485,490-496
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_c37cdff1ca50b2::t_228aefc70de33f 247,288-290
+  s_c37cdff1ca50b2::t_f578bc7a937e15 400-403
+  s_c37cdff1ca50b2::t_66a282b23127d7 20,219,251-254,279,281-287,291,293-296,321,385-389,408,413
+  s_c37cdff1ca50b2::t_b19eb24d8242bf 414
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "055b4b08238781fa641e00a786631dad9aacf564",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+execution/git_fetch.py
+  s_1d32b085fb33ca::t_b1d973f27f28b1 1-27
+execution/git_source.py
+  s_1d32b085fb33ca::t_2668532bfeb415 13,120
+execution/sglang/git_preflight.py
+  s_1d32b085fb33ca::t_08a701ba4e2c0f 9,38,44-47
+tests/inference_rsi/test_git_worker_preflight.py
+  s_1d32b085fb33ca::t_90a9d0c06a0352 232-267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98f05e054a8f5573ffee1cff710137439c9f4acf",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

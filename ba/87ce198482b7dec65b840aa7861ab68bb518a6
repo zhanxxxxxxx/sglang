@@ -1,0 +1,32 @@
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_f5a50be0fc3a60::t_3a2ec70041f7fd 242
+  s_f5a50be0fc3a60::t_19b2a6d70d4a46 243
+  s_f5a50be0fc3a60::t_9a636588730bfe 201-202
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  s_f5a50be0fc3a60::t_9a636588730bfe 52-53
+  s_f5a50be0fc3a60::t_575389196d7579 51,54,67-79,89-97
+  s_f5a50be0fc3a60::t_931d11341cd9c5 80,82-88,98
+  s_f5a50be0fc3a60::t_3a2ec70041f7fd 48,55-56,66,81
+  s_f5a50be0fc3a60::t_4fa1655bebe9d6 99
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_tuning.py
+  s_f5a50be0fc3a60::t_19b2a6d70d4a46 8,27,31,38
+  s_f5a50be0fc3a60::t_e230bfa024d2f1 23,32
+  s_f5a50be0fc3a60::t_575389196d7579 29-30
+  s_f5a50be0fc3a60::t_3a2ec70041f7fd 6-7,9,14-15,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba87ce198482b7dec65b840aa7861ab68bb518a6",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

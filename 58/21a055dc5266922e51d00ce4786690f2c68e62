@@ -1,0 +1,29 @@
+python/sglang/kernels/ops/communication/glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_6c46ee3f759f52 146-149,274-286
+  s_f5a50be0fc3a60::t_5fde667d8d573c 1,5-7,34-73
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_5fde667d8d573c 263
+test/registered/unit/distributed/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_5fde667d8d573c 201-227,231-257,343-345
+  s_f5a50be0fc3a60::t_6c46ee3f759f52 64,228,258,334-342
+python/sglang/kernels/ops/moe/moe_fused_mul_sum.py
+  s_f5a50be0fc3a60::t_6c46ee3f759f52 14,19,71-80,167,185-187,189,206-208,222,227
+test/registered/kernels/ops/moe/test_moe_fused_mul_sum_shared.py
+  s_f5a50be0fc3a60::t_6c46ee3f759f52 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5821a055dc5266922e51d00ce4786690f2c68e62",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

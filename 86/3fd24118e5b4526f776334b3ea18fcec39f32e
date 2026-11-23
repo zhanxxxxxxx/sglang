@@ -1,0 +1,64 @@
+python/sglang/srt/models/deepseek_v2.py
+  s_89ecfa4641a1d9::t_25282a0236c7ed 910-916
+  s_89ecfa4641a1d9::t_137815ca1a5ee5 1654-1665
+python/sglang/srt/environ.py
+  s_89ecfa4641a1d9::t_12c6d7f754151b 473-475
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_89ecfa4641a1d9::t_4390d7a24304c9 233-236
+  s_89ecfa4641a1d9::t_8688d07d077a7e 244-247,249-261
+python/sglang/srt/layers/moe/dsv41_route_load_contract.py
+  s_89ecfa4641a1d9::t_484094d5fe95db 1-697
+python/sglang/srt/layers/moe/dsv41_route_load_observer.py
+  s_89ecfa4641a1d9::t_c9b18eeab98287 307-315,330,333-334,346-348
+  s_89ecfa4641a1d9::t_bda5d09892b8d2 316-324
+  s_89ecfa4641a1d9::t_423de44eb30861 336
+  s_89ecfa4641a1d9::t_fe9ded306c66df 421
+  s_89ecfa4641a1d9::t_1d9106a85adb96 350
+  s_89ecfa4641a1d9::t_9bd47aa18c9ba2 403
+  s_89ecfa4641a1d9::t_b552b36349007d 425
+  s_89ecfa4641a1d9::t_cf27d54b288835 9
+  s_89ecfa4641a1d9::t_9db83529529340 1-8,10-50,52-54,56-68,72,76,79-268,270-284,288-306,325-329,331-332,335,337-345,349,351-402,404-420,422-424,426-444
+  s_89ecfa4641a1d9::t_7b382616dcd271 269
+  s_89ecfa4641a1d9::t_95c9cc1932e7c7 51
+  s_89ecfa4641a1d9::t_949d220d970f36 55
+  s_89ecfa4641a1d9::t_71824381c20426 285-287
+  s_89ecfa4641a1d9::t_f5c876aee78ed5 69-71,73-75,77-78
+python/sglang/srt/models/deepseek_v4.py
+  s_89ecfa4641a1d9::t_1fa2be4d6df755 4167-4183
+  s_89ecfa4641a1d9::t_8947983541bce8 4166
+python/sglang/srt/managers/scheduler_components/profiler_manager.py
+  s_89ecfa4641a1d9::t_1a853167e4a0dd 411-416
+  s_89ecfa4641a1d9::t_0d25ac23cbba15 102-106
+test/manual/test_dsv41_route_load_contract.py
+  s_89ecfa4641a1d9::t_ace638def16c48 1-324
+test/manual/dsv41_route_load_diagnostic.py
+  s_89ecfa4641a1d9::t_2364742446451d 521
+  s_89ecfa4641a1d9::t_ea9a70b3f19d1b 72
+  s_89ecfa4641a1d9::t_0774f58629c67a 334,343-344,346,351,396-489,519,791
+  s_89ecfa4641a1d9::t_18af9ea478032a 591-593
+  s_89ecfa4641a1d9::t_dee7f550597659 1-5
+  s_89ecfa4641a1d9::t_d760370a4762d2 567-570
+  s_89ecfa4641a1d9::t_059bc8ddac9704 786
+  s_89ecfa4641a1d9::t_855660645675a0 577-585
+  s_89ecfa4641a1d9::t_ce49e36fbbcacb 73,155,171,185,215,249,282,286,352,393,505,517,604,624,646,664-700,727,787,797,811
+  s_89ecfa4641a1d9::t_2392a2303d4256 764-773,820
+  s_89ecfa4641a1d9::t_e3031e815880ac 512
+  s_89ecfa4641a1d9::t_2807cef3284a79 798
+  s_89ecfa4641a1d9::t_5e65234ce8005d 6-71,74-154,156-170,172-184,186-214,216-248,250-281,283-285,287-333,335-342,345,347-350,353-392,394-395,490-504,506-511,513-516,518,520,522-566,571-576,586-590,594-603,605-623,625-645,647-663,701-726,728-763,774-785,788-790,792-796,799-810,812-819,821-837
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "863fd24118e5b4526f776334b3ea18fcec39f32e",
+  "prompts": {},
+  "sessions": {
+    "s_89ecfa4641a1d9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "523c0e74-dcdc-4bcb-bff7-a12566c81064",
+        "model": "grok-4.7"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

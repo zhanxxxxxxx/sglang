@@ -1,0 +1,19 @@
+.aci/ignore_cases.txt
+  s_97b7f72fc33276::t_827c3a80fff940 418,426-429,479,481,493,497,501-502,504-506,516,533,547,568,571-572,578-579
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2475a5750c9fabb72c0c1f79a9e6160eebb54434",
+  "prompts": {},
+  "sessions": {
+    "s_97b7f72fc33276": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b9a4-a98b-7392-8dbb-a468cd5d36e5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhengyoufu <zhengyoufu.zyf@antgroup.com>"
+    }
+  }
+}

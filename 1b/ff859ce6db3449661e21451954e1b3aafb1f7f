@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/attention/dsa/qsa_paged_mqa.py
+  h_1d635ecd767a49 91,186-187,189-205,259-263,280,321,340-342,378
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_1d635ecd767a49 350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1bff859ce6db3449661e21451954e1b3aafb1f7f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

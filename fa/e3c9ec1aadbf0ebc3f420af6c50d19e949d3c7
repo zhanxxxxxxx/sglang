@@ -1,0 +1,20 @@
+test/manual/dsv41_route_load_diagnostic.py
+  s_89ecfa4641a1d9::t_1593528de4417f 775,777-778
+  s_89ecfa4641a1d9::t_c0c672c5105fb5 692-693,697-702,704-705
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fae3c9ec1aadbf0ebc3f420af6c50d19e949d3c7",
+  "prompts": {},
+  "sessions": {
+    "s_89ecfa4641a1d9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "523c0e74-dcdc-4bcb-bff7-a12566c81064",
+        "model": "grok-4.7"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+tests/inference_rsi/test_bottleneck_generation.py
+  s_1d32b085fb33ca::t_52432602054445 1-4,6-14,17-153
+  s_1d32b085fb33ca::t_02e61d548c6341 5,15-16,154-272
+experiments/scheduling.py
+  s_1d32b085fb33ca::t_37e333727c3419 77-79
+  s_1d32b085fb33ca::t_62bee02fc60aa7 59-63,69-76,80-87,127-129
+planning/bottlenecks.py
+  s_1d32b085fb33ca::t_3e231d4a182795 1-270
+agents/codex_worker.py
+  s_1d32b085fb33ca::t_f59e354c43f869 111-116,121
+docs/bottleneck-driven-generation.md
+  s_1d32b085fb33ca::t_1ff8125fe018a7 10
+  s_1d32b085fb33ca::t_ab964a813594df 1-9,11-35
+planning/directions.py
+  s_1d32b085fb33ca::t_62bee02fc60aa7 33-34,63,67,91-105,113-123,126-137,140
+  s_1d32b085fb33ca::t_7ddf1483668f3a 76-89
+  s_1d32b085fb33ca::t_320ce27e8e9614 6,29-32,57-62,64-66,68-75,90,124-125,138-139
+tests/inference_rsi/test_bottleneck_targets.py
+  s_1d32b085fb33ca::t_3e231d4a182795 1-133
+orchestrator/generation.py
+  s_1d32b085fb33ca::t_37e333727c3419 10,114-117,119-120,155-158,223-224
+  s_1d32b085fb33ca::t_79f00f18037586 17-26,121
+  s_1d32b085fb33ca::t_7ddf1483668f3a 189-203
+  s_1d32b085fb33ca::t_e5b47318798252 108-111,113,146,150,159-160,165-172,204-205,211-212,225-226
+evidence/bottlenecks.py
+  s_1d32b085fb33ca::t_10ca0decdc78fb 1-111
+tests/inference_rsi/test_bottleneck_evidence.py
+  s_1d32b085fb33ca::t_8cf9e0b8c301fa 1-145
+tests/inference_rsi/test_bottleneck_planning.py
+  s_1d32b085fb33ca::t_1ff8125fe018a7 14
+  s_1d32b085fb33ca::t_b5e17b5e7acde8 1-13,15-123
+docs/generation-context.md
+  s_1d32b085fb33ca::t_32a1ca82518594 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3af245404bdb41caee1c278f6ecdc4714b643981",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

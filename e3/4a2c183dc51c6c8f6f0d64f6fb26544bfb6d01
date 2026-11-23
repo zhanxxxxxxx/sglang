@@ -1,0 +1,53 @@
+python/sglang/srt/mem_cache/utils.py
+  s_f5a50be0fc3a60::t_54b512e6cef8d1 49,59
+test/registered/unit/mem_cache/test_mamba_write_back_eviction.py
+  s_f5a50be0fc3a60::t_550d3a687a4da3 393-417
+  s_f5a50be0fc3a60::t_7c7a799d185d30 36,104,269,389-391
+  s_f5a50be0fc3a60::t_58b5d35a6526eb 392
+  s_f5a50be0fc3a60::t_f8f09c37494ecd 418
+python/sglang/srt/mem_cache/evict_policy.py
+  s_f5a50be0fc3a60::t_54b512e6cef8d1 3,22-38
+  s_f5a50be0fc3a60::t_f0951f2960d519 39-40
+test/registered/unit/mem_cache/test_mamba_gds_eviction.py
+  s_f5a50be0fc3a60::t_7f7c65a831b98f 8,14,16-17,19
+  s_f5a50be0fc3a60::t_3fec117ba008e9 20
+  s_f5a50be0fc3a60::t_69bb7d2813d9d0 1-7,9-10,18,21,23,27-48,50-181
+  s_f5a50be0fc3a60::t_4f53576d3d1231 11-13,15,22,24-26,49
+python/sglang/srt/server_args.py
+  s_f5a50be0fc3a60::t_12a34c7e9163b0 9000-9005
+  s_f5a50be0fc3a60::t_54b512e6cef8d1 342,979-981,987-991,993-997
+  s_f5a50be0fc3a60::t_4f53576d3d1231 992
+test/registered/unit/managers/test_batch_result_processor_mamba_boundary.py
+  s_f5a50be0fc3a60::t_e6779ef796116c 158-159,164
+python/sglang/srt/mem_cache/cache_init_params.py
+  s_f5a50be0fc3a60::t_54b512e6cef8d1 30
+test/registered/unit/mem_cache/test_evict_policy.py
+  s_f5a50be0fc3a60::t_ee1559be2620ab 14
+  s_f5a50be0fc3a60::t_e5c1aa66cf3a0d 48-57,64-65,67-70
+  s_f5a50be0fc3a60::t_4f53576d3d1231 58-63,66
+test/registered/unit/test_server_args_cli_metadata.py
+  s_f5a50be0fc3a60::t_0bfe3855622173 50,135-140,147-151
+  s_f5a50be0fc3a60::t_2565b7092e4c32 141-146
+  s_f5a50be0fc3a60::t_aae7b270361461 152
+python/sglang/srt/mem_cache/kv_cache_builder.py
+  s_f5a50be0fc3a60::t_54b512e6cef8d1 299
+python/sglang/srt/mem_cache/unified_cache/components/mamba_component.py
+  s_f5a50be0fc3a60::t_4f53576d3d1231 18,470-472,550-555
+  s_f5a50be0fc3a60::t_e01d24d4fe7568 3,62-63,81-91,151,245-246,263-264,268,383-386,409-410,462-464,468-469,473-549,556-561,620,951-952
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e34a2c183dc51c6c8f6f0d64f6fb26544bfb6d01",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+python/sglang/srt/layers/moe/moe_runner/humming_tuning_override.py
+  s_c37cdff1ca50b2::t_8ff59f72eac9c0 48-53,62,66
+test/unit/test_humming_tuning_override.py
+  s_c37cdff1ca50b2::t_8ff59f72eac9c0 142,158-175,233-235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f268e43fa7b123d64cd9744761b637e86b87d90f",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

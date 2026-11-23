@@ -1,0 +1,14 @@
+test/registered/sampling/test_score_centering_logprobs.py
+  h_972de8c55f3fd2 20-22,104-106,365-434
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "846493c6e0793f44c836d360b7620448e0cb827c",
+  "prompts": {},
+  "humans": {
+    "h_972de8c55f3fd2": {
+      "author": "潜雨 <runyuan.zry@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+test/registered/unit/server_args/test_glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_3d50021e021fd0 86,90-91,225-233,239
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_3d50021e021fd0 25,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fb3cb2c6e11896c4cc2a55c41515875b1e0a2a56",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

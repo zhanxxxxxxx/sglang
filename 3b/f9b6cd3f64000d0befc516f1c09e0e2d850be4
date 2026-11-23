@@ -1,0 +1,21 @@
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_cd5b75225dd2e7::t_b6cc916677d2bb 5
+  s_cd5b75225dd2e7::t_a3f73ea607a376 561-574
+  s_cd5b75225dd2e7::t_39e9d2a435b581 432-509
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3bf9b6cd3f64000d0befc516f1c09e0e2d850be4",
+  "prompts": {},
+  "sessions": {
+    "s_cd5b75225dd2e7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2694195a-3904-43ce-8e97-f8aa2046356e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

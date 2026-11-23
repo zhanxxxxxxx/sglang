@@ -1,0 +1,20 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_18bbfa9aac699b::t_e55d3c551b0f86 691-694,700-708,714-717,735-737,796-798
+  s_18bbfa9aac699b::t_0bbc6af28e5cdf 695-699,709-713
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9851b6a1349b6778cdfbfaaa425e577e1e9f3af1",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
