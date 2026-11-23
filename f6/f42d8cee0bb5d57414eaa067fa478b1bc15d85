@@ -1,0 +1,30 @@
+test/registered/unit/mem_cache/test_unified_hicache_regressions.py
+  s_f3e5574164d7e0::t_31e00c259c2aad 4,89-121,165
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_f3e5574164d7e0::t_35c192307d4b79 408,539-540,1604-1607,5104-5105,5249-5268,5271,5275-5296,5304-5305
+  s_f3e5574164d7e0::t_4d8853e0bf4863 5269-5270,5272-5274
+test/registered/unit/mem_cache/test_write_back_eviction_batching.py
+  s_f3e5574164d7e0::t_97f3088e573a61 15,65-67,97,243-314,316-320,324-325
+  s_f3e5574164d7e0::t_3beffcc8a3b7b9 315,321-323
+  s_f3e5574164d7e0::t_8821580b1c3995 326
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_f3e5574164d7e0::t_d241bf3a237feb 10,735
+test/registered/unit/mem_cache/test_unified_hicache_hybrid_retry.py
+  s_f3e5574164d7e0::t_d241bf3a237feb 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f6f42d8cee0bb5d57414eaa067fa478b1bc15d85",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

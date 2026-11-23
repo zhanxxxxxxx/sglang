@@ -1,0 +1,56 @@
+python/sglang/srt/disaggregation/utils.py
+  s_c37cdff1ca50b2::t_3178680459c5df 1865-1868
+python/sglang/srt/arg_groups/kv_shard_hook.py
+  s_c37cdff1ca50b2::t_3178680459c5df 21,25,77-98,112
+test/registered/unit/mem_cache/test_page_interleave_shard.py
+  s_c37cdff1ca50b2::t_3178680459c5df 59,2144-2180
+  s_c37cdff1ca50b2::t_8e8a68140db920 89,2181-2210,2212-2220
+  s_c37cdff1ca50b2::t_6982de6cbde032 2211
+  s_c37cdff1ca50b2::t_97cdad6f88ff7c 2221
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_pool_assembler.py
+  s_c37cdff1ca50b2::t_3178680459c5df 2571-2579
+  s_c37cdff1ca50b2::t_8e8a68140db920 1605-1611,1616
+python/sglang/srt/layers/attention/kv_shard_hooks.py
+  s_c37cdff1ca50b2::t_3178680459c5df 28,37-38
+python/sglang/srt/mem_cache/page_interleave.py
+  s_c37cdff1ca50b2::t_3178680459c5df 69,197-199,238-239,248
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_c37cdff1ca50b2::t_3178680459c5df 115-171
+python/sglang/srt/configs/model_config.py
+  s_c37cdff1ca50b2::t_8e8a68140db920 259-262
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_c37cdff1ca50b2::t_3178680459c5df 2881-2886
+python/sglang/srt/model_executor/pool_configurator.py
+  s_c37cdff1ca50b2::t_3178680459c5df 514-516
+python/sglang/srt/layers/cp/interleave_kpool.py
+  s_c37cdff1ca50b2::t_3178680459c5df 14,16-18
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_cache_controller.py
+  s_c37cdff1ca50b2::t_3178680459c5df 1202-1206,1215,1220-1222,1225,1823-1831,1836-1837,1862-1878
+python/sglang/srt/disaggregation/base/conn.py
+  s_c37cdff1ca50b2::t_3178680459c5df 109
+python/sglang/srt/disaggregation/prefill.py
+  s_c37cdff1ca50b2::t_3178680459c5df 1748-1754
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_c37cdff1ca50b2::t_3178680459c5df 1195,1333-1340,1345,1348-1349,1352,1358-1363,1368-1377,1381-1387,1390-1401,1424-1430,1449,1454-1458,1540,1545-1553,1588,2265-2278,2481-2485,3067-3078,3089,3738-3742
+python/sglang/srt/mem_cache/page_interleave_pool.py
+  s_c37cdff1ca50b2::t_3178680459c5df 191-200,564-567,845-847,1020-1021,1026,1034-1048,1052-1053,1058-1059,1068-1069
+test/registered/unit/layers/test_interleave_kpool_inputs.py
+  s_c37cdff1ca50b2::t_3178680459c5df 24,43-58
+  s_c37cdff1ca50b2::t_4d2e432b99191c 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6e600d2fcaeb767865a796b0e98259a3c43b705b",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

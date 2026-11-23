@@ -1,0 +1,40 @@
+python/sglang/kernels/ops/attention/dsa_metadata.py
+  s_c050a148f13520::t_c614d8061a2205 287-289,293,314,406-407
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_c050a148f13520::t_c614d8061a2205 1358-1359,1361-1363,2010-2014
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_c050a148f13520::t_c614d8061a2205 278,314-320,328-337,341
+test/registered/kernels/ops/attention/test_dsa_metadata.py
+  s_c050a148f13520::t_c614d8061a2205 145,192,225-230,408-417
+python/sglang/srt/layers/attention/dsa/qsa_pooling.py
+  s_c050a148f13520::t_c614d8061a2205 131-184,200
+test/registered/unit/server_args/test_bailing_qsa.py
+  s_c050a148f13520::t_c614d8061a2205 88,105-107
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_c050a148f13520::t_b15ff0708a68f7 332-341
+  s_c050a148f13520::t_c614d8061a2205 39,521-525,528,767-814,820-825,1113-1116,1145,1560,1563
+test/registered/unit/layers/test_ling_qsa_positions.py
+  s_c050a148f13520::t_c614d8061a2205 10,13,324-401
+python/sglang/srt/mem_cache/qsa_index_key_cache.py
+  s_c050a148f13520::t_c614d8061a2205 7-8,10,20-22,29,97-125,153
+python/sglang/srt/speculative/dflash_info.py
+  s_c050a148f13520::t_c614d8061a2205 123-130
+python/sglang/srt/layers/attention/dsa/qsa_backend.py
+  s_c050a148f13520::t_b15ff0708a68f7 59,61-65,67-69,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "411653605d345aea00a99a9f00c65c00c094936a",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}
