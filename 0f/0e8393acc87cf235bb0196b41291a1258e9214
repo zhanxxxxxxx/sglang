@@ -1,0 +1,92 @@
+test/registered/unit/bench/test_serving_abort_response.py
+  s_6814b9b1896915::t_b6d1c340bf7ccf 1-13,21-32,37-39,55-82,84-88,90-92,94-96,98,105-106
+  s_6814b9b1896915::t_a866fa70d8c091 15,17-19,40-44,54,83,93,97,99-104
+  s_6814b9b1896915::t_dd32d43c5ff988 107-110
+  s_6814b9b1896915::t_e3973674a661e7 14,16,33-36
+  s_6814b9b1896915::t_ea4a1a33baf959 20,45-53
+  s_6814b9b1896915::t_2a7f46dac4592a 89
+test/registered/unit/disaggregation/test_encoder_batch_isolation.py
+  s_6814b9b1896915::t_9df0db617ee417 96
+test/registered/unit/disaggregation/test_encoder_destination_retry.py
+  s_6814b9b1896915::t_7e705a2943e838 1-27,32-42,49,55,62-68
+  s_6814b9b1896915::t_dd32d43c5ff988 69-72
+  s_6814b9b1896915::t_fd4ea8f9dc5aaa 28-31,43-48,50-54,56-61
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_6814b9b1896915::t_b7e198e8c32e4e 33-35
+  s_6814b9b1896915::t_e0421bf00b9bab 6,8-13,24-32,36-41,43-63
+  s_6814b9b1896915::t_43f1173747a0b7 15,42
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_6814b9b1896915::t_a4d459f0987f8b 226
+  s_6814b9b1896915::t_df553aa386c6e7 216-225,227,231-281
+  s_6814b9b1896915::t_69b8ec112c44aa 228-230
+  s_6814b9b1896915::t_a8841e829b7ea7 7-10
+  s_210975b73bced5::t_37c486f86b0183 282-283
+python/sglang/benchmark/serving.py
+  s_6814b9b1896915::t_8cd01b01c9f9cd 698-699
+  s_6814b9b1896915::t_2dda897f902f05 728-729,731-734,778
+  s_6814b9b1896915::t_e3973674a661e7 736-739
+  s_6814b9b1896915::t_ea4a1a33baf959 779-781
+  s_6814b9b1896915::t_b6d1c340bf7ccf 735,740
+python/sglang/srt/managers/tokenizer_manager.py
+  s_6814b9b1896915::t_d95c6e72b236a0 924
+  s_6814b9b1896915::t_a514e61fb7e303 3188
+  s_6814b9b1896915::t_dd32d43c5ff988 46,85
+  s_6814b9b1896915::t_f951f554a2ded0 923,925,967-969
+test/registered/unit/managers/test_epd_generator_lifecycle.py
+  s_6814b9b1896915::t_bfe93ba558aa10 1-6,8-37,39-82
+  s_6814b9b1896915::t_d717f904278181 7
+  s_6814b9b1896915::t_dd32d43c5ff988 83-86
+  s_6814b9b1896915::t_91cb51629a50f0 38
+test/registered/unit/disaggregation/test_qwen_video_timestamps.py
+  s_6814b9b1896915::t_2f899d422684bd 55-70,72-78,80-88,92-94,96-98
+  s_6814b9b1896915::t_dd32d43c5ff988 104-107
+  s_6814b9b1896915::t_d717f904278181 8
+  s_6814b9b1896915::t_ee05053bf8d003 1-3,5-7,9,17-26,28-40
+  s_6814b9b1896915::t_cb919ca9779b7e 4,10-16,41-54,71,79,89-91,95,99-103
+  s_6814b9b1896915::t_febdaf3f9a42e7 27
+python/sglang/srt/disaggregation/encoder/preprocessor.py
+  s_6814b9b1896915::t_ee05053bf8d003 644
+test/manual/qwen38_epd_smoke.py
+  s_6814b9b1896915::t_fdfc30ce70468b 1-217
+test/registered/unit/disaggregation/test_encoder_mm_meta.py
+  s_6814b9b1896915::t_9df0db617ee417 244
+test/registered/unit/disaggregation/test_encode_server.py
+  s_6814b9b1896915::t_9df0db617ee417 169,304,388,441
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_6814b9b1896915::t_a5fc21a550b5a5 801
+  s_6814b9b1896915::t_7e705a2943e838 365-385,1269,1271
+  s_6814b9b1896915::t_9c437c10ef87fb 41,1216-1219,1225
+  s_6814b9b1896915::t_4186a0b6627f81 1307-1309
+  s_6814b9b1896915::t_5a4f423827f65a 846-848
+  s_6814b9b1896915::t_2f899d422684bd 775-782,826-828
+  s_6814b9b1896915::t_b9d510c2d7b76f 769-774,783-797,814,1211,1213
+  s_6814b9b1896915::t_cb919ca9779b7e 1212
+python/sglang/srt/disaggregation/prefill.py
+  s_6814b9b1896915::t_df553aa386c6e7 1036-1042
+test/registered/unit/disaggregation/test_encoder_pool_lifetime.py
+  s_6814b9b1896915::t_bd004469e2f494 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f0e8393acc87cf235bb0196b41291a1258e9214",
+  "prompts": {},
+  "sessions": {
+    "s_210975b73bced5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac79-0527-7281-bcdc-d6aa20828b1c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

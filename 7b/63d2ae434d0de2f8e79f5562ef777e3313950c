@@ -1,0 +1,19 @@
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  s_5fc677a9fc7c1d::t_b8043e222adda0 1204-1217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7b63d2ae434d0de2f8e79f5562ef777e3313950c",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1497-1500
+python/sglang/srt/models/kimi_linear.py
+  h_1d635ecd767a49 5,19,54,57-58,233-242
+test/registered/unit/models/test_bailing_kda_beta.py
+  h_1d635ecd767a49 11,85-90,92,119-120,123,160-163,165-168,185-188,193,203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2b5998f531f154d1b42aa2f6e6896f5d7b6f5c03",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

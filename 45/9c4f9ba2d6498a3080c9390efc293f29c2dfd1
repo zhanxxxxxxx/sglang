@@ -1,0 +1,20 @@
+python/sglang/srt/managers/io_struct.py
+  h_1d635ecd767a49 1096
+python/sglang/srt/managers/pp_ingress_placement.py
+  h_1d635ecd767a49 139,201
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 157,2784
+test/registered/unit/managers/test_pp_ingress_placement.py
+  h_1d635ecd767a49 85,97-99,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "459c4f9ba2d6498a3080c9390efc293f29c2dfd1",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

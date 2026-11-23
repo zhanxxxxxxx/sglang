@@ -1,0 +1,23 @@
+python/sglang/srt/eplb/expert_distribution.py
+  s_7eb817b8eb8d9a::t_0d04af4d0bdf11 246-250
+python/sglang/srt/model_executor/model_runner.py
+  s_7eb817b8eb8d9a::t_eb5dcf425cff6e 2040-2047,2051-2052
+test/registered/unit/eplb/test_expert_distribution_disabled_pass.py
+  s_7eb817b8eb8d9a::t_0ac351310d6006 1-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bace478ab04bbbc93b7fbf699189a16e5141158a",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_0790df9e291aa5::t_a5a621052e2973 2205-2211
+  s_0790df9e291aa5::t_02d229c3ecd30a 2189-2192,2194-2195,2201-2204,2212-2215,2219-2225,3995-3999
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_0790df9e291aa5::t_02d229c3ecd30a 348-349,371,391
+python/sglang/srt/disaggregation/encoder/coordination.py
+  s_0790df9e291aa5::t_02d229c3ecd30a 64,70-71
+sgl-model-gateway/bindings/python/src/sglang_router/epd.py
+  s_0790df9e291aa5::t_02d229c3ecd30a 214-215
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7f9dd9b60f565af1b355609028e7b76591135c4",
+  "prompts": {},
+  "sessions": {
+    "s_0790df9e291aa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c8b4-6d6a-7643-a309-486a46d48053",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

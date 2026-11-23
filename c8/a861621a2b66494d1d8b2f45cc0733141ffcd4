@@ -1,0 +1,22 @@
+python/sglang/srt/managers/pp_prefill_wave.py
+  h_1d635ecd767a49 45,81
+python/sglang/srt/managers/scheduler_components/pp_wave_scheduling.py
+  h_1d635ecd767a49 20,100-106,148-149
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 476-499,562,567-572,601,650-652
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4080-4083
+test/registered/unit/managers/test_pp_prefill_wave.py
+  h_1d635ecd767a49 38,40,42-45,54-59,71-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c8a861621a2b66494d1d8b2f45cc0733141ffcd4",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

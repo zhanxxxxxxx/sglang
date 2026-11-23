@@ -1,0 +1,14 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  h_e649179cb6218a 30-32,41-43,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "50fa4624bdce845bdbbaea09d0977bc810ad14be",
+  "prompts": {},
+  "humans": {
+    "h_e649179cb6218a": {
+      "author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

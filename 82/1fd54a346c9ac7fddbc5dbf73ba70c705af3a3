@@ -1,0 +1,25 @@
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_6814b9b1896915::t_e866225472de55 302
+sgl-model-gateway/bindings/python/tests/test_epd.py
+  s_6814b9b1896915::t_e866225472de55 54-65,71,78,99-101,122-124,130-142
+  s_6814b9b1896915::t_3a177deab3f313 143
+test/registered/unit/entrypoints/openai/test_protocol.py
+  s_6814b9b1896915::t_e866225472de55 40,61-79
+  s_6814b9b1896915::t_206427f5c37c03 36,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "821fd54a346c9ac7fddbc5dbf73ba70c705af3a3",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

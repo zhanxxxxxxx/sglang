@@ -1,0 +1,21 @@
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_5fc677a9fc7c1d::t_f5a5407ca36a5c 1569,1572-1577
+test/manual/dsv41_prefill_ttft.py
+  s_5fc677a9fc7c1d::t_f5a5407ca36a5c 67-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e0259d028ea86519ea0010138c33c45910832f3d",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+docs/stage-retry.md
+  s_1d32b085fb33ca::t_1cac1b32b8d694 56
+  s_1d32b085fb33ca::t_e0939f1959c98e 1-55,57-58
+docs/implementation-plan.md
+  s_1d32b085fb33ca::t_1cac1b32b8d694 1360-1365
+  s_1d32b085fb33ca::t_5061f204f632bd 1350-1359,1366-1367
+acceptance/adapter.py
+  s_1d32b085fb33ca::t_bb0b562c621761 73-75
+acceptance/retry.py
+  s_1d32b085fb33ca::t_b7bb8cea678320 1-76
+acceptance/workflow.py
+  s_1d32b085fb33ca::t_fa6cc3159edb73 127
+cli.py
+  s_1d32b085fb33ca::t_2a0c6c743c5d86 112-114,362
+control/registry.py
+  s_1d32b085fb33ca::t_a554c0f0ea61ba 22,24-25,198-201,398-407
+control/task_view.py
+  s_1d32b085fb33ca::t_e3b202e9646a6f 137,172-174,188-189
+delivery/package.py
+  s_1d32b085fb33ca::t_baa2ffa0650cc1 62-67
+evidence/framework.py
+  s_1d32b085fb33ca::t_c069ee81c790b9 54-56,69,75
+evidence/report.py
+  s_1d32b085fb33ca::t_4dd1bb620b0d1f 174,189,311-312,315,358-359
+execution/formal_command.py
+  s_1d32b085fb33ca::t_bfa480646c14c8 142
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_1abc661a5fb179 32-35,361-375,710,742
+execution/sglang/worker.py
+  s_1d32b085fb33ca::t_2b7e3a142ad1b2 193-199
+experiments/framework.py
+  s_1d32b085fb33ca::t_0dd30584556944 51-52,83
+orchestrator/controller.py
+  s_1d32b085fb33ca::t_0d3146e89c53da 89,103-105
+orchestrator/feedback.py
+  s_1d32b085fb33ca::t_a69943ec33707b 34,44-49
+orchestrator/formal_review.py
+  s_1d32b085fb33ca::t_f5882c48fb2378 170-174
+orchestrator/generation.py
+  s_1d32b085fb33ca::t_3d8316e8f0ac09 85,174-175,180-184,212-214,231
+orchestrator/loop.py
+  s_1d32b085fb33ca::t_8774b7d8db8cfc 160,191-194,348-367,386-392,395-396,455,486-488,515,527,562
+orchestrator/retry.py
+  s_1d32b085fb33ca::t_ef01737c7f1681 1-159
+orchestrator/state.py
+  s_1d32b085fb33ca::t_0e318d4c959222 53-58,60
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_56061556569e1a 127-132
+templates/contracts/formal-v1.json
+  s_1d32b085fb33ca::t_4ae271dcf8a76c 185,187-188
+tests/inference_rsi/test_dashboard_ais_links.py
+  s_1d32b085fb33ca::t_87be43e181a6b2 37,39,43-91,169-190
+tests/inference_rsi/test_dashboard_flow.py
+  s_1d32b085fb33ca::t_e0a04e4c7f04f4 1-62
+tests/inference_rsi/test_formal_review.py
+  s_1d32b085fb33ca::t_f3a48807e38d65 48-49,75,86,134-139
+tests/inference_rsi/test_managed_processes.py
+  s_1d32b085fb33ca::t_a7524ae92b79cc 296-337
+tests/inference_rsi/test_observer_recovery.py
+  s_1d32b085fb33ca::t_09b3303d3d40cd 94-110
+tests/inference_rsi/test_same_task_retry.py
+  s_1d32b085fb33ca::t_e656f9dc7a3665 1-237
+tools/dashboard_flow.js
+  s_1d32b085fb33ca::t_3ad44920d272c2 1-60
+tools/dashboard_state.js
+  s_1d32b085fb33ca::t_c55d27ffa4782d 11,17,40-41,51-52,57-65
+tools/dashboard_view.html
+  s_1d32b085fb33ca::t_88a469b9a7dacb 1-61
+tools/rsi_dashboard.py
+  s_1d32b085fb33ca::t_e86ed526bf5aa9 10,16-17,58-152,163,196-199,204-207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cba6d0c6e953d725398c0531fdba1fb47f0f398a",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  s_d2f4c9dc120b69::t_7a55664cfc7eb8 1860-1861
+scripts/rollout_precision.py
+  s_d2f4c9dc120b69::t_2e71e01bcd7f85 4148-4151
+  s_d2f4c9dc120b69::t_0fd87039daec0b 4147,4152-4155
+test/registered/debug_utils/test_moe_trace.py
+  s_d2f4c9dc120b69::t_fa3a7823045837 748-759
+  s_d2f4c9dc120b69::t_7a55664cfc7eb8 747,760-769
+test/registered/debug_utils/test_rollout_precision_retry.py
+  s_d2f4c9dc120b69::t_0fd87039daec0b 156-166,170-172,176-177
+  s_d2f4c9dc120b69::t_2e71e01bcd7f85 167-169,173-175
+python/sglang/srt/debug_utils/moe_trace.py
+  s_d2f4c9dc120b69::t_7a55664cfc7eb8 524-530
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "11e687bbbfccdc186bb2f1995bbf8a9e79a1baac",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

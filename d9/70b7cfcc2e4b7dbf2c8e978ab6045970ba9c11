@@ -1,0 +1,21 @@
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_db72159ab10596::t_97d9dc47267f5f 6
+python/sglang/srt/layers/quantization/humming.py
+  s_db72159ab10596::t_3ef5ba4258a56c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d970b7cfcc2e4b7dbf2c8e978ab6045970ba9c11",
+  "prompts": {},
+  "sessions": {
+    "s_db72159ab10596": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be5d-3ee2-7c42-9023-5e44c16904aa",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "科科 <keke.zhaokk@antgroup.com>"
+    }
+  }
+}

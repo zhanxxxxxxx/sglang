@@ -1,0 +1,19 @@
+python/sglang/srt/managers/prefill_delayer.py
+  s_957f9e2242daf0::t_17d45dcd20943d 129,131,191-196,267-268,357,366
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "952c764f4b4f4d1327a45ecd3cb2467a208dfa83",
+  "prompts": {},
+  "sessions": {
+    "s_957f9e2242daf0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef359-bbf9-7011-9bcf-f03e360526b0",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+control/preparation.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 282,287
+execution/sglang/git_preflight.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 1-53
+execution/sglang/verification.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 34,88,218-238,815-817,925,1154-1168,1171,1247-1249
+execution/git_source.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 15,19-29
+  s_7b2946cc37b1ad::t_1df453d005280e 30-31
+tests/inference_rsi/test_provider_verification.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 28,53-56,589,604-606,608,872,888-892
+execution/sglang/git_runtime.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 50,69
+docs/git-worker-preflight.md
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 1-61
+docs/design.md
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 7-8
+tests/inference_rsi/test_git_worker_preflight.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 1-230
+tests/inference_rsi/test_ssh_public_config.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 1-119
+execution/ssh_public_config.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 1-112
+control/preparation_worker.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 77-79,83-84,97,101
+execution/pipeline.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 5,93,96-102
+docs/implementation-plan.md
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 3-10
+execution/providers.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 47-52,68-70
+execution/attempt_worker.py
+  s_7b2946cc37b1ad::t_11b7a7b7792a79 134-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a6656ab26a35eacf11bc41fdf01a35454de72ab8",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

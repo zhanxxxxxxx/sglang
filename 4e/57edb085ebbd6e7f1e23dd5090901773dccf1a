@@ -1,0 +1,22 @@
+test/registered/unit/mem_cache/test_page_interleave_shard.py
+  s_c37cdff1ca50b2::t_008698520bd5a2 124,1406-1432
+  s_c37cdff1ca50b2::t_95b14f016d728b 1433
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_c37cdff1ca50b2::t_008698520bd5a2 16,324,1345-1348,1359-1364,1371-1372,1376-1391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e57edb085ebbd6e7f1e23dd5090901773dccf1a",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

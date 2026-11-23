@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/attention/fla/l2norm.py
+  s_fc5b7e55a816ab::t_0203e88e4a4670 165-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "acf130a6565d1ca8f2271dde59d5780401d107a4",
+  "prompts": {},
+  "sessions": {
+    "s_fc5b7e55a816ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e411-e343-7321-b36e-19b1801de54b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

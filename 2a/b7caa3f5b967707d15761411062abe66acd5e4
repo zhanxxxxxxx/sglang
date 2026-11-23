@@ -1,0 +1,14 @@
+test/registered/unit/multimodal/test_qwen_video_preprocess_api.py
+  h_623190b123231f 2,7,105-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2ab7caa3f5b967707d15761411062abe66acd5e4",
+  "prompts": {},
+  "humans": {
+    "h_623190b123231f": {
+      "author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

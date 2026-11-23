@@ -1,0 +1,34 @@
+python/sglang/srt/entrypoints/openai/protocol.py
+  h_1d635ecd767a49 387,881
+python/sglang/srt/managers/io_struct.py
+  h_1d635ecd767a49 288
+python/sglang/srt/managers/pp_micro_batch.py
+  h_1d635ecd767a49 34-62
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 3279-3290
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 2558,2564-2569,3080-3088,3098,3158,3165-3167,4314-4317,4751,4808-4812
+python/sglang/srt/managers/scheduler_components/metrics_reporter.py
+  h_1d635ecd767a49 578
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 43,153-217,471,558-561,838,870-873
+python/sglang/srt/sampling/penaltylib/orchestrator.py
+  h_1d635ecd767a49 4,46-55
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 1061-1067
+test/registered/unit/managers/test_pp_metrics_logging.py
+  h_1d635ecd767a49 73,141,144
+test/registered/unit/managers/test_pp_micro_batch_affinity.py
+  h_1d635ecd767a49 10,28,40,53,579-587,634-697
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9949d4cda561b63c328b2b510f445248d21865d0",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

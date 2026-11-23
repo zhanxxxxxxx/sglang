@@ -1,0 +1,31 @@
+python/sglang/srt/server_args.py
+  s_4517e4240bb588::t_6edc4555e3c395 4476-4477,4486-4503
+  s_127014abda8f08::t_3b10748ae0e01e 4504
+test/registered/unit/server_args/test_dsa_attention_backend_validation.py
+  s_4517e4240bb588::t_622c9e8d9710da 61-64,114-116,140-150
+  s_4517e4240bb588::t_f48113d1b81792 1-60,65-113,117-139,151-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "39e3c15012a557ffa358451109f7d51414577a20",
+  "prompts": {},
+  "sessions": {
+    "s_127014abda8f08": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a134b4-ee13-7811-8e4d-cc7db1e6d95f",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    },
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

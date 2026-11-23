@@ -1,0 +1,25 @@
+python/sglang/srt/model_loader/weight_utils.py
+  s_f3e5574164d7e0::t_e202e7dbe8c6a5 1195-1196,1198,1214
+  s_f3e5574164d7e0::t_206a9316787171 1197,1199-1209,1212,1215
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_f3e5574164d7e0::t_1b8e708561e9da 117-126,864-870,1476-1482
+test/registered/unit/model_loader/test_prefetch_checkpoints.py
+  s_f3e5574164d7e0::t_375dcbb8a42e09 231-234,302,313-315,317
+  s_f3e5574164d7e0::t_74a6643a68efce 220,222-224,230,235,243,250,276-300,303,309-310,312,316,318
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c01841569a33603f102f9a21739bfe4febfbc3a6",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

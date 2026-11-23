@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/attention/dsa/qsa_decode_metadata.py
+  h_7345ff9665e3ec 143-147
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_7345ff9665e3ec 662
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a977b8e8f7b901624f94c3726a9dbd13315af8c5",
+  "prompts": {},
+  "humans": {
+    "h_7345ff9665e3ec": {
+      "author": "chenmu.my <chenmu.my@antgroup.com>"
+    }
+  }
+}
