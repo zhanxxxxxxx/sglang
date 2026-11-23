@@ -1,0 +1,16 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 1023-1024
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  h_1d635ecd767a49 193,196-201,296-325,411-413
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d8fe8cc1311b6f02d3f39bccedad1b6231da836f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
