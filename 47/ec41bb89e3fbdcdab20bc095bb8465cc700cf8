@@ -1,0 +1,21 @@
+python/sglang/srt/speculative/eagle_worker.py
+  s_18bbfa9aac699b::t_eccf2252cca5de 8,110,1049-1058
+python/sglang/srt/environ.py
+  s_18bbfa9aac699b::t_eccf2252cca5de 482-483
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "47ec41bb89e3fbdcdab20bc095bb8465cc700cf8",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}
