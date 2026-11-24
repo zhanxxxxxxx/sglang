@@ -1,0 +1,21 @@
+test/registered/kernels/ops/attention/test_kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_e80a0ce5afef38 26-28
+python/sglang/kernels/ops/attention/fla/kda_qkv_pack.py
+  s_f5a50be0fc3a60::t_e80a0ce5afef38 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e92d0751576df447c69a99a9435794fcaa0b11b4",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
