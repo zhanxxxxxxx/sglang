@@ -1,0 +1,22 @@
+python/sglang/kernels/ops/attention/dsa_metadata.py
+  s_3d09a3e3306d12::t_2b4a7ede90e641 62-64,68,84,86-87,175-176
+test/registered/kernels/ops/attention/test_dsa_metadata.py
+  s_3d09a3e3306d12::t_2b4a7ede90e641 63,92,115-120,384-391
+  s_3d09a3e3306d12::t_6b199c70baa7ff 392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b15b9399bff9486eb40a2d7bd87469388edfd3c5",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

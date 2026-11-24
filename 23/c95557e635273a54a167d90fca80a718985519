@@ -1,0 +1,44 @@
+python/sglang/srt/arg_groups/field_order.py
+  h_cbb782975e944c 275
+python/sglang/srt/arg_groups/fields/spec.py
+  h_cbb782975e944c 79-82
+python/sglang/srt/arg_groups/model_overrides/deepseek_v2.py
+  h_cbb782975e944c 48-49
+python/sglang/srt/arg_groups/speculative_hook.py
+  h_cbb782975e944c 455-532
+python/sglang/srt/configs/hy_v4_flash.py
+  h_cbb782975e944c 12,371-436,490-492,513
+python/sglang/srt/managers/scheduler.py
+  h_cbb782975e944c 3591,3597
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_cbb782975e944c 2284
+python/sglang/srt/models/hunyuan_v4_flash.py
+  h_cbb782975e944c 38,71,83,101-108,182-189,344,444-446,475-506,593-598,600-602,681,723-726,749-764,772-778,795,1031,1058-1060,1469-1478,1485,1487-1488,1552,1563-1569,1597-1598
+python/sglang/srt/models/hunyuan_v4_flash_dfly.py
+  h_cbb782975e944c 1-377
+python/sglang/srt/speculative/dflash_utils.py
+  h_cbb782975e944c 1239-1246,1248,1253-1258
+python/sglang/srt/speculative/dflash_worker_v2.py
+  h_cbb782975e944c 89,2842,2858,2872,2902,2910
+python/sglang/srt/speculative/dfly_utils.py
+  h_cbb782975e944c 1-96
+python/sglang/srt/speculative/dfly_worker_v2.py
+  h_cbb782975e944c 1-315
+python/sglang/srt/speculative/spec_info.py
+  h_cbb782975e944c 41,129-134,248,264-265,340-344,534
+python/sglang/srt/speculative/spec_tp_sync.py
+  h_cbb782975e944c 37-39,57
+python/sglang/srt/speculative/spec_utils.py
+  h_cbb782975e944c 1488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23c95557e635273a54a167d90fca80a718985519",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

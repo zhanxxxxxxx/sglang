@@ -1,0 +1,25 @@
+python/sglang/srt/environ.py
+  s_28365f39610187::t_f607f3a4cdf770 549
+python/sglang/srt/layers/bailing_ar_layout_head.py
+  s_28365f39610187::t_cef0d822100b8d 1-77
+python/sglang/srt/layers/logits_processor.py
+  s_28365f39610187::t_7a2352b73c2876 359,361-362,681-696
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_28365f39610187::t_a6c1c84c7bd2fc 414-431,1346-1350,1574-1585
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "41b539b2159440db75acb48637aa3e9d8a92a478",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

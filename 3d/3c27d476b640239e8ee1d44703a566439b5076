@@ -1,0 +1,23 @@
+test/registered/unit/models/test_bailing_moe_v3_dcp.py
+  s_c050a148f13520::t_72d1863c20fefb 258-278
+  s_c050a148f13520::t_bb6787625bde72 8
+python/sglang/srt/server_args.py
+  s_c050a148f13520::t_0930d9392f64cf 4763,4783-4797,4800
+  s_c050a148f13520::t_6c961ec9067117 4762,4767,4798-4799,4801
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3d3c27d476b640239e8ee1d44703a566439b5076",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

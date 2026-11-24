@@ -1,0 +1,41 @@
+dspark/ar-parity/historical-adaptations.patch
+  s_28365f39610187::t_6b48f52f554c64 1-147
+dspark/ar-parity/README.md
+  s_28365f39610187::t_026a3415c3a9d2 1-114
+dspark/README.md
+  s_28365f39610187::t_026a3415c3a9d2 5
+dspark/ar-parity/historical-source.json
+  s_28365f39610187::t_6b48f52f554c64 1-10
+dspark/ar-parity/c48_native_probe.py
+  s_28365f39610187::t_aa1583f3f97455 1-173
+dspark/ar-parity/diagnostic_patch.py
+  s_28365f39610187::t_205685c68612da 1-65
+dspark/ar-parity/historical_source.py
+  s_28365f39610187::t_2ff5aa8d179a68 1-37
+dspark/ar-parity/launch_profiles.json
+  s_28365f39610187::t_d4ca01fb389b04 1-166
+dspark/ar-parity/reproduce.py
+  s_28365f39610187::t_5564df2ca2ff67 1-269
+dspark/ar-parity/serve.py
+  s_28365f39610187::t_d05c9268e1e18f 1-58
+dspark/ar-parity/test_reproduce.py
+  s_28365f39610187::t_d5fd57b3180a52 1-163
+dspark/ar-parity/validation.json
+  s_28365f39610187::t_552855c790d493 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9fbfe01f1a805e6be3f7a1c3c4d93fb83e16e663",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
