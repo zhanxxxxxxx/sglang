@@ -1,0 +1,32 @@
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_e264e4a97219bf::t_e90b4b5a5d9c64 1902,1920,1932,1940,1948-1949,1959,1965-1966,1969-1973,1980,1983,1994-2022,2029,2047,2133-2135,2137-2192,2197-2199,2202,2211,2217,2224-2225,2235,2242,2244,2246,2250
+  s_e264e4a97219bf::t_cc1e11bac815f0 2112-2132
+  s_e264e4a97219bf::t_afa74f710b2fc6 2136
+  s_e264e4a97219bf::t_69ed673f646c98 1896-1901,1903-1919,1921-1931,1933-1939,1941-1947,1950-1958,1960-1964,1967-1968,1974-1979,1981-1982,1984-1993,2023-2028,2030-2046,2048-2111,2193-2196,2200-2201,2203-2210,2212-2216,2218-2223,2226-2234,2236-2241,2243,2245,2247-2249,2251-2252
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_e264e4a97219bf::t_4d90e0ddc769fd 11,153-168,2542-2547,2549,2551
+  s_e264e4a97219bf::t_e6de39d5a7404a 2593,2608,3004-3007
+python/sglang/srt/managers/tokenizer_manager.py
+  s_e264e4a97219bf::t_4d90e0ddc769fd 2370-2371,2468-2475
+  s_e264e4a97219bf::t_a88fc5309e2489 2476-2480
+test/registered/unit/model_executor/model_runner_components/test_cuda_graph_setup.py
+  s_e264e4a97219bf::t_afa74f710b2fc6 316-320
+  s_e264e4a97219bf::t_1510722701cb31 265,321
+  s_e264e4a97219bf::t_ce79272471658e 145-161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e1e333e08e041a1e89997b3d101be5506da102a8",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_4d44697945f223::t_25f169dd17c25a 355-357
+  s_4d44697945f223::t_36e925740bf319 22,353-354,361
+python/sglang/srt/environ.py
+  s_4d44697945f223::t_36e925740bf319 294-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cffb2cc4a2bd2ca2abf00f77bb3b29d6a545a596",
+  "prompts": {},
+  "sessions": {
+    "s_4d44697945f223": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0bcb7-3d40-7313-a875-1cb5eeea524f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

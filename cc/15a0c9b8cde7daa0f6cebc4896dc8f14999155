@@ -1,0 +1,20 @@
+test/manual/kernels/validate_gluon_prefill_cache.py
+  s_999842a87e9579::t_77f87dfe61ca66 255-276,280-281
+  s_999842a87e9579::t_f4a912b464c9c4 419,425-426,434,436,438,506,529-531
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc15a0c9b8cde7daa0f6cebc4896dc8f14999155",
+  "prompts": {},
+  "sessions": {
+    "s_999842a87e9579": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e43c-af32-7221-9eb2-1b8462392015",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+python/sglang/srt/managers/tokenizer_manager.py
+  s_0790df9e291aa5::t_6b99426e8fe9b5 2233
+docker/ant/README.md
+  s_f199a2a42f12de::t_5cb6bf556ea156 7-8,43,47-67,72-73,78-79
+docker/ant/aci/sglang_auto.aci.yml
+  s_f199a2a42f12de::t_587d8d95de3090 1-531
+docker/ant/aci/sglang_fast.aci.yml
+  s_f199a2a42f12de::t_db249b325be139 26,49,101-103,122-123,126,169
+docker/ant/aci/sglang_runtime.aci.yml
+  s_f199a2a42f12de::t_614fbd068ec2df 389,405
+docker/ant/generate_fast_auto.py
+  s_f199a2a42f12de::t_692b36b66176ef 1-246
+python/sglang/kernels/ops/speculative/__init__.py
+  s_f199a2a42f12de::t_33f1044e93ab9c 16
+python/sglang/kernels/ops/speculative/eagle.py
+  s_f199a2a42f12de::t_24871d96c8210e 92-137
+python/sglang/srt/constrained/grammar_manager.py
+  s_0790df9e291aa5::t_60c8f40ffc73e7 111
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_0790df9e291aa5::t_f4789e38e52175 2140
+python/sglang/srt/disaggregation/prefill.py
+  s_0790df9e291aa5::t_74655baf59e9cc 1231-1233,1245-1247
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_f199a2a42f12de::t_894d7ac0e4def6 420-422,430-432
+python/sglang/srt/layers/attention/qsa/graph_metadata.py
+  s_f199a2a42f12de::t_ca30a59756587b 3-11,39-42,51-56,59-60,88-95,98-115,117-136,144-147,171,180-197,212-305
+python/sglang/srt/layers/attention/qsa/metadata.py
+  s_f199a2a42f12de::t_dd16620f999cc6 100
+python/sglang/srt/layers/attention/qsa/mqa.py
+  s_f199a2a42f12de::t_8b32ee5f50794b 8,180-260,293,330-377,432-552,560-561,574-586,609,640-641,645-651,662,665,668
+python/sglang/srt/layers/attention/qsa/qsa_indexer.py
+  s_f199a2a42f12de::t_c83f41c8f8419c 5,19-24,470,481-483,485,498-513,548,555,557,707
+python/sglang/srt/layers/attention/qsa/sparse_decode.py
+  s_f199a2a42f12de::t_50629b9adeca38 603-613,652
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_f199a2a42f12de::t_9e213e2c6ebd35 922,951,999,1324,1370,2013,2102,2108,2110-2111,2129-2171,2173-2195
+python/sglang/srt/managers/cache_controller.py
+  s_f199a2a42f12de::t_d458014f403eae 365-367,817-822,938-942
+python/sglang/srt/managers/io_struct.py
+  s_0790df9e291aa5::t_8f910925f69a8c 112-117,2129-2130,2138,2140
+python/sglang/srt/managers/mm_utils.py
+  s_f199a2a42f12de::t_b06bc5b28fbbb6 39,1285-1287,1328-1350,1354-1366,1368,1370-1394,1399,1480-1482,1491-1514,1540-1542
+python/sglang/srt/managers/schedule_batch.py
+  s_f199a2a42f12de::t_e52e3051b122f6 553-568,706-717,727-739,2041-2046,2049-2053,2060
+python/sglang/srt/managers/scheduler.py
+  s_0790df9e291aa5::t_145faec43a71bd 153,377-386,597,1154-1162,1996-1999,2009-2012,2030-2031,2035-2036,2040-2041,2043-2068,2070-2110,2213,2452-2456,2482,2484-2496,2498,2504,2514,2516-2518,2520-2522,2525-2526,2615-2616,2765-2774,2834-2844,3236-3259,3261-3287,3289,3294-3295,3316-3324,3327-3336,4216,4218,5142,5153,5169-5173,5201,5225,5237,5245,5253,5262,5277,5284-5290
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  s_f199a2a42f12de::t_bc4d346b322b44 3,15,17,22,25,31,52-53,76-78,103-113,173-180,184,237-246,283-314,316-339
+python/sglang/srt/multimodal/processors/base_processor.py
+  s_f199a2a42f12de::t_63811651308271 41,1934,1940-1965,1967-1968
+python/sglang/srt/multimodal/processors/kimi_k3.py
+  s_f199a2a42f12de::t_a66fa17013b31a 656
+python/sglang/srt/multimodal/processors/moss_vl.py
+  s_f199a2a42f12de::t_510c0a219993e5 548
+python/sglang/srt/multimodal/transport/cuda_ipc.py
+  s_f199a2a42f12de::t_cd7adb914909a9 153-163,324-327
+python/sglang/srt/multimodal/transport/memory_pool.py
+  s_f199a2a42f12de::t_946d5d44bef67c 364-407
+python/sglang/srt/speculative/eagle_worker_v2.py
+  s_f199a2a42f12de::t_d103e7bb9984a2 1002-1026,1031,1039-1042
+python/sglang/srt/utils/cuda_vmm_transport_utils.py
+  s_f199a2a42f12de::t_de8811c792b18c 906-912
+test/manual/qwen38_upstream_20261101_results.json
+  s_f199a2a42f12de::t_a7cd59718aa930 1-561
+test/manual/run_qwen38_hang_regression.py
+  s_f199a2a42f12de::t_3bd1ed97399b0b 1-74
+test/manual/run_qwen38_upstream_20261101.py
+  s_f199a2a42f12de::t_f84a8d5bdd069e 1-62
+test/registered/kernels/ops/attention/test_qsa_decode_skip_scores.py
+  s_f199a2a42f12de::t_e2139bc0b552d0 1-57
+test/registered/kernels/ops/attention/test_qsa_relative_prefill.py
+  s_f199a2a42f12de::t_f9100f700eff8f 1-90
+test/registered/kernels/ops/speculative/test_draft_extend_inputs.py
+  s_f199a2a42f12de::t_186ad3af2cb0c6 1-93
+test/registered/kernels/test_qsa.py
+  s_f199a2a42f12de::t_ef283c34031bbe 1035,1065,1724,1743,2097-2100,2116,2118-2120,2122,2150,2235,2241,2244,2265-2268,2345,2353,2392-2400,2406,2413-2492
+test/registered/kernels/test_qwen_decode_capacity.py
+  s_f199a2a42f12de::t_a10f25576d5508 59,82,85-87,96
+test/registered/kernels/test_qwen_qsa_short_prefill.py
+  s_f199a2a42f12de::t_589350fa888007 328,347
+test/registered/unit/constrained/test_grammar_manager.py
+  s_f199a2a42f12de::t_61814575922022 29,80,341,353,367,376,386
+test/registered/unit/disaggregation/test_qwen_hicache_early_send.py
+  s_f199a2a42f12de::t_e2d35af784473a 1-82
+test/registered/unit/managers/test_mm_process_config.py
+  s_f199a2a42f12de::t_2e15a322da0011 488-519
+test/registered/unit/managers/test_mm_shm_error_consensus.py
+  s_f199a2a42f12de::t_29ba88cf740393 1-294
+test/registered/unit/managers/test_multimodal_abort_cleanup.py
+  s_f199a2a42f12de::t_279e84a18bf674 1-82
+test/registered/unit/managers/test_pp_cp_rank_offsets.py
+  s_f199a2a42f12de::t_c0519db46007ac 63
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_f199a2a42f12de::t_9d7f4bad5e613a 3-5,10-12,16-17,19,25-26,28-30,32,40,60-64,70-72,77,84,86-89,91,95,100,104,109,112,114-116,120-128,130,135-137,139-284
+test/registered/unit/mem_cache/test_hicache_staged_write_back_dispatch.py
+  s_f199a2a42f12de::t_3b07d6247da7a7 193-207,215,220-258,288,1064,1107-1140
+test/registered/unit/multimodal/test_cuda_ipc_transport.py
+  s_f199a2a42f12de::t_eba856a5ce2c3b 17-22,131-198,214-290
+test/registered/unit/multimodal/test_gpu_feature_transport.py
+  s_f199a2a42f12de::t_cd27565ec22eb7 9,15-94,589,604-655,764-979
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cfd8f0151a3394e0f0be99305ce234799e99cc34",
+  "prompts": {},
+  "sessions": {
+    "s_0790df9e291aa5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c8b4-6d6a-7643-a309-486a46d48053",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    },
+    "s_f199a2a42f12de": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "14eca11f-5721-4669-bfcd-3f167cce865e",
+        "model": "grok-4.7"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

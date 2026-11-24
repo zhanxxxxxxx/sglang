@@ -1,0 +1,23 @@
+python/sglang/kernels/ops/speculative/fused_kv_materialize.py
+  s_f5a50be0fc3a60::t_3a7ab6b89609b4 394,457-461
+python/sglang/srt/speculative/dflash_worker_v2.py
+  s_f5a50be0fc3a60::t_3a7ab6b89609b4 3,423-429,475-478,486-487,684-725,1595-1625,1630
+python/sglang/kernels/ops/kvcache/batched_store_cache.py
+  s_f5a50be0fc3a60::t_3a7ab6b89609b4 1-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0343ee94dab5011b1d1c14121609d42f931f4f6b",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

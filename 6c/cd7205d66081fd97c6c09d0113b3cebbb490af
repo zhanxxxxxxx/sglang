@@ -1,0 +1,21 @@
+python/sglang/kernels/ops/quantization/fp8_kernel.py
+  s_5fc677a9fc7c1d::t_a22d49e1554f51 1712-1724,1758-1759
+test/manual/dsv41_prefill_ttft.py
+  s_5fc677a9fc7c1d::t_d09e0a381a8654 1-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ccd7205d66081fd97c6c09d0113b3cebbb490af",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

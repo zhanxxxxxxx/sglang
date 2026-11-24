@@ -1,0 +1,28 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 474-476,478-491,688,1144,1293,2403
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  h_1d635ecd767a49 369-382,457,460-470,474,572-574,578,580-583,587-590
+python/sglang/srt/layers/communicator.py
+  h_1d635ecd767a49 162-163,796-797,1439-1450
+python/sglang/srt/layers/moe/topk.py
+  h_1d635ecd767a49 1300-1302,1479,1487
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 634-635,720,753-754,760-761,776,782,1037-1038,1041,1074,1077,1134,2886,2888-2892
+test/registered/kernels/ops/attention/test_kda_precision_lifecycle.py
+  h_1d635ecd767a49 71-73,133-169
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  h_1d635ecd767a49 81,126,148
+test/registered/unit/test_mtp_pp_dcp_partition_residual.py
+  h_1d635ecd767a49 115,122,126-127,129-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f23f1aeefbbc5eff99d4efbe0ae52907087dabd",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

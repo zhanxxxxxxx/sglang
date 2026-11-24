@@ -1,0 +1,39 @@
+python/sglang/kernels/ops/moe/moe_align_small_numel.py
+  s_e4f6b4e83692e9::t_5ef048652118ff 252-255,271
+  s_e4f6b4e83692e9::t_478b161d9d8c26 23,29,35,65-68,135-143,146-165,168-172,180,198-200,203,208-209,213-242,244-251,256-263,269-270,272-274
+  s_e4f6b4e83692e9::t_35f57d098578ab 265-267
+  s_e4f6b4e83692e9::t_a4b907769db9bc 33-34,92,101,104,144-145,166-167,194,204-206,243,264,268
+  s_e4f6b4e83692e9::t_a5565e10d2a758 88-91,94-100,103,105-115,117-127
+  s_e4f6b4e83692e9::t_16cda4c5414dc8 93
+test/registered/kernels/ops/moe/test_humming_decode_alignment.py
+  s_e4f6b4e83692e9::t_e847e83daa83ba 1-26,30-41,46,50-51,55-60,74-75,86-95,99-103,110-111,115-117,121-137
+  s_e4f6b4e83692e9::t_cdb793d375438a 27-29,42-45,47-49,52-54,61-73,76-85,96-98,104-109,112-114,118-120
+test/registered/kernels/ops/moe/test_moe_align_small_numel.py
+  s_e4f6b4e83692e9::t_09c23253124bec 43-47
+  s_e4f6b4e83692e9::t_11c538acaba33f 10,21,36,48,61-62,125-126,133-140,227-229,232-238,240-257,259-270,272-288,291-307,309-310
+  s_e4f6b4e83692e9::t_d298cabe01ecfc 230-231,239,258,271,289-290,308
+  s_e4f6b4e83692e9::t_fdbb8d80b3c992 311-312
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_e4f6b4e83692e9::t_478b161d9d8c26 678,688-707,716-718,724-727
+  s_e4f6b4e83692e9::t_09c23253124bec 708-715,729-735
+test/manual/layers/moe/bench_humming_decode_alignment.py
+  s_e4f6b4e83692e9::t_09c23253124bec 26-28,58-60,71-72,74-86,88-95,98-100
+  s_e4f6b4e83692e9::t_d298cabe01ecfc 21-22
+  s_e4f6b4e83692e9::t_11c538acaba33f 1-20,23-25,29-57,61-70,73,87,96-97,101-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5806aab03a496b546a84521f565f5283a40e0e27",
+  "prompts": {},
+  "sessions": {
+    "s_e4f6b4e83692e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c63d-d88d-7b10-b64d-9c0335354f7b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+test/registered/unit/server_args/test_deepseek_v41_features.py
+  s_fe92d796c96f00::t_b4e34a525c743d 73-74,131-137
+  s_fe92d796c96f00::t_4654eeef4e6516 138
+python/sglang/srt/arg_groups/deepseek_v4_hook.py
+  s_fe92d796c96f00::t_b4e34a525c743d 390-400
+test/registered/unit/mem_cache/test_dsv41_replay_admission.py
+  s_fe92d796c96f00::t_b4e34a525c743d 70-115
+python/sglang/srt/model_executor/encoder_swa_admission.py
+  s_fe92d796c96f00::t_b4e34a525c743d 6-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b5be93b1115c8479b78898352acc2b42778d7bf7",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

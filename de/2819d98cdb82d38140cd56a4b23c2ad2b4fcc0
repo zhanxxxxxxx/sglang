@@ -1,0 +1,26 @@
+python/sglang/srt/speculative/eagle_draft_cuda_graph_runner.py
+  s_18bbfa9aac699b::t_70c24ca91c0877 268-270,457-458
+python/sglang/srt/model_executor/cuda_graph_runner.py
+  s_18bbfa9aac699b::t_70c24ca91c0877 549,556,574,576,578-581
+python/sglang/srt/speculative/eagle_draft_extend_cuda_graph_runner.py
+  s_18bbfa9aac699b::t_70c24ca91c0877 325-326,533-534
+test/srt/test_deepep_logical_decode_bs1.py
+  s_18bbfa9aac699b::t_70c24ca91c0877 70,75-85
+  s_18bbfa9aac699b::t_0b928314a5c623 86-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de2819d98cdb82d38140cd56a4b23c2ad2b4fcc0",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

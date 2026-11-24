@@ -1,0 +1,24 @@
+python/sglang/srt/managers/schedule_policy.py
+  s_3ab55257e36c88::t_949635486e7ff8 429-473
+  s_3ab55257e36c88::t_80f9e62a66ce51 426-428
+  s_3ab55257e36c88::t_e3fd920b40150c 474-476
+test/manual/test_schedule_policy.py
+  s_3ab55257e36c88::t_eba9fcc3cf080e 3,11-12,34-97
+  s_3ab55257e36c88::t_7de13f1329459b 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "99ca0dff833b77831a5707a029f34c79baa27094",
+  "prompts": {},
+  "sessions": {
+    "s_3ab55257e36c88": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed5f-f9a8-7821-9496-bab107f0f14b",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}

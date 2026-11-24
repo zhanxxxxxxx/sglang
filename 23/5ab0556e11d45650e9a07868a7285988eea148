@@ -1,0 +1,25 @@
+python/sglang/srt/layers/quantization/unquant.py
+  s_030cfbd488998e::t_cfd8b9f207cf2b 178-179
+  s_030cfbd488998e::t_ebcbae70782570 135,148-177
+test/registered/attention/test_kda_apl_decode_numerics.py
+  s_030cfbd488998e::t_232439f599398e 239,256-262,265,267-268,272
+  s_030cfbd488998e::t_ebcbae70782570 234-238,240-255,263-264,266,269-271,273-278
+test/registered/unit/layers/quantization/test_bf16_linear.py
+  s_030cfbd488998e::t_ebcbae70782570 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "235ab0556e11d45650e9a07868a7285988eea148",
+  "prompts": {},
+  "sessions": {
+    "s_030cfbd488998e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19cbd-04fe-78c3-8c5d-ae6561cf3668",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

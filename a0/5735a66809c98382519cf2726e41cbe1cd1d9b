@@ -1,0 +1,32 @@
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 252,254,259-260,262-278
+  s_3d09a3e3306d12::t_9f2129c53e976c 280-281,596
+python/sglang/srt/models/bailing_moe_v3.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 2817
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 580
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 51,1473-1486
+  s_3d09a3e3306d12::t_1931e69ef91a77 1487-1492,1577-1581
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 819-828,834
+  s_3d09a3e3306d12::t_510fb9d60f54b1 829-833
+python/sglang/srt/environ.py
+  s_3d09a3e3306d12::t_0ac4ff87d1ce5d 264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a05735a66809c98382519cf2726e41cbe1cd1d9b",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

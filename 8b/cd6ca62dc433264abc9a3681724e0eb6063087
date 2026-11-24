@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 1037-1040,1043,1045-1046,1190-1191
+test/registered/kernels/ops/communication/test_training_precision_collectives.py
+  h_1d635ecd767a49 1,145-206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8bcd6ca62dc433264abc9a3681724e0eb6063087",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

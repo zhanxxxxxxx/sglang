@@ -1,0 +1,21 @@
+test/registered/cp/test_cp_strategy_unit.py
+  s_d2f4c9dc120b69::t_c69cb2a5301bd2 57,547-548
+python/sglang/srt/layers/cp/zigzag.py
+  s_d2f4c9dc120b69::t_c69cb2a5301bd2 469
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "839b184bf4828e1ba6d0ae2c1e1884a0c0c483dd",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}
