@@ -1,0 +1,14 @@
+python/sglang/srt/speculative/dfly_worker_v2.py
+  h_cbb782975e944c 31,278-279,281-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "645187fde04bdbb05c7abe8c3956b1ed906a42ca",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

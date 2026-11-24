@@ -1,0 +1,24 @@
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_83891cf4084fcb::t_d6c91ef7b10477 102,105,108-112
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_83891cf4084fcb::t_d6c91ef7b10477 1480-1490
+  s_83891cf4084fcb::t_c7f1443b030aea 1479
+python/sglang/srt/layers/sampler.py
+  s_83891cf4084fcb::t_d6c91ef7b10477 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ce9620f17f12d3d890f4e439b3ff728d2f7f912d",
+  "prompts": {},
+  "sessions": {
+    "s_83891cf4084fcb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e3bc-bc46-7963-be20-db4e5727bc2b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

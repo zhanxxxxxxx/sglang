@@ -1,0 +1,19 @@
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_89d899db1258d4::t_ca442388441002 1373-1376,1379-1380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5be329a1ac7f3fec094e3331282fc696e390b9a0",
+  "prompts": {},
+  "sessions": {
+    "s_89d899db1258d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7d9-8095-7942-b561-a4e20289af94",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

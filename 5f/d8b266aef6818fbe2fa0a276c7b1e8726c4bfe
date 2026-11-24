@@ -1,0 +1,54 @@
+test/registered/unit/constrained/test_grammar_cache_limits.py
+  s_f3e5574164d7e0::t_b239dc0ec9d39d 258-271
+  s_f3e5574164d7e0::t_f32b08c9821372 17-20,299-305
+python/sglang/srt/constrained/grammar_cache.py
+  s_f3e5574164d7e0::t_bda4561b7527ce 8,17
+  s_f3e5574164d7e0::t_f32b08c9821372 14-16
+  s_f3e5574164d7e0::t_04aff7f6b635c8 9
+test/registered/unit/constrained/test_grammar_cache.py
+  s_f3e5574164d7e0::t_5eaa07d8a100ec 98-102,119,131,141,296,316-318,393,399,401,405-407
+  s_f3e5574164d7e0::t_f32b08c9821372 298-303
+  s_f3e5574164d7e0::t_b239dc0ec9d39d 31,97,148-295,304-306,319-368,408-416
+  s_f3e5574164d7e0::t_32f10c2c91c84a 1-30,32-96,103-118,120-130,132-140,142-147,297,307-315,369-392,394-398,400,402-404,417-420
+python/sglang/srt/mem_cache/unified_cache/components/mamba.py
+  s_f3e5574164d7e0::t_67861dd6b0176b 214-215
+  s_f3e5574164d7e0::t_d8de4cd7c3c95a 649-650
+python/sglang/srt/constrained/base_grammar_backend.py
+  s_f3e5574164d7e0::t_67861dd6b0176b 211-214,216,280-282,284,288-290,294-295,298,305-309,450,463,468
+  s_f3e5574164d7e0::t_f32b08c9821372 217,287,449
+  s_f3e5574164d7e0::t_5eaa07d8a100ec 440-444
+  s_f3e5574164d7e0::t_89d18f482a0acd 285-286,445
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_f3e5574164d7e0::t_67861dd6b0176b 1659,1669,1672,2502,2530-2531,2539,2559,3121
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_f3e5574164d7e0::t_67861dd6b0176b 786-787
+python/sglang/srt/constrained/reasoner_grammar_backend.py
+  s_f3e5574164d7e0::t_f32b08c9821372 33,168-170
+  s_f3e5574164d7e0::t_67861dd6b0176b 610,616-620
+  s_f3e5574164d7e0::t_c21de835768e72 438-442,464,466-470,625-626
+python/sglang/srt/constrained/xgrammar_backend.py
+  s_f3e5574164d7e0::t_67861dd6b0176b 247-249,252,257,260
+  s_f3e5574164d7e0::t_a91dca98d9727d 193-198,217,222
+rust/sglang-server/src/api_server/core/metrics.rs
+  s_f3e5574164d7e0::t_76313e200bff89 13-30,36,43,73-75,478-482,489,505,591-600,605,608-616,765-768,772,831-834,1018-1103,1719-1757
+rust/sglang-server/src/api_server/http/openai/chat.rs
+  s_f3e5574164d7e0::t_9f44e13f537aed 39
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_f3e5574164d7e0::t_8dbceb6bf43782 18,27,48,58,61,219,516-551,1268-1273,2469-2549
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fd8b266aef6818fbe2fa0a276c7b1e8726c4bfe",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
