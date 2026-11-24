@@ -1,0 +1,20 @@
+dspark/ar-parity/README.md
+  s_28365f39610187::t_4fdc5fc2ccc4e7 43,45,47
+  s_28365f39610187::t_42db68dba02737 48-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "927ef334d8f1b288fd0d0a19b96eca956945a43f",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
