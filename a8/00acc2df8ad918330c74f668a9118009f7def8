@@ -1,0 +1,22 @@
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_5fc677a9fc7c1d::t_9d4c63a2c14e51 380,382,400-401
+  s_5fc677a9fc7c1d::t_c6642ef9b8e170 13,20-36,110,215,220,223-224,234-242,244-248,284,305-306,335-373,394,396,398-399,402-408
+python/sglang/srt/layers/moe/mega_moe.py
+  s_5fc677a9fc7c1d::t_c6642ef9b8e170 225-227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a800acc2df8ad918330c74f668a9118009f7def8",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
