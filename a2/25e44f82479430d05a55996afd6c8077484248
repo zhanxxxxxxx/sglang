@@ -1,0 +1,14 @@
+test/registered/unit/managers/test_pp_prefill_wave.py
+  h_1d635ecd767a49 19-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a225e44f82479430d05a55996afd6c8077484248",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

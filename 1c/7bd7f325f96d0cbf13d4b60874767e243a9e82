@@ -1,0 +1,19 @@
+python/pyproject_other.toml
+  s_f3e5574164d7e0::t_a1ff4dbb8e6306 128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c7bd7f325f96d0cbf13d4b60874767e243a9e82",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

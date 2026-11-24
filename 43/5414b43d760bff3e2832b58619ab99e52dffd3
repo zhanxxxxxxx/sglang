@@ -1,0 +1,23 @@
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_a4d5c52c72c7e7::t_24877f77349f85 587-591
+test/registered/unit/mem_cache/test_hicache_partial_mamba_backup.py
+  s_a4d5c52c72c7e7::t_24877f77349f85 199-240
+test/registered/unit/mem_cache/test_cache_diagnostics.py
+  s_a4d5c52c72c7e7::t_4d2a317d854c68 18,25,208-210,212-216,221,224-228,235-246,248-262,266-297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "435414b43d760bff3e2832b58619ab99e52dffd3",
+  "prompts": {},
+  "sessions": {
+    "s_a4d5c52c72c7e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a180a2-d412-7d83-bb05-0e0a94cb8c63",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}

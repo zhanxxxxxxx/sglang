@@ -1,0 +1,18 @@
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  h_1d635ecd767a49 80,100-104
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 398-406,438,464,473-480,496-508
+test/registered/unit/managers/test_scheduler_recv_skipper.py
+  h_1d635ecd767a49 37-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bb4798941fac0df90eda20aed2e056ba279285a8",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+docker/Dockerfile
+  s_e264e4a97219bf::t_3a7d5c0286dcbd 2
+  s_e264e4a97219bf::t_324d6bcd55f27b 1
+docker/Dockerfile.cu134
+  s_e264e4a97219bf::t_3a7d5c0286dcbd 2
+  s_e264e4a97219bf::t_324d6bcd55f27b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "412a87fb0f4911d88c0f2064bef3d84ce4b92379",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

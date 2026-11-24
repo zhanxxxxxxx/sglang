@@ -1,0 +1,22 @@
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_fe92d796c96f00::t_6076de2bb169bf 1499
+  s_fe92d796c96f00::t_31c2a8312bdf6d 1500-1502
+test/registered/kernel/moe/test_dsv4_dp_route.py
+  s_fe92d796c96f00::t_6076de2bb169bf 169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "82fb98d4eca6237592fdaa90c452bf06e4fee8bc",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

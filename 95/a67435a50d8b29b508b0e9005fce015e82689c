@@ -1,0 +1,21 @@
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_189832ae7cc8a8::t_eff8a558f282fb 366-407
+python/sglang/srt/layers/sampler.py
+  s_189832ae7cc8a8::t_88e048017ae7b0 897-901
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "95a67435a50d8b29b508b0e9005fce015e82689c",
+  "prompts": {},
+  "sessions": {
+    "s_189832ae7cc8a8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f9fb-16eb-79e2-9ea1-e636c2470c87",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

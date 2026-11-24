@@ -1,0 +1,16 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_1c061c07072f6a 1586-1590
+test/registered/unit/mem_cache/test_request_snapshot_arm_batch.py
+  h_1c061c07072f6a 41-42,354-363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f82becaee770c2ccd5b4e98e6770b7eca1f32d19",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

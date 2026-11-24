@@ -1,0 +1,16 @@
+python/sglang/srt/mem_cache/snapshot_live_transfer.py
+  h_a3dc1d2ad8ed2d 160-161
+test/registered/unit/mem_cache/test_snapshot_live_transfer.py
+  h_a3dc1d2ad8ed2d 403-459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "88ae77a1695ed00149793351300cf756bfad62b0",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

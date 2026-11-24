@@ -1,0 +1,19 @@
+test/registered/unit/constrained/test_grammar_cache_limits.py
+  s_e6b2058d19be42::t_c3e9bb3f723e8b 202,205-208,211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d745f1263ae3193ff890c6be67cbabd21514e803",
+  "prompts": {},
+  "sessions": {
+    "s_e6b2058d19be42": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_e6b2058d19be42",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

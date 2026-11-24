@@ -1,0 +1,19 @@
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_89d899db1258d4::t_beb948deae6d7b 32-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8b0e7647d1eb78f70912047ab46a2a4c53bfed42",
+  "prompts": {},
+  "sessions": {
+    "s_89d899db1258d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7d9-8095-7942-b561-a4e20289af94",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

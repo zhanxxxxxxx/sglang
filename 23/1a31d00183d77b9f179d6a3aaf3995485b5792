@@ -1,0 +1,33 @@
+tests/inference_rsi/test_provider_bootstrap.py
+  s_1d32b085fb33ca::t_b03788bfbdd198 40,215,288-354
+tests/inference_rsi/test_bootstrap_ttl.py
+  s_1d32b085fb33ca::t_b03788bfbdd198 150-164
+deploy/presets/ling3-dspark-h20x8-e2e-v1.json
+  s_1d32b085fb33ca::t_b03788bfbdd198 177
+docs/framework-e2e-acceptance.md
+  s_1d32b085fb33ca::t_5284a408535a2b 78
+tests/inference_rsi/test_experiment_presets.py
+  s_1d32b085fb33ca::t_b03788bfbdd198 21
+execution/sglang/bootstrap.py
+  s_1d32b085fb33ca::t_b03788bfbdd198 4-6,35-72,280-286,293,305-307
+skills/rsi/references/bootstrap-command.md
+  s_1d32b085fb33ca::t_5284a408535a2b 58,68,76
+skills/rsi/SKILL.md
+  s_1d32b085fb33ca::t_5284a408535a2b 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "231a31d00183d77b9f179d6a3aaf3995485b5792",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

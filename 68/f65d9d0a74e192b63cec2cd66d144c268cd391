@@ -1,0 +1,21 @@
+test/srt/test_deepep_logical_decode_bs1.py
+  s_18bbfa9aac699b::t_95f7e0c9ac5311 110-141
+python/sglang/srt/model_executor/cuda_graph_runner.py
+  s_18bbfa9aac699b::t_95f7e0c9ac5311 556-562
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "68f65d9d0a74e192b63cec2cd66d144c268cd391",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

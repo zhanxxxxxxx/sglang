@@ -1,0 +1,89 @@
+python/sglang/srt/environ.py
+  s_28365f39610187::t_3a8d91a87713d5 533-555
+python/sglang/kernels/jit/csrc/attention/kda_w8_coeff_sweep.cuh
+  s_28365f39610187::t_3a8d91a87713d5 1-190
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_28365f39610187::t_3a8d91a87713d5 362-476,1166-1176,1328-1348,1364-1370,1455-1467,1666-1671,1673-1675
+python/sglang/srt/models/bailing_moe_v3.py
+  s_28365f39610187::t_3a8d91a87713d5 203-239,816,818-838,896-903,1501,1520-1521,1720-1764,1769,1779
+python/sglang/srt/layers/bailing_l4_shared_projection.py
+  s_28365f39610187::t_3a8d91a87713d5 1-14
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_28365f39610187::t_3a8d91a87713d5 970-992
+python/sglang/srt/speculative/dflash_utils.py
+  s_28365f39610187::t_3a8d91a87713d5 918,981-989,993
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  s_28365f39610187::t_3a8d91a87713d5 1264,1303-1306,1321,1323-1324
+python/sglang/kernels/jit/csrc/attention/kda_w8.cuh
+  s_28365f39610187::t_3a8d91a87713d5 1-216
+python/sglang/srt/layers/bailing_b16_router.py
+  s_28365f39610187::t_3a8d91a87713d5 1-65
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  s_28365f39610187::t_3a8d91a87713d5 146-148
+python/sglang/srt/layers/bailing_kda_physical_geometry.py
+  s_28365f39610187::t_3a8d91a87713d5 1-82
+python/sglang/srt/layers/bailing_mla_rowops.py
+  s_28365f39610187::t_3a8d91a87713d5 1-118
+python/sglang/srt/layers/bailing_mla_o_reference.py
+  s_28365f39610187::t_3a8d91a87713d5 1-68
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_28365f39610187::t_3a8d91a87713d5 461-468,781,847,851-853,890
+python/sglang/srt/layers/bailing_dense_owner.py
+  s_28365f39610187::t_3a8d91a87713d5 1-221
+python/sglang/kernels/ops/attention/fla/kda_replayssm_spec_decode.py
+  s_28365f39610187::t_3a8d91a87713d5 346,363-386
+python/sglang/kernels/ops/speculative/dspark/dspark_accept.py
+  s_28365f39610187::t_3a8d91a87713d5 113
+python/sglang/srt/model_executor/model_runner.py
+  s_28365f39610187::t_3a8d91a87713d5 632-663
+python/sglang/srt/layers/communicator.py
+  s_28365f39610187::t_3a8d91a87713d5 1502-1520
+python/sglang/srt/layers/bailing_dense_b12_gate.py
+  s_28365f39610187::t_3a8d91a87713d5 1-38
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_28365f39610187::t_6c2da4ba13332b 343
+  s_28365f39610187::t_3a8d91a87713d5 85
+python/sglang/srt/layers/bailing_kda_stream_policy.py
+  s_28365f39610187::t_3a8d91a87713d5 1-140
+python/sglang/srt/layers/bailing_kda_layer_layout.py
+  s_28365f39610187::t_3a8d91a87713d5 1-104
+python/sglang/srt/layers/bailing_shared_b16_policy.py
+  s_28365f39610187::t_3a8d91a87713d5 1-83
+python/sglang/srt/layers/bailing_kda_coeff_serving.py
+  s_28365f39610187::t_3a8d91a87713d5 1-29
+python/sglang/srt/models/kimi_linear.py
+  s_28365f39610187::t_3a8d91a87713d5 512-535
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_28365f39610187::t_3a8d91a87713d5 895-923
+python/sglang/srt/layers/bailing_dense_verify_gemm.py
+  s_28365f39610187::t_3a8d91a87713d5 1-110
+python/sglang/srt/layers/bailing_kda_stream_ticket.py
+  s_28365f39610187::t_3a8d91a87713d5 1-77
+python/sglang/srt/layers/bailing_projection_pilot.py
+  s_28365f39610187::t_3a8d91a87713d5 1-38
+python/sglang/srt/layers/bailing_stream_o_projection.py
+  s_28365f39610187::t_3a8d91a87713d5 1-26
+python/sglang/srt/layers/bailing_high_mla_chunk16.py
+  s_28365f39610187::t_3a8d91a87713d5 1-96
+python/sglang/kernels/jit/csrc/attention/kda_w8_physical.cuh
+  s_28365f39610187::t_3a8d91a87713d5 1-219
+python/sglang/srt/managers/tp_worker.py
+  s_28365f39610187::t_3a8d91a87713d5 593-596,615-617
+  s_28365f39610187::t_92e4a41a675121 618
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a9ab8afffd00b4079701f9c7dceb591d1d1d97c0",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

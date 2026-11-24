@@ -1,0 +1,24 @@
+python/sglang/srt/server_args.py
+  s_4f45ba48752b7c::t_26501dbf5aa7d3 4419,9354-9367
+  s_4f45ba48752b7c::t_969234c5bda35a 9368
+test/registered/unit/server_args/test_bailing_dsa.py
+  s_4f45ba48752b7c::t_acbb2866188470 3,53-72,74-78
+  s_4f45ba48752b7c::t_26501dbf5aa7d3 73
+  s_4f45ba48752b7c::t_63f54168316f80 79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b7a7e72124061f15cca823defefc720062d5ef97",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

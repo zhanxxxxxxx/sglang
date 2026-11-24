@@ -1,0 +1,20 @@
+docker/ant/aci/sglang_fast_gzip_companion.aci.yml
+  s_040c1c0bb64bcb::t_e4fc461df444ef 1-30,38-43,45-72
+  s_040c1c0bb64bcb::t_4540e5f8510893 31-37,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6bd24df2ad7de967bdfe06ec48cc44273eac2faa",
+  "prompts": {},
+  "sessions": {
+    "s_040c1c0bb64bcb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f4c5-7bf9-7bf2-91e9-b57290c6f5cf",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

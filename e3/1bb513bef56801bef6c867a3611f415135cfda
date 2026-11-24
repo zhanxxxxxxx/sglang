@@ -1,0 +1,25 @@
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_8_0/E=512,N=192,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[64, 128].json"
+  s_f5a50be0fc3a60::t_ead407eecc1e81 1-45
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_8_0/E=512,N=192,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[64, 128]_down.json"
+  s_f5a50be0fc3a60::t_7d2225589ecd8a 1-45
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_8_0/E=512,N=384,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_f5a50be0fc3a60::t_165c5cf4a31fa4 1-45
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_8_0/E=512,N=384,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_f5a50be0fc3a60::t_03876f6dc8a3ea 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e31bb513bef56801bef6c867a3611f415135cfda",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

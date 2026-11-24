@@ -1,0 +1,32 @@
+docker/muse_spark/muse-spark-rocm.Dockerfile
+  s_e264e4a97219bf::t_4471da948a2f3d 552
+  s_e264e4a97219bf::t_467a16db1b0efe 551,553
+docker/rocm.Dockerfile
+  s_e264e4a97219bf::t_4471da948a2f3d 659
+  s_e264e4a97219bf::t_467a16db1b0efe 658,660
+docker/Dockerfile.cu134
+  s_e264e4a97219bf::t_4471da948a2f3d 157,315
+  s_e264e4a97219bf::t_d209b46ba18d30 347
+  s_e264e4a97219bf::t_467a16db1b0efe 156,158,316,661-664,667-668,670
+  s_e264e4a97219bf::t_52cdac9aa24851 104
+docker/Dockerfile
+  s_e264e4a97219bf::t_467a16db1b0efe 145,147,421-424,427-430
+  s_e264e4a97219bf::t_4471da948a2f3d 146
+  s_e264e4a97219bf::t_52cdac9aa24851 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "218a2a4e7772362f900ee350fd7ccae48f916660",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

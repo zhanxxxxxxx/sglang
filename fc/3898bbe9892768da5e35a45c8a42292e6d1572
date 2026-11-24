@@ -1,0 +1,16 @@
+python/sglang/kernels/ops/gemm/cutedsl_bf16_gemm.py
+  h_1d635ecd767a49 42,46-47,1371-1374
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1490-1492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc3898bbe9892768da5e35a45c8a42292e6d1572",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.aci/ut_it_metric.yml
+  h_b17fe09d5e3772 12-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e614b05be15567c61aaf422d85d2bfa963b41c61",
+  "prompts": {},
+  "humans": {
+    "h_b17fe09d5e3772": {
+      "author": "zhengyoufu <zhengyoufu.zyf@antgroup.com>"
+    }
+  }
+}

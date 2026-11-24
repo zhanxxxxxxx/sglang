@@ -1,0 +1,23 @@
+python/sglang/kernels/jit/csrc/gemm/glm53_h20_swapab.cu
+  s_f5a50be0fc3a60::t_9ace01734b4a0c 11
+python/sglang/srt/layers/quantization/glm53_small_fp8_gemm.py
+  s_f5a50be0fc3a60::t_73cfe64aaa47c2 24-25,27-42
+test/registered/kernels/ops/gemm/test_glm53_h20_swapab.py
+  s_f5a50be0fc3a60::t_e618c3488bd8bc 20,82-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a885220ba343d7d18619ece5e071eb7aa1241b83",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

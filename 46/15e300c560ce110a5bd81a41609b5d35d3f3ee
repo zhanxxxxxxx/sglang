@@ -1,0 +1,30 @@
+python/sglang/srt/speculative/exact_penalties.py
+  s_3a9c9122506be4::t_8b167115f393bb 264-273
+  s_3a9c9122506be4::t_d5da2be36dcbed 224-225,236-243
+test/manual/spec/check_fused_exact_penalties.py
+  s_3a9c9122506be4::t_cda1e375666f94 41,102-105,112,115
+  s_3a9c9122506be4::t_9de4b87d573d8f 1-40,42-101,106-111,113-114,116-142
+python/sglang/srt/environ.py
+  s_3a9c9122506be4::t_d5da2be36dcbed 1274-1275
+python/sglang/srt/arg_groups/validation_hook.py
+  s_3a9c9122506be4::t_d5da2be36dcbed 32-40
+python/sglang/srt/speculative/exact_penalties_triton.py
+  s_3a9c9122506be4::t_8b167115f393bb 74-129
+  s_3a9c9122506be4::t_d5da2be36dcbed 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4615e300c560ce110a5bd81a41609b5d35d3f3ee",
+  "prompts": {},
+  "sessions": {
+    "s_3a9c9122506be4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d341-ffa2-7a40-98f7-02957b5ae8d1",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
