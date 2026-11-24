@@ -1,0 +1,21 @@
+python/sglang/srt/parser/hunyuan_reasoning.py
+  s_1a824a88613044::t_6504851a7210ad 28-29
+test/registered/unit/parser/test_hunyuan_reasoning.py
+  s_1a824a88613044::t_6504851a7210ad 42-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c470f92618e502c1da0c5965ca144828001ed152",
+  "prompts": {},
+  "sessions": {
+    "s_1a824a88613044": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20657-ced7-7690-aa15-bc06f85ac9c4",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
