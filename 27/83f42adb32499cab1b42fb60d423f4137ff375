@@ -1,0 +1,20 @@
+python/sglang/srt/managers/prefill_delayer.py
+  h_1d635ecd767a49 64-65
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 627-635
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 7,20-102
+test/registered/unit/managers/test_prefill_delayer_high_watermark.py
+  h_1d635ecd767a49 46-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2783f42adb32499cab1b42fb60d423f4137ff375",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
