@@ -1,0 +1,23 @@
+test/registered/kernels/ops/attention/test_hopper_fp8_kv_sink.py
+  s_1a824a88613044::t_64662131fad7e5 1-64
+python/sglang/srt/arg_groups/overrides.py
+  s_1a824a88613044::t_64662131fad7e5 549-560,733
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_1a824a88613044::t_64662131fad7e5 343-352,887-889,2744,2746,3062,3091,3169,3171,3279,4020,4067-4079,4111-4112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7e97f37a38eb3a99631639bebafb51ac70015fa7",
+  "prompts": {},
+  "sessions": {
+    "s_1a824a88613044": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20657-ced7-7690-aa15-bc06f85ac9c4",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
