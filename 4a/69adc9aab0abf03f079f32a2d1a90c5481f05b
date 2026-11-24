@@ -1,0 +1,19 @@
+test/registered/unit/models/test_deepseek_v41_bcg_multimodal.py
+  s_8d6e02f56d531e::t_f5cdc626eefa91 90-100,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4a69adc9aab0abf03f079f32a2d1a90c5481f05b",
+  "prompts": {},
+  "sessions": {
+    "s_8d6e02f56d531e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167c6-e565-7440-a4c7-96fefe943ed5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
