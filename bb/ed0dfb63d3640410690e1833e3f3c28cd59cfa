@@ -1,0 +1,14 @@
+docker/ant/install_glm53_humming.sh
+  h_93c0cedf8b5841 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bbed0dfb63d3640410690e1833e3f3c28cd59cfa",
+  "prompts": {},
+  "humans": {
+    "h_93c0cedf8b5841": {
+      "author": "科科 <keke.zhaokk@antgroup.com>"
+    }
+  }
+}

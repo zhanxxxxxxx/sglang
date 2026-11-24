@@ -1,0 +1,43 @@
+test/registered/unit/test_force_sum_len_attn_dp.py
+  s_c050a148f13520::t_6c6404927547ce 96,107-115,137,195-203
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_c050a148f13520::t_6c6404927547ce 29,92,103,143-146
+python/sglang/srt/speculative/dspark_components/dspark_draft.py
+  s_c050a148f13520::t_6c6404927547ce 13,111,154-161,186,195,289
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_c050a148f13520::t_6c6404927547ce 31,1366-1380,1390-1394,1399,1470,1521-1523
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_c050a148f13520::t_6c6404927547ce 294-298,306,313
+test/registered/spec/dspark/test_bailing_hidden_capture.py
+  s_c050a148f13520::t_6c6404927547ce 1,3,5-9,12-25,29,32-38,40,42-45,47,49-55,57-65,67-68,70-133,135-136
+python/sglang/srt/speculative/dspark_components/dspark_backend_contract.py
+  s_c050a148f13520::t_6c6404927547ce 1,3-4,22-26,28-30
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  s_c050a148f13520::t_6c6404927547ce 418-427
+python/sglang/srt/layers/communicator.py
+  s_c050a148f13520::t_6c6404927547ce 512-521,539-540,743
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_c050a148f13520::t_6c6404927547ce 15,102-108,240,292,367-376,386-391
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_c050a148f13520::t_6c6404927547ce 46-50,54-62,125-129,134-138,143-148,150-156,160-171,174-179,186-192,196,199-206,208-210,214-231,242-341,344-349,353-355,365-383,403-406,411-427,435-446,481-483,506-509,512-514,524-533,535-553,556-561,566-576,579-584,588-590,602-609,612-628,631-633,638-642,644-654,661-667,669-671,679-686,690-692,703,705-709,718-719,728-730,738,743,747-751
+python/sglang/srt/models/bailing_moe_v3.py
+  s_c050a148f13520::t_6c6404927547ce 98-101,143,151,1124-1126,1140-1142,1150-1152,2928,2930-2933
+python/sglang/srt/layers/sampler.py
+  s_c050a148f13520::t_6c6404927547ce 18,76,78-87,145-147,157,163-165,219,221-227,256,270-273,319-320,589-592
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efa93e3880253ffb11fb618798ad6646dbbe60fd",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

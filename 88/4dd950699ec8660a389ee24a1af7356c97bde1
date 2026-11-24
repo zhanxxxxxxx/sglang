@@ -1,0 +1,46 @@
+python/sglang/kernels/ops/kvcache/pd_dcp_gather.py
+  h_cbb782975e944c 8-38
+python/sglang/srt/arg_groups/deepseek_v4_hook.py
+  h_cbb782975e944c 426-452
+python/sglang/srt/arg_groups/field_order.py
+  h_cbb782975e944c 97
+python/sglang/srt/arg_groups/fields/parallel.py
+  h_cbb782975e944c 152-155
+python/sglang/srt/disaggregation/common/conn.py
+  h_cbb782975e944c 111,139,223-225,1135,1230,1322,1854,2267,2399-2400,2471
+python/sglang/srt/disaggregation/common/dcp_pack.py
+  h_cbb782975e944c 10-13,20-69
+python/sglang/srt/disaggregation/mooncake/conn.py
+  h_cbb782975e944c 26-30,38,81,164,221-223,242-244,361-366,404,679,684,687-810,1106-1113,1157-1158,1178-1180,1289-1291,1334-1345,1373-1385,1673,1831-1838,2269,2291-2292,2370-2374,2600-2604,3060
+python/sglang/srt/distributed/device_communicators/mooncake_transfer_engine.py
+  h_cbb782975e944c 6,169,171-174,248-255,257-260
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  h_cbb782975e944c 2908-2909,3313-3314,3745,3788,3912,3963-3965,5141,5147,5151-5152,5533,5560-5561,5945,5968-5969
+python/sglang/srt/layers/engram.py
+  h_cbb782975e944c 304-307
+python/sglang/srt/mem_cache/deepseek_v4_memory_pool.py
+  h_cbb782975e944c 731-732,755-769,1018-1019,1047-1048,1672,1715,1717-1719,1909-1931,2061-2062
+python/sglang/srt/mem_cache/dsv41_page_shard.py
+  h_cbb782975e944c 1-106
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_pool_assembler.py
+  h_cbb782975e944c 721
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  h_cbb782975e944c 1394-1398
+python/sglang/srt/mem_cache/memory_pool_host.py
+  h_cbb782975e944c 189,192,405-422,503-509
+python/sglang/srt/model_executor/pool_configurator.py
+  h_cbb782975e944c 1052-1056,1094,1098-1104,1322
+test/registered/kernels/ops/kvcache/test_pd_dcp_gather.py
+  h_cbb782975e944c 5-9,17-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "884dd950699ec8660a389ee24a1af7356c97bde1",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

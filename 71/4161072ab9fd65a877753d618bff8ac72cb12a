@@ -1,0 +1,28 @@
+test/registered/unit/models/test_bailing_vl_loader.py
+  s_f5a50be0fc3a60::t_6d5cc5426cce07 14,131-133
+  s_f5a50be0fc3a60::t_c1c8c8c3df3e8a 120-122
+  s_f5a50be0fc3a60::t_41f5233eea3f69 20,116-119,123-130,134
+  s_f5a50be0fc3a60::t_ed7e456b2b478c 135
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 1206-1207
+python/sglang/srt/models/bailing_moe_v3.py
+  s_f5a50be0fc3a60::t_a0c1377bbfa124 76,818-830
+  s_f5a50be0fc3a60::t_9adb76565e36fc 528-537,784-786
+  s_f5a50be0fc3a60::t_3f856698ed09c3 787
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "714161072ab9fd65a877753d618bff8ac72cb12a",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}
