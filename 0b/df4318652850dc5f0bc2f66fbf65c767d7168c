@@ -1,0 +1,45 @@
+test/registered/unit/server_args/test_server_args.py
+  s_e264e4a97219bf::t_b821dffdefa2bd 161-168,173-177
+  s_e264e4a97219bf::t_68d3e8b79ba004 90,114,158-160,522-524,928-959,1157-1158,1160-1162,1185-1186,1188,1195-1196,1198,1215-1216,1218-1220,1241-1242,1244,1259-1260,1262,1274,1276,1283,1285,1303,2926-2940,4431,4443,4449,4456,4541,4546,4551,4553,4656,4661,4668,4676,4683,4697,4699
+python/sglang/srt/managers/mm_data_processor.py
+  s_e264e4a97219bf::t_15bec2d9f7c3e9 80
+  s_e264e4a97219bf::t_b821dffdefa2bd 137
+test/registered/unit/models/test_kimi_k25.py
+  s_e264e4a97219bf::t_b821dffdefa2bd 663
+test/registered/unit/multimodal/test_preprocess_cache.py
+  s_e264e4a97219bf::t_a6c148cf4e6793 250-251
+  s_e264e4a97219bf::t_15bec2d9f7c3e9 225,233,247-249,252
+test/registered/unit/multimodal/test_processor_device_selection.py
+  s_e264e4a97219bf::t_a6c148cf4e6793 10,13,57-60,64-83,115-122
+  s_e264e4a97219bf::t_b821dffdefa2bd 145
+  s_e264e4a97219bf::t_7a15956e80bad4 61-63
+  s_e264e4a97219bf::t_1df9cc7eac20a6 123
+python/sglang/srt/environ.py
+  s_e264e4a97219bf::t_b821dffdefa2bd 847
+  s_e264e4a97219bf::t_32fa508627f98d 773,904,1097,1234,1237,1281,1540,1796,1798-1799,1804-1805,1810-1811,1815-1816,1820-1821,1825-1826,1830-1831,1835-1836,1838-1839,2475,2724-2726,2733-2789
+test/registered/unit/multimodal/rust/qwen/_fixtures.py
+  s_e264e4a97219bf::t_b821dffdefa2bd 83
+  s_e264e4a97219bf::t_387117233936fc 113
+python/sglang/srt/multimodal/cache/identity.py
+  s_e264e4a97219bf::t_15bec2d9f7c3e9 432
+test/registered/unit/model_executor/model_runner_components/test_spec_aux_hidden_state.py
+  s_e264e4a97219bf::t_ca1eee58df3765 91,93-96,100,114
+test/registered/unit/spec/test_pp_draft_embedding.py
+  s_e264e4a97219bf::t_3efefdb8d8fe0b 19,226-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0bdf4318652850dc5f0bc2f66fbf65c767d7168c",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+test/registered/unit/models/test_bailing_moe_v3_dcp.py
+  s_4517e4240bb588::t_304d6e39aa10b2 795,809-810,816-817
+test/registered/kernels/ops/attention/test_kda_state_layout.py
+  s_4517e4240bb588::t_304d6e39aa10b2 74-122
+test/registered/unit/layers/attention/test_hybrid_dp_decode_tracking.py
+  s_4517e4240bb588::t_304d6e39aa10b2 163
+python/sglang/kernels/ops/attention/fla/chunk_delta_h.py
+  s_4517e4240bb588::t_62c53f9e07623d 66-68,85,144-147,232-259,485-486,508-513,537-539,555
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_4517e4240bb588::t_3e2e0ad3931810 1101-1102,1188-1189,1234-1235,1260-1261
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  s_4517e4240bb588::t_cd396ac61ec216 55-56,109-110,245-246,263-264,382-390,396-397,845-846,854-861
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_4517e4240bb588::t_fac69f830ef6f5 46,319-325,367,685-692,709-711,720-722,724-728
+python/sglang/srt/layers/attention/linear/kernels/kda_triton.py
+  s_4517e4240bb588::t_32e7d924d7d9cb 245-246
+python/sglang/srt/layers/attention/mamba/mamba2_metadata.py
+  s_4517e4240bb588::t_bbc6aec02a8618 56-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "81bf0806c019fc11b67915071d5d56399d9e215d",
+  "prompts": {},
+  "sessions": {
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

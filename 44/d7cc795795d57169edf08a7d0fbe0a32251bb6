@@ -1,0 +1,19 @@
+python/sglang/srt/model_executor/model_runner.py
+  s_f2a5c33bc49fca::t_6f07d21a746265 1037
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "44d7cc795795d57169edf08a7d0fbe0a32251bb6",
+  "prompts": {},
+  "sessions": {
+    "s_f2a5c33bc49fca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c19-443e-7b21-97b2-f810222fe192",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

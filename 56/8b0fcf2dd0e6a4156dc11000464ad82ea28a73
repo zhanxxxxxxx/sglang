@@ -1,0 +1,24 @@
+python/sglang/srt/layers/radix_linear_attention.py
+  h_1d635ecd767a49 143-149,155-164,167-168
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 8183-8189
+test/registered/unit/configs/test_multimodal_piecewise_cuda_graph.py
+  h_1d635ecd767a49 35,50
+test/registered/unit/model_executor/runner/test_hidden_state_graph_recapture.py
+  h_1d635ecd767a49 70,86
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 11-13,20,32-34,81-117
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 1725-1752
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "568b0fcf2dd0e6a4156dc11000464ad82ea28a73",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 109-158,214-225,311-324,408
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 3254-3266
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 18-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "25ec43e8e54544ef57b44eba6b60e387d808affb",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

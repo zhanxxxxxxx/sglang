@@ -1,0 +1,19 @@
+test/registered/unit/multimodal/test_qwen_video_preprocess_api.py
+  s_6814b9b1896915::t_a657ba5e774306 2-3,5-15,17,20,52-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f589d6db1b7717c342fe5544f8810ed53052d0b5",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

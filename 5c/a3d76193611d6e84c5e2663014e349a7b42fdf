@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/kimi_gemm.py
+  s_053d675529bb1b::t_007d2f0e6ab1a4 1,10,70-71,82-86,92-100
+python/sglang/srt/layers/attention/linear/kernels/train_infer_consistency/tp.py
+  s_053d675529bb1b::t_007d2f0e6ab1a4 32,34,41-42,51-52,65,87-92,172-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5ca3d76193611d6e84c5e2663014e349a7b42fdf",
+  "prompts": {},
+  "sessions": {
+    "s_053d675529bb1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8e4-71c1-7fd2-a57f-fbced36c332d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

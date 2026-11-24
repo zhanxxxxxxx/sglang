@@ -1,0 +1,41 @@
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_c050a148f13520::t_cd8df9101c41fd 4,304-305,914-916,1023-1035
+python/sglang/srt/managers/schedule_batch.py
+  s_c050a148f13520::t_cd8df9101c41fd 869,1107,1130
+python/sglang/srt/sampling/speculative_distribution.py
+  s_c050a148f13520::t_cd8df9101c41fd 87-110
+python/sglang/srt/layers/sampler.py
+  s_c050a148f13520::t_cd8df9101c41fd 134,148-149,203-204,245-246
+python/sglang/srt/managers/utils.py
+  s_c050a148f13520::t_cd8df9101c41fd 145-146
+python/sglang/srt/managers/scheduler.py
+  s_c050a148f13520::t_cd8df9101c41fd 2460,2588-2599
+test/registered/spec/dspark/test_dspark_behavior_scores.py
+  s_c050a148f13520::t_cd8df9101c41fd 1-90
+python/sglang/srt/layers/logprob_processor.py
+  s_c050a148f13520::t_cd8df9101c41fd 12,406-415
+python/sglang/srt/managers/scheduler_components/output_streamer.py
+  s_c050a148f13520::t_cd8df9101c41fd 147,556
+python/sglang/srt/sampling/sampling_batch_info.py
+  s_c050a148f13520::t_cd8df9101c41fd 83,156,226,362-364,478-479
+python/sglang/srt/managers/tokenizer_manager.py
+  s_c050a148f13520::t_cd8df9101c41fd 1571,2662,2681-2687
+python/sglang/srt/managers/io_struct.py
+  s_c050a148f13520::t_cd8df9101c41fd 228-230,564-565,785-787,952,1049
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "152c77a325a55a80d21b3d7ea5cf4412a4be6e98",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

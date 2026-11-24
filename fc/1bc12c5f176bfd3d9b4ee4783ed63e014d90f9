@@ -1,0 +1,31 @@
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_f99fe0572ec059 27-30,463-464,474-475,531-535,588,595-596,599-618,652-653,706-707,798-799
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_719b88a4b4284a::t_1699cb05a9a27a 232
+  s_719b88a4b4284a::t_23ca9d4941eeb7 231,253-286
+  s_19be22d4c6b00d::t_5dc43cdae6814a 287-288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc1bc12c5f176bfd3d9b4ee4783ed63e014d90f9",
+  "prompts": {},
+  "sessions": {
+    "s_19be22d4c6b00d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e7d3-06ce-75d3-85bf-ca1466761a8e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    },
+    "s_719b88a4b4284a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ea28-908b-7322-9947-fef0ee5cb376",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

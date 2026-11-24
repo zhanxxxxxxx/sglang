@@ -1,0 +1,18 @@
+python/sglang/srt/layers/dcp/comm.py
+  h_1d635ecd767a49 535,564-567,579-581,585-586
+python/sglang/srt/model_executor/pp_nonfinite_probe.py
+  h_1d635ecd767a49 192-193,350-378,440-446,450-453,488-521
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  h_1d635ecd767a49 935-939,942-943,945-946
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "57ba6994d9b0151498fdef9a9bd5fc796e6afc75",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

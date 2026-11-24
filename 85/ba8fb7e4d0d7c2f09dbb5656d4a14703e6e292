@@ -1,0 +1,32 @@
+python/sglang/srt/managers/io_struct.py
+  h_1d635ecd767a49 1096-1101
+python/sglang/srt/managers/pp_ingress_placement.py
+  h_1d635ecd767a49 1-173
+python/sglang/srt/managers/pp_prefill_wave.py
+  h_1d635ecd767a49 52,62-73,92-117,255-265
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 157,2443-2444,2773-2774,2783-2789,3528-3531
+python/sglang/srt/managers/scheduler_components/pp_wave_scheduling.py
+  h_1d635ecd767a49 21-23,76-77,85-88,90-93,99-122,128-140,185-206,220-227,470-475
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  h_1d635ecd767a49 617-649
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4065-4067,4077-4093
+test/registered/unit/managers/test_pp_ingress_placement.py
+  h_1d635ecd767a49 1-107
+test/registered/unit/managers/test_pp_prefill_wave.py
+  h_1d635ecd767a49 7,28,97-114
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 72-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "85ba8fb7e4d0d7c2f09dbb5656d4a14703e6e292",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
