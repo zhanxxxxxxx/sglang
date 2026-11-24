@@ -1,7 +1,7 @@
 python/sglang/kernels/ops/moe/ep_moe_kernels.py
   h_1d635ecd767a49 1579,1606-1612
 python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
-  h_1d635ecd767a49 720-737,833-842,966-1006,1045-1060,1070
+  h_1d635ecd767a49 720-737,720-723,727-737,833-842,833-838,842,966-1006,966-978,981-991,993-1006,1045-1060,1045-1046,1048,1050-1060,1070
 ---
 {
   "schema_version": "authorship/3.0.0",
