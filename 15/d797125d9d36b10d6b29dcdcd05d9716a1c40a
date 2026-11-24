@@ -1,0 +1,16 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 165-169
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 5,9,12,120-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "15d797125d9d36b10d6b29dcdcd05d9716a1c40a",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
