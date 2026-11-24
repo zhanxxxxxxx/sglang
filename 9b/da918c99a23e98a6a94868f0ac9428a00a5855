@@ -1,0 +1,36 @@
+python/sglang/kernels/jit/csrc/attention/kda_fused_decode.cuh
+  h_1d635ecd767a49 36,193-196,414,416-417,441,619,641,695,703,720,758-763,769-770,885,904,906-907,909-910,913-914,916-917,1012,1015,1018,1021,1024,1027,1030
+python/sglang/kernels/jit/csrc/attention/kda_packed_decode.cuh
+  h_1d635ecd767a49 11-12,17,102-107,116-119
+python/sglang/kernels/jit/include/sgl_kernel/kda_decode.cuh
+  h_1d635ecd767a49 1-55
+python/sglang/kernels/ops/attention/cutedsl_kda.py
+  h_1d635ecd767a49 47-102,250,253-254,279-293,295,451,454-455,480-494,496,647,650-651,675-689,691,842,845-846,870-884,886
+python/sglang/kernels/ops/attention/fla/fused_recurrent.py
+  h_1d635ecd767a49 10,469-474,487-497,501,506,509-528,654-656
+python/sglang/kernels/ops/attention/helion/kda_decode.py
+  h_1d635ecd767a49 151,153-157,160,162-179
+python/sglang/kernels/ops/attention/kda_fused_decode.py
+  h_1d635ecd767a49 50,136-139
+python/sglang/kernels/ops/attention/kda_packed_decode.py
+  h_1d635ecd767a49 7-8,57-59
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1788
+scripts/mtp_pp_dcp/diagnose_kda_batch_invariance.py
+  h_1d635ecd767a49 104
+test/registered/kernels/ops/attention/test_kda_fused_decode.py
+  h_1d635ecd767a49 7-8,210,222,231-240,472-473,481-581
+test/registered/kernels/ops/attention/test_kda_helion.py
+  h_1d635ecd767a49 212-213,226-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9bda918c99a23e98a6a94868f0ac9428a00a5855",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
