@@ -1,0 +1,25 @@
+python/sglang/kernels/jit/csrc/attention/kda_w8_physical.cuh
+  s_28365f39610187::t_256e8dc9f2601f 51-53,84
+test/registered/spec/dspark/test_dspark_kda_ar_parity.py
+  s_28365f39610187::t_256e8dc9f2601f 1-83
+python/sglang/kernels/jit/csrc/attention/kda_w8.cuh
+  s_28365f39610187::t_256e8dc9f2601f 51-53,84
+dspark/ar-parity/README.md
+  s_28365f39610187::t_797538abee88f4 31-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "47e7566f57ff1f6d37fe8dee72b24302352bcebc",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
