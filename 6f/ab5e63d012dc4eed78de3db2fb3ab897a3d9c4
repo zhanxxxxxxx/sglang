@@ -1,0 +1,39 @@
+python/sglang/srt/distributed/device_communicators/cp_moe_symm.py
+  s_5fc677a9fc7c1d::t_919ba8c476fe57 272-275,320,351-372,374-390
+python/sglang/srt/distributed/parallel_state.py
+  s_5fc677a9fc7c1d::t_a6a5818502b795 2821-2840
+python/sglang/srt/environ.py
+  s_5fc677a9fc7c1d::t_99f7b84a229b82 1996-1999
+python/sglang/srt/layers/moe/mega_moe.py
+  s_5fc677a9fc7c1d::t_da7272c25cbde0 130-133,159,222-226
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_5fc677a9fc7c1d::t_a3a84d559051b2 1-287
+python/sglang/srt/layers/quantization/fp8.py
+  s_5fc677a9fc7c1d::t_a9bdf996d590e2 1811-1818
+python/sglang/srt/model_executor/model_runner.py
+  s_5fc677a9fc7c1d::t_89bd753b02cb57 692-696
+python/sglang/srt/models/deepseek_v2.py
+  s_5fc677a9fc7c1d::t_f1579323afe963 320,350-356,1673,1676-1680
+python/sglang/srt/models/deepseek_v4.py
+  s_5fc677a9fc7c1d::t_734cf26b86faf3 6108,6115-6130,6405-6409
+python/sglang/srt/models/deepseek_v4_cp_moe.py
+  s_5fc677a9fc7c1d::t_f864af74c6f65c 69-71,76-81,84,242-255,258-264
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_5fc677a9fc7c1d::t_fd931f7e1d8763 163-169,181-183,188,425-430,441-446
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6fab5e63d012dc4eed78de3db2fb3ab897a3d9c4",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

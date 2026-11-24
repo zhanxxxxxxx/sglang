@@ -1,0 +1,21 @@
+python/sglang/srt/speculative/dspark_export.py
+  s_3fa9616c55a5c8::t_2123158f1a79cd 84-98,104-105,117-126
+test/registered/spec/dspark/test_export_receipt.py
+  s_3fa9616c55a5c8::t_c729894b505f3d 144-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "156821970bb15d343cbfda7661bc8e3fde51c620",
+  "prompts": {},
+  "sessions": {
+    "s_3fa9616c55a5c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f4af-f26d-7671-a22e-a88a4066c34b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
