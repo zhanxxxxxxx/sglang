@@ -1,0 +1,16 @@
+docs/docs/references/environment_variables.mdx
+  h_1d635ecd767a49 262
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 835-837,893-897,941-944,962-968,972,975,988-989,992-996,998-1004,1046,1050
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f10a4c9499212d6e0429c20af437fe56447dadac",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

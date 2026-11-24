@@ -1,0 +1,25 @@
+python/sglang/srt/models/deepseek_v4_prefill_graph.py
+  s_5fc677a9fc7c1d::t_90f66d8dcc503c 41,52-54,191-192,201,218,280,336-357,372-373,379-395,397,406,409-427,431,436,439,444-445,448,452,455-457,527-528,554-562,564,575-577,588-590,607-608
+python/sglang/srt/models/deepseek_v4.py
+  s_5fc677a9fc7c1d::t_90f66d8dcc503c 5383-5399,5404,5522,5566-5570,5598-5599
+python/sglang/srt/environ.py
+  s_5fc677a9fc7c1d::t_adbe954fe39b66 2101-2103
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_5fc677a9fc7c1d::t_adbe954fe39b66 13-14,92-140,183-184,262-267,322-351,354,358,362-371,373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0bb982e99422366bb74d72118c8ebe84f64f0b2d",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

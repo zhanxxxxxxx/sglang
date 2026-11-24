@@ -1,0 +1,14 @@
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 1769-1772
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1932f280b66829b30a24014956b59d2d96c6eea8",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
