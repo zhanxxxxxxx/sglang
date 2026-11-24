@@ -1,0 +1,38 @@
+python/sglang/srt/layers/bailing_kda_physical_geometry.py
+  s_28365f39610187::t_270ec8c539e9a4 89
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_28365f39610187::t_270ec8c539e9a4 769-772
+test/registered/spec/dspark/test_dspark_kda_ar_parity.py
+  s_28365f39610187::t_c28d71fd674cf3 4,15,109-116,118-129
+  s_28365f39610187::t_47a0c144810457 9-11,13,32-38,54-60,82,86-97,105-108
+  s_28365f39610187::t_6e1a62694f41ff 73,98-101,117
+python/sglang/srt/layers/attention/dspark_mla_w1.py
+  s_28365f39610187::t_270ec8c539e9a4 12
+test/registered/spec/dspark/test_dspark_mla_w1.py
+  s_28365f39610187::t_270ec8c539e9a4 66
+python/sglang/srt/layers/bailing_kda_packed_replay.py
+  s_28365f39610187::t_270ec8c539e9a4 1-55
+python/sglang/srt/layers/bailing_kda_stream_ticket.py
+  s_28365f39610187::t_0273f44eeb9d9e 6-37,43,105-107,110-123
+  s_28365f39610187::t_b6531c0d224d87 124
+python/sglang/srt/layers/bailing_kda_stream_policy.py
+  s_28365f39610187::t_270ec8c539e9a4 113-119,133-138,141
+dspark/ar-parity/README.md
+  s_28365f39610187::t_18202c499b9162 31,35-36,43-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1f361f98066261e4abf153c3278eef716c232ebb",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
