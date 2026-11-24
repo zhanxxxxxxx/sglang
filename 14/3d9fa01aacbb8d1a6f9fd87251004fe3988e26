@@ -1,0 +1,30 @@
+python/sglang/srt/layers/attention/ling/qsa_indexer_query_shard.py
+  s_a8ea711903e8fd::t_94ea4f7922b37e 55-62
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_a8ea711903e8fd::t_94ea4f7922b37e 150
+test/registered/unit/layers/attention/test_ling_kv4_latent_distributed.py
+  s_a8ea711903e8fd::t_f714df11582bc6 1-196
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_a8ea711903e8fd::t_94ea4f7922b37e 1816,2109-2126
+  s_a8ea711903e8fd::t_c12750d91b99d1 4,56-60,244-245,1631-1636,1658-1666,1814-1815,2762-2765
+python/sglang/srt/layers/attention/ling/csa_dcp_prefill.py
+  s_a8ea711903e8fd::t_94ea4f7922b37e 20,203-209,212-213
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_a8ea711903e8fd::t_bf7c279b834b60 3212-3218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "143d9fa01aacbb8d1a6f9fd87251004fe3988e26",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
