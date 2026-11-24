@@ -1,0 +1,48 @@
+python/sglang/srt/layers/bailing_dense_verify_gemm.py
+  s_28365f39610187::t_0b7f3b55ed6ccd 6-8,73-75
+  s_28365f39610187::t_5eaa4da21e4dd2 5
+python/sglang/srt/layers/attention/dspark_mla_w1.py
+  s_28365f39610187::t_8da3444a1d8f7b 8-10,14-20
+  s_28365f39610187::t_5eaa4da21e4dd2 7
+python/sglang/srt/layers/bailing_dense_owner.py
+  s_28365f39610187::t_0b7f3b55ed6ccd 6-8,108-110
+  s_28365f39610187::t_5eaa4da21e4dd2 5
+python/sglang/srt/layers/bailing_kda_physical_geometry.py
+  s_28365f39610187::t_0b7f3b55ed6ccd 6-8,23-24,32
+  s_28365f39610187::t_5eaa4da21e4dd2 5
+python/sglang/srt/layers/bailing_high_mla_chunk16.py
+  s_28365f39610187::t_0b7f3b55ed6ccd 5-7,60,63
+  s_28365f39610187::t_5eaa4da21e4dd2 4
+python/sglang/srt/layers/bailing_kda_stream_policy.py
+  s_28365f39610187::t_83f31e93e61f56 66
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_28365f39610187::t_83f31e93e61f56 77,379-389,401,415,428-436,442,464-466,489,1585-1587
+  s_28365f39610187::t_5eaa4da21e4dd2 82
+python/sglang/srt/layers/bailing_ar_layout_head.py
+  s_28365f39610187::t_5eaa4da21e4dd2 4
+  s_28365f39610187::t_0b7f3b55ed6ccd 5-7,18,20-21,23
+  s_28365f39610187::t_83f31e93e61f56 19
+test/registered/spec/dspark/test_dspark_mla_w1.py
+  s_28365f39610187::t_ac4594630c3544 10-11,18-34
+  s_28365f39610187::t_5eaa4da21e4dd2 9
+dspark/ar-parity/README.md
+  s_28365f39610187::t_aa25fa99b5b76c 33-34
+python/sglang/srt/model_executor/ordinary_decode_geometry.py
+  s_28365f39610187::t_700cea46f5d734 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba1f996913305d444fefcb2b78b98a42f3f0aa53",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
