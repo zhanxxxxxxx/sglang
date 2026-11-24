@@ -1,0 +1,19 @@
+python/sglang/srt/disaggregation/common/conn.py
+  s_0834aacb2662e0::t_7fd8d94d6403fb 1643-1656
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bd4baddbf4c3b631513d0e9689b39bb08edf7bd9",
+  "prompts": {},
+  "sessions": {
+    "s_0834aacb2662e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_0834aacb2662e0",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

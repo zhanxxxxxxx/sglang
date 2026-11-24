@@ -1,0 +1,23 @@
+test/manual/test_schedule_policy.py
+  s_27ee235c7539c6::t_1b4ee8a0c4476c 54-101,103
+  s_27ee235c7539c6::t_2ac9abe3ec92e3 102
+python/sglang/srt/managers/schedule_policy.py
+  s_27ee235c7539c6::t_788823cb97c688 149,154,161,163-165,250,258,262,267-269,430-436,444-446,451,491-493
+  s_27ee235c7539c6::t_2ac9abe3ec92e3 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ef37081c92f04619a2b9c530844b6a4150fe20ba",
+  "prompts": {},
+  "sessions": {
+    "s_27ee235c7539c6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207b9-6897-7622-8c59-de8b49b6bdfd",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
