@@ -1,0 +1,23 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_3e6238736197e9::t_f3fb2ba7d0ee4e 55-113,467-470,478-487,496-506,512-528,721-730,739-749,922-925,935-945,954-974,1084-1086,1097-1107,1503-1530,1604-1629,1643
+python/sglang/srt/server_args.py
+  s_3e6238736197e9::t_c197b314947126 8090-8101,8108-8129
+test/registered/unit/layers/test_w4a8_tic_quantization.py
+  s_3e6238736197e9::t_6c9ae09a3faebd 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c707806ccceab6abd10fa83ddb120ff65d3ba07",
+  "prompts": {},
+  "sessions": {
+    "s_3e6238736197e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20730-687c-7a91-94ab-a1a3a91e780d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "lunhengrui.lhr <lunhengrui.lhr@antgroup.com>"
+    }
+  }
+}

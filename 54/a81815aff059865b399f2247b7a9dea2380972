@@ -1,0 +1,21 @@
+test/registered/unit/configs/test_ling_sparse_config.py
+  s_52893c8a816811::t_8c376d4e0e642e 432
+test/registered/attention/test_ling_csa_prefill_cp_sm100.py
+  s_52893c8a816811::t_8c376d4e0e642e 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "54a81815aff059865b399f2247b7a9dea2380972",
+  "prompts": {},
+  "sessions": {
+    "s_52893c8a816811": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20cdf-d399-7280-bbab-83173c354b8e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
