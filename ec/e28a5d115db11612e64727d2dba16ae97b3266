@@ -1,0 +1,16 @@
+python/sglang/srt/model_executor/model_runner_components/cuda_graph_setup.py
+  h_1d635ecd767a49 259-265
+test/registered/ep/test_bailing_breakable_prefill.py
+  h_1d635ecd767a49 18,22-29,32,46,63-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ece28a5d115db11612e64727d2dba16ae97b3266",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
