@@ -1,0 +1,32 @@
+scripts/ci/npu/npu_ci_install_dependency.sh
+  s_312bfdfef87ab7::t_58528c2149f54e 90
+  s_312bfdfef87ab7::t_c714982586b9f3 87-89
+  s_312bfdfef87ab7::t_d0e569976e480a 91
+.github/workflows/diffusion-ci-gt-gen-npu.yml
+  s_312bfdfef87ab7::t_333cdf3068c22e 97,159
+.github/workflows/full-test-npu.yml
+  s_312bfdfef87ab7::t_333cdf3068c22e 25,55
+.github/workflows/_npu-single-node-test-stage.yml
+  s_312bfdfef87ab7::t_333cdf3068c22e 24
+.github/workflows/nightly-test-npu.yml
+  s_312bfdfef87ab7::t_333cdf3068c22e 21,26,95,100
+docker/npu.Dockerfile
+  s_312bfdfef87ab7::t_58528c2149f54e 6-43,49-56,58-61,64,66-68,70,72,101-122,132-133,142-158,161-172,175-176,178,186
+  s_312bfdfef87ab7::t_4c31248367ad3b 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "21b2f588f2d5f6c0889ae3caac0614d77525db22",
+  "prompts": {},
+  "sessions": {
+    "s_312bfdfef87ab7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20b4c-e859-7222-be6a-8aef5a53aa25",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
