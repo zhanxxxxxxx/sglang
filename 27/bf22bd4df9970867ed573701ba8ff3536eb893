@@ -1,0 +1,18 @@
+.claude/skills/areal/SKILL.md
+  h_1d635ecd767a49 3,6,8,10,12-14,16,18,20,22,24,26
+.claude/skills/experiment-workflow/SKILL.md
+  h_1d635ecd767a49 3,8-44
+.claude/skills/experiment-workflow/references/runbook.md
+  h_1d635ecd767a49 3,5,7,9-13,15,17,19,21,23,25-29,31,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "27bf22bd4df9970867ed573701ba8ff3536eb893",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
