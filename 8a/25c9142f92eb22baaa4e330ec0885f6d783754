@@ -1,0 +1,31 @@
+python/sglang/srt/layers/attention/linear/kernels/kda_triton.py
+  s_28365f39610187::t_f5399914c58484 5-7,26-32,218
+python/sglang/kernels/ops/attention/fla/fused_sigmoid_gating_recurrent.py
+  s_28365f39610187::t_f5399914c58484 70,270-272,380,392-397,529
+python/sglang/kernels/ops/attention/fla/kda_replayssm_spec_decode.py
+  s_28365f39610187::t_f5399914c58484 72,159-160,196,254,276,335,354,373
+python/sglang/srt/speculative/spec_utils.py
+  s_28365f39610187::t_f5399914c58484 1004-1007,1009
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  s_28365f39610187::t_f5399914c58484 1312-1315,1317
+python/sglang/srt/environ.py
+  s_28365f39610187::t_f5399914c58484 545
+dspark/ar-parity/README.md
+  s_28365f39610187::t_d474b15dcb8df4 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8a25c9142f92eb22baaa4e330ec0885f6d783754",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

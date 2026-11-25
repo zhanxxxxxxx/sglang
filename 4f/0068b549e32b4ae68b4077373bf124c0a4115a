@@ -1,0 +1,51 @@
+python/sglang/srt/model_executor/model_runner_components/misc_utils.py
+  s_3afdcef7322618::t_428ced775219fe 9,74-75,80
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  s_3afdcef7322618::t_428ced775219fe 42-73,165-177
+python/sglang/srt/models/bailing_moe_v3.py
+  s_3afdcef7322618::t_428ced775219fe 84,94,96-99,155-195,526-553
+python/sglang/srt/model_executor/model_runner_components/layer_setup.py
+  s_3afdcef7322618::t_428ced775219fe 8-9,54,56-61,73-74
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/__init__.py
+  s_3afdcef7322618::t_428ced775219fe 8,22
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  s_3afdcef7322618::t_428ced775219fe 30-34,220-236,255-258,402-411,459-474
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_3afdcef7322618::t_428ced775219fe 1656,1683-1689
+python/sglang/srt/models/gemma4_causal.py
+  s_3afdcef7322618::t_428ced775219fe 52,810,818-819
+python/sglang/srt/model_executor/runner/base_runner.py
+  s_3afdcef7322618::t_428ced775219fe 35-37,46-51,57,129-141,230-270
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  s_3afdcef7322618::t_428ced775219fe 36-46
+python/sglang/srt/configs/model_config.py
+  s_3afdcef7322618::t_428ced775219fe 94-98
+python/sglang/srt/model_executor/runner/eager_runner.py
+  s_3afdcef7322618::t_428ced775219fe 289-290
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_3afdcef7322618::t_428ced775219fe 754-771,873-876,933-937,992-995,1013-1057,1113-1125,1135
+python/sglang/srt/server_args.py
+  s_3afdcef7322618::t_428ced775219fe 115-126,2462,2472,4454,4686,4758-4762,4764,4820-4826,4828-4830,5291-5295,5506-5509,5524-5525,5527,5762-5771,5773-5774,6034-6047,8246-8285
+python/sglang/srt/layers/radix_linear_attention.py
+  s_3afdcef7322618::t_428ced775219fe 125,141-147,153-162,165-166,169-177,179
+test/registered/pp/test_bailing_breakable_prefill.py
+  s_3afdcef7322618::t_428ced775219fe 1-122
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  s_3afdcef7322618::t_428ced775219fe 53-56,111,122,283-309,550-553,607-615,727-735,741,1038-1042,1084-1088,1100-1104,1180-1186,1718-1720,1769-1772,1852-1854,1875-1879
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4f0068b549e32b4ae68b4077373bf124c0a4115a",
+  "prompts": {},
+  "sessions": {
+    "s_3afdcef7322618": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f81f-de9e-7b81-8d95-494373f4ec36",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "shicheng.yc <shicheng.yc@antgroup.com>"
+    }
+  }
+}

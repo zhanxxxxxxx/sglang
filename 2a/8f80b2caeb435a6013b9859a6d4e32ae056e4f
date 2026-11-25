@@ -1,0 +1,24 @@
+test/registered/unit/attention/test_ling_kv4_cache.py
+  s_a8ea711903e8fd::t_9df77a29200439 4-6,13-19,75-108
+  s_a8ea711903e8fd::t_74d8d19e3f4566 109
+python/sglang/srt/layers/attention/ling/kv4_cache.py
+  s_a8ea711903e8fd::t_9df77a29200439 123,125-126,129,171,201-202,205-208,214-216,220-223,306-307,312,317,326-328,332-335
+benchmark/attention/bench_ling_kv4_cache.py
+  s_a8ea711903e8fd::t_9df77a29200439 84,137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2a8f80b2caeb435a6013b9859a6d4e32ae056e4f",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+docs/docs/references/environment_variables.mdx
+  h_1d635ecd767a49 260-264
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1026
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 67,1211-1216,1435-1436,1450,1458,1500-1504,1516-1521,1524-1550
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1cc7216cc8776dd42f085d0a90198a38b4350e0f",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

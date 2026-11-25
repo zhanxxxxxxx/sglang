@@ -1,0 +1,20 @@
+python/sglang/srt/speculative/dfly_worker_v2.py
+  h_cbb782975e944c 82-86,900-913
+python/sglang/srt/speculative/spec_utils.py
+  h_cbb782975e944c 773-774
+test/registered/unit/constrained/test_llguidance_accept_token.py
+  h_cbb782975e944c 11,42-62
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  h_cbb782975e944c 1152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d9f31cc5c06b445d52b94b9de13f1e58b1a62d05",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

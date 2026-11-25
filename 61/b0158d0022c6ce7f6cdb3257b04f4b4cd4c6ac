@@ -1,0 +1,53 @@
+python/sglang/srt/configs/ling_dspark.py
+  s_89d899db1258d4::t_23bd99ce9c3300 3-4
+  s_89d899db1258d4::t_6302f6f937cc8a 1-2,5-31,34-55,57-60
+  s_89d899db1258d4::t_bd889d21b6e24c 32-33,56
+python/sglang/srt/model_loader/loader.py
+  s_89d899db1258d4::t_0d029127d7e84e 76,544-547
+python/sglang/srt/speculative/dspark_components/dspark_draft.py
+  s_89d899db1258d4::t_bd889d21b6e24c 386
+  s_89d899db1258d4::t_0339ce966429b1 387-389
+python/sglang/srt/configs/model_config.py
+  s_89d899db1258d4::t_a4c2c9b1649ffc 30,327,354,373,656-664,695,1038-1045
+python/sglang/srt/configs/hybrid_arch.py
+  s_89d899db1258d4::t_2947b27ef8afd8 25,44
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_89d899db1258d4::t_3c1184259ca924 28,628-632,1323,1585,1788,1829
+test/registered/spec/dspark/test_ling_dspark_bundle.py
+  s_89d899db1258d4::t_0f8f3563a47e08 1-89
+python/sglang/srt/models/ling_v3_dspark.py
+  s_89d899db1258d4::t_8072afed793689 1-26,28-37,41-43,45-146,150-178,181-184,186-204,209-243,245-304,306-307,309,320-322
+  s_89d899db1258d4::t_78c1fffdbc51f3 27,147-149
+  s_89d899db1258d4::t_c0b96f4afd50cd 38-40,44,179-180,185,205-208,244,305,308,310-319
+python/sglang/srt/speculative/dspark_components/dspark_kv_inject.py
+  s_89d899db1258d4::t_0339ce966429b1 14,46-47,52-68,73,257
+  s_89d899db1258d4::t_bd889d21b6e24c 51
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_89d899db1258d4::t_eb8332ff0da112 9-12,28-40,45-49,56-62,154
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_89d899db1258d4::t_0339ce966429b1 386
+python/sglang/srt/model_executor/model_runner_components/spec_aux_hidden_state.py
+  s_89d899db1258d4::t_10e74e49818415 8,219-224
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_89d899db1258d4::t_1293ae0e6b985c 12-13,37,100-112,133
+  s_89d899db1258d4::t_0339ce966429b1 548-549
+  s_89d899db1258d4::t_10e74e49818415 138-142,151
+python/sglang/srt/model_executor/model_runner.py
+  s_89d899db1258d4::t_0d029127d7e84e 28,1737-1739
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "61b0158d0022c6ce7f6cdb3257b04f4b4cd4c6ac",
+  "prompts": {},
+  "sessions": {
+    "s_89d899db1258d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7d9-8095-7942-b561-a4e20289af94",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

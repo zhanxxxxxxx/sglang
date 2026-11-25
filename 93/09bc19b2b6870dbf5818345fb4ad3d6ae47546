@@ -1,0 +1,21 @@
+python/sglang/srt/environ.py
+  s_5fc677a9fc7c1d::t_67b8d3ad6b8953 2103-2104
+python/sglang/srt/models/deepseek_v4_prefill_graph.py
+  s_5fc677a9fc7c1d::t_67b8d3ad6b8953 59-61,284,303-315,396,404-417,423,440,459,473-474,640-641
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9309bc19b2b6870dbf5818345fb4ad3d6ae47546",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}
