@@ -1,0 +1,22 @@
+benchmark/attention/bench_ling_kv4_cache.py
+  s_a8ea711903e8fd::t_6f4409df6fc473 4,51-52,61-63,71-72,80-83,85-87,113,116,132-135,151,156-157,164-165,214-217,221-225,280-285,295,306-309,313-319,336
+  s_a8ea711903e8fd::t_a9b72a5cf49f83 129-130,184
+docs/docs/advanced_features/quantized_kv_cache.mdx
+  s_a8ea711903e8fd::t_3dd7a78de36835 65,67-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "46b0f9945f69a8c21ae14b6507201eca14db19d4",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
