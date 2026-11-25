@@ -18,6 +18,7 @@ python/sglang/srt/arg_groups/overrides.py
 python/sglang/srt/configs/ling_csa_runtime.py
   s_a8ea711903e8fd::t_700d3d5b2056a5 9-12,49,198
   s_52893c8a816811::t_67f76ec93f39e0 14-18,23-25,107-109,143,145,200-202,215-217
+  s_4b27f20836e17c::t_7843cad545b644 132,144
 python/sglang/srt/environ.py
   s_a8ea711903e8fd::t_700d3d5b2056a5 1535
 test/registered/unit/attention/test_ling_kv4_cache.py
@@ -43,6 +44,14 @@ python/sglang/srt/model_executor/pool_configurator.py
   "base_commit_sha": "eb84d88562f5b654a867bb1e5c4e9d8aebc899b5",
   "prompts": {},
   "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
     "s_52893c8a816811": {
       "agent_id": {
         "tool": "codex",
