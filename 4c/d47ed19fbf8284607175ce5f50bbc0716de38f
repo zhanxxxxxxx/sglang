@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_sm90.py
+  h_0eaad948cda463 62,84
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_splitkv_sm90.py
+  h_0eaad948cda463 37
+python/sglang/srt/layers/attention/dsa/kpool_fp8_index.py
+  h_0eaad948cda463 62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4cd47ed19fbf8284607175ce5f50bbc0716de38f",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
