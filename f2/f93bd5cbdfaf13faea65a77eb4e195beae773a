@@ -1,0 +1,19 @@
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_a8ea711903e8fd::t_e195beebfabfdf 60,2628-2630,2651,2653-2654
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f2f93bd5cbdfaf13faea65a77eb4e195beae773a",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

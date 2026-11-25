@@ -1,0 +1,19 @@
+test/registered/unit/models/test_bailing_shared_attention_tp.py
+  s_3afdcef7322618::t_1f346982426364 14-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e83849461f9dc31a73d8e6b3353754b4ec9acabc",
+  "prompts": {},
+  "sessions": {
+    "s_3afdcef7322618": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f81f-de9e-7b81-8d95-494373f4ec36",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "shicheng.yc <shicheng.yc@antgroup.com>"
+    }
+  }
+}
