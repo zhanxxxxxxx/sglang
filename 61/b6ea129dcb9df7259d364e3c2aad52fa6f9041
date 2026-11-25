@@ -1,0 +1,25 @@
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_c5f325ade05b21 93,1160,1162-1170
+  s_3d09a3e3306d12::t_bbbae6067a45a9 1136
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_bbbae6067a45a9 28,36-39,60-88
+  s_3d09a3e3306d12::t_cd86d92d3ea5fd 89-103
+python/sglang/srt/model_executor/runner_utils/capture_mode.py
+  s_3d09a3e3306d12::t_c5f325ade05b21 79-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "61b6ea129dcb9df7259d364e3c2aad52fa6f9041",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

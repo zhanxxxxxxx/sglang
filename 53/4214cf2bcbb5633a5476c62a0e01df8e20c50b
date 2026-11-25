@@ -1,0 +1,33 @@
+test/registered/unit/managers/test_prefill_adder.py
+  s_a8ea711903e8fd::t_1e23bf14742b21 104-106,165-170,172,182-216
+  s_a8ea711903e8fd::t_e42a1e3056d935 98-99,217-222,786
+test/registered/unit/managers/test_scheduler_chunked_req_admission.py
+  s_a8ea711903e8fd::t_f6b1dd77de2ea1 179-181
+  s_a8ea711903e8fd::t_1e23bf14742b21 239-246
+  s_a8ea711903e8fd::t_4baeb01d025efb 63-64,100-105,159,161-163,168,170,236-238,247-248
+python/sglang/srt/managers/scheduler.py
+  s_a8ea711903e8fd::t_f6b1dd77de2ea1 3462-3465,3501
+  s_a8ea711903e8fd::t_5b2dd5cd1af93c 3498-3500,3502-3517
+  s_a8ea711903e8fd::t_1395609396070d 3454-3455
+python/sglang/srt/managers/schedule_policy.py
+  s_a8ea711903e8fd::t_5b2dd5cd1af93c 784,1107,1251,1268,1274,1279,1304,1310,1315,1460-1476,1478,1482-1486,1492-1521,1529,1561,1583-1584,1599
+  s_a8ea711903e8fd::t_1e23bf14742b21 1487-1489
+  s_a8ea711903e8fd::t_f6b1dd77de2ea1 1490-1491,1522-1528,1571-1577,1581
+  s_a8ea711903e8fd::t_16750dd539f091 785,1477,1479-1481
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "534214cf2bcbb5633a5476c62a0e01df8e20c50b",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

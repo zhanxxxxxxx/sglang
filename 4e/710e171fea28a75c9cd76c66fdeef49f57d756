@@ -1,0 +1,24 @@
+docs/docs/advanced_features/server_arguments.mdx
+  h_cbb782975e944c 2935-2941
+python/sglang/srt/arg_groups/field_order.py
+  h_cbb782975e944c 200
+python/sglang/srt/arg_groups/fields/serving.py
+  h_cbb782975e944c 294-298
+python/sglang/srt/arg_groups/pipeline.py
+  h_cbb782975e944c 80,114
+python/sglang/srt/arg_groups/serving_hook.py
+  h_cbb782975e944c 407-414,417
+test/registered/unit/server_args/test_internal_config_migration.py
+  h_cbb782975e944c 81,89-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e710e171fea28a75c9cd76c66fdeef49f57d756",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

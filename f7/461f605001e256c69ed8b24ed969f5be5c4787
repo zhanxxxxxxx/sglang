@@ -1,0 +1,26 @@
+test/registered/unit/models/test_bailing_moe_v3_tp_requant.py
+  s_4b27f20836e17c::t_2f6f802ffc02d7 15,28-68
+python/sglang/srt/arg_groups/overrides.py
+  s_4b27f20836e17c::t_2f6f802ffc02d7 926-930
+test/registered/unit/server_args/test_bailing_mxfp8_resolution.py
+  s_4b27f20836e17c::t_2f6f802ffc02d7 23-24,30-32,38,49-52
+  s_4b27f20836e17c::t_35e32ee116ff94 53-54
+python/sglang/srt/models/bailing_moe_v3.py
+  s_4b27f20836e17c::t_2f6f802ffc02d7 674-686,693
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f7461f605001e256c69ed8b24ed969f5be5c4787",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

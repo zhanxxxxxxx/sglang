@@ -1,0 +1,27 @@
+python/sglang/srt/layers/attention/flashattention_backend.py
+  s_18bbfa9aac699b::t_3e5a605048ad12 2176-2182,2631-2640
+  s_18bbfa9aac699b::t_3b90fcd90f40f6 2641-2642
+test/registered/attention/test_normal_decode_set_metadata.py
+  s_18bbfa9aac699b::t_3e5a605048ad12 17,29-42
+  s_18bbfa9aac699b::t_9a52cb05b7a5ee 43-44
+python/sglang/srt/speculative/eagle_draft_extend_cuda_graph_runner.py
+  s_18bbfa9aac699b::t_3e5a605048ad12 603-604
+python/sglang/srt/speculative/spec_info.py
+  s_18bbfa9aac699b::t_3e5a605048ad12 281-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ff0515cc0850f7930bbdea48556d25733c067892",
+  "prompts": {},
+  "sessions": {
+    "s_18bbfa9aac699b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c37a-026a-7c32-b1de-f17707df2123",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

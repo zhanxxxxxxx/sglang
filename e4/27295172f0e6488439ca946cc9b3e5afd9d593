@@ -1,0 +1,49 @@
+python/sglang/srt/managers/io_struct.py
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 256-259,962,1132
+  s_cb97a77236bf4f::t_f62121bc84e3b5 260-263,963-965,1133,2275-2276
+python/sglang/srt/managers/scheduler.py
+  s_cb97a77236bf4f::t_f62121bc84e3b5 2590-2592,4157,5118-5122,5128-5135
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 2589,3048-3050,4129-4137,4139,4155-4156
+python/sglang/srt/managers/tokenizer_manager.py
+  s_cb97a77236bf4f::t_f62121bc84e3b5 249,857-865,1505-1515,1546-1549,1571-1576,1677-1678,1681,2126-2128,2322-2326,2329-2336
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 252-253,1502,1504,1520-1524,1537-1544,1566,1569-1570,1631-1633,2136,2144-2145,2189-2215,2218,2220-2222,2864-2866,3115-3117,3925-3927,3958-3962,3970-3971
+  s_cb97a77236bf4f::t_cbb8694ad52ae9 176,250,1525-1532,1535-1536,1674-1676,1679-1680,2137-2141,2143,2147-2149,2155-2188,2216-2217,2219,2327-2328,2435-2443,2513
+  s_cb97a77236bf4f::t_920d34fd145365 2129,2146
+python/sglang/srt/eplb/sequence_counts.py
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 212-214,240-248,250,252-257
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 495,864-869
+  s_cb97a77236bf4f::t_38ea03a5989095 870
+python/sglang/srt/eplb/expert_distribution.py
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 223-224
+test/manual/eplb/test_online_sequence_counts.py
+  s_cb97a77236bf4f::t_cbb8694ad52ae9 34,36,40-41,49-147,344,358-364,418-420,424-427,434
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 254-343
+  s_cb97a77236bf4f::t_f62121bc84e3b5 148-253
+python/sglang/srt/managers/schedule_batch.py
+  s_cb97a77236bf4f::t_f62121bc84e3b5 1143
+  s_cb97a77236bf4f::t_cbb8694ad52ae9 85,2573-2574
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 1142,1145,1750,1890-1892
+python/sglang/srt/eplb/online_sequence_counts.py
+  s_cb97a77236bf4f::t_f62121bc84e3b5 1,89-127,149-151,252-318
+  s_cb97a77236bf4f::t_cbb8694ad52ae9 10-11,16-28,34,43,55,58,61-76,78-79
+  s_cb97a77236bf4f::t_20fa72d3f03b2e 31-33,35-42,46-52,139-142,144,147,158,167,169,245-250
+  s_cb97a77236bf4f::t_6fae28b8c19b04 159-166,239-240
+  s_cb97a77236bf4f::t_5a71e2f5daca2b 29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e427295172f0e6488439ca946cc9b3e5afd9d593",
+  "prompts": {},
+  "sessions": {
+    "s_cb97a77236bf4f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa376-fcc4-7592-ade9-ffb48d02fabe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "淳肇 <syb544241@antgroup.com>"
+    }
+  }
+}
