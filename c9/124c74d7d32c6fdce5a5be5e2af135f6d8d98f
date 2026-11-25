@@ -1,0 +1,67 @@
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_d1bda687af5b73::t_7266b1720fc76a 149,196-200,905-907,913-914,925-926,932-953,955-956,958-984,986-1053,1056,1058,1068-1070,1073,1078-1079,1081-1084,1088-1097,1892-1894,2175-2185,2607-2611
+  s_d1bda687af5b73::t_69d988c313d640 1357-1361
+test/registered/spec/dspark/test_dspark_draft_path_default.py
+  s_d1bda687af5b73::t_5510e936f13027 156-169
+test/registered/unit/spec/test_dspark_pd_prefill_pp.py
+  s_d1bda687af5b73::t_23c9776c2a0001 1-45
+python/sglang/srt/distributed/bootstrap.py
+  s_d1bda687af5b73::t_c085115f9b02ae 144-146
+python/sglang/srt/managers/tp_worker.py
+  s_d1bda687af5b73::t_c085115f9b02ae 323,384-386
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_d1bda687af5b73::t_c085115f9b02ae 13-14,25,98-99,119-122,147,151,161,359,363-364,386-387,395-397,413-414,486-487,492-493,497-498,502-503,507-508,516-517,519-528,532,537-540,550-552,981-982
+python/sglang/srt/disaggregation/prefill.py
+  s_d1bda687af5b73::t_7266b1720fc76a 46,229,233,238,247-259
+  s_d1bda687af5b73::t_69d988c313d640 228,243-246,747-749
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  s_d1bda687af5b73::t_c085115f9b02ae 1211-1221,1233
+  s_d1bda687af5b73::t_69d988c313d640 1317
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  s_d1bda687af5b73::t_c085115f9b02ae 528-534,565,585-588,1729-1750,1773-1777
+python/sglang/srt/managers/scheduler.py
+  s_d1bda687af5b73::t_23c9776c2a0001 3937-3944
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  s_d1bda687af5b73::t_c085115f9b02ae 111,159-161
+test/registered/unit/managers/test_generation_auxiliary_output.py
+  s_d1bda687af5b73::t_23c9776c2a0001 582,625
+python/sglang/srt/model_executor/model_runner.py
+  s_d1bda687af5b73::t_69d988c313d640 703,852-857
+python/sglang/srt/distributed/parallel_state.py
+  s_d1bda687af5b73::t_c085115f9b02ae 2076,2084-2098,2752-2766,3005-3008
+python/sglang/srt/disaggregation/base/conn.py
+  s_d1bda687af5b73::t_7266b1720fc76a 52
+python/sglang/srt/disaggregation/common/utils.py
+  s_d1bda687af5b73::t_7266b1720fc76a 140-141,154,175,204-222
+python/sglang/srt/disaggregation/utils.py
+  s_d1bda687af5b73::t_7266b1720fc76a 921-978
+  s_d1bda687af5b73::t_69d988c313d640 1188
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner_helpers.py
+  s_d1bda687af5b73::t_23c9776c2a0001 4,7-11,13,32-137
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_d1bda687af5b73::t_23c9776c2a0001 1-170
+python/sglang/srt/disaggregation/decode.py
+  s_d1bda687af5b73::t_69d988c313d640 565-568
+  s_d1bda687af5b73::t_7266b1720fc76a 54,549-550,554,559,569-581
+python/sglang/srt/server_args.py
+  s_d1bda687af5b73::t_69d988c313d640 10454-10455
+  s_d1bda687af5b73::t_c085115f9b02ae 10456-10459
+test/registered/unit/managers/test_pp_cp_rank_offsets.py
+  s_d1bda687af5b73::t_23c9776c2a0001 125-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c9124c74d7d32c6fdce5a5be5e2af135f6d8d98f",
+  "prompts": {},
+  "sessions": {
+    "s_d1bda687af5b73": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2116e-8309-7331-8ca1-776881c73731",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}
