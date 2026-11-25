@@ -1,0 +1,26 @@
+python/sglang/srt/dllm/mixin/scheduler.py
+  s_a8ea711903e8fd::t_094ba2cdb62209 181,315-318
+test/registered/unit/managers/test_scheduler_chunked_req_admission.py
+  s_a8ea711903e8fd::t_094ba2cdb62209 25-27,33-38,46,51,237-246,250-254,257-264,266-271,279,283
+  s_a8ea711903e8fd::t_a1226258f741d7 188-189,275-277
+  s_a8ea711903e8fd::t_b157c8f1a05c52 22-24,28-32,39-45,53-54,56,67,117-120,225-236,248-249,255-256,265,272-274,278,280-282,284-287
+  s_a8ea711903e8fd::t_08bb7a8b683113 52,247
+python/sglang/srt/managers/scheduler.py
+  s_a8ea711903e8fd::t_094ba2cdb62209 3286-3290,3295-3296,3299-3300
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "396f454cfa17b2aa27ec160e61b834a18a66291a",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}
