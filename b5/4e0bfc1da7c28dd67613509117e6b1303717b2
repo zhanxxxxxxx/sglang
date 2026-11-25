@@ -1,0 +1,104 @@
+performance/config.py
+  s_7b2946cc37b1ad::t_c30dfc5d675098 4
+  s_7b2946cc37b1ad::t_6604559bf52dc9 11-27,29-32,34-48
+  s_7b2946cc37b1ad::t_dc1beae083248a 28,33
+tools/setup_env.py
+  s_7b2946cc37b1ad::t_460754f4dbc1c5 248
+  s_7b2946cc37b1ad::t_3b1f2fe711759b 22,39-40,418-442,450,516,519-524,567-568
+  s_7b2946cc37b1ad::t_5a713a6e5e36f1 517-518,525,602
+docs/performance-tooling-integration.md
+  s_7b2946cc37b1ad::t_44a93656c9450b 5-6
+tests/inference_rsi/test_matched_profile.py
+  s_7b2946cc37b1ad::t_3b1f2fe711759b 25
+  s_7b2946cc37b1ad::t_5a713a6e5e36f1 214
+  s_7b2946cc37b1ad::t_75b9ba5ba5fb8a 23
+  s_7b2946cc37b1ad::t_b0f3e4cec21694 1-22,24,26-65,67-102,109-157
+  s_7b2946cc37b1ad::t_c30dfc5d675098 215-240
+  s_7b2946cc37b1ad::t_48240e89ec566c 66
+  s_7b2946cc37b1ad::t_c057471e5614e1 103-108
+  s_7b2946cc37b1ad::t_7022c2edf7c8b3 158-213
+docs/performance-p0.md
+  s_7b2946cc37b1ad::t_1c67d2d6d3bc5b 1-43,55-57
+  s_7b2946cc37b1ad::t_f062f79d06c87d 44-54
+execution/sglang/bootstrap.py
+  s_7b2946cc37b1ad::t_859397da41a715 230-231
+  s_7b2946cc37b1ad::t_6604559bf52dc9 151-161,227-228
+  s_7b2946cc37b1ad::t_5439d1a36a278a 150,224-226,229
+performance/profile.py
+  s_7b2946cc37b1ad::t_956850bd51399a 37-38,112,146,176-177,179-180,190-192,232-234,236
+  s_7b2946cc37b1ad::t_3ecb476574bad3 28,39-41,116-122,147,178,181-183,185-189
+  s_7b2946cc37b1ad::t_5a713a6e5e36f1 184
+execution/sglang/performance_runtime.py
+  s_7b2946cc37b1ad::t_e26614008f314d 15,19,29-33
+tests/inference_rsi/test_performance_default.py
+  s_7b2946cc37b1ad::t_c30dfc5d675098 24-26,31-36
+  s_7b2946cc37b1ad::t_00c8b7f94033d5 1-23,27-30,37-61
+  s_7b2946cc37b1ad::t_db1278d91fde9a 62-81
+execution/sglang/measure.py
+  s_7b2946cc37b1ad::t_5439d1a36a278a 520-522,525-526,542-543,567-569
+  s_7b2946cc37b1ad::t_6604559bf52dc9 548
+  s_7b2946cc37b1ad::t_3ecb476574bad3 523-524
+evidence/bottlenecks.py
+  s_7b2946cc37b1ad::t_5439d1a36a278a 89-90,98,102-104
+tests/inference_rsi/test_provider_bootstrap.py
+  s_7b2946cc37b1ad::t_859397da41a715 36-42,121-123
+  s_7b2946cc37b1ad::t_4d9586b3eb40cd 92
+  s_7b2946cc37b1ad::t_00c8b7f94033d5 75-91,93-95
+execution/sglang/ais.py
+  s_7b2946cc37b1ad::t_3ecb476574bad3 443
+  s_7b2946cc37b1ad::t_e26614008f314d 437-442,461-465,481-482
+performance/pod.py
+  s_7b2946cc37b1ad::t_e26614008f314d 105-110
+tests/inference_rsi/test_setup.py
+  s_7b2946cc37b1ad::t_c30dfc5d675098 110-111
+  s_7b2946cc37b1ad::t_db1278d91fde9a 80-83,109
+  s_7b2946cc37b1ad::t_3b1f2fe711759b 160,173-175
+  s_7b2946cc37b1ad::t_460754f4dbc1c5 181-189
+  s_7b2946cc37b1ad::t_ad8984c33c5ff9 131-147
+  s_7b2946cc37b1ad::t_44a93656c9450b 107-108,112
+tests/inference_rsi/test_provider_verification.py
+  s_7b2946cc37b1ad::t_a37ec2116aeb98 1279-1286,1305,1307,1311
+  s_7b2946cc37b1ad::t_ad8984c33c5ff9 1260-1274
+execution/sglang/source.py
+  s_7b2946cc37b1ad::t_e26614008f314d 35,38,41-42,47,49
+docs/performance-tooling-usage.md
+  s_7b2946cc37b1ad::t_681feaf5531699 10-14,162-182,218,250-272,284-293
+docs/bottleneck-driven-generation.md
+  s_7b2946cc37b1ad::t_681feaf5531699 21-23
+skills/rsi/references/setup-command.md
+  s_7b2946cc37b1ad::t_681feaf5531699 26,38-42,74,85
+Makefile
+  s_7b2946cc37b1ad::t_5a713a6e5e36f1 17
+performance/profile_load.py
+  s_7b2946cc37b1ad::t_956850bd51399a 1-19,22-24,32,35,37-41,57-66,68-70,72-77,80,82-84,86-94
+  s_7b2946cc37b1ad::t_3ecb476574bad3 25,33-34,36,50,81
+  s_7b2946cc37b1ad::t_5439d1a36a278a 28-31,42-49,51-56
+  s_7b2946cc37b1ad::t_dc1beae083248a 26-27
+  s_7b2946cc37b1ad::t_859397da41a715 20-21,71,78-79
+  s_7b2946cc37b1ad::t_5a713a6e5e36f1 67,85
+skills/rsi/scripts/setup_common.py
+  s_7b2946cc37b1ad::t_ad8984c33c5ff9 49
+performance/cli.py
+  s_7b2946cc37b1ad::t_dc1beae083248a 17-20,50-55,57-58
+execution/sglang/config.py
+  s_7b2946cc37b1ad::t_5439d1a36a278a 350-352
+  s_7b2946cc37b1ad::t_dcd7ec217d7eb6 353-357
+evidence/analysis.py
+  s_7b2946cc37b1ad::t_5439d1a36a278a 25-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b54e0bfc1da7c28dd67613509117e6b1303717b2",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

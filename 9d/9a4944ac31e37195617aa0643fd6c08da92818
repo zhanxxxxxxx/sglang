@@ -1,0 +1,23 @@
+test/registered/unit/model_executor/test_mlp_sync_pad_unpad.py
+  s_60eabec0d5bdbe::t_f7c18d1c7d1235 136-138,140-142,145,155
+  s_60eabec0d5bdbe::t_399d8d710cf795 14,18,108-135,139,143-144,146-154,156-162
+  s_60eabec0d5bdbe::t_e937618f6ac773 163
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_60eabec0d5bdbe::t_28bb65ef2c787d 1513-1514
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9d9a4944ac31e37195617aa0643fd6c08da92818",
+  "prompts": {},
+  "sessions": {
+    "s_60eabec0d5bdbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20644-698d-7541-ba3b-7fa6da3a1dd9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

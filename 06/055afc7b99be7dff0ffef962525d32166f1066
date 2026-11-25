@@ -1,0 +1,25 @@
+python/sglang/srt/environ.py
+  s_a09ac9d92b3060::t_aae6444ee873c1 1525-1526
+python/sglang/srt/models/bailing_moe_v3.py
+  s_a09ac9d92b3060::t_aae6444ee873c1 25,27,643,1115-1185,1206,1212,1261,1270,1299,1332
+  s_a09ac9d92b3060::t_c18f595cb6fa6c 3226-3235
+test/registered/unit/models/test_bailing_moe_v3_maxx_port.py
+  s_a09ac9d92b3060::t_fac17a6c23c897 35-43,61-87
+  s_a09ac9d92b3060::t_2e240d8eb8b7b0 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06055afc7b99be7dff0ffef962525d32166f1066",
+  "prompts": {},
+  "sessions": {
+    "s_a09ac9d92b3060": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6fc-8de3-7af1-a9b2-e4865122defe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+python/sglang/srt/managers/schedule_policy.py
+  h_1c68eae29642ae 441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a34b937d1f17da544e6b4262e05b7558dd003060",
+  "prompts": {},
+  "humans": {
+    "h_1c68eae29642ae": {
+      "author": "weiwei <weiwei.cml@antgroup.com>"
+    }
+  }
+}

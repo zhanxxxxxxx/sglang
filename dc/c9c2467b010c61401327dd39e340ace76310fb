@@ -1,0 +1,19 @@
+docs/performance-tooling-integration.md
+  s_7b2946cc37b1ad::t_65cc16cd012518 62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dcc9c2467b010c61401327dd39e340ace76310fb",
+  "prompts": {},
+  "sessions": {
+    "s_7b2946cc37b1ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf22-2957-74b2-a85a-77af980a25b3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

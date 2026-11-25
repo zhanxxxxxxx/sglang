@@ -1,0 +1,23 @@
+python/sglang/srt/environ.py
+  s_1b5d65c572daac::t_6502b1ed5b79d6 1411-1414
+python/sglang/srt/models/glm5_next.py
+  s_1b5d65c572daac::t_0aa84ec7c659d7 426-432,498-507
+test/registered/unit/models/test_glm5_next_bfg_fusion.py
+  s_1b5d65c572daac::t_467997df5e1207 8,51-57,210-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ef1f33a8840d5b603bde0beeaeb9f12ba3307bf5",
+  "prompts": {},
+  "sessions": {
+    "s_1b5d65c572daac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_1b5d65c572daac",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

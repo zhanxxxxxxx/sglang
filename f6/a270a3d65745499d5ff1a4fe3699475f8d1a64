@@ -1,0 +1,30 @@
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 45,398,400-415,432-434,444,451
+  s_7dc0b252822e2f::t_85f2917dbc5ae0 16,128-130,133-135
+test/registered/spec/dspark/test_dspark_draft_sampler.py
+  s_7dc0b252822e2f::t_372bfdf7248e16 2,6,8,66-83
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 68,74-83
+  s_7dc0b252822e2f::t_85f2917dbc5ae0 12,65-67,69-73
+test/registered/spec/dspark/test_dspark_draft_path_default.py
+  s_7dc0b252822e2f::t_85f2917dbc5ae0 11,101-105,109-124
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 14,94-100,106-108,125
+python/sglang/srt/speculative/dspark_components/dspark_draft_sampler.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 201-203,215-218,241,260-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f6a270a3d65745499d5ff1a4fe3699475f8d1a64",
+  "prompts": {},
+  "sessions": {
+    "s_7dc0b252822e2f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21184-391c-7b50-a403-06c69651f793",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": null
+    }
+  }
+}

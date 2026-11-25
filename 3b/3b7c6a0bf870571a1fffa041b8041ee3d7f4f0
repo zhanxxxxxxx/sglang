@@ -1,0 +1,24 @@
+test/registered/unit/model_executor/test_ling_csa_forward_inputs.py
+  s_60eabec0d5bdbe::t_7e6330b29765bc 175-179,368,399-422
+  s_60eabec0d5bdbe::t_642c07242421e7 423
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_60eabec0d5bdbe::t_2775216bc83f86 887-889
+AGENTS.md
+  s_60eabec0d5bdbe::t_38ab84639eacc8 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3b3b7c6a0bf870571a1fffa041b8041ee3d7f4f0",
+  "prompts": {},
+  "sessions": {
+    "s_60eabec0d5bdbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20644-698d-7541-ba3b-7fa6da3a1dd9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

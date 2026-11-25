@@ -1,0 +1,40 @@
+test/registered/unit/multimodal/test_qwen_tokenized_media.py
+  s_e264e4a97219bf::t_c7dca5ae0aa3d4 11-12,49,67,114,125-133,387-402,476,554-636,745-748,798
+python/sglang/srt/multimodal/token_space_mm_process/processor.py
+  s_e264e4a97219bf::t_c7dca5ae0aa3d4 278-285
+  s_e264e4a97219bf::t_53b0e17b223bd5 273-277,286
+test/registered/e2e/multimodal/test_qwen_processor_bitwise.py
+  s_e264e4a97219bf::t_391a7e8716c485 20-22
+  s_e264e4a97219bf::t_021b36c559cbb6 1-19,23-573
+python/sglang/srt/multimodal/token_space_mm_process/serving_processor.py
+  s_e264e4a97219bf::t_c7dca5ae0aa3d4 218
+  s_e264e4a97219bf::t_53b0e17b223bd5 215,222
+  s_e264e4a97219bf::t_d9e0efcc1a1bb7 219-221
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_e264e4a97219bf::t_53b0e17b223bd5 1174-1176,1183
+test/registered/unit/multimodal/test_qwen_vl_preprocess_chunking.py
+  s_e264e4a97219bf::t_c7dca5ae0aa3d4 299-302
+python/sglang/srt/utils/common.py
+  s_e264e4a97219bf::t_c53237ed75273e 905-918
+python/sglang/srt/multimodal/token_space_mm_process/process_strategy.py
+  s_e264e4a97219bf::t_d9e0efcc1a1bb7 109-111
+  s_e264e4a97219bf::t_53b0e17b223bd5 56-57,107-108,112
+python/sglang/srt/multimodal/token_space_mm_process/models/qwen_vl.py
+  s_e264e4a97219bf::t_53b0e17b223bd5 8,128,229-232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "62555719fbfdb96347b6b07cb93e72411a2b141b",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+python/sglang/srt/function_call/utils.py
+  s_41ed4cedd0aa7d::t_b67b457297040d 326-328,332-352,362-363,365
+test/registered/unit/function_call/test_function_call_parser.py
+  s_41ed4cedd0aa7d::t_d871b2f57c5499 6184-6192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7076b5bf8c56b966fadb9a2b160199df5810edf3",
+  "prompts": {},
+  "sessions": {
+    "s_41ed4cedd0aa7d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_41ed4cedd0aa7d",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

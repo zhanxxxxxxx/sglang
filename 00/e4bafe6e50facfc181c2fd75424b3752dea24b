@@ -1,0 +1,19 @@
+python/sglang/srt/environ.py
+  s_f0e029ea487e64::t_8fef7faf36c186 264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "00e4bafe6e50facfc181c2fd75424b3752dea24b",
+  "prompts": {},
+  "sessions": {
+    "s_f0e029ea487e64": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f9af-52ad-77b3-9679-6f437b5b4114",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "shicheng.yc <shicheng.yc@antgroup.com>"
+    }
+  }
+}

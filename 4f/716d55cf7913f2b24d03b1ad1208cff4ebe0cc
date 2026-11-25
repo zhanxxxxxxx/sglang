@@ -1,0 +1,14 @@
+python/sglang/srt/layers/attention/dsa_backend.py
+  h_cbb782975e944c 877-879
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4f716d55cf7913f2b24d03b1ad1208cff4ebe0cc",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}

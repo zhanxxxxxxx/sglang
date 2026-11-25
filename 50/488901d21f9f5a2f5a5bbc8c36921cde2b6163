@@ -1,0 +1,19 @@
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_d0f93884cac998::t_7cff4917d1fb02 2908-2914
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "50488901d21f9f5a2f5a5bbc8c36921cde2b6163",
+  "prompts": {},
+  "sessions": {
+    "s_d0f93884cac998": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d0f93884cac998",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

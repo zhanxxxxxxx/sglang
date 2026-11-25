@@ -1,0 +1,14 @@
+test/registered/unit/mem_cache/test_generation_boundary.py
+  h_1c061c07072f6a 91-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "77577c3aad454c8cf70b022a13de9ced13817ea1",
+  "prompts": {},
+  "humans": {
+    "h_1c061c07072f6a": {
+      "author": "zhangzechuan.zzc <zhangzechuan.zzc@antgroup.com>"
+    }
+  }
+}

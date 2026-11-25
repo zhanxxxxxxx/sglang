@@ -1,0 +1,19 @@
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_3cfbb793506a99::t_36358c0a60052e 2930-2933,3120-3122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8188e0ce7c5bf0fbfaac01575bae5db088811958",
+  "prompts": {},
+  "sessions": {
+    "s_3cfbb793506a99": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a203a7-29cc-78f0-8e3e-299eef850c78",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

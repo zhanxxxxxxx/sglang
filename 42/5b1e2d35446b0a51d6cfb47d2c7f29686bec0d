@@ -1,0 +1,44 @@
+python/sglang/srt/model_executor/model_runner_components/layer_setup.py
+  h_1d635ecd767a49 8-9,54,56-61,73-74
+python/sglang/srt/model_executor/runner/base_runner.py
+  h_1d635ecd767a49 35-37,46-51,242-249,250,251-259,260,261-283
+python/sglang/srt/model_executor/runner/eager_runner.py
+  h_1d635ecd767a49 289-290
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 107,118,279-303,597-605,717-725,731,1028-1030,1031-1032,1074-1076,1088-1093,1169-1173,1705-1707,1738-1742,1840-1842
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_1d635ecd767a49 42-54,55,56,57,58-73,165-177
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 84,94,96,98-100,155-156,157-161,162-179,180-182,183,184-188,189-195,524-533,534-536,537-547
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4791-4801,4803-4804,5477-5480,8184-8191,8192-8198,8199-8215
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 11,12,13,15-16,17,18-19,20,28-31,32-34,35,81-106,107,108-117,118-157,158-183,426
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/__init__.py
+  h_1d635ecd767a49 8,22
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  h_1d635ecd767a49 35-46
+test/registered/unit/model_executor/runner/test_prefill_cuda_graph_padding.py
+  h_1d635ecd767a49 22
+python/sglang/srt/layers/radix_linear_attention.py
+  h_1d635ecd767a49 125,141-147,153-162,165-166,169-177,179
+test/registered/unit/configs/test_multimodal_piecewise_cuda_graph.py
+  h_1d635ecd767a49 35,50
+test/registered/unit/model_executor/runner/test_hidden_state_graph_recapture.py
+  h_1d635ecd767a49 70,86
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 1730-1757
+test/registered/cp/test_cp_strategy_unit.py
+  h_1d635ecd767a49 121,138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "425b1e2d35446b0a51d6cfb47d2c7f29686bec0d",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+python/sglang/srt/model_executor/model_runner_components/cuda_graph_setup.py
+  h_1d635ecd767a49 3,374-381
+python/sglang/srt/model_executor/runner/base_runner.py
+  h_1d635ecd767a49 57,129-141
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 53-56,297-298,300-307,1034,1080-1083,1097,1176,1179-1180,1714,1867-1871
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4441,8177,8179-8200,8206,8213-8215
+test/registered/unit/model_executor/test_prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 5,12
+test/registered/unit/models/test_bailing_moe_v3_dcp.py
+  h_1d635ecd767a49 217,237,240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1a779b4cd4218664d5f5273ac7c43f5ae26d7ef6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

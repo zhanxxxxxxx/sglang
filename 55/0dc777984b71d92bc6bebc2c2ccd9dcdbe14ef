@@ -1,0 +1,21 @@
+python/sglang/srt/model_executor/runner_utils/capture_mode.py
+  s_3d09a3e3306d12::t_fa04d4c68ddfd9 96-98,100,104-105
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_fa04d4c68ddfd9 32-33,41-42,44,46,67-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "550dc777984b71d92bc6bebc2c2ccd9dcdbe14ef",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

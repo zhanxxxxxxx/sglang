@@ -1,0 +1,25 @@
+python/sglang/srt/debug_utils/native_deepep_gemm.py
+  s_d2f4c9dc120b69::t_82978c54d7ae57 1-219
+python/sglang/srt/debug_utils/native_moe_replay.py
+  s_d2f4c9dc120b69::t_82978c54d7ae57 326-331,424-427
+scripts/rollout_precision_patch.py
+  s_d2f4c9dc120b69::t_2d5ccb6da8581a 53
+test/registered/debug_utils/test_native_moe_replay.py
+  s_d2f4c9dc120b69::t_8e99b803838816 238-330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb325c18b2bf79caeb11cac152f8d2eba8a9fd5f",
+  "prompts": {},
+  "sessions": {
+    "s_d2f4c9dc120b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f45-f2ed-7031-95f2-dafb4259d305",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "灵应 <weiyipeng.wyp@antgroup.com>"
+    }
+  }
+}

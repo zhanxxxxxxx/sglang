@@ -1,0 +1,72 @@
+test/registered/unit/layers/quantization/test_fp4_kv_cache_quant_method.py
+  s_a8ea711903e8fd::t_9ea9d0ee7b9736 37-39,63-65,68-72,81-85
+  s_a8ea711903e8fd::t_d41d4aa076a854 34-36,40-62,66-67,73-80,86
+python/sglang/srt/layers/attention/ling/kv4_cache.py
+  s_a8ea711903e8fd::t_e52d504c68f397 59-61,169-171,218-225
+  s_a8ea711903e8fd::t_4323b42ad2c8ee 3-6,9-13,37-40,47-58,64-67,71,73-85,93,96,98,100,104-111,115,152,159-160,163-168,172-176,198-200,202,208,216-217,226-236,238-245,272,299-300,365,400-402,480,483-484,487-492,497,500-501,505,508,510,512-513,547-549,559,573,577,682,703-705
+  s_a8ea711903e8fd::t_3ffdbf6ddf1102 101-102,237
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 1187,1399,1439,1614,2416-2419,2429,2442,2444
+python/sglang/srt/mem_cache/kv_cache_dtype.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 31,61-64
+python/sglang/srt/server_args.py
+  s_a8ea711903e8fd::t_2645ac51826c3b 767-768
+  s_a8ea711903e8fd::t_700d3d5b2056a5 769,5199,5203,5207,5306,5316,7076-7082
+  s_a8ea711903e8fd::t_be1db050685914 7083
+python/sglang/srt/arg_groups/overrides.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 1921-1922
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 9-12,49,198
+  s_52893c8a816811::t_67f76ec93f39e0 14-18,23-25,107-109,143,145,200-202,215-217
+  s_4b27f20836e17c::t_7843cad545b644 132,144
+python/sglang/srt/environ.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 1535
+test/registered/unit/attention/test_ling_kv4_cache.py
+  s_a8ea711903e8fd::t_d41d4aa076a854 37-48,53-58
+  s_a8ea711903e8fd::t_9ea9d0ee7b9736 51
+  s_a8ea711903e8fd::t_6d281418261489 349-398,400-425,427-491,493-502,504-531
+  s_a8ea711903e8fd::t_ecab8ce4afcab0 346-348,399,426,492,503
+test/registered/unit/layers/attention/test_ling_kv4_latent_distributed.py
+  s_a8ea711903e8fd::t_9ea9d0ee7b9736 97-99
+  s_a8ea711903e8fd::t_d41d4aa076a854 76,78,94-96,112,120
+  s_a8ea711903e8fd::t_b36f196c4a0cf9 190-192
+python/sglang/srt/mem_cache/memory_pool.py
+  s_52893c8a816811::t_67f76ec93f39e0 4193
+python/sglang/srt/model_executor/model_runner.py
+  s_52893c8a816811::t_67f76ec93f39e0 1429-1431
+  s_a8ea711903e8fd::t_700d3d5b2056a5 1435
+python/sglang/srt/model_executor/pool_configurator.py
+  s_a8ea711903e8fd::t_700d3d5b2056a5 269,514
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eb84d88562f5b654a867bb1e5c4e9d8aebc899b5",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
+    "s_52893c8a816811": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20cdf-d399-7280-bbab-83173c354b8e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

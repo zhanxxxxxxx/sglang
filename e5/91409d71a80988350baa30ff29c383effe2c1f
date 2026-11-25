@@ -1,0 +1,22 @@
+test/registered/kernels/ops/attention/test_dsa_prefill_fp8_indexer.py
+  s_c77b21dc3eb712::t_9f13be758b2e0d 6,8,392-470
+  s_c77b21dc3eb712::t_d47049fcf4cfc2 471-472
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_c77b21dc3eb712::t_9f13be758b2e0d 207-210,1842-1844,1854-1855,1862,1879-1880,1882,2030,2043,2048-2053,2056-2057,2060-2061,2063-2064,2069,2071,2074-2075
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e591409d71a80988350baa30ff29c383effe2c1f",
+  "prompts": {},
+  "sessions": {
+    "s_c77b21dc3eb712": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9dd3-4140-7080-88e6-8a797a8643b7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luoyuan.luo <luoyuan.luo@antgroup.com>"
+    }
+  }
+}

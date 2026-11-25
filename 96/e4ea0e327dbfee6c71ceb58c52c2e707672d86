@@ -1,0 +1,24 @@
+test/registered/spec/dspark/test_dspark_ar_layout_head.py
+  s_28365f39610187::t_2c5b38e6f94f0e 41-43,48-53,79
+  s_28365f39610187::t_edf3049e0952c7 1-40,44-47,54-78,80-120
+dspark/ar-parity/README.md
+  s_28365f39610187::t_a1a078750f6f8b 19
+dspark/ar-parity/serve.py
+  s_28365f39610187::t_a1a078750f6f8b 17-18,29-34,37,45-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "96e4ea0e327dbfee6c71ceb58c52c2e707672d86",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

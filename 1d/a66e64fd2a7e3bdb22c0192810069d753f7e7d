@@ -1,0 +1,63 @@
+experiments/framework.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 1,4,60,65-66,68,75,94-95,119,128-135,139-140
+  s_1d32b085fb33ca::t_9dcead004d6da5 141
+scenario/pipeline.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 68-72,81,91-95
+scenario/authorization.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 40
+docs/framework-e2e-acceptance.md
+  s_1d32b085fb33ca::t_a700f36d7752bc 1,24-27,36
+tests/inference_rsi/test_execution_activation.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 328-348
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 362-415,544-552
+evidence/framework.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 7-8,16-17,22-23,29,33-39,50-56,60
+control/task_view.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 169,172,175-176,182-187,217,219
+control/dashboard.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 32
+tests/inference_rsi/test_provider_repair.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 59-87
+execution/sglang/diagnosis.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 100,121
+tests/inference_rsi/test_framework_e2e.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 12,24-31,92-109
+  s_1d32b085fb33ca::t_53580b3ff15185 110-111
+control/provider_repair.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 111,143-151,160,184-197,209,238-239
+scenario/spec.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 169-170,172,174-177
+schemas/limits.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 3-4,10
+execution/sglang/activation.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 55-85,108,111-116,118-121
+execution/sglang/bootstrap.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 284
+tools/dashboard_flow.js
+  s_1d32b085fb33ca::t_a700f36d7752bc 51
+experiments/scheduling.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 19-26
+tests/inference_rsi/test_unlimited_agent.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 69,138-141
+orchestrator/generation.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 3,5-6,13,19-57,137,142,333,385
+scenario/budget.py
+  s_1d32b085fb33ca::t_a700f36d7752bc 66-69,86-89,101,104,115-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1da66e64fd2a7e3bdb22c0192810069d753f7e7d",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

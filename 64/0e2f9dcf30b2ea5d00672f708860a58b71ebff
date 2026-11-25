@@ -1,0 +1,38 @@
+python/sglang/srt/model_executor/model_runner.py
+  s_f3e5574164d7e0::t_dd185b0e950712 660-662
+python/sglang/srt/entrypoints/http_server.py
+  s_f3e5574164d7e0::t_dd185b0e950712 1462-1464
+  s_f3e5574164d7e0::t_1ecb3de0d7fc70 1475
+python/sglang/srt/model_loader/remote_instance_weight_loader_utils.py
+  s_f3e5574164d7e0::t_1ecb3de0d7fc70 100,108-114
+  s_f3e5574164d7e0::t_dd185b0e950712 92-94
+python/sglang/srt/entrypoints/engine_info_bootstrap_server.py
+  s_f3e5574164d7e0::t_dd185b0e950712 110-112
+  s_f3e5574164d7e0::t_1ecb3de0d7fc70 43-44,54-57,65,80,84,92-95,114-115
+python/sglang/srt/model_loader/loader.py
+  s_f3e5574164d7e0::t_dd185b0e950712 3333-3335,3418-3420
+  s_f3e5574164d7e0::t_1ecb3de0d7fc70 3414
+python/sglang/srt/model_executor/model_runner_components/remote_instance_weight_transporter.py
+  s_f3e5574164d7e0::t_1ecb3de0d7fc70 30,98-100
+  s_f3e5574164d7e0::t_42f48477940c6e 101
+test/registered/unit/model_loader/test_remote_instance_loader.py
+  s_f3e5574164d7e0::t_dd185b0e950712 10-12,17,131
+  s_f3e5574164d7e0::t_b561793592d328 4-6,14,95-130,132-143
+  s_f3e5574164d7e0::t_1534875c70d172 144-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "640e2f9dcf30b2ea5d00672f708860a58b71ebff",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

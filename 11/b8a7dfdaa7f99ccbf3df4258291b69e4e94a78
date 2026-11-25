@@ -1,0 +1,21 @@
+test/registered/kernels/ops/attention/test_dsa_transform_index.py
+  s_4517e4240bb588::t_3f7b7db66d6585 29-93
+python/sglang/kernels/ops/attention/dsa/transform_index.py
+  s_4517e4240bb588::t_3f7b7db66d6585 168-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "11b8a7dfdaa7f99ccbf3df4258291b69e4e94a78",
+  "prompts": {},
+  "sessions": {
+    "s_4517e4240bb588": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a036ba-6df9-7593-b70b-24c47d8e2eb4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

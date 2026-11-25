@@ -1,0 +1,14 @@
+python/sglang/srt/models/glm5_next.py
+  h_0eaad948cda463 125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b753885ecf1c2a9b5cb1dbbd8e7c1b555a4f3ba7",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

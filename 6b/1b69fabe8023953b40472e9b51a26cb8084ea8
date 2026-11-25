@@ -1,0 +1,20 @@
+python/sglang/kernels/jit/csrc/attention/dcp_helix.cu
+  h_1d635ecd767a49 1-22
+python/sglang/kernels/ops/attention/dcp_helix.py
+  h_1d635ecd767a49 1-43
+python/sglang/srt/layers/dcp/comm.py
+  h_1d635ecd767a49 534,563
+test/registered/dcp/test_dcp_helix.py
+  h_1d635ecd767a49 1-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6b1b69fabe8023953b40472e9b51a26cb8084ea8",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
