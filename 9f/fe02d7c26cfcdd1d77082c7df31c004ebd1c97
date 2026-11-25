@@ -1,0 +1,71 @@
+test/registered/kernels/ops/moe/test_fp8_powlu_masked.py
+  s_3afdcef7322618::t_36b18300d8a3ce 23
+python/sglang/kernels/jit/csrc/bailing_v3/powlu_and_mul_masked_post_quant.cuh
+  s_3afdcef7322618::t_36b18300d8a3ce 77,88,93,150,152-153,155-158,201,206,209
+python/sglang/srt/models/bailing_moe_v3.py
+  s_3afdcef7322618::t_36b18300d8a3ce 724-725,806,808,954-961,1155-1166
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_3afdcef7322618::t_be0860a9acc39d 355,357,492,578,611-616,622,624,632-634
+  s_3afdcef7322618::t_36b18300d8a3ce 356,363-364,480-481,566-567,623,625-631,1011,1040-1041,1044-1049,1064-1065,1080
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  s_3afdcef7322618::t_36b18300d8a3ce 193-215,284-298,310-339,360-364,376,424-441
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  s_3afdcef7322618::t_36b18300d8a3ce 19,26,43-53,460-462,481-482,484,486-487
+test/registered/unit/layers/test_amega_moe_gpu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 92,208,338-339,405-408,575-576,684-686
+python/sglang/srt/layers/powlu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 22-26,32-33
+python/sglang/kernels/ops/moe/powlu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 13-20,26,62,72,101-102,176,184,186,193-199,231,256,279
+python/sglang/srt/layers/moe/moe_runner/flashinfer_cutedsl.py
+  s_3afdcef7322618::t_36b18300d8a3ce 423
+test/registered/kernels/ops/moe/test_bailing_powlu_mul_post_quant.py
+  s_3afdcef7322618::t_36b18300d8a3ce 19,52-53,67,78-81
+python/sglang/kernels/ops/quantization/_per_token_group_quant_jit.py
+  s_3afdcef7322618::t_36b18300d8a3ce 1-262
+test/registered/kernels/ops/moe/test_bailing_tp_router_weight.py
+  s_3afdcef7322618::t_36b18300d8a3ce 1-157
+python/sglang/kernels/ops/moe/bailing_powlu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 57
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_3afdcef7322618::t_be0860a9acc39d 799-803
+  s_3afdcef7322618::t_36b18300d8a3ce 20,290-297,415,524-529,556,635-641,646,648,671,953-958,960-969,981,1033-1049,1075-1079,1221-1225,1285,1485,1617
+python/sglang/srt/layers/moe/moe_runner/base.py
+  s_3afdcef7322618::t_36b18300d8a3ce 72-80
+test/registered/unit/layers/moe/test_apl_fp4.py
+  s_3afdcef7322618::t_36b18300d8a3ce 71,166,220-225
+python/sglang/kernels/ops/moe/router_weight.py
+  s_3afdcef7322618::t_36b18300d8a3ce 9-52,76-81
+python/sglang/kernels/ops/quantization/__init__.py
+  s_3afdcef7322618::t_36b18300d8a3ce 7-8,62
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  s_3afdcef7322618::t_36b18300d8a3ce 1,3,5,7-8,11,29-40,42-52
+python/sglang/test/kernels/test_powlu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 10,25,31,35-45
+test/registered/unit/layers/moe/test_cutedsl_sm_budget.py
+  s_3afdcef7322618::t_36b18300d8a3ce 142,168
+test/registered/unit/layers/test_powlu.py
+  s_3afdcef7322618::t_36b18300d8a3ce 26,31-47
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  s_3afdcef7322618::t_36b18300d8a3ce 305-306,308,311,313-314,316
+test/registered/moe/test_bailing_nvfp4_dispatch.py
+  s_3afdcef7322618::t_36b18300d8a3ce 528
+docs/docs/references/environment_variables.mdx
+  s_3afdcef7322618::t_36b18300d8a3ce 401
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9ffe02d7c26cfcdd1d77082c7df31c004ebd1c97",
+  "prompts": {},
+  "sessions": {
+    "s_3afdcef7322618": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f81f-de9e-7b81-8d95-494373f4ec36",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "shicheng.yc <shicheng.yc@antgroup.com>"
+    }
+  }
+}

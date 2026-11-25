@@ -1,0 +1,35 @@
+python/sglang/srt/environ.py
+  s_a09ac9d92b3060::t_aae6444ee873c1 1535-1536
+python/sglang/srt/models/bailing_moe_v3.py
+  s_a09ac9d92b3060::t_aae6444ee873c1 25,27,639,1119-1189,1214,1220,1335,1368
+  s_a09ac9d92b3060::t_c18f595cb6fa6c 3385-3394
+  s_4b27f20836e17c::t_0fb63bb51ffb20 1269,1303
+test/registered/unit/models/test_bailing_moe_v3_maxx_port.py
+  s_a09ac9d92b3060::t_fac17a6c23c897 35-43,62-88
+  s_a09ac9d92b3060::t_2e240d8eb8b7b0 89
+  s_4b27f20836e17c::t_0fb63bb51ffb20 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bb0d5a95c481efc73ff6770b00604bda92805c74",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
+    "s_a09ac9d92b3060": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6fc-8de3-7af1-a9b2-e4865122defe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

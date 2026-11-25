@@ -1,0 +1,55 @@
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_a09ac9d92b3060::t_401428f8b592ce 9-16,39-40,46,97-98,185-194
+  s_4b27f20836e17c::t_89fe794057e825 121-125,132
+python/sglang/srt/layers/attention/ling/kv4_cache.py
+  s_a09ac9d92b3060::t_e0ff2586f14b69 120-122
+  s_a09ac9d92b3060::t_eed6831931e31c 160,164-168,172,194-196,215,222,242-244,286-288,317,324,344-346,399-401,405,416-433,449,460-461,465-469,487-489,494,520,537,574-576,581-582
+  s_a09ac9d92b3060::t_fe804f2a311123 462-464,514-519,539-540
+python/sglang/srt/arg_groups/overrides.py
+  s_a09ac9d92b3060::t_97bb5f36964d6c 1910-1914
+python/sglang/srt/server_args.py
+  s_a09ac9d92b3060::t_053f3d9340f89d 401,765-766,776,5162,5171-5173,5185-5195,5208
+  s_a09ac9d92b3060::t_fe804f2a311123 5211-5213,5215-5217
+  s_a09ac9d92b3060::t_68a24fb892cbdb 5314-5315
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_a09ac9d92b3060::t_fe804f2a311123 2434-2436
+  s_a09ac9d92b3060::t_b0654463aac143 2420-2433,2437-2438
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_a09ac9d92b3060::t_fe804f2a311123 2586-2589,3190-3192
+  s_a09ac9d92b3060::t_f1eb8c0b7afbe9 300,390-397,2375-2381,2582-2585,2590-2591,3176-3189,3193-3205
+  s_a09ac9d92b3060::t_5c5f9f5f7c4efc 3206
+python/sglang/srt/mem_cache/kv_cache_dtype.py
+  s_a09ac9d92b3060::t_7aaa4c4cfd4ae8 60-62
+python/sglang/srt/mem_cache/memory_pool.py
+  s_a09ac9d92b3060::t_53ce2bf206ae10 4196-4197
+  s_a09ac9d92b3060::t_20515362a9fed3 4193,4655-4678
+  s_a09ac9d92b3060::t_2a68a9530dafa4 4679
+test/registered/unit/attention/test_ling_kv4_cache.py
+  s_a09ac9d92b3060::t_806f70d405e299 43-65
+  s_a09ac9d92b3060::t_e999622f2568a5 5,16-20,25-36,41-42
+  s_a09ac9d92b3060::t_fe804f2a311123 24,37-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "83489ef783b528bf52559a6e20e5f8499ebe346f",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
+    "s_a09ac9d92b3060": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6fc-8de3-7af1-a9b2-e4865122defe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

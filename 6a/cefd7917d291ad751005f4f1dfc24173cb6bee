@@ -1,0 +1,14 @@
+python/sglang/srt/managers/tokenizer_control_mixin.py
+  h_a3dc1d2ad8ed2d 841-847
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6acefd7917d291ad751005f4f1dfc24173cb6bee",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}
