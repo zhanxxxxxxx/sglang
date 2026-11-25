@@ -1,0 +1,35 @@
+python/sglang/srt/layers/attention/dspark_mla_w1.py
+  s_28365f39610187::t_0b9494e6769837 60-63
+  s_28365f39610187::t_e9974766be3b8e 1-59,64-125
+test/registered/spec/dspark/test_dspark_mla_w1.py
+  s_28365f39610187::t_0b9494e6769837 1-55
+python/sglang/srt/model_executor/runner/base_cuda_graph_runner.py
+  s_28365f39610187::t_e9974766be3b8e 65-68,77-79,110-128
+  s_28365f39610187::t_f45552760c6423 129-130
+python/sglang/srt/environ.py
+  s_28365f39610187::t_e9974766be3b8e 546
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_28365f39610187::t_0b9494e6769837 21,81
+  s_28365f39610187::t_f254a5980077d9 735-806,1330-1332,1412-1421
+  s_28365f39610187::t_1a94814fd3488b 82
+python/sglang/srt/server_args.py
+  s_28365f39610187::t_e9974766be3b8e 5939-5941,5944-5945,5947-5948,5952
+dspark/ar-parity/README.md
+  s_28365f39610187::t_e2508122d8908a 23-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bf1c1dfc19195cacaa7574f4b7ed5c3f08bf7a0a",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

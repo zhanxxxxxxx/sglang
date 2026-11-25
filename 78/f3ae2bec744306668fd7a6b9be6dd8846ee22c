@@ -1,0 +1,27 @@
+python/sglang/srt/layers/moe/gluon_expert_placement_kernel.py
+  s_5fc677a9fc7c1d::t_4e31973f24e6c9 1-12,14-50
+  s_5fc677a9fc7c1d::t_ce1ef48ae4e8e0 13
+python/sglang/srt/layers/moe/mega_moe_gluon_mxfp4.py
+  s_5fc677a9fc7c1d::t_4e31973f24e6c9 90-91,196-199,207-210,224-229,231-236,280-296,393-400,405,407-410
+python/sglang/srt/layers/moe/gluon_expert_placement.py
+  s_5fc677a9fc7c1d::t_4e31973f24e6c9 1-117,120-132
+  s_5fc677a9fc7c1d::t_ce1ef48ae4e8e0 118-119,133-193
+python/sglang/srt/models/deepseek_v4.py
+  s_5fc677a9fc7c1d::t_4e31973f24e6c9 6877-6880,7001,7104-7108,7284-7285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "78f3ae2bec744306668fd7a6b9be6dd8846ee22c",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

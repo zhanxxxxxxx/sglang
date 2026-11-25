@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/dspark_mla_w1.py
+  s_28365f39610187::t_c426551246cee5 41-43,76-80
+test/registered/spec/dspark/test_dspark_mla_w1.py
+  s_28365f39610187::t_c426551246cee5 101-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "528d904829289afd4c7d6731b301948791a3845b",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

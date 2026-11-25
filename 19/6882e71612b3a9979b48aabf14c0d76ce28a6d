@@ -1,0 +1,14 @@
+python/sglang/srt/model_executor/model_runner_components/misc_utils.py
+  h_1d635ecd767a49 9,74-75,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "196882e71612b3a9979b48aabf14c0d76ce28a6d",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

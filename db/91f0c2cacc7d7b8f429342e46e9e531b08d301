@@ -1,0 +1,18 @@
+python/sglang/srt/managers/prefill_delayer.py
+  h_a3dc1d2ad8ed2d 6,85,113-119,123-131,137-142,146-147,200-205,276-277,366,368-379,387,389,393,395,397-399
+python/sglang/srt/managers/scheduler.py
+  h_a3dc1d2ad8ed2d 1262-1264
+test/registered/unit/managers/test_prefill_delayer_gather.py
+  h_a3dc1d2ad8ed2d 1-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "db91f0c2cacc7d7b8f429342e46e9e531b08d301",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

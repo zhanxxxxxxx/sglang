@@ -1,0 +1,52 @@
+python/sglang/srt/utils/common.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 200,666,690,714,720
+test/registered/unit/managers/test_batch_result_processor_flush_prefill.py
+  s_312bfdfef87ab7::t_7c6cea3a1e4a87 216
+  s_312bfdfef87ab7::t_745498838d425a 213-215
+  s_312bfdfef87ab7::t_d10a74464bdcf5 122,156-160,210-212,217
+  s_312bfdfef87ab7::t_36c05fabc1291c 218
+python/sglang/srt/observability/req_time_stats.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 1372
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_312bfdfef87ab7::t_f3c199163e3ac5 111
+test/registered/unit/model_executor/model_runner_components/test_deferred_weight_load.py
+  s_312bfdfef87ab7::t_d895710ffe712d 264,278
+test/registered/unit/utils/test_common.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 3-4,16,18,411-440
+  s_312bfdfef87ab7::t_9c3621b3124b56 441-442
+python/sglang/benchmark/datasets/custom.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 13,92-100
+python/sglang/srt/environ.py
+  s_312bfdfef87ab7::t_c8d354f759cec7 336-338,1554-1555,1578,1580-1581,2372-2376
+python/sglang/srt/compilation/torch_compile_decoration.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 24-25,58-62
+test/registered/unit/compilation/test_torch_compile_decoration.py
+  s_312bfdfef87ab7::t_c8d354f759cec7 1,12,79-127
+  s_312bfdfef87ab7::t_87551f6791d35b 128-129
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 1356,1361-1362,2365-2366
+test/registered/unit/server_args/test_server_args.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 525-548
+python/sglang/srt/model_executor/model_runner.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 282,1582
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  s_312bfdfef87ab7::t_d66d656bc494da 1070-1090,6416
+python/sglang/srt/managers/mm_utils.py
+  s_312bfdfef87ab7::t_d10a74464bdcf5 16,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8b2b6a39319d1801aa06b96798e22b2804d2d38c",
+  "prompts": {},
+  "sessions": {
+    "s_312bfdfef87ab7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20b4c-e859-7222-be6a-8aef5a53aa25",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
