@@ -1,0 +1,18 @@
+docs/docs/advanced_features/breakable_cuda_graph.mdx
+  h_1d635ecd767a49 30-31
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 4806
+test/registered/ep/test_bailing_breakable_prefill.py
+  h_1d635ecd767a49 18,22-24,26-28,99-100,185-193,197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de032e34a0df07a1c469c2210df8a582635eaf25",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
