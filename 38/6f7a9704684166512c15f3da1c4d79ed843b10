@@ -1,0 +1,16 @@
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1078-1080
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  h_1d635ecd767a49 27,136-142,183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "386f7a9704684166512c15f3da1c4d79ed843b10",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
