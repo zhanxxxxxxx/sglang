@@ -1,0 +1,116 @@
+test/registered/unit/session/test_uocr_doc_reuse_unit.py
+  s_e264e4a97219bf::t_685e984e354c46 24-26,28,70-81
+  s_e264e4a97219bf::t_cfa60dadced198 27
+python/sglang/srt/observability/metrics_collector.py
+  s_e264e4a97219bf::t_23c4c1f789b730 27,50
+test/registered/unit/multimodal/test_audio_container_decode.py
+  s_e264e4a97219bf::t_42c19769335a6a 253
+test/registered/unit/model_loader/test_prefetch_checkpoints.py
+  s_e264e4a97219bf::t_e145f316b95d8a 249
+python/sglang/multimodal_gen/apps/ComfyUI_SGLDiffusion/worker_patches/h3.py
+  s_e264e4a97219bf::t_a785c2fe4969dd 18-20
+  s_e264e4a97219bf::t_de89642e4853c3 167-169
+test/registered/unit/parser/test_template_manager.py
+  s_e264e4a97219bf::t_9f272ce6d52f21 3-4,34,36-46
+test/registered/unit/entrypoints/test_server_info.py
+  s_e264e4a97219bf::t_619f12c6c4fa99 414-415
+  s_e264e4a97219bf::t_9a88e96949080f 199
+python/sglang/kernels/ops/attention/unlimited_ocr_dash/dispatch.py
+  s_e264e4a97219bf::t_01809b75ab515c 369,419,441
+test/registered/kernels/ops/attention/test_unlimited_ocr_dash_mps.py
+  s_e264e4a97219bf::t_d80a29bd1f5837 40,469,521-522,527-528
+  s_e264e4a97219bf::t_cfa60dadced198 526
+  s_e264e4a97219bf::t_01809b75ab515c 468
+python/sglang/srt/multimodal/processors/nvila.py
+  s_e264e4a97219bf::t_5b161d83bb6afa 72-76
+  s_e264e4a97219bf::t_915c29c2b9f4ff 4,20,69-71
+test/registered/unit/test_model_overrides.py
+  s_e264e4a97219bf::t_5b161d83bb6afa 3435
+python/sglang/srt/managers/req_types.py
+  s_e264e4a97219bf::t_23c4c1f789b730 26
+python/sglang/srt/multimodal/processors/step3_vl.py
+  s_e264e4a97219bf::t_23c4c1f789b730 9-13
+python/sglang/srt/multimodal/processors/internvl.py
+  s_e264e4a97219bf::t_f0fac04a88096d 458-460,468-471,699-701,709-712
+python/sglang/kernels/ops/attention/unlimited_ocr_dash/dash.metal
+  s_e264e4a97219bf::t_01809b75ab515c 397,401
+test/registered/unit/entrypoints/openai/test_serving_transcription.py
+  s_e264e4a97219bf::t_9a88e96949080f 354
+python/sglang/srt/models/unlimited_ocr_v2_support/document_reuse.py
+  s_e264e4a97219bf::t_46dfe49c028165 30
+test/registered/unit/models/test_nemotron_h_shared_add.py
+  s_e264e4a97219bf::t_23c4c1f789b730 19
+  s_e264e4a97219bf::t_1a704009184921 22-25,52-54,93-128
+test/registered/unit/multimodal/test_video_decoder_wrapper_callers.py
+  s_e264e4a97219bf::t_8c45ffb751b641 84-87,99-101,105-107
+  s_e264e4a97219bf::t_09583152759a5d 76-83,88-98,102-103,108-112
+  s_e264e4a97219bf::t_aaf976f2d597d9 1,3-7,9,11-12,14,17-20,23,26-75,104
+python/sglang/srt/entrypoints/http_server.py
+  s_e264e4a97219bf::t_3cbbdd767f34b4 620
+test/registered/unit/layers/test_mlp_parallel_groups.py
+  s_e264e4a97219bf::t_dea49d0f689c51 127-129
+python/sglang/srt/models/kimi_k3.py
+  s_e264e4a97219bf::t_5b161d83bb6afa 3476
+test/registered/unit/entrypoints/test_rust_server_dp_ports.py
+  s_e264e4a97219bf::t_9a88e96949080f 153
+  s_e264e4a97219bf::t_0f94435a210a21 204
+test/registered/kernels/ops/attention/test_unlimited_ocr_dash_decode_meta.py
+  s_e264e4a97219bf::t_01809b75ab515c 35,46,99-100,105-106
+  s_e264e4a97219bf::t_cfa60dadced198 104
+test/registered/unit/model_loader/test_default_model_loader.py
+  s_e264e4a97219bf::t_577ef06bb92ebf 71
+  s_e264e4a97219bf::t_1c55f6876a1011 9-10,134-153
+test/registered/unit/layers/moe/test_fused_moe_native.py
+  s_e264e4a97219bf::t_045bfb905ec90d 6-7,16-21
+python/sglang/srt/layers/logits_processor.py
+  s_e264e4a97219bf::t_23c4c1f789b730 33-34
+  s_e264e4a97219bf::t_8354851493e2fc 35
+test/registered/unit/server_args/test_server_args.py
+  s_e264e4a97219bf::t_5b161d83bb6afa 167
+  s_e264e4a97219bf::t_f8f5ad2072b570 467-473,478,480-483,1045-1068
+python/sglang/kernels/ops/attention/unlimited_ocr_dash/decode_meta.py
+  s_e264e4a97219bf::t_01809b75ab515c 45,51,285,337
+python/sglang/srt/entrypoints/openai/serving_base.py
+  s_e264e4a97219bf::t_f0fac04a88096d 19-24,36,160-162,164-167,329,339-340
+test/registered/unit/layer_boundary/test_draft_layer_declarations.py
+  s_e264e4a97219bf::t_a124ca675167e6 78
+test/registered/unit/entrypoints/openai/test_serving_completions.py
+  s_e264e4a97219bf::t_f0fac04a88096d 19-22,73
+  s_e264e4a97219bf::t_23daa96d684ece 7,69-72,74-82
+  s_e264e4a97219bf::t_2bb3a488902ce7 83-84
+python/sglang/kernels/ops/attention/unlimited_ocr_dash/metal.py
+  s_e264e4a97219bf::t_01809b75ab515c 317,351
+test/registered/unit/model_executor/test_unified_out_cache_loc_rebind.py
+  s_e264e4a97219bf::t_e145f316b95d8a 94-97
+test/registered/unit/layers/moe/test_fused_shared_expert_scaling.py
+  s_e264e4a97219bf::t_045bfb905ec90d 486
+  s_e264e4a97219bf::t_a124ca675167e6 456,464-465
+  s_e264e4a97219bf::t_17c3598c0815e7 457-463
+test/registered/unit/platforms/test_platform_interface.py
+  s_e264e4a97219bf::t_c273baa2323e63 829-830
+python/sglang/srt/layers/attention/unlimited_dash_ops/decode_meta.py
+  s_e264e4a97219bf::t_01809b75ab515c 23,63
+test/registered/unit/model_executor/test_mlp_sync_pad_unpad.py
+  s_e264e4a97219bf::t_e145f316b95d8a 46-48
+benchmark/kernels/fused_moe_triton/tuning_fused_moe_triton_sep.py
+  s_e264e4a97219bf::t_23c4c1f789b730 27
+  s_e264e4a97219bf::t_0127f1f858ce8f 1164
+python/sglang/srt/arg_groups/fields/observability.py
+  s_e264e4a97219bf::t_eae5d7ae408066 27-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e98fe5ac5765d16af4727bd66f09f32553e55b74",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

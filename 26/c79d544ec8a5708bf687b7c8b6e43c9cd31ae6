@@ -1,0 +1,106 @@
+acceptance/contracts.py
+  h_b9344c1153cd0b 60,74-75
+acceptance/inference_metrics.py
+  h_b9344c1153cd0b 1-116
+acceptance/rules.py
+  h_b9344c1153cd0b 136-137,163-169,203-206,234-235,261-264,288-289,312-337
+acceptance/workflow.py
+  h_b9344c1153cd0b 6-7,211-213,236-253
+agents/codex_worker.py
+  h_b9344c1153cd0b 36-38,49-55,125-136,226-236
+docs/bottleneck-driven-generation.md
+  h_b9344c1153cd0b 36-45
+docs/performance-datasets-and-latency.md
+  h_b9344c1153cd0b 72-87
+evidence/hotspots.py
+  h_b9344c1153cd0b 1-129
+execution/pipeline.py
+  h_b9344c1153cd0b 266-273,351-355
+execution/sglang/activation_runtime.py
+  h_b9344c1153cd0b 9-10,93,100-105,109,132-133,135-149,151,154-157,200,202-275
+execution/sglang/ais.py
+  h_b9344c1153cd0b 169,175-181,280-282,434-437,449-453,558-559,643-645,655-658,668-669,700-716
+execution/sglang/config.py
+  h_b9344c1153cd0b 87
+execution/sglang/hotspot_runtime.py
+  h_b9344c1153cd0b 1-192
+execution/sglang/measure.py
+  h_b9344c1153cd0b 15,22,319-320,331-343,405-425,534-535,571-577,579-582,616-625,629
+execution/sglang/metrics.py
+  h_b9344c1153cd0b 43-101
+execution/sglang/runtime.py
+  h_b9344c1153cd0b 295-301,437-447
+execution/sglang/source.py
+  h_b9344c1153cd0b 9,16,19-20,40-43,63,82-86
+execution/sglang/verification.py
+  h_b9344c1153cd0b 76-96,99-101,103-109,357-373,423-435,440-478,937,941
+execution/sglang/worker.py
+  h_b9344c1153cd0b 349
+experiments/protocols.py
+  h_b9344c1153cd0b 52,78-82,88
+experiments/selection.py
+  h_b9344c1153cd0b 7-50,67-68,104-110,133-135,146-151
+experiments/validation.py
+  h_b9344c1153cd0b 36,53-62,85-110
+orchestrator/formal_history.py
+  h_b9344c1153cd0b 66-68,102-118,143
+orchestrator/generation.py
+  h_b9344c1153cd0b 74,76,79,120-121,143,146-147,227-228,259,300-302,304-308,318,336-342
+orchestrator/loop.py
+  h_b9344c1153cd0b 80-86,168-169,272,366-371,397-398,425-427,431,433-434
+skills/rsi/SKILL.md
+  h_b9344c1153cd0b 74-79
+templates/contracts/formal-v1.json
+  h_b9344c1153cd0b 128-184,241-242,246-247
+tests/inference_rsi/test_ais_backend.py
+  h_b9344c1153cd0b 399-409,801-816
+tests/inference_rsi/test_dashboard_ais_links.py
+  h_b9344c1153cd0b 90
+tests/inference_rsi/test_dashboard_details.py
+  h_b9344c1153cd0b 75-119
+tests/inference_rsi/test_dashboard_flow.py
+  h_b9344c1153cd0b 104-111,128-167
+tests/inference_rsi/test_execution_activation.py
+  h_b9344c1153cd0b 124,128-129,147,161,164-169
+tests/inference_rsi/test_hotspot_profile.py
+  h_b9344c1153cd0b 1-143
+tests/inference_rsi/test_multi_metric_acceptance.py
+  h_b9344c1153cd0b 1-172
+tests/inference_rsi/test_multi_metric_dashboard.py
+  h_b9344c1153cd0b 1-103
+tests/inference_rsi/test_multi_metric_exploration.py
+  h_b9344c1153cd0b 1-175
+tests/inference_rsi/test_multi_metric_formal_history.py
+  h_b9344c1153cd0b 1-114
+tests/inference_rsi/test_multi_metric_measurement.py
+  h_b9344c1153cd0b 1-78
+tests/inference_rsi/test_pending_cancellation.py
+  h_b9344c1153cd0b 9-10,26-32,40,71-130
+tests/inference_rsi/test_profile_export_deadline.py
+  h_b9344c1153cd0b 1-37
+tests/inference_rsi/test_sglang_provider.py
+  h_b9344c1153cd0b 62-74,195-220
+tests/inference_rsi/test_ttl_runtime_activation_compat.py
+  h_b9344c1153cd0b 1-253
+tools/dashboard_details.py
+  h_b9344c1153cd0b 7-9,28-88,123-124,128-202,218,224,228,243-247,254-267,269-286,290-302,304-307,309-316,318-320,322,324-326
+tools/dashboard_flow.js
+  h_b9344c1153cd0b 6-7,45-46,49-52,54,64-65
+tools/dashboard_state.js
+  h_b9344c1153cd0b 4-5,15-22,24,38-42,52,62-64,69
+tools/dashboard_view.html
+  h_b9344c1153cd0b 5,31-33,49-50,55-63,78-81,83,85,91,94,106-107,118,124-246
+tools/rsi_dashboard.py
+  h_b9344c1153cd0b 40-41,181-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "26c79d544ec8a5708bf687b7c8b6e43c9cd31ae6",
+  "prompts": {},
+  "humans": {
+    "h_b9344c1153cd0b": {
+      "author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

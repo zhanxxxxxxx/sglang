@@ -1,0 +1,37 @@
+test/registered/unit/models/test_dsa_batch_invariant.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1-340
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_4f45ba48752b7c::t_64add54cb043ff 203,256-282,287-288,365-366,395-396,406-414,453-455,538,550,561,569,636,1567
+python/sglang/kernels/jit/csrc/attention/qsa_select_cuda.cuh
+  s_4f45ba48752b7c::t_64add54cb043ff 1-199
+test/registered/unit/layers/test_bailing_qsa_integration.py
+  s_4f45ba48752b7c::t_64add54cb043ff 228-229
+python/sglang/kernels/ops/attention/dsa/qsa_select_cuda.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1-31
+python/sglang/kernels/ops/attention/dsa/batch_invariant.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1-29
+test/registered/dcp/test_dsa_bi_candidates.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1-55
+python/sglang/srt/environ.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1414-1415
+python/sglang/kernels/ops/attention/dsa/qsa_select.py
+  s_4f45ba48752b7c::t_64add54cb043ff 295-303
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_4f45ba48752b7c::t_64add54cb043ff 192,308,408,410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "60ea377004581e428dd04b098ea4b64f4b2e6b4e",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "weifengbu <buwf@U-6WG4P2KX-1949.local>"
+    }
+  }
+}

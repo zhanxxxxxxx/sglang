@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/gemm/tiny_gemm.py
+  s_7eb817b8eb8d9a::t_e4313c4bf376b5 38-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "863f2e9148a605efe63c7274f5e93c8edf1979b4",
+  "prompts": {},
+  "sessions": {
+    "s_7eb817b8eb8d9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e49fd226-09d7-4521-8120-6f085cde690c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

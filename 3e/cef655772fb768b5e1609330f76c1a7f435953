@@ -1,0 +1,35 @@
+test/registered/unit/disaggregation/test_unified_window_lengths.py
+  s_e264e4a97219bf::t_2e38d86f8a8251 291-293
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_e264e4a97219bf::t_2e38d86f8a8251 92
+  s_e264e4a97219bf::t_5fa95e81f170c3 10-14,203-214
+test/registered/unit/constrained/test_grammar_manager.py
+  s_e264e4a97219bf::t_c94fce847dac07 39,61,186,211,217-218,221-222,226-227,501,513,526,546,584,607,623,637,679
+  s_e264e4a97219bf::t_3cbc03211ded9c 219-220
+  s_e264e4a97219bf::t_098a53d8127597 38,702,729,753,773,805,834,1005,1088
+test/registered/unit/managers/test_priority_scheduling_disaggregation.py
+  s_e264e4a97219bf::t_49f02eb2d35d99 158
+  s_e264e4a97219bf::t_71c71f540ebe66 37,53,242,341,543,656,1115,1150,1183,1194-1198,1200-1201,1211
+test/registered/unit/managers/test_scheduler_chunked_abort_race.py
+  s_e264e4a97219bf::t_97e3c64b7cab7b 171-172
+  s_e264e4a97219bf::t_4267bcda4a55c8 37,76
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_e264e4a97219bf::t_49f02eb2d35d99 141,177
+  s_e264e4a97219bf::t_00e1136a8b43d2 21,321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3ecef655772fb768b5e1609330f76c1a7f435953",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

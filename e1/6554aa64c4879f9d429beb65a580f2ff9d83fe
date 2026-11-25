@@ -1,0 +1,19 @@
+python/sglang/srt/models/bailing_mm_v3.py
+  s_f4d2f88615f852::t_cb611df3329ec5 99-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e16554aa64c4879f9d429beb65a580f2ff9d83fe",
+  "prompts": {},
+  "sessions": {
+    "s_f4d2f88615f852": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aaa2-ee2e-7b42-be7f-c14fb0daa7e6",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+python/sglang/kernels/ops/attention/dsa/qsa_cache.py
+  h_1d635ecd767a49 26-27,91-100,113,122-124,151-152,167,174
+python/sglang/kernels/ops/attention/dsa/qsa_rotary.py
+  h_1d635ecd767a49 1-73
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  h_1d635ecd767a49 548,610-611,621-630,1143-1179,1309-1317
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  h_1d635ecd767a49 318,452-475,492,693-694
+test/registered/dcp/test_bailing_qsa_cache.py
+  h_1d635ecd767a49 452-486,500-504,525,530,554-556,558
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "173ff84aea2ce6999638033dad8022868272775b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

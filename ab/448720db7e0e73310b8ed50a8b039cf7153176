@@ -1,0 +1,23 @@
+python/sglang/srt/entrypoints/engine.py
+  s_e264e4a97219bf::t_4e1d9b0c517a77 148-149,163,2056
+python/sglang/multimodal_gen/test/unit/test_nomas.py
+  s_e264e4a97219bf::t_aeb135e132b068 13,350-380,1156-1171,1173
+test/registered/unit/mem_cache/test_page_sharded_dsa_attention.py
+  s_e264e4a97219bf::t_16ec1538ebb0e7 732-733,740
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab448720db7e0e73310b8ed50a8b039cf7153176",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

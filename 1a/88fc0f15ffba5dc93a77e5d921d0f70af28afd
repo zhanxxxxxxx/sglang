@@ -1,0 +1,18 @@
+python/sglang/srt/layers/quantization/fp8.py
+  h_1d635ecd767a49 2219-2223,2229-2239,2681,2683,2708,2710
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1626,1628
+test/registered/unit/layers/moe/test_monomoe_deepep_dispatch.py
+  h_1d635ecd767a49 61,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1a88fc0f15ffba5dc93a77e5d921d0f70af28afd",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

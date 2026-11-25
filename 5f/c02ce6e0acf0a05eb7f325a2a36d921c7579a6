@@ -1,0 +1,16 @@
+python/sglang/kernels/jit/csrc/attention/kda_prefill.cu
+  h_1d635ecd767a49 3176-3178,3190,3315-3323,3325-3331,3333,3516-3518
+python/sglang/srt/layers/attention/linear/kernels/kda_ptx.py
+  h_1d635ecd767a49 19,22,24-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fc02ce6e0acf0a05eb7f325a2a36d921c7579a6",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

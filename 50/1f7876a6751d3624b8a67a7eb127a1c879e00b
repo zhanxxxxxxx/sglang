@@ -1,0 +1,28 @@
+tests/inference_rsi/test_preparation_view.py
+  s_1d32b085fb33ca::t_ec55c44879e1c4 77-92
+tests/inference_rsi/test_provider_verification.py
+  s_1d32b085fb33ca::t_ec55c44879e1c4 77,496-500,899-951,955-959,963-964,968
+  s_1d32b085fb33ca::t_ea67d82bc69bf5 971-974
+  s_1d32b085fb33ca::t_d964ee648c636d 35,952-954,960-962,965-967,969-970
+execution/sglang/verification.py
+  s_1d32b085fb33ca::t_ec55c44879e1c4 897-913,925,1198-1201,1291-1294
+docs/e2e-repair-review-20261112.md
+  s_1d32b085fb33ca::t_ea67d82bc69bf5 135-153
+  s_1d32b085fb33ca::t_0baf8f93666832 154-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "501f7876a6751d3624b8a67a7eb127a1c879e00b",
+  "prompts": {},
+  "sessions": {
+    "s_1d32b085fb33ca": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f52-b062-7450-a21e-b09614ed92b5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhiyi <wangtongli.wtl@antgroup.com>"
+    }
+  }
+}

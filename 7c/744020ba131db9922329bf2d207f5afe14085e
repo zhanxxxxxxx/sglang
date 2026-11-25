@@ -1,0 +1,30 @@
+python/sglang/srt/entrypoints/http_server.py
+  s_6814b9b1896915::t_510d4e91a53f5f 1677-1681
+  s_6814b9b1896915::t_14b59e9bd84c8f 170-171,177
+python/sglang/srt/managers/io_struct.py
+  s_6814b9b1896915::t_72ef7eb7be4eca 1858-1863
+python/sglang/srt/managers/tokenizer_manager.py
+  s_6814b9b1896915::t_72ef7eb7be4eca 93,883,2224,2254-2257,2263-2265,2302-2306,2313-2317
+  s_6814b9b1896915::t_510d4e91a53f5f 2258-2262,2286-2291,2307-2312,2318-2320
+  s_6814b9b1896915::t_9396c392042843 2321
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_6814b9b1896915::t_72ef7eb7be4eca 53,554-558,758-760
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_6814b9b1896915::t_afb447e4246781 17,31,227-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7c744020ba131db9922329bf2d207f5afe14085e",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

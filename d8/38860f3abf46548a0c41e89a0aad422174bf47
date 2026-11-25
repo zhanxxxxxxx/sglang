@@ -1,0 +1,19 @@
+python/sglang/srt/entrypoints/openai/parallel_prompt_encode.py
+  s_330f83bfb6f691::t_7dcac520944bfd 203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d838860f3abf46548a0c41e89a0aad422174bf47",
+  "prompts": {},
+  "sessions": {
+    "s_330f83bfb6f691": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e488-a53a-7421-bc71-83d3a52b7ae2",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "科科 <keke.zhaokk@antgroup.com>"
+    }
+  }
+}

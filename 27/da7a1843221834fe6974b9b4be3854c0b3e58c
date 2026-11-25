@@ -1,0 +1,22 @@
+test/registered/kernels/ops/kvcache/test_set_mla_kv_buffer.py
+  s_f5a50be0fc3a60::t_edb7a3f9e55dc5 195,197,200,204,228-231,234,236,258-287
+  s_f5a50be0fc3a60::t_9771d073db8d71 288-289
+python/sglang/kernels/ops/kvcache/mla_buffer.py
+  s_f5a50be0fc3a60::t_edb7a3f9e55dc5 91,109-111,117,149,229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "27da7a1843221834fe6974b9b4be3854c0b3e58c",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

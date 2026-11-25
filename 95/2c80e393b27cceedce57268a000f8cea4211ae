@@ -1,0 +1,38 @@
+python/sglang/srt/disaggregation/decode.py
+  h_f252eadf5e9832 546,635,637-639,642-644,647-649,2472,2636,2640-2644
+python/sglang/srt/managers/scheduler_components/invariant_checker.py
+  h_f252eadf5e9832 178-180,182-183
+python/sglang/srt/managers/scheduler_components/pool_stats_observer.py
+  h_f252eadf5e9832 324-328
+python/sglang/srt/mem_cache/allocator/base.py
+  h_f252eadf5e9832 23-24,47-51,116-130
+python/sglang/srt/mem_cache/allocator/hisparse.py
+  h_f252eadf5e9832 330-332
+python/sglang/srt/mem_cache/allocator/swa.py
+  h_f252eadf5e9832 9,159-164
+python/sglang/srt/mem_cache/allocator/swa_policy.py
+  h_f252eadf5e9832 1-103
+python/sglang/srt/mem_cache/prefill_budget.py
+  h_f252eadf5e9832 31,197,212,226,240,290,325,381-382,386-388
+python/sglang/test/test_utils.py
+  h_f252eadf5e9832 1101-1102,1489-1490
+test/registered/unit/disaggregation/test_dsv41_request_window_pd_receive.py
+  h_f252eadf5e9832 24,381,383-394
+test/registered/unit/managers/test_prefill_adder.py
+  h_f252eadf5e9832 22,40,92,110,136-138,396-400,1494-1496
+test/registered/unit/mem_cache/test_dsv41_swa_resource_policy.py
+  h_f252eadf5e9832 1-181
+test/registered/unit/mem_cache/test_prefill_memory_budget.py
+  h_f252eadf5e9832 20,567
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "952c80e393b27cceedce57268a000f8cea4211ae",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+python/sglang/srt/managers/scheduler_components/weight_updater.py
+  h_a3dc1d2ad8ed2d 381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a7ce71ac046403d3d268329e7e2f2fe962e301a0",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

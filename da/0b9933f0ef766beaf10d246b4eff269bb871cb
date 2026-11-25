@@ -1,0 +1,32 @@
+python/sglang/kernels/ops/speculative/dspark/commit_swa.py
+  s_fe92d796c96f00::t_ad725bbebebff6 63-70,75-77,82-100,104-124,177-181,185-193,197-215
+  s_fe92d796c96f00::t_9705790e7deb62 17-18,61-62,71-74,80-81,101-103,125-126,183-184,194-196,216
+  s_fe92d796c96f00::t_26b8a3d8ba4f8f 78-79
+python/sglang/kernels/ops/speculative/dspark/dspark_verify_window.py
+  s_fe92d796c96f00::t_9705790e7deb62 640-641,687-745
+  s_fe92d796c96f00::t_4263ac541747ff 746-748
+test/registered/kernel/attention/dsv4/test_dsv41_page_swa_dispatch.py
+  s_fe92d796c96f00::t_5e93dbacf3b15f 42-48,55,57,72-84,102-108,122-129,138-142,144-147,160-177,179-181
+  s_fe92d796c96f00::t_ad725bbebebff6 54,56,63-64,85-86,88,156-158
+  s_fe92d796c96f00::t_25490aaa757c52 1-41,49-53,58-62,65-71,87,89-101,109-121,130-137,143,148-155,159,178,182-183
+  s_fe92d796c96f00::t_0b3cc58d88c798 184
+test/registered/unit/spec/test_dspark_replay_cohesion.py
+  s_fe92d796c96f00::t_525a298f478c0a 3,148,157-176,178-207,212
+  s_fe92d796c96f00::t_bc8eb755c8d8d6 211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da0b9933f0ef766beaf10d246b4eff269bb871cb",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

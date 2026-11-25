@@ -1,0 +1,32 @@
+python/sglang/srt/entrypoints/engine.py
+  h_1d635ecd767a49 412,526
+python/sglang/srt/entrypoints/openai/protocol.py
+  h_1d635ecd767a49 386-387,880-881
+python/sglang/srt/managers/io_struct.py
+  h_1d635ecd767a49 52,281-282
+python/sglang/srt/managers/pp_micro_batch.py
+  h_1d635ecd767a49 1
+python/sglang/srt/managers/prefill_delayer.py
+  h_1d635ecd767a49 55
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 1113,1275
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 3264,3325,3413-3414,3435
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 1075
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 1,11,26,58,94-95,105-117,119,129,234,240,259,261,322-323,329,331-332,338-339,341-342,348-349,359,365,377
+test/registered/unit/managers/test_prefill_delayer_high_watermark.py
+  h_1d635ecd767a49 62,68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0a144eeb7b73d913f9b28e347f6da38d44ddddbb",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

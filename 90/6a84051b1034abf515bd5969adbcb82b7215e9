@@ -1,0 +1,61 @@
+test/registered/kernels/ops/gemm/test_glm53_h20_swapab.py
+  s_f5a50be0fc3a60::t_596325761d2331 77
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  s_f5a50be0fc3a60::t_ddc865eee37e6d 142-149,162-177
+  s_f5a50be0fc3a60::t_b012915d62623e 178-179
+test/registered/unit/server_args/test_glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 120-121,123-124,358-361,363-364
+  s_f5a50be0fc3a60::t_dc17f547c64de3 483-484,486-487
+  s_f5a50be0fc3a60::t_364675b104a209 148,151
+test/registered/unit/distributed/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_dc17f547c64de3 262,284-285,317-319
+  s_f5a50be0fc3a60::t_ed4efcae468d8a 281-283,286-316
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_tuning.py
+  s_f5a50be0fc3a60::t_ddc865eee37e6d 10,231,234-235,249,252-263
+  s_f5a50be0fc3a60::t_28a0e237795956 250-251
+python/sglang/srt/speculative/fused_verify_probs.py
+  s_f5a50be0fc3a60::t_fa504c79fd4e56 32
+test/registered/kernels/ops/communication/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 45
+python/sglang/srt/layers/attention/linear/glm53_gate_fusion.py
+  s_f5a50be0fc3a60::t_473bcae53703c4 84
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 188-192
+test/registered/unit/entrypoints/test_glm5_prefill_warmup.py
+  s_f5a50be0fc3a60::t_cbf3a190e3273a 347,349,353,370-371,378,400-401
+test/registered/kernels/test_kda_mtp_cutedsl_replayssm_ring.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 204-205,331-333
+python/sglang/kernels/ops/kimi_k3/glm53_gate_bmm.py
+  s_f5a50be0fc3a60::t_473bcae53703c4 49,54-55,57,67
+python/sglang/srt/models/glm5_next.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 484,822
+python/sglang/kernels/jit/csrc/distributed/glm53_moe_finalize.cuh
+  s_f5a50be0fc3a60::t_3c49b9241d79da 123
+python/sglang/kernels/ops/communication/glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_b596411ea549b7 74-77,92-95
+python/sglang/srt/layers/quantization/glm53_small_fp8_gemm.py
+  s_f5a50be0fc3a60::t_28a0e237795956 32-52
+  s_f5a50be0fc3a60::t_745db5e65a3567 29,55,58,61
+python/sglang/srt/entrypoints/warmup.py
+  s_f5a50be0fc3a60::t_cbf3a190e3273a 133,143,148-151
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_f5a50be0fc3a60::t_ddc865eee37e6d 261
+test/registered/kernels/test_glm53_gate_bmm.py
+  s_f5a50be0fc3a60::t_473bcae53703c4 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "906a84051b1034abf515bd5969adbcb82b7215e9",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

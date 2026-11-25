@@ -1,0 +1,24 @@
+test/registered/unit/attention/test_ling_kv4_cache.py
+  s_a09ac9d92b3060::t_c6b77c4cb3eb19 195-241
+python/sglang/srt/layers/attention/ling/kv4_cache.py
+  s_a09ac9d92b3060::t_be109283ab993f 197-199,210-211,213,216,218,295-297,318-319,321,324,326,530,535-539,554-558,562-574,613-614,623-624
+  s_a09ac9d92b3060::t_0db796eecb4f97 212,320,559-561,615-617
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_a09ac9d92b3060::t_83ad42c0cd80cd 3100,3104,3109,3112-3116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "22da23e82c5fa55d98d783c3b6a6e42ed59420e5",
+  "prompts": {},
+  "sessions": {
+    "s_a09ac9d92b3060": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6fc-8de3-7af1-a9b2-e4865122defe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

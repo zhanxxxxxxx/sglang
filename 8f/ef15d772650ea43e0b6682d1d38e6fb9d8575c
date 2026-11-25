@@ -1,0 +1,20 @@
+docs/docs/advanced_features/pipeline_parallelism.mdx
+  h_1d635ecd767a49 20,26-28
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  h_1d635ecd767a49 682
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 291-292,353,355,362,447-448,461,483,500,530,533,563-572,799,963,1159
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 138-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8fef15d772650ea43e0b6682d1d38e6fb9d8575c",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

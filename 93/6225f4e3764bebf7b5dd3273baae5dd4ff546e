@@ -1,0 +1,18 @@
+python/sglang/kernels/ops/memory/common.py
+  h_1d635ecd767a49 8-35
+python/sglang/srt/mem_cache/allocation.py
+  h_1d635ecd767a49 14,573-585,598-622,624-630
+test/registered/unit/mem_cache/test_decode_allocation_kernels.py
+  h_1d635ecd767a49 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "936225f4e3764bebf7b5dd3273baae5dd4ff546e",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  s_e1f7312a22e236::t_76beef757e5150 20,30-32,39-42,44,47,49,51-53,63-64
+test/registered/unit/layers/test_dcp_symmetric_gather.py
+  s_e1f7312a22e236::t_76beef757e5150 1-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4d016f0ce688335fd4ab1fea6c270efb5128822c",
+  "prompts": {},
+  "sessions": {
+    "s_e1f7312a22e236": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2107a-e326-7cd0-8691-57afe6e0c69f",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "shicheng.yc <shicheng.yc@antgroup.com>"
+    }
+  }
+}

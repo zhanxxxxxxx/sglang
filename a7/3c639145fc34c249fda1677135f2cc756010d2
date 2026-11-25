@@ -1,0 +1,38 @@
+test/registered/unit/distributed/test_glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_61d59446765a5c 63,196-197,271-272,278-280,320-322
+  s_f5a50be0fc3a60::t_9679d48b1f688f 338-341,347-351,356-365
+  s_f5a50be0fc3a60::t_2ffaf87b4d1d71 198-200,229-230,259-261,263-270,273-277,323-330
+  s_f5a50be0fc3a60::t_38b90950ea33b9 331-337,342-346,352-355,366-372
+test/registered/unit/server_args/test_glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_f62e6867629ef5 102,127,129,355,369,420,490,492,548,556
+python/sglang/kernels/jit/csrc/distributed/glm53_moe_finalize.cuh
+  s_f5a50be0fc3a60::t_61d59446765a5c 122,124
+python/sglang/srt/models/deepseek_v2.py
+  s_f5a50be0fc3a60::t_61d59446765a5c 1141-1144,1155,1158-1160,1318-1321,1332,1335-1337
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_f5a50be0fc3a60::t_9679d48b1f688f 727-728
+python/sglang/kernels/ops/communication/glm53_moe_finalize.py
+  s_f5a50be0fc3a60::t_61d59446765a5c 3,78-90,91,96-97,133
+  s_f5a50be0fc3a60::t_38b90950ea33b9 25
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  s_f5a50be0fc3a60::t_f62e6867629ef5 74-77
+python/sglang/srt/environ.py
+  s_f5a50be0fc3a60::t_61d59446765a5c 266
+  s_f5a50be0fc3a60::t_f62e6867629ef5 265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a73c639145fc34c249fda1677135f2cc756010d2",
+  "prompts": {},
+  "sessions": {
+    "s_f5a50be0fc3a60": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c008-aa71-72c1-b6d8-1202bd1579dc",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "fenghao <fenghao.dh@antgroup.com>"
+    }
+  }
+}

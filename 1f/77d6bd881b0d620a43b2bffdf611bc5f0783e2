@@ -1,0 +1,45 @@
+python/sglang/srt/mem_cache/dsv41_swa_storage.py
+  s_fe92d796c96f00::t_9fbec919f91e51 198-206,208-257,259-289,316,319,321-349,378-380,382-397,401-404
+  s_fe92d796c96f00::t_cc07e0f812eebc 207
+  s_fe92d796c96f00::t_521c43cd613f87 258
+  s_fe92d796c96f00::t_50607f730ee705 398-399
+test/registered/unit/mem_cache/test_dsv41_swa_storage_dispatch.py
+  s_fe92d796c96f00::t_23200fbde8ddfc 96-99,102,105,119-120,129
+test/registered/kernel/attention/dsv4/test_dsv41_swa_draft_query.py
+  s_fe92d796c96f00::t_4b1f31a8b0527e 62-69,147,164,231,245,267
+  s_fe92d796c96f00::t_23200fbde8ddfc 1-41,45-57,59-61,70-78,80-146,148-163,165-178,201-208,210-219,221-230,232-244,246-266,268-277,279-303,305-312,329-339
+  s_fe92d796c96f00::t_1f44a1ee28eb14 42,44,179-183,185-195,197-200,313-328
+  s_fe92d796c96f00::t_ff1159a6dab438 43
+  s_fe92d796c96f00::t_6f8862b43dfdf1 58
+  s_fe92d796c96f00::t_2da410597857d8 79
+  s_fe92d796c96f00::t_86f3a1641d770e 184
+  s_fe92d796c96f00::t_7f2db5395d0cfc 196
+  s_fe92d796c96f00::t_340afe85b454b4 209
+  s_fe92d796c96f00::t_69dde3602792fd 220
+  s_fe92d796c96f00::t_d350e2dcd4b47e 278
+  s_fe92d796c96f00::t_798848690380b5 304
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  s_fe92d796c96f00::t_9fbec919f91e51 3063-3065,5711-5716,5719-5720
+python/sglang/kernels/ops/speculative/dspark/dspark_attn_metadata.py
+  s_fe92d796c96f00::t_2e4e015104262a 11,99-107,119-120,194-195,205-218,229,241-243,258,261,263-267,269-272,274-277,279-280,354-356,377-378,382-391,396,399-400,409,420-422,433-437,439-442,451-469,473-478,493-494,498-506,516,518-528,530-531,533-546
+  s_fe92d796c96f00::t_9fbec919f91e51 75-77,85-86,89-96
+  s_fe92d796c96f00::t_c421f0048e9360 97-98
+  s_fe92d796c96f00::t_f0cd80845e8bfa 268
+  s_fe92d796c96f00::t_13b8aec4021fe3 438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1f77d6bd881b0d620a43b2bffdf611bc5f0783e2",
+  "prompts": {},
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

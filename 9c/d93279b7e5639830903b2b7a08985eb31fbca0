@@ -1,0 +1,19 @@
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  s_890e85aa5e977f::t_27130218dd1b02 514-553
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9cd93279b7e5639830903b2b7a08985eb31fbca0",
+  "prompts": {},
+  "sessions": {
+    "s_890e85aa5e977f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0bced-45f6-7870-b4bb-5d8df2b2349d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

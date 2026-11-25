@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/dsa/dsa_indexer.py
+  s_4f45ba48752b7c::t_64add54cb043ff 254,256,260,277,404,424,426-427,430,432,553,565,576,584,651
+python/sglang/srt/environ.py
+  s_4f45ba48752b7c::t_64add54cb043ff 1448
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6589364d5bade7c4fd289cbe3694f4410ddc309a",
+  "prompts": {},
+  "sessions": {
+    "s_4f45ba48752b7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c618-a359-79f0-806b-c68b55d8b3ff",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}

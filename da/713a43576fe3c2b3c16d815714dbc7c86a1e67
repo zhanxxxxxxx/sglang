@@ -1,0 +1,18 @@
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_a3dc1d2ad8ed2d 1171-1172,1174-1175
+test/registered/unit/mem_cache/test_request_snapshot.py
+  h_a3dc1d2ad8ed2d 288,298-311
+test/registered/unit/mem_cache/test_snapshot_live_transfer.py
+  h_a3dc1d2ad8ed2d 330-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da713a43576fe3c2b3c16d815714dbc7c86a1e67",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

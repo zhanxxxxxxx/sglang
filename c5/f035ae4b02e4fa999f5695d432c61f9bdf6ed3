@@ -1,0 +1,22 @@
+docker/ant/aci/modelspeed_git_verify.aci.yml
+  h_623190b123231f 19-21
+docker/ant/aci/modelspeed_git_verify_base.aci.yml
+  h_623190b123231f 23-25
+docker/ant/modelspeed/README.md
+  h_623190b123231f 107-108
+docker/ant/modelspeed/test_verify_git.py
+  h_623190b123231f 1-3,5,9,14-22,24-34,36-39,41-60,62,64-85,87-104
+docker/ant/modelspeed/verify_git.sh
+  h_623190b123231f 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c5f035ae4b02e4fa999f5695d432c61f9bdf6ed3",
+  "prompts": {},
+  "humans": {
+    "h_623190b123231f": {
+      "author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}
