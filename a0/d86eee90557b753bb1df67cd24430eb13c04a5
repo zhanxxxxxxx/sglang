@@ -1,0 +1,39 @@
+test/manual/eplb/test_sequence_recorder_overlap.py
+  s_c34399b1839882::t_8dcd20a0fd9772 1-41,47-72
+  s_c34399b1839882::t_3a97a2647c3c81 42-46
+python/sglang/srt/eplb/sequence_counts.py
+  s_c34399b1839882::t_62dc3c79e2cfef 36-116
+  s_c34399b1839882::t_7d6ee4762dc008 19-23,119
+  s_c34399b1839882::t_f408e280a2da0c 7-18,24-25,33
+  s_c34399b1839882::t_e98fb6bda93ff6 4-6
+  s_c34399b1839882::t_97b3bb6d71b846 26-28,30-32
+  s_c34399b1839882::t_c8ae199ca9c0fc 34-35
+  s_c34399b1839882::t_b04fcb683d83f7 117-118
+  s_c34399b1839882::t_9c5eac3e388fda 120-122
+test/manual/eplb/test_sequence_counts.py
+  s_c34399b1839882::t_c2546943846798 6-102
+  s_c34399b1839882::t_0ff592d24e107f 3-5
+  s_c34399b1839882::t_22ad16712711d5 103-105
+python/sglang/srt/managers/scheduler.py
+  s_c34399b1839882::t_404c4d0eda910f 5079-5084,5087,5089,5091
+python/sglang/srt/eplb/expert_distribution.py
+  s_c34399b1839882::t_1971947ee6ecfa 195
+  s_c34399b1839882::t_7a17a215a7e94f 192-194
+  s_c34399b1839882::t_01e9191cad7050 196-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a0d86eee90557b753bb1df67cd24430eb13c04a5",
+  "prompts": {},
+  "sessions": {
+    "s_c34399b1839882": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2086d-382b-73d0-b1f8-53fcfbb198d8",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "淳肇 <syb544241@antgroup.com>"
+    }
+  }
+}

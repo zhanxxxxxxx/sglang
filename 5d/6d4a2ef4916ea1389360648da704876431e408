@@ -1,0 +1,51 @@
+python/sglang/srt/layers/bailing_dense_verify_gemm.py
+  s_28365f39610187::t_16740186433e3e 14-15
+  s_28365f39610187::t_b94aa47ab4dcc0 9-13,16-21,33,35,82,90,92,102,113
+python/sglang/srt/layers/bailing_mla_rowops.py
+  s_28365f39610187::t_16740186433e3e 5-6,81,91
+python/sglang/srt/models/bailing_moe_v3.py
+  s_28365f39610187::t_16740186433e3e 40,220,228,823,1736
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_28365f39610187::t_16740186433e3e 389-392,446-449,452,455
+test/registered/spec/dspark/test_dspark_mla_w1.py
+  s_28365f39610187::t_12a8ab20f543b8 8,43-52,55-56,59-60,63-64,70,73,78-84,89,91-95
+  s_28365f39610187::t_025d24981d0b4b 2,10-13,101-126
+  s_28365f39610187::t_4a142599ade4a4 66,88
+  s_28365f39610187::t_e7f1e92c3c5f02 9
+  s_28365f39610187::t_19dff9d648b861 127
+python/sglang/srt/layers/bailing_dense_owner.py
+  s_28365f39610187::t_50ebd40a9f68eb 12-15,132,134,140-141,144-145,163,166,168,174-176,179,181-183,186-187,193,210-228
+  s_28365f39610187::t_e198eeaff16bbb 16-24,148,154
+  s_28365f39610187::t_4fc7d328ce145b 229
+python/sglang/srt/layers/communicator.py
+  s_28365f39610187::t_e198eeaff16bbb 1510-1513,1516-1527
+python/sglang/srt/layers/bailing_kda_stream_policy.py
+  s_28365f39610187::t_b94aa47ab4dcc0 114
+python/sglang/srt/layers/attention/dspark_mla_w1.py
+  s_28365f39610187::t_4a142599ade4a4 12
+  s_28365f39610187::t_c12c0818e4b569 13-28,36,38-41,44,46,48,63,70-74,78-83,86-93,100,125,135-140,148
+python/sglang/kernels/jit/csrc/attention/kda_w8_physical.cuh
+  s_28365f39610187::t_b94aa47ab4dcc0 175
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_28365f39610187::t_ba9205327a41c8 735,752,762,765-766,771,773-774,801,804,806-811,906,1238,1340
+python/sglang/srt/layers/bailing_kda_physical_geometry.py
+  s_28365f39610187::t_b94aa47ab4dcc0 84-90
+dspark/ar-parity/README.md
+  s_28365f39610187::t_bdefd5bdae0977 31-33,39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d6d4a2ef4916ea1389360648da704876431e408",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
