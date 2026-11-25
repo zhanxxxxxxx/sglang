@@ -1,0 +1,18 @@
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  h_0eaad948cda463 9,1244,2257
+python/sglang/srt/managers/tokenizer_manager.py
+  h_0eaad948cda463 2270-2272
+test/registered/unit/entrypoints/openai/test_glm_prompt_tokenization.py
+  h_0eaad948cda463 174-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "025bb494039c31b5669b84f2cafa0228f42768ea",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
