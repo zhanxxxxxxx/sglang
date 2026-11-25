@@ -1,0 +1,18 @@
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_0eaad948cda463 289-304
+python/sglang/srt/layers/moe/moe_runner/humming_tuning_override.py
+  h_0eaad948cda463 79,108-111
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  h_0eaad948cda463 477-524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e1d27b37bb50faa126a771c00e25e82e45c7272e",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}
