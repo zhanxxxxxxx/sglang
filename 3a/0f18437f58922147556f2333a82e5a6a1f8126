@@ -1,0 +1,30 @@
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_padding.py
+  s_3d09a3e3306d12::t_7a32e8a32e22dd 1-5,12-24,28-39
+  s_3d09a3e3306d12::t_5d3711b8db8a47 6-11,25-27
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_3d09a3e3306d12::t_2bc730f6f13604 476
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_3d09a3e3306d12::t_2bc730f6f13604 1458,1558-1562
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_3d09a3e3306d12::t_5d3711b8db8a47 16,826,833-835,839-841,848-849,856
+  s_3d09a3e3306d12::t_3fd5f7f047d85b 819-825,827-832,836-838,842-847,850-855,857-858
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_2bc730f6f13604 578-585,731-733,1469
+  s_3d09a3e3306d12::t_5d3711b8db8a47 1362-1363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3a0f18437f58922147556f2333a82e5a6a1f8126",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}
