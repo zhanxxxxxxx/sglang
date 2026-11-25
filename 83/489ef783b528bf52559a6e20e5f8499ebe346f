@@ -1,5 +1,6 @@
 python/sglang/srt/configs/ling_csa_runtime.py
   s_a09ac9d92b3060::t_401428f8b592ce 9-16,39-40,46,97-98,185-194
+  s_4b27f20836e17c::t_89fe794057e825 121-125,132
 python/sglang/srt/layers/attention/ling/kv4_cache.py
   s_a09ac9d92b3060::t_e0ff2586f14b69 120-122
   s_a09ac9d92b3060::t_eed6831931e31c 160,164-168,172,194-196,215,222,242-244,286-288,317,324,344-346,399-401,405,416-433,449,460-461,465-469,487-489,494,520,537,574-576,581-582
@@ -34,6 +35,14 @@ test/registered/unit/attention/test_ling_kv4_cache.py
   "base_commit_sha": "83489ef783b528bf52559a6e20e5f8499ebe346f",
   "prompts": {},
   "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    },
     "s_a09ac9d92b3060": {
       "agent_id": {
         "tool": "codex",
