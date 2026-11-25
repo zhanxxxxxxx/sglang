@@ -1,0 +1,19 @@
+docker/rocm.Dockerfile
+  s_312bfdfef87ab7::t_2f1f2fdd34419a 931-932,934,937-954,960,964
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b2472616a0144f6c4b95b2c39abb1c97f9699d27",
+  "prompts": {},
+  "sessions": {
+    "s_312bfdfef87ab7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20b4c-e859-7222-be6a-8aef5a53aa25",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

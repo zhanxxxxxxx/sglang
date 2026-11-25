@@ -1,0 +1,81 @@
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 42-73,165-177
+python/sglang/srt/layers/radix_linear_attention.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 125,141-147,153-162,165-166,169-177,179
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/__init__.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 8,22
+python/sglang/srt/environ.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 264
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 278,302-314,1275-1297,1305-1328,1330-1333,1335-1345,1347-1380
+python/sglang/srt/model_executor/runner/eager_runner.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 289-290
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 690
+python/sglang/srt/model_executor/model_runner_components/layer_setup.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 8-9,54,56-61,73-74
+python/sglang/srt/model_executor/runner_backend/breakable_cuda_graph_backend.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 101
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 30-34,220-236,255-258,402-411,459-474
+test/registered/pp/test_bailing_breakable_prefill.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 1-122
+test/registered/unit/layers/test_dcp_prefix_alignment.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 53-56
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 754-771,869-872,929-933,988-991,1009-1053,1108-1120,1130
+python/sglang/srt/model_executor/runner/base_runner.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 35-37,46-51,57,129-141,230-270
+  s_3d09a3e3306d12::t_3096a0359c7238 271
+test/registered/dcp/test_bailing_qsa_collective.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 1,7-8,18,53-105,170
+python/sglang/srt/models/bailing_moe_v3.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 84,94,96-99,155-195,526-553
+  s_3d09a3e3306d12::t_b4e741ac14ae7a 554-556
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 20,30-32,39-54,56,59,61,63-65,75-76
+python/sglang/srt/layers/dcp/planner.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 131-134,139,155
+python/sglang/kernels/ops/attention/dsa/qsa_dcp.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 10-29
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 1626,1653-1659
+python/sglang/srt/layers/dcp/metadata.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 38
+python/sglang/srt/layers/dcp/symmetric_gather.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 1-133
+python/sglang/srt/model_executor/model_runner_components/misc_utils.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 9,74-75,80
+test/registered/unit/layers/test_dcp_symmetric_gather.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 1-170
+python/sglang/srt/layers/dcp/comm.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 153,168-172,285-286,288-306
+python/sglang/srt/configs/model_config.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 94-98
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 53-56,111,122,283-309,550-553,607-615,727-735,741,1038-1042,1084-1088,1100-1104,1180-1186,1718-1720,1769-1772,1852-1854,1875-1879
+python/sglang/srt/models/gemma4_causal.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 52,810,818-819
+python/sglang/srt/server_args.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 114-125,2461,2471,4453,4663,4735-4739,4741,4797-4803,4805-4807,5268-5272,5483-5486,5501-5502,5504,5739-5748,5750-5751,6011-6024,8206-8245
+  s_3d09a3e3306d12::t_3f6a9b79c21963 8246
+python/sglang/srt/layers/attention/dsa/qsa_dcp.py
+  s_3d09a3e3306d12::t_ae7ee501ce59bc 135,138-146,150-153
+  s_3d09a3e3306d12::t_477c41364c4842 154-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4350e537cefe6e3ac44dd073ce00b0ada4f3af6f",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

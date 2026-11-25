@@ -1,0 +1,20 @@
+python/sglang/srt/managers/pp_micro_batch.py
+  h_1d635ecd767a49 3-38
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 196,3078-3082,3187,3237-3241,3255,3273,3388-3416,3438
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  h_1d635ecd767a49 43,521-523,570-590,709-718,724,769
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 26-30,273-286,430-444
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ec9b19dd8420d5c296140d4d3501f2e6d6f80223",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
