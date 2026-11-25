@@ -1,10 +1,12 @@
 examples/runtime/dspark_gate_conv/README.md
   s_46a6ba97103c38::t_59e707b476e811 1-9,12,16-33,35-80,83-112
   s_46a6ba97103c38::t_23b068e4a50292 34,118
+  s_36a45e529e5577::t_06818d959c0743 10-11,13-15,81-82,113-117,119
 examples/runtime/dspark_gate_conv/config_patch.json
   s_46a6ba97103c38::t_59e707b476e811 1-9
 python/sglang/srt/models/bailing_moe_v3.py
   s_46a6ba97103c38::t_5ccc7d24d0a67f 1854,1865-1867
+  s_36a45e529e5577::t_c4b4a649648b50 1990-1992
 test/registered/spec/dspark/test_ling_dspark_gate_conv.py
   s_46a6ba97103c38::t_82b2aa3840a561 13,136,568-585,587-613,614-621,623-633
   s_46a6ba97103c38::t_23b068e4a50292 648
@@ -42,15 +44,23 @@ test/registered/spec/dspark/test_ling_dspark_gate_conv.py
   s_46a6ba97103c38::t_b02e64d2b583a9 680
   s_46a6ba97103c38::t_4dfc124eefb32d 707
   s_46a6ba97103c38::t_8c4531f11386ca 721
+  s_36a45e529e5577::t_dace878f8eed07 424-442
+  s_36a45e529e5577::t_6cec5f2b7d9a8c 586,735,740,762-767
+  s_36a45e529e5577::t_159336c5771f1c 734,736-739,741-746,751-761
+  s_36a45e529e5577::t_78e2aa56923374 768
+  s_36a45e529e5577::t_c4b4a649648b50 747-750
 python/sglang/srt/configs/dspark_gate_conv.py
   s_46a6ba97103c38::t_a035a49b190067 1-30,32-33,35-37,39-92,94-95,97-126,128-153,155-157,159-180,182-184,186-199,201
   s_46a6ba97103c38::t_51f821ea6d57e2 31,34,38,93,96,127,154,158,181,185,200
 python/sglang/srt/models/ling_v3_dspark.py
   s_46a6ba97103c38::t_59e707b476e811 109-115,348-358
   s_46a6ba97103c38::t_5ccc7d24d0a67f 12,15,103-108,116-117,119-128,131-132,244-245,318,345-347,359,443-449
+  s_36a45e529e5577::t_6bc4bde4c37d4a 362,525-528
 python/sglang/srt/layers/dspark_gate_conv.py
   s_46a6ba97103c38::t_a035a49b190067 1-10,12-24,40-53,55,57-61,62-81,83-87,99-150,152-153,155-159,161-163,165-166,168-169,171-176,178-179,181-210
   s_46a6ba97103c38::t_ccc2854b03c2f9 54,56,98,151,154,160,164,167,170,177,180
+  s_36a45e529e5577::t_6bc4bde4c37d4a 82
+  s_36a45e529e5577::t_dace878f8eed07 11,26-27,29,31,33,36,38-39,88-97
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -58,6 +68,14 @@ python/sglang/srt/layers/dspark_gate_conv.py
   "base_commit_sha": "948758cecce3599d4e68ac0f1212e14af29e609c",
   "prompts": {},
   "sessions": {
+    "s_36a45e529e5577": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210c5-fa61-7b10-998c-1376d1e14fb6",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "司翁 <siweng.syj@antgroup.com>"
+    },
     "s_46a6ba97103c38": {
       "agent_id": {
         "tool": "codex",
