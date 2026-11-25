@@ -1,0 +1,91 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  s_c050a148f13520::t_1d3e27365bf8a9 2931-2934,3504-3506
+  s_c050a148f13520::t_9e61c6125cf836 2744-2748,2935,2952,2965-2966,3503,3507-3508,3536-3537
+test/registered/unit/spec/test_pipeline_eagle_worker.py
+  s_c050a148f13520::t_1d3e27365bf8a9 19-23,856-870
+python/sglang/srt/speculative/dflash_info.py
+  s_c050a148f13520::t_1dead129d11f3f 65
+  s_c050a148f13520::t_d5f9a26b1ad322 66,122,133-136
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  s_c050a148f13520::t_9e61c6125cf836 107,157-159
+  s_c050a148f13520::t_d5834ab7ea9288 160
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_c050a148f13520::t_0aaab29b0969cb 132,474,540-541,644-655,804-805,876,886-887,891-925
+  s_c050a148f13520::t_d5f9a26b1ad322 104,294,486,736
+  s_c050a148f13520::t_1d3e27365bf8a9 105-110,484-485,598-604,831-835,838-840,877-881,888-890
+  s_c050a148f13520::t_1dead129d11f3f 836-837,852-853
+  s_c050a148f13520::t_59cd8eee77a1fe 841-843
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_c050a148f13520::t_9e61c6125cf836 448-449,453-456
+  s_c050a148f13520::t_1d3e27365bf8a9 450-452
+  s_c050a148f13520::t_59cd8eee77a1fe 457-459
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_c050a148f13520::t_0aaab29b0969cb 85,268-269,310-314,331,366
+  s_c050a148f13520::t_d5f9a26b1ad322 99,109,245,252,307,345
+  s_c050a148f13520::t_1d3e27365bf8a9 246-249,256-257
+  s_c050a148f13520::t_59cd8eee77a1fe 89,335-338,349-350
+  s_c050a148f13520::t_a70a5abaac863d 208-209,251
+python/sglang/srt/models/bailing_mm_v3.py
+  s_c050a148f13520::t_9e61c6125cf836 923-925
+python/sglang/srt/speculative/spec_info.py
+  s_c050a148f13520::t_9e61c6125cf836 274,278-279
+  s_c050a148f13520::t_1d3e27365bf8a9 275-277
+python/sglang/srt/layers/attention/dsa/qsa_pooling.py
+  s_c050a148f13520::t_0aaab29b0969cb 224-229
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  s_c050a148f13520::t_d5f9a26b1ad322 16,216
+  s_c050a148f13520::t_a70a5abaac863d 92-93
+python/sglang/srt/managers/utils.py
+  s_c050a148f13520::t_d5f9a26b1ad322 23-24,220-224
+  s_c050a148f13520::t_59cd8eee77a1fe 117-119
+  s_c050a148f13520::t_68eced9a723523 225-226
+test/registered/spec/dspark/test_dspark_deep_backend_contracts.py
+  s_c050a148f13520::t_1d3e27365bf8a9 394
+test/registered/unit/spec/test_dflash_extra_buffer_lazy.py
+  s_c050a148f13520::t_1d3e27365bf8a9 42
+python/sglang/srt/model_executor/runner/base_runner.py
+  s_c050a148f13520::t_9e61c6125cf836 84,141-144,375
+python/sglang/srt/speculative/pipeline_dspark_worker.py
+  s_c050a148f13520::t_8971040b5bf294 12
+  s_c050a148f13520::t_a70a5abaac863d 89-90
+  s_c050a148f13520::t_d5f9a26b1ad322 112,242
+  s_c050a148f13520::t_1dead129d11f3f 70-72,80-82,100-102,117-121,127-131,148-150,158-160,165-169,179-182,194-196,208-210,214-217,221-223,228-236,254-255,261-265,271-280
+  s_c050a148f13520::t_22215b65c654c9 1-11,13-69,73-79,83-88,91-99,103-111,113-116,122-126,132-147,151-157,161-164,170-178,183-193,197-207,211-213,218-220,224-227,237-241,243-253,256-260,266-270,281-317
+python/sglang/srt/speculative/draft_worker_common.py
+  s_c050a148f13520::t_9e61c6125cf836 120,124
+python/sglang/srt/server_args.py
+  s_c050a148f13520::t_9e61c6125cf836 10240-10241,10244
+  s_c050a148f13520::t_59cd8eee77a1fe 10236-10239,10245-10247,10249-10250
+  s_c050a148f13520::t_1d3e27365bf8a9 10242-10243
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  s_c050a148f13520::t_a70a5abaac863d 766-768,772,1308,1316
+  s_c050a148f13520::t_1d3e27365bf8a9 769-771
+test/registered/spec/dspark/test_bailing_hidden_capture.py
+  s_c050a148f13520::t_8971040b5bf294 48-50,54-56,74-75,89-93,95,106-167,191
+  s_c050a148f13520::t_a70a5abaac863d 46-47,51-53
+  s_c050a148f13520::t_1dead129d11f3f 177
+test/registered/unit/spec/test_pipeline_dspark_worker.py
+  s_c050a148f13520::t_8971040b5bf294 1-96
+  s_c050a148f13520::t_d8076bcfdbdc72 97-100
+python/sglang/srt/model_executor/model_runner.py
+  s_c050a148f13520::t_9e61c6125cf836 769-772
+  s_c050a148f13520::t_59cd8eee77a1fe 188-189,191-192,194-195
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_c050a148f13520::t_9e61c6125cf836 450
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e06be2c780b20ec66f8ff6bfd1b44faf07e37c0f",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

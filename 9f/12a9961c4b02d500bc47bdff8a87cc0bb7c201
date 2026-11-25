@@ -1,0 +1,19 @@
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_padding.py
+  s_3d09a3e3306d12::t_f1197ed4269c5b 40-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9f12a9961c4b02d500bc47bdff8a87cc0bb7c201",
+  "prompts": {},
+  "sessions": {
+    "s_3d09a3e3306d12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a207ec-9514-7172-9568-9b9b350661ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanshuo.ws <wanshuo.ws@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+python/sglang/kernels/ops/attention/fla/l2norm.py
+  s_d31c9bc4d1be19::t_8ffd2f6059a6aa 125-130,138,141-152,167,170,173,220-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7be26957497801c497a902c27793dc82170b1786",
+  "prompts": {},
+  "sessions": {
+    "s_d31c9bc4d1be19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d31c9bc4d1be19",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

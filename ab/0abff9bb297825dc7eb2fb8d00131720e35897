@@ -1,0 +1,28 @@
+docs/docs/references/environment_variables.mdx
+  h_1d635ecd767a49 401
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  h_1d635ecd767a49 312,314-318,320
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  h_1d635ecd767a49 360-361,465-466,477,549-550,561,601-602,605-611,978,1007-1008,1011-1016,1031-1032,1047
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 8-42,66-71
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 20,290-298,526-529,556,635-639,667,795,945-949,968,1020-1034,1059-1063,1205-1209,1269,1456
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1153-1164
+test/registered/kernels/ops/moe/test_bailing_tp_router_weight.py
+  h_1d635ecd767a49 1-115
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  h_1d635ecd767a49 472
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab0abff9bb297825dc7eb2fb8d00131720e35897",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

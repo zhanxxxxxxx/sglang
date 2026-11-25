@@ -1,0 +1,24 @@
+python/sglang/srt/layers/attention/dsa/kpool_plan.py
+  s_c37cdff1ca50b2::t_fc98963197bdc4 290-291,422-429,431,548-552
+test/registered/unit/layers/test_kpool_planner_cpu_mirror.py
+  s_c37cdff1ca50b2::t_61b3f4885a139b 146-148
+  s_c37cdff1ca50b2::t_fc98963197bdc4 105,128-145,149-153
+python/sglang/srt/layers/attention/dsa/dsa_indexer_kpool.py
+  s_c37cdff1ca50b2::t_fc98963197bdc4 1136-1137,1225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "321d4e53af9aa7f1b495e4f7605b20de45ffb368",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

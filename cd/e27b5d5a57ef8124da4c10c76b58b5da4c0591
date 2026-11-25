@@ -1,0 +1,21 @@
+test/registered/unit/attention/test_ling_kv4_cache.py
+  s_a8ea711903e8fd::t_407334ea34b1f0 19
+test/registered/unit/layers/attention/test_ling_kv4_latent_distributed.py
+  s_a8ea711903e8fd::t_b4979b44ad0bbd 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cde27b5d5a57ef8124da4c10c76b58b5da4c0591",
+  "prompts": {},
+  "sessions": {
+    "s_a8ea711903e8fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d5b-bef9-7ac1-a750-cda8fc28e498",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

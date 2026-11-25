@@ -1,0 +1,255 @@
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_sm90/entry.cuh
+  s_899c4d6d0b8e63::t_96a4638b49f0fd 1-117
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_sm90/kernel.cuh
+  s_899c4d6d0b8e63::t_8f8853350eea4f 1-1264
+python/sglang/kernels/jit/csrc/glm53_sparse_mla_q8kv8_splitkv_sm90/entry.cuh
+  s_899c4d6d0b8e63::t_4181136e6799e3 1-203
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_sm90.py
+  s_899c4d6d0b8e63::t_f9e4f918bff66a 1-495
+python/sglang/kernels/ops/attention/dsa/glm53_sparse_mla_q8kv8_splitkv_sm90.py
+  s_899c4d6d0b8e63::t_1742c87e146a35 1-211
+python/sglang/kernels/ops/attention/fla/index.py
+  s_899c4d6d0b8e63::t_8e2cf2b21883bc 11-34
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_899c4d6d0b8e63::t_88ea9dcd62aeae 23-24,1199
+python/sglang/kernels/ops/attention/fla/l2norm.py
+  s_899c4d6d0b8e63::t_2b672cb5da14a1 125-218
+python/sglang/kernels/ops/quantization/fused_moe_activation_quant.py
+  s_899c4d6d0b8e63::t_be83d180d44798 1-251
+python/sglang/srt/arg_groups/fields/mm.py
+  s_899c4d6d0b8e63::t_014927b4a8f6e7 166
+python/sglang/srt/arg_groups/kv_shard_hook.py
+  s_899c4d6d0b8e63::t_73c49d8316512c 21,26,89-110,124
+python/sglang/srt/arg_groups/pd_disaggregation_hook.py
+  s_899c4d6d0b8e63::t_33fe9aab068e94 397-401
+python/sglang/srt/configs/model_config.py
+  s_899c4d6d0b8e63::t_32f0a3522af9d7 281-284
+python/sglang/srt/disaggregation/base/conn.py
+  s_899c4d6d0b8e63::t_b32be7cbb20730 109,183
+python/sglang/srt/disaggregation/common/conn.py
+  s_899c4d6d0b8e63::t_3ef5237e2d67d1 254-255,1176,3194-3203,3205
+python/sglang/srt/disaggregation/decode.py
+  s_899c4d6d0b8e63::t_36cb2c381419b5 439,441,3346-3347,3744,3882,3934-3937,3941-3961,3996,4001,4005-4011,4015-4032
+python/sglang/srt/disaggregation/encoder/config.py
+  s_899c4d6d0b8e63::t_dd96925cc4c901 1-13
+python/sglang/srt/disaggregation/encoder/health.py
+  s_899c4d6d0b8e63::t_d11d56e7fd8cce 1-103
+python/sglang/srt/disaggregation/encoder/http_server.py
+  s_899c4d6d0b8e63::t_798cf029442051 25,29-30,46,75-84,95,106,108-109,113-115,124,142-145,174-207,218-229,235-240,276-314,317,321-337,354-358,361-378,485-488,490-496,530-595,759-770,810-819
+python/sglang/srt/disaggregation/encoder/mm_meta.py
+  s_899c4d6d0b8e63::t_e2a26eeb6d94a6 1-426
+python/sglang/srt/disaggregation/encoder/prefix_prewarm.py
+  s_899c4d6d0b8e63::t_27295e44964024 1-197
+python/sglang/srt/disaggregation/encoder/preprocessor.py
+  s_899c4d6d0b8e63::t_affbccde6423cd 22-24,99-135,162-164,204-212,355-360,372,377-378,383-391,744-748
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_899c4d6d0b8e63::t_e6de79e005be99 2-3,5,7,19-20,29,33-34,44,84-133,188,190,195-198,220,223,251,255-258,283,285-295,297-300,305-311,325-345,389-393,404-407,412-418,437-441,651,909-976,994-999,1047-1365,1408,1527-1529,1557-1558,1581-1586,1593,1601,1612,1627-1631,1640-1677,1690-1703,1706-1718,1729,1735-1736,1741-1759,1788,1894,1945-1946,1957-1960,1970-2005,2031,2033-2045,2047-2055,2057,2143-2144,2179-2181,2309-2320,2444,2466-2509,2511-2517,2541-2544,2551-2555,2561,2586,2699-2777,2790,2808,2933,2942,2950,2959-2960,2962-2963,2965,2969-2979,2984,2990,2992-2994,2999,3013-3083,3093,3096,3147,3180-3181,3190-3192,3200-3202,3205-3206,3233-3235,3266-3274,3278,3286,3302,3311-3312,3319,3334-3336,3351-3352,3362-3364,3367-3369,3484-3486,3524-3529,3541-3543,3588-3589,3601-3624,3626-3627,3629-3633,3635,3637-3645,3647,3649-3651,3669-3823,3865-3867,3869-3871
+python/sglang/srt/disaggregation/encoder/request_image_cache.py
+  s_899c4d6d0b8e63::t_f832f5759dfd90 1-252
+python/sglang/srt/disaggregation/encoder/runtime.py
+  s_899c4d6d0b8e63::t_5d1dce2e6b4795 29,146-151,170-177,194-197,255-258,272-290,334,338-346,393-418,446-448,678-685,719,724,728,1335-1337,1531-1536
+python/sglang/srt/disaggregation/encoder/server.py
+  s_899c4d6d0b8e63::t_582ad2e181db95 3,26-33,37,333-334,511-512,514-515,517-522,526-534,620-624,707-718,762-772,1064-1066,1074-1103,1209-1228,1278-1283,1301-1306,1323-1324,1742-1743,1771-1772,1859,1866-1871,2005-2009,2046-2055,2059-2066,2070,2078-2080,2188-2195,2200,2211,2303-2306,2341-2342,2374-2378,2384-2386,2388-2391,2398,2409-2415,2417-2419,2421-2424,2426-2427,2429-2433,2437-2512,2514-2521,2535
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_899c4d6d0b8e63::t_afc6abd6b0836f 1359,1429-1441,1445,1454,1490,1503-1509,1512-1516,1541-1545,1715,1720-1728,1770,2562-2575,2782-2786,3186-3187,3411-3422,3434,4109-4113
+python/sglang/srt/disaggregation/nixl/conn.py
+  s_899c4d6d0b8e63::t_b8380864ec9b13 2128
+python/sglang/srt/disaggregation/utils.py
+  s_899c4d6d0b8e63::t_63c0a634fef196 1873-1876
+python/sglang/srt/entrypoints/server_utils.py
+  s_899c4d6d0b8e63::t_e2a72dd504370d 33,148,156
+python/sglang/srt/environ.py
+  s_899c4d6d0b8e63::t_c5d8a9763ac60f 883-884,886,965,1410,1425,2111-2120,2128-2129
+python/sglang/srt/hf_transformers/processor.py
+  s_899c4d6d0b8e63::t_efa5f2f4a1b6b9 420-426
+python/sglang/srt/layers/attention/dsa/dsa_backend_kpool.py
+  s_899c4d6d0b8e63::t_1430afe74e8b7d 32,58-61,66,120-122
+python/sglang/srt/layers/attention/dsa/dsa_backend_mtp_precompute.py
+  s_899c4d6d0b8e63::t_d877876c9e12fe 73-80,176,224,310,375
+python/sglang/srt/layers/attention/dsa/dsa_indexer_kpool.py
+  s_899c4d6d0b8e63::t_2d9afcdd9944ee 358-361,371-372,377,1136-1137,1225
+python/sglang/srt/layers/attention/dsa/dsa_metadata_manager.py
+  s_899c4d6d0b8e63::t_86e3f7d447da65 102-105,197-200
+python/sglang/srt/layers/attention/dsa/kpool_plan.py
+  s_899c4d6d0b8e63::t_4ccc7fea177bba 393-394,525-532,534,654-658
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_899c4d6d0b8e63::t_4cc3519fa9b125 41-44,63,188,207,956-980,1769-1776,1923,2079-2080,2281,2665,4043-4055,4098,5154,5369-5374
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_899c4d6d0b8e63::t_9a9db5a2032d77 15,767-781,1242-1243
+python/sglang/srt/layers/attention/mamba/mamba2_metadata.py
+  s_899c4d6d0b8e63::t_3b65c3056cb44d 50-52
+python/sglang/srt/layers/cp/cp_decode_attn_tp.py
+  s_899c4d6d0b8e63::t_9a44a06b953324 23,38-42,71-99,195
+python/sglang/srt/layers/cp/interleave.py
+  s_899c4d6d0b8e63::t_5fd3cfbe766ba9 176-177
+python/sglang/srt/layers/cp/interleave_kpool.py
+  s_899c4d6d0b8e63::t_fffb7493f04a1b 6,9,13-14,16-18,22
+python/sglang/srt/layers/moe/moe_runner/configs/humming/README.md
+  s_899c4d6d0b8e63::t_70d6b92494c4b3 1-24
+python/sglang/srt/layers/moe/moe_runner/configs/humming/glm53-h20-tp4.json
+  s_899c4d6d0b8e63::t_38d84319500949 1-897
+python/sglang/srt/layers/moe/moe_runner/configs/humming/glm53-h20-tp8-multi-m.json
+  s_899c4d6d0b8e63::t_49579eead312bf 1-1937
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_899c4d6d0b8e63::t_eca887f2b330d0 7,19-25,37-40,194-195,202-205,233-267,594-685,800-802
+python/sglang/srt/layers/moe/moe_runner/humming_tuning_override.py
+  s_899c4d6d0b8e63::t_595b62a8d4e8d0 1-135
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_899c4d6d0b8e63::t_d25bf4e7d693f5 1-146
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_899c4d6d0b8e63::t_523d8387503e54 1-164
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_899c4d6d0b8e63::t_3738b7fd85ee2a 1-146
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=289,N=256,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_899c4d6d0b8e63::t_1dde09bfebaeda 1-164
+python/sglang/srt/layers/quantization/compressed_tensors/compressed_tensors.py
+  s_899c4d6d0b8e63::t_96ff904118acf4 70-72,74,106,161-162,234-236,238-245,250-269,315-316,435-452,494-497,510,516-522,526,532,536-541,546,845,1042-1045,1056,1072-1079,1083-1085,1111-1113,1116-1120,1168,1170-1174,1217,1221,1257,1354-1362,1364-1367
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_w4a4_mxint4_moe.py
+  s_899c4d6d0b8e63::t_06cc847c4d2ca5 56-59,62,84
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_w4a8_fp8_moe.py
+  s_899c4d6d0b8e63::t_af54b80c7c1f05 1,5,74,81,83-85,89-91,93-97
+python/sglang/srt/layers/quantization/compressed_tensors/schemes/compressed_tensors_wNa16_moe.py
+  s_899c4d6d0b8e63::t_f222d1b4575b6f 72,75,87
+python/sglang/srt/layers/quantization/compressed_tensors/utils.py
+  s_899c4d6d0b8e63::t_f5d2244158f4da 7,12-92,221-240,246
+python/sglang/srt/layers/quantization/fp8.py
+  s_899c4d6d0b8e63::t_403854adc3c019 78,320-328,795-802
+python/sglang/srt/layers/quantization/humming.py
+  s_899c4d6d0b8e63::t_70f239c5673788 6,36-43,48-50,83-84,256-300,302-345,347,475-478,484-485,488,603-612,622,624-626,632-636,644,648-684,718-743,745-760,764-770,772,777-781,794-825,830-837,856-858,862-869,871-878,930,939-941,954,960-962
+python/sglang/srt/layers/quantization/mxfp4_humming_moe.py
+  s_899c4d6d0b8e63::t_ca84a59bdb099f 9,25,27-29,58-62,69
+python/sglang/srt/layers/quantization/w4afp8.py
+  s_899c4d6d0b8e63::t_6442b9f40cf770 4,31,46,54-57,62-65,87-107,113,115,379
+python/sglang/srt/managers/io_struct.py
+  s_899c4d6d0b8e63::t_6a8963cda9a607 443-446,1349-1354,2253-2259,2649-2650
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_899c4d6d0b8e63::t_4a56bc7efd8cec 41-42,53,73,441-445,469-499,542-544
+python/sglang/srt/managers/req_types.py
+  s_899c4d6d0b8e63::t_a61ac2de4cf7fa 696-698
+python/sglang/srt/managers/schedule_batch.py
+  s_899c4d6d0b8e63::t_163b34f9503e45 93,128,200-215,801-806,1206,1241,1277,1846-1851,2653-2654,2656,2659-2660,2670,2677-2685
+python/sglang/srt/managers/scheduler.py
+  s_899c4d6d0b8e63::t_68db6f7e0ed448 363,695-699,3489-3490,4836,4938-4945,4972-4977,5091-5096
+python/sglang/srt/managers/tokenizer_manager.py
+  s_899c4d6d0b8e63::t_9c6deadb20ca47 66-72,114,225,866-868,1015,1123-1126,1137-1146,1153-1287,1352,1400,1434-1439,1736,1763-1775,1832-1834,2305-2307,3137-3140,3747-3748,4841-4842,5077-5079,5085-5090,5128,5132-5137
+python/sglang/srt/mem_cache/embedding_store.py
+  s_899c4d6d0b8e63::t_e22be6e288661d 5,7,9,60-65,70-89,135-140
+python/sglang/srt/mem_cache/events.py
+  s_899c4d6d0b8e63::t_c5a6a849d6c32a 36,285,288,379-380,440-454,458-461,491-492
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_cache_controller.py
+  s_899c4d6d0b8e63::t_251651ba6066cf 1225-1229,1238,1243-1245,1248,1860-1868,1873-1874,1899-1915
+python/sglang/srt/mem_cache/hybrid_cache/hybrid_pool_assembler.py
+  s_899c4d6d0b8e63::t_625ccd2d515156 1607-1620,1625,2596-2604
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_899c4d6d0b8e63::t_51dff6e7be4d77 947,950,952,955,3026-3031,3905-3914,3928-3932
+python/sglang/srt/mem_cache/page_interleave.py
+  s_899c4d6d0b8e63::t_44a525a5a2a9b3 69,197-199,238-239,248
+python/sglang/srt/mem_cache/page_interleave_pool.py
+  s_899c4d6d0b8e63::t_8e3e66a2c95ba5 191-200,564-567,845-847,1020-1021,1026,1034-1048,1052-1053,1058-1059,1068-1069
+python/sglang/srt/mem_cache/pool_host/page_interleave.py
+  s_899c4d6d0b8e63::t_70b0c18e964d33 78-80
+python/sglang/srt/mem_cache/prefix_cache_audit.py
+  s_899c4d6d0b8e63::t_7fcb45e0eefca6 1-50
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_899c4d6d0b8e63::t_263b5ce34455de 16,326,1354-1357,1368-1373,1380-1381,1385-1400
+python/sglang/srt/mem_cache/storage/shm/shm_embedding_store.py
+  s_899c4d6d0b8e63::t_d2a0a8a60090dc 1-378
+python/sglang/srt/mem_cache/unified_cache/components/mamba.py
+  s_899c4d6d0b8e63::t_067c68d0a6b8dc 1453-1458
+python/sglang/srt/mem_cache/unified_cache/components/swa.py
+  s_899c4d6d0b8e63::t_0900c197c44d64 1588-1593
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_899c4d6d0b8e63::t_e937e52f718b24 95,554-559,2591-2592,2599-2601,2695,2706-2718
+python/sglang/srt/model_executor/pool_configurator.py
+  s_899c4d6d0b8e63::t_2ed49c23802e13 516-518
+python/sglang/srt/models/deepseek_common/utils.py
+  s_899c4d6d0b8e63::t_c84efb953e3bb8 189-197
+python/sglang/srt/models/deepseek_nextn.py
+  s_899c4d6d0b8e63::t_f812588f7c9cbb 63-77,145-148,157,347-348
+python/sglang/srt/models/deepseek_v2.py
+  s_899c4d6d0b8e63::t_76d6e642d2a29d 88,456,2108-2114,2151,2229,3346-3348,3404
+python/sglang/srt/models/glm5_next.py
+  s_899c4d6d0b8e63::t_1d7348cc48eecc 3,17,22,64,86,156-208,442-448,522-524,531,636-638,643,958-962,984-989,1424-1426,1502-1503,1928-2004
+python/sglang/srt/multimodal/processors/base_processor.py
+  s_899c4d6d0b8e63::t_54b4e655d2e583 556-563
+python/sglang/srt/multimodal/processors/glm4v.py
+  s_899c4d6d0b8e63::t_988793b5ec185f 556-587,620-622,625,627-629
+python/sglang/srt/observability/metrics_collector.py
+  s_899c4d6d0b8e63::t_33564168783366 714
+python/sglang/srt/utils/log_utils.py
+  s_899c4d6d0b8e63::t_9709fdcf9d47fa 227-233,262
+test/manual/glm53_tracker_migration_20261116/README.md
+  s_899c4d6d0b8e63::t_5ff1b567a1dc96 1-14
+test/manual/glm53_tracker_migration_20261116/test_current_tracker_adapters.py
+  s_899c4d6d0b8e63::t_86d936d9cd2789 1-158
+test/manual/glm53_tracker_migration_20261116/test_glm53_mhc_prewarm_contract.py
+  s_899c4d6d0b8e63::t_77a3b29b8710f0 1-195
+test/manual/glm53_tracker_migration_20261116/test_glm53_tracker_contracts.py
+  s_899c4d6d0b8e63::t_b9871b4453b631 1-269
+test/registered/kernels/ops/attention/test_glm53_sparse_mla_q8kv8_sm90.py
+  s_899c4d6d0b8e63::t_09cbc8d9a75ee4 1-92
+test/registered/kernels/ops/attention/test_kda_prefill_prepare.py
+  s_899c4d6d0b8e63::t_41c70981929dd6 1-142
+test/registered/kernels/ops/moe/test_humming_fp8_dispatch.py
+  s_899c4d6d0b8e63::t_893920a774490b 4,9-10,14-21,279-513
+test/registered/unit/attention/test_dsa_multistep_dedup.py
+  s_899c4d6d0b8e63::t_feada1cb29c299 1-29
+test/registered/unit/disaggregation/test_deferred_decode_kv_release.py
+  s_899c4d6d0b8e63::t_f19b8f25b5edb7 7-8,439-440,469,475-487,567,678,683-684,688-701,712,722-725,747,792,825-836,845,978
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_899c4d6d0b8e63::t_7b9d194288ca96 3,5,7-8,12-13,15,18,21-22,77-176
+test/registered/unit/disaggregation/test_encoder_health.py
+  s_899c4d6d0b8e63::t_e586da5a8460d8 1-114
+test/registered/unit/disaggregation/test_glm53_epd_metadata.py
+  s_899c4d6d0b8e63::t_367e5936696d7f 1-649
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_899c4d6d0b8e63::t_da8603c2249d54 129-185
+test/registered/unit/disaggregation/test_unified_transfer_bookkeeping.py
+  s_899c4d6d0b8e63::t_18bd690f473a0c 481,538-540,555-558
+test/registered/unit/layers/attention/test_dsa_kpool_decode_padding.py
+  s_899c4d6d0b8e63::t_b4f124548716f1 1-85
+test/registered/unit/layers/attention/test_glm53_sparse_mla_dispatch.py
+  s_899c4d6d0b8e63::t_9074d91a479b3a 1-182
+test/registered/unit/layers/quantization/test_compressed_tensors_mixed_config.py
+  s_899c4d6d0b8e63::t_f7323493243aca 1-731
+test/registered/unit/layers/quantization/test_fp8_blockwise_linear_backends.py
+  s_899c4d6d0b8e63::t_ef19c5cfb506b3 196-239
+test/registered/unit/layers/quantization/test_humming_w4afp8_schemas.py
+  s_899c4d6d0b8e63::t_176df5f055b35a 12,14,20-27,41-140,142-211,242-243,294-323
+test/registered/unit/layers/quantization/test_mxfp4_humming_moe.py
+  s_899c4d6d0b8e63::t_dfbf104f8f16c4 1-60
+test/registered/unit/layers/quantization/test_w4afp8_config.py
+  s_899c4d6d0b8e63::t_1467fb407a6e2a 1-116
+test/registered/unit/layers/test_interleave_kpool_inputs.py
+  s_899c4d6d0b8e63::t_600062864b5386 1-96
+test/registered/unit/layers/test_kpool_planner_cpu_mirror.py
+  s_899c4d6d0b8e63::t_15705374b0e6d7 189,212-237
+test/registered/unit/mem_cache/test_page_interleave_shard.py
+  s_899c4d6d0b8e63::t_5dd3423136bd3b 59,89,96,112,125,462-503,1473-1500,2192-2202,2310-2387
+test/registered/unit/models/test_deepseek_weight_loader_input_scale.py
+  s_899c4d6d0b8e63::t_0555b211c05e33 1-133
+test/registered/unit/models/test_glm5_next_online_fp8.py
+  s_899c4d6d0b8e63::t_eccdc5bc221f87 1-295
+test/registered/unit/models/test_nextn_hf_to_sglang_mapper.py
+  s_899c4d6d0b8e63::t_c14125f08492f6 1-34
+test/registered/unit/server_args/test_server_args.py
+  s_899c4d6d0b8e63::t_18c7044ccc14ff 4982-5015
+test/unit/test_humming_tuning_override.py
+  s_899c4d6d0b8e63::t_7604212b1c3045 1-235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "38965e4afc40a445080fb61e07b602e20e3a16d6",
+  "prompts": {},
+  "sessions": {
+    "s_899c4d6d0b8e63": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_899c4d6d0b8e63",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+python/sglang/srt/server_args.py
+  s_c050a148f13520::t_0930d9392f64cf 4763,4783-4797,4800
+  s_c050a148f13520::t_6c961ec9067117 4762,4767,4798-4799,4801
+python/sglang/srt/speculative/draft_worker_common.py
+  s_c050a148f13520::t_0930d9392f64cf 105-110
+test/registered/unit/models/test_bailing_moe_v3_dcp.py
+  s_c050a148f13520::t_224a991c80f866 37,308-310,312-315,318-336
+  s_c050a148f13520::t_72d1863c20fefb 259-278
+  s_c050a148f13520::t_7eb3ba8426f079 311,316-317
+  s_c050a148f13520::t_bb6787625bde72 8,337-338
+python/sglang/srt/models/dflash.py
+  s_c050a148f13520::t_7eb3ba8426f079 111,199-201
+  s_c050a148f13520::t_0930d9392f64cf 85-86,98,101-110,151-155,198,202-226
+  s_c050a148f13520::t_464a46c3f0a2b5 227
+python/sglang/srt/models/dspark.py
+  s_c050a148f13520::t_0930d9392f64cf 15-16,734-741,743-747
+  s_c050a148f13520::t_2f3602b92d256d 14,17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9f7253eb80c2242f3ff22dfc6a6cbb4f44140e60",
+  "prompts": {},
+  "sessions": {
+    "s_c050a148f13520": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2077d-a48a-73d1-be2a-e32c8cf822e5",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Yuhong Guo <yuhong.gyh@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+python/sglang/kernels/ops/moe/router_weight.py
+  h_1d635ecd767a49 1-45
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1551
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  h_1d635ecd767a49 179-183,290,384
+python/sglang/srt/layers/moe/moe_runner/base.py
+  h_1d635ecd767a49 53
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  h_1d635ecd767a49 328-361,423-435,685-688,801-815,995-998,1287-1292,1295-1303,1451-1458
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  h_1d635ecd767a49 163-176,892-894,902,918,931,943,975-985,1023-1048,1050-1065,1173,1193
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 1145-1165,1173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e33c27e3d36b6e9c8bb8d55316d3176ee23d06a1",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

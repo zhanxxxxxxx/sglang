@@ -1,0 +1,33 @@
+python/sglang/kernels/ops/moe/mega_moe_gluon_w4afp8.py
+  s_31968bceada1f3::t_3a599798245ecd 9,434-457,1355,2965,3104-3111,3113
+  s_d987c7fe6dfc36::t_18e03f435729bf 2200
+test/registered/unit/layers/moe/test_gluon_prefill.py
+  s_31968bceada1f3::t_b2e310a70d2fba 351-381
+  s_31968bceada1f3::t_af9ae56a3e0afd 350
+python/sglang/srt/layers/quantization/gluon_w4afp8_moe.py
+  s_31968bceada1f3::t_3a599798245ecd 27-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bcd0234b966fc866a31d3eca777bbf1f555f3968",
+  "prompts": {},
+  "sessions": {
+    "s_31968bceada1f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c91-502b-7fd2-a12b-3bb180e94ec5",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    },
+    "s_d987c7fe6dfc36": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20cb3-4138-7a41-adad-8fdef97721eb",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

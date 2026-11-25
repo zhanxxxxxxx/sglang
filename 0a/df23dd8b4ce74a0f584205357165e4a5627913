@@ -1,0 +1,224 @@
+test/registered/unit/model_executor/model_runner_components/test_quantized_moe_compatibility.py
+  s_4b27f20836e17c::t_5e6ab42f7fa3f6 106-107
+  s_4b27f20836e17c::t_4eb5e2846bb98f 108
+benchmark/ling_owner_route/capture.py
+  s_4b27f20836e17c::t_3a8c121c98bd22 1-55
+benchmark/ling_owner_route/replay.py
+  s_4b27f20836e17c::t_2f05d72028180f 1-98
+benchmark/ling_owner_route/request_ab.py
+  s_4b27f20836e17c::t_0b5f3a28f988fc 1-60
+benchmark/ling_owner_route/summarize.py
+  s_4b27f20836e17c::t_a70ce33f242491 1-66
+docs/docs/advanced_features/speculative_decoding.mdx
+  s_4b27f20836e17c::t_c062877142a746 508-539
+python/sglang/kernels/ops/attention/linear/kda_blackwell/kernel_h.py
+  s_4b27f20836e17c::t_2fbddbc75b4387 51-52,60-64,69-73,114-128,159,191-193,202-203,250-253,255-258,270-272,282,294-297,301-303,336,440-555,559-562,572-574,582-587,594-595,599,601,604-605,623-624,641-646,653-654,656-658,673-678,680,685,688,691-692,694-696,707-708,715-716,718-722,724-728,731-736,742-746,754,756,759-760,763-765,779-780,782,784-785,789,799-808,815,821,826-842,844-850,852-854,862,865-869,871-882,889-904,910,932-933,962-971,1029-1039,1041-1050
+python/sglang/kernels/ops/attention/linear/kda_blackwell/safe_gate.py
+  s_4b27f20836e17c::t_be4f141f6b0536 83-84
+python/sglang/kernels/ops/attention/ling_csa_verify_commit.py
+  s_4b27f20836e17c::t_676dd6f321e89c 1-271
+python/sglang/kernels/ops/speculative/dspark/dspark_accept.py
+  s_4b27f20836e17c::t_a3f97372c88fa1 93-97
+python/sglang/srt/arg_groups/speculative_hook.py
+  s_4b27f20836e17c::t_903e55b8d9d3b6 359-364,367
+python/sglang/srt/configs/hybrid_arch.py
+  s_4b27f20836e17c::t_decdb796fd26bb 44-48,112-116,119-123
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_4b27f20836e17c::t_1f329aa6d051ec 79-113
+python/sglang/srt/configs/model_config.py
+  s_4b27f20836e17c::t_55a9da5c85158f 719-748,1123-1137,1746-1752
+python/sglang/srt/environ.py
+  s_4b27f20836e17c::t_3a5c8d7ceb114d 199-204,519-521,1493-1495,1504-1510,1577-1584
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_4b27f20836e17c::t_cbfa40fd9131ec 3892-3951,3957-3979,3984,3988-3990,3992
+python/sglang/srt/layers/attention/flashattention_backend.py
+  s_4b27f20836e17c::t_8d0869ffd43121 48,199-204
+python/sglang/srt/layers/attention/flashinfer_mla_backend.py
+  s_4b27f20836e17c::t_852158ccb61781 8,90-95,241-246,249,747,998,1134,1147,1180
+python/sglang/srt/layers/attention/hybrid_attn_backend.py
+  s_4b27f20836e17c::t_231ff757c00de1 227-235
+python/sglang/srt/layers/attention/hybrid_linear_attn_backend.py
+  s_4b27f20836e17c::t_6b592cd9d2548b 1254-1258
+python/sglang/srt/layers/attention/ling/csa_indexer.py
+  s_4b27f20836e17c::t_1a7c80600f41ea 11-12,215-230,267-291,397
+python/sglang/srt/layers/attention/ling/csa_metadata.py
+  s_4b27f20836e17c::t_46c46b665d6042 111-116,154,193-217,267,290,300-301,317-323,349-363
+python/sglang/srt/layers/attention/ling/csa_ops.py
+  s_4b27f20836e17c::t_3e0aed3d625f3f 126,128-129,163-345,468-575
+python/sglang/srt/layers/attention/ling/csa_row_owner.py
+  s_4b27f20836e17c::t_35ed71020a7d5f 5,8-11,15,47-50,55-64,69-182,233,259-260,307-309
+python/sglang/srt/layers/attention/ling/csa_row_split.py
+  s_4b27f20836e17c::t_943ccb42774d5f 65,70-71
+python/sglang/srt/layers/attention/ling/csa_scoring.py
+  s_4b27f20836e17c::t_77f5b47d6abfa1 3-4,214
+python/sglang/srt/layers/attention_residual_parallel.py
+  s_4b27f20836e17c::t_ac079f87dc53e4 20-21,23-32,41-43,50,52-62,66-67,76,82-84,86-90,92
+python/sglang/srt/layers/linear.py
+  s_4b27f20836e17c::t_f0daed18530d40 561,609,632,1516,1547
+python/sglang/srt/layers/moe/ling_latent_down.py
+  s_4b27f20836e17c::t_6076d9bfc2818d 10-59
+python/sglang/srt/layers/moe/ling_owner_route.py
+  s_4b27f20836e17c::t_1dcdba7085a93b 1-145
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_4b27f20836e17c::t_d6e17248c233f3 19,1243-1255,1261-1262,1266,1272,1274-1275,1277-1280,1293-1294
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_6_0/E=513,N=192,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_4b27f20836e17c::t_363b54a4a7dec0 1-154
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_6_0/E=513,N=192,device_name=NVIDIA_H20,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_4b27f20836e17c::t_e50db129e31294 1-173
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_6_0/E=513,N=192,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_4b27f20836e17c::t_0594060901e7ae 1-154
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_6_0/E=513,N=192,device_name=NVIDIA_H20-3e,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_4b27f20836e17c::t_55b41964c87717 1-173
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  s_4b27f20836e17c::t_c6ba727d949f33 75-76
+python/sglang/srt/layers/moe/topk.py
+  s_4b27f20836e17c::t_f2fb38d56419ee 2216-2225
+python/sglang/srt/layers/quantization/fp8.py
+  s_4b27f20836e17c::t_04e1783170a917 905-909,1176,1910,2197-2198,2203,2227,2270-2271,2295,2321,2855-2857
+python/sglang/srt/layers/quantization/fp8_utils.py
+  s_4b27f20836e17c::t_3ae79eed3da39e 1042-1046,1767-1770
+python/sglang/srt/managers/utils.py
+  s_4b27f20836e17c::t_a92baf420ca319 74-79,132-151
+python/sglang/srt/mem_cache/ling_csa_cache.py
+  s_4b27f20836e17c::t_7329cb9a06348e 56-58,62-84,117-121,171-230,408-410
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_4b27f20836e17c::t_7d0d6857ae57f0 35,1147,1151,1154-1157,1164-1167,1172,1177-1189,1396-1409,1413,1422-1423
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_4b27f20836e17c::t_878ca82d9bbaff 22,324-351
+python/sglang/srt/model_executor/model_runner_components/moe_ep_setup.py
+  s_4b27f20836e17c::t_396193a1479e28 156-167,169-171
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  s_4b27f20836e17c::t_f80fc3c1f96c74 141-150,160,255,345,405
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_4b27f20836e17c::t_5066d78874cfb8 639,642
+python/sglang/srt/models/bailing_mm_v3.py
+  s_4b27f20836e17c::t_7e57bae8216edc 178-185
+python/sglang/srt/models/bailing_moe_nextn.py
+  s_4b27f20836e17c::t_67a9b785ee05b5 274-280
+python/sglang/srt/models/bailing_moe_v3.py
+  s_4b27f20836e17c::t_d70bd461529158 6,56,82-85,88-92,97-98,105,170-182,323-328,418-545,557-558,566-567,569,572-576,588,599-620,625-773,782-785,787-791,811-819,899-926,935,940-942,965,968-971,973-980,1131-1143,1153,1168-1192,1559-1560,1564-1567,1577-1578,1609-1645,1683-1684,1686-1691,1991,2003-2005,2063-2068,2182,2277,2336-2345,2390-2393,2395-2396,2636-2696,2745,2758-2760,2763-2768,2770,2865-2873,2882,2884-2891,2893-2894,2896-2911,3062-3100,3161-3165,3189,3196-3197,3477-3503,3559-3561,3607-3622,3625-3626,3650-3658,3670-3695,4082,4087-4092,4095-4097
+python/sglang/srt/models/dspark.py
+  s_4b27f20836e17c::t_6a63f0995dbea7 41-48,50-56,516,559-561
+python/sglang/srt/models/ling_v3_dspark.py
+  s_4b27f20836e17c::t_205b35c2a392db 1-668
+python/sglang/srt/sampling/penaltylib/frequency_penalty.py
+  s_4b27f20836e17c::t_82b0a76ac1b728 35-42
+python/sglang/srt/sampling/penaltylib/min_new_tokens.py
+  s_4b27f20836e17c::t_37c6e9bea79504 73-82
+python/sglang/srt/sampling/penaltylib/orchestrator.py
+  s_4b27f20836e17c::t_86f30dd9e0e44b 24,46,54-79,163,190,240,244-247,285
+python/sglang/srt/sampling/penaltylib/presence_penalty.py
+  s_4b27f20836e17c::t_e2426c368b26a9 35-40
+python/sglang/srt/sampling/penaltylib/repetition_penalty.py
+  s_4b27f20836e17c::t_3e95cab6103d83 48-53
+python/sglang/srt/speculative/dflash_info.py
+  s_4b27f20836e17c::t_7c48bbca03a721 158-163
+python/sglang/srt/speculative/dflash_info_v2.py
+  s_4b27f20836e17c::t_06e7522e982c2d 129-130
+python/sglang/srt/speculative/dflash_utils.py
+  s_4b27f20836e17c::t_8e27ecf0a0a163 20,148-149,152-164,231-232,258-259,263-275,277,280-281,284,1063-1073
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_4b27f20836e17c::t_2207e544ea70f4 18-19,31-35,39,46-61,179-180,189,221-318,400-403,405,419-424,427-428
+python/sglang/srt/speculative/dspark_components/dspark_draft.py
+  s_4b27f20836e17c::t_2deafee7ab0caf 419-422
+python/sglang/srt/speculative/dspark_components/dspark_draft_sampler.py
+  s_4b27f20836e17c::t_c13987e2989964 12,14,18,29-31,33-38,133-144
+python/sglang/srt/speculative/dspark_components/dspark_kv_inject.py
+  s_4b27f20836e17c::t_529fdb9dd313b1 12,14-15,47-48,52-69,74,118-181,266,306-320,322-325,327
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_4b27f20836e17c::t_b6d9fa3aa3eb56 31-34,52,67-69,230-231,247,262-270,311-312,341,350-357,375,520,526,536,551-563,566-590,593-598,615-661,664-665,668-679,688-691,694,736-754,757-761,781-796,798,801
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_4b27f20836e17c::t_6d7b8cc1f1831e 12,43-44,84,113-114,128,142-144,209,240,256-257,261,269,314,333-341,384-389,538-539,729,748,775,835,838-862
+test/registered/attention/test_kda_decode_flashinfer.py
+  s_4b27f20836e17c::t_7fbe75e4ea0bb7 210-287,294
+test/registered/attention/test_kda_prefill_cutedsl.py
+  s_4b27f20836e17c::t_7d2ee330af6cfd 104,106-120,123-125,127-129,194-195,215-217
+test/registered/spec/dspark/test_csa_batched_verify_commit.py
+  s_4b27f20836e17c::t_bea2f8e703ba5d 1-246
+test/registered/spec/dspark/test_dspark_draft_path_default.py
+  s_4b27f20836e17c::t_3336c02ad2f361 3,12-14,38-49,76-89,112-121,148-149,151-152,154-155,164-207
+test/registered/spec/dspark/test_dspark_draft_sampler.py
+  s_4b27f20836e17c::t_6dc510653ce269 1-102
+test/registered/spec/dspark/test_dspark_sampling_semantics.py
+  s_4b27f20836e17c::t_eeff833bd99bf0 1-193
+test/registered/spec/dspark/test_ling_dspark_config_combinations.py
+  s_4b27f20836e17c::t_7e1e6c1e38e8c0 1-129
+test/registered/spec/dspark/test_ling_dspark_config_regressions.py
+  s_4b27f20836e17c::t_3e888d5d16650a 1-271
+test/registered/spec/dspark/test_ling_dspark_graph_transitions.py
+  s_4b27f20836e17c::t_7c403d41b3fefe 1-207
+test/registered/spec/dspark/test_ling_dspark_mla_protocol.py
+  s_4b27f20836e17c::t_dab168de18cc13 1-1488
+test/registered/spec/dspark/test_ling_dspark_mrope.py
+  s_4b27f20836e17c::t_be3e171b34e7a0 1-584
+test/registered/spec/dspark/test_ling_dspark_mxfp8.py
+  s_4b27f20836e17c::t_72039ea3ff77ff 1-59
+test/registered/spec/dspark/test_speculative_penalty_history.py
+  s_4b27f20836e17c::t_c969b19ee22809 1-102
+test/registered/unit/layers/attention/test_flashattention_verify_draft_headroom.py
+  s_4b27f20836e17c::t_89ed9bc06a8221 1-230
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_4b27f20836e17c::t_e931a149813e72 2310-2312
+test/registered/unit/layers/attention/test_ling_csa_verify_commit.py
+  s_4b27f20836e17c::t_10336cad635d8f 1-500
+test/registered/unit/layers/attention/test_ling_csa_weight_replica.py
+  s_4b27f20836e17c::t_fea6ecdc718f79 1-136
+test/registered/unit/layers/attention/test_ling_prefill_latent_rows.py
+  s_4b27f20836e17c::t_2c4a31a56c452a 1-203
+test/registered/unit/layers/moe/test_clamped_swiglu_semantics.py
+  s_4b27f20836e17c::t_f9522b1eddc3ac 104,110-124
+test/registered/unit/layers/moe/test_fused_shared_expert_scaling.py
+  s_4b27f20836e17c::t_2bb2b894e4cb84 20,87-89,91-93,117,121-246
+test/registered/unit/layers/moe/test_humming_pre_quant_input.py
+  s_4b27f20836e17c::t_aeafc7e1a6ca90 73-141,197
+test/registered/unit/layers/moe/test_ling_compact_owner_rows.py
+  s_4b27f20836e17c::t_0ae150572e0952 1-72
+test/registered/unit/layers/test_attention_residual_parallel.py
+  s_4b27f20836e17c::t_20ce5914079041 60,67-95
+test/registered/unit/layers/test_ling_csa_backends.py
+  s_4b27f20836e17c::t_eb93afa5a82f21 5,40-42,174-212,603
+test/registered/unit/layers/test_ling_csa_math.py
+  s_4b27f20836e17c::t_f6fc4fbfe1a3ba 177-191,195,197,199-205,226-231,233,238-241,244,249,254-255,257-262,265-271,639-641
+test/registered/unit/managers/test_generation_auxiliary_output.py
+  s_4b27f20836e17c::t_df191dc76b6ed7 67-112
+test/registered/unit/model_executor/test_pool_configurator.py
+  s_4b27f20836e17c::t_16a1ba052a9ab5 921-924,946-979
+test/registered/unit/models/test_bailing_mla_idle.py
+  s_4b27f20836e17c::t_a6529d956a9c8a 1-96
+test/registered/unit/models/test_bailing_moe_v3_fp8_ignored.py
+  s_4b27f20836e17c::t_31c75387061fdc 1-200
+test/registered/unit/models/test_bailing_moe_v3_humming_attnres.py
+  s_4b27f20836e17c::t_5a1df0b4223e85 18,144-146,148,150-151,278-282,458-462,508-521,560,563-565,569,578
+test/registered/unit/models/test_bailing_moe_v3_shared_padding.py
+  s_4b27f20836e17c::t_90682b9fc4df08 4,16,18,21,42-106,152,254
+test/registered/unit/models/test_bailing_moe_v3_tp_requant.py
+  s_4b27f20836e17c::t_378d74c463c7d0 17,23-27,32-57,106-125,300-606,716-718,724
+test/registered/unit/models/test_bailing_shared_fp8_blackwell.py
+  s_4b27f20836e17c::t_76d2cafac2649a 1-126
+test/registered/unit/models/test_shared_experts_fusion_gates.py
+  s_4b27f20836e17c::t_1219d2e2db555c 287-384,396-415
+test/registered/unit/spec/test_dspark_csa_commit.py
+  s_4b27f20836e17c::t_eebe994a6cf152 1-116
+test/registered/unit/spec/test_dspark_deepep_layout.py
+  s_4b27f20836e17c::t_a7f96aca309140 1-371
+test/registered/unit/spec/test_dspark_dp_deepep_admission.py
+  s_4b27f20836e17c::t_11b6e34631def1 1-100
+test/registered/unit/spec/test_dspark_static_epilogue_staging.py
+  s_4b27f20836e17c::t_4f497d6bc8b725 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0adf23dd8b4ce74a0f584205357165e4a5627913",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": null
+    }
+  }
+}

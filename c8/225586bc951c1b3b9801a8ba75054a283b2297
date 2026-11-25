@@ -1,0 +1,22 @@
+python/sglang/srt/disaggregation/encoder/receiver.py
+  s_c37cdff1ca50b2::t_6b76875f5504d5 1620-1624,1683-1696,1699-1711
+test/registered/unit/disaggregation/test_encode_receiver.py
+  s_c37cdff1ca50b2::t_fdd5350b67ecbc 3,5,7-8,10,12-18,42-117
+  s_c37cdff1ca50b2::t_0807d2649a3d39 118-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c8225586bc951c1b3b9801a8ba75054a283b2297",
+  "prompts": {},
+  "sessions": {
+    "s_c37cdff1ca50b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17bfc-e257-7830-82ae-1ab6557c7228",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

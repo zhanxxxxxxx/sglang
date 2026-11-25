@@ -1,0 +1,25 @@
+test/registered/unit/managers/test_scheduler_chunked_req_admission.py
+  s_a09ac9d92b3060::t_89b6f24d8ef16f 3
+  s_a09ac9d92b3060::t_4b33d8fc2c2c10 1-2,4-35,40-43,47-81,90-95,99-140,144-150
+  s_a09ac9d92b3060::t_b15dd38f17d801 36-39,96-98
+  s_a09ac9d92b3060::t_4b0a5de442e657 44-46,82-89,141-143
+python/sglang/srt/managers/scheduler.py
+  s_a09ac9d92b3060::t_db03ec5928eeaf 3429-3430
+  s_a09ac9d92b3060::t_eb6798f610c956 3279-3280,3289-3291,3362-3363,3416,3422-3428,3431-3432,3463
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9136a60b62e4c6e66cb54a67268ff172ef4e5a5f",
+  "prompts": {},
+  "sessions": {
+    "s_a09ac9d92b3060": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6fc-8de3-7af1-a9b2-e4865122defe",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

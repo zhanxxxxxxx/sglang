@@ -1,0 +1,51 @@
+python/sglang/srt/eplb/sequence_counts.py
+  s_c34399b1839882::t_a3801e7fb6ab29 250-264
+python/sglang/srt/server_args.py
+  s_c34399b1839882::t_c6592d3deb1003 2136-2138,2988-2990
+python/sglang/srt/managers/tokenizer_manager.py
+  s_c34399b1839882::t_ef25a4a0663204 38,76,247-248,827,1494-1515,1520-1527,1580,1620,2061-2087,2146-2148,2153,2955
+  s_c34399b1839882::t_c6592d3deb1003 856-861,1516-1519,2149-2152,2951-2954
+python/sglang/srt/eplb/expert_distribution.py
+  s_c34399b1839882::t_a3801e7fb6ab29 183-184,189-195,202,210,225,228-234,237,251
+  s_c34399b1839882::t_c0ba3573f45682 185-186
+  s_c34399b1839882::t_c6592d3deb1003 98-101,226-227
+  s_c34399b1839882::t_ef25a4a0663204 187-188
+python/sglang/srt/managers/tokenizer_control_mixin.py
+  s_c34399b1839882::t_c2c1fe63b5a545 542-545
+docs/asystem/eplb_sequence_recorder.md
+  s_c34399b1839882::t_c5901f40b540a1 73-97
+python/sglang/srt/managers/io_struct.py
+  s_c34399b1839882::t_a3801e7fb6ab29 2252-2260
+  s_c34399b1839882::t_c0ba3573f45682 1118-1119
+  s_c34399b1839882::t_6d03a3f8c1d05e 1120,2261-2262
+python/sglang/srt/eplb/online_sequence_counts.py
+  s_c34399b1839882::t_d8749f7fcecfee 1-9,11-13,15-52,54-55,57-100,102-165
+  s_c34399b1839882::t_5e44ca18ff8647 10,14,53,56,101
+python/sglang/srt/managers/multi_tokenizer_mixin.py
+  s_c34399b1839882::t_a3801e7fb6ab29 593
+  s_c34399b1839882::t_c6592d3deb1003 52
+python/sglang/srt/managers/schedule_batch.py
+  s_c34399b1839882::t_a3801e7fb6ab29 1140-1142,2190,3413
+python/sglang/srt/managers/scheduler.py
+  s_c34399b1839882::t_a3801e7fb6ab29 169,511-514,1926-1927,2588,4028-4031,4122-4125,4141-4142,5103-5128
+  s_c34399b1839882::t_d8749f7fcecfee 275
+  s_c34399b1839882::t_f269ee8161242e 5129
+test/manual/eplb/test_online_sequence_counts.py
+  s_c34399b1839882::t_270b311afe9d39 1-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "02c8de7e0d896d18494cae37ebcf58b2c1afd330",
+  "prompts": {},
+  "sessions": {
+    "s_c34399b1839882": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2086d-382b-73d0-b1f8-53fcfbb198d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "淳肇 <syb544241@antgroup.com>"
+    }
+  }
+}

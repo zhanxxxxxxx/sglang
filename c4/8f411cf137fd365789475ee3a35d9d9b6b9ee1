@@ -1,0 +1,22 @@
+test/registered/unit/mem_cache/test_unified_hicache_policy.py
+  s_f3e5574164d7e0::t_b561793592d328 1313-1347
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  s_f3e5574164d7e0::t_319e4461473bdd 558,2692-2694,2701,2707,2760-2761,2776,2781-2782,2879,2885,2894,2898-2900,2903,2907
+  s_f3e5574164d7e0::t_dd185b0e950712 2762-2768,2887-2891,2893,2895-2897,2901-2902,2904
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c48f411cf137fd365789475ee3a35d9d9b6b9ee1",
+  "prompts": {},
+  "sessions": {
+    "s_f3e5574164d7e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c4-8d75-7423-b120-06b39fb141e7",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
