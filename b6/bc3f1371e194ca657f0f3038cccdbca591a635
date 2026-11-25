@@ -1,0 +1,30 @@
+python/sglang/srt/layers/bailing_kda_physical_geometry.py
+  s_28365f39610187::t_9b233b4350e5aa 89
+python/sglang/srt/layers/bailing_kda_stream_ticket.py
+  s_28365f39610187::t_9b233b4350e5aa 111
+test/registered/spec/dspark/test_dspark_kda_ar_parity.py
+  s_28365f39610187::t_5990cc6dbfbce1 37,56,62-64,85-90,93,99,105,108
+  s_28365f39610187::t_9b233b4350e5aa 36
+python/sglang/srt/layers/bailing_kda_packed_replay.py
+  s_28365f39610187::t_9b233b4350e5aa 11-21,28-30,36-37,39-41,44,50-51
+python/sglang/srt/layers/bailing_kda_stream_policy.py
+  s_28365f39610187::t_9b233b4350e5aa 113,136
+dspark/ar-parity/README.md
+  s_28365f39610187::t_dc4849c3e81f34 35,43-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b6bc3f1371e194ca657f0f3038cccdbca591a635",
+  "prompts": {},
+  "sessions": {
+    "s_28365f39610187": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edb5-a371-7110-b25c-06db92dc779e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

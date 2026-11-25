@@ -1,0 +1,90 @@
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_f252eadf5e9832 282-289
+  s_fe92d796c96f00::t_dce361dea5cab4 30
+python/sglang/kernels/ops/moe/dsv4_dp_route.py
+  h_f252eadf5e9832 1-47
+python/sglang/srt/runtime_context.py
+  h_f252eadf5e9832 722,746
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  h_f252eadf5e9832 1168,1495-1498,1503-1506
+  s_fe92d796c96f00::t_6076de2bb169bf 1499
+  s_fe92d796c96f00::t_31c2a8312bdf6d 1500-1502
+python/sglang/srt/model_executor/forward_batch_info.py
+  h_f252eadf5e9832 613-614,1749-1758
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_f252eadf5e9832 43,907-912
+python/sglang/srt/models/deepseek_v4.py
+  h_f252eadf5e9832 4071-4080
+  h_f252eadf5e9832 4064-4068,4070,4081-4091
+test/registered/kernel/moe/test_dsv4_dp_route.py
+  h_f252eadf5e9832 1-168,170-173,174-193
+  s_fe92d796c96f00::t_6076de2bb169bf 169
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  h_f252eadf5e9832 124,265
+python/sglang/srt/arg_groups/deepseek_v4_hook.py
+  h_f252eadf5e9832 107-109,204-206,212-214,252,254-256,321-326
+python/sglang/srt/layers/attention/deepseek_v4_backend.py
+  h_f252eadf5e9832 1516-1520,1522,1524-1525
+  s_fe92d796c96f00::t_7ddf78c8df8f78 3503-3505
+python/sglang/srt/model_executor/pool_configurator.py
+  h_f252eadf5e9832 712-714,1332-1333,1335-1336,1763-1765,1830-1832
+python/sglang/srt/mem_cache/dsv41_swa_snapshot_runtime.py
+  h_f252eadf5e9832 27,33,265,460-466
+test/registered/unit/mem_cache/_dsv41_pool_fixture.py
+  h_f252eadf5e9832 4-5,7,12,16-39,42-50,52-70
+test/registered/unit/mem_cache/test_dsv41_full_snapshot_runtime.py
+  h_f252eadf5e9832 239-242
+test/registered/unit/mem_cache/test_dsv41_request_window_pd_registration.py
+  h_f252eadf5e9832 148-173
+test/registered/unit/mem_cache/test_dsv41_snapshot_execution.py
+  h_f252eadf5e9832 149-152
+python/sglang/srt/speculative/dspark_components/dspark_kv_inject.py
+  s_fe92d796c96f00::t_e6207ade1375be 58-62,300-310
+test/registered/unit/mem_cache/test_dsv41_dspark_prefill_placement.py
+  s_fe92d796c96f00::t_e6207ade1375be 1-13,17-21,24-28,30-140
+  s_fe92d796c96f00::t_19986b36a0e9e9 22-23
+  s_fe92d796c96f00::t_39d209b9b063a5 14-16
+test/registered/unit/layers/test_dsv41_ring_sparse_prefill.py
+  s_fe92d796c96f00::t_7ddf78c8df8f78 9,97,144,157-160,164-166,221-222
+  s_fe92d796c96f00::t_b19c633c78dc7f 223-224
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_fe92d796c96f00::t_1eed9c2d1179a5 941-948,953-954
+  s_fe92d796c96f00::t_615590053cd35f 955-956
+test/registered/unit/layers/test_dsv41_dspark_prefill_once.py
+  s_fe92d796c96f00::t_39d209b9b063a5 12-14
+  s_fe92d796c96f00::t_1eed9c2d1179a5 1-11,15-115
+  s_fe92d796c96f00::t_76bdedaf8ffa90 116-118
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  s_fe92d796c96f00::t_ad84d050f152e6 997-1012
+test/registered/unit/mem_cache/test_dsv41_full_endpoint.py
+  s_fe92d796c96f00::t_ad84d050f152e6 1-98
+  s_fe92d796c96f00::t_fab4a6eeadd0c0 99-100
+test/registered/unit/managers/test_dsv41_encoder_chunk_admission.py
+  s_fe92d796c96f00::t_739011fa23731b 1-134
+python/sglang/srt/managers/schedule_policy.py
+  s_fe92d796c96f00::t_6076de2bb169bf 1461-1464,1514-1518,1520-1523,1529-1537,1742-1745
+  s_fe92d796c96f00::t_d026c4a97e61a7 1746
+test/registered/unit/mem_cache/test_dsv41_replay_admission.py
+  s_fe92d796c96f00::t_6076de2bb169bf 51,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "16e76551c81baaf1c7d791d905856c23d1116235",
+  "prompts": {},
+  "humans": {
+    "h_f252eadf5e9832": {
+      "author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_fe92d796c96f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11fd0-7604-7e63-8f3a-672d65ca5072",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

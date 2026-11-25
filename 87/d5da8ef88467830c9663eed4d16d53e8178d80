@@ -1,0 +1,57 @@
+python/sglang/srt/rust_server/multimodal.py
+  s_e264e4a97219bf::t_f23b70094e99b1 21,24-29,52,273-274,310-317,323-335,351,353
+  s_e264e4a97219bf::t_54aa2dd1d417ef 22-23,256-257,259-267,292-293,318-322
+  s_e264e4a97219bf::t_a04003029e8eda 307-309
+test/registered/kernels/ops/quantization/test_per_tensor_quant_fp8.py
+  s_e264e4a97219bf::t_9a46004ccdaf01 9,103-112,116
+  s_e264e4a97219bf::t_a04003029e8eda 113-115
+  s_e264e4a97219bf::t_13cab44871b5fb 117-118
+python/sglang/srt/debug_utils/dumper.py
+  s_e264e4a97219bf::t_4c8a08fc15eb89 1252
+python/sglang/srt/debug_utils/dump_comparator.py
+  s_e264e4a97219bf::t_4c8a08fc15eb89 247
+test/registered/unit/layers/moe/test_clamped_swiglu_semantics.py
+  s_e264e4a97219bf::t_26b57034c1ea52 4,19-22,129,131,134-135,140-146,148-149
+test/registered/debug_utils/test_dump_comparator.py
+  s_e264e4a97219bf::t_36bf1c7c476a5d 10,25-32
+python/sglang/srt/rust_server/server.py
+  s_e264e4a97219bf::t_f23b70094e99b1 1221
+rust/sglang-mm/src/qwen_vl/mod.rs
+  s_e264e4a97219bf::t_54b72dea8a09fa 10-11,41-83,204-208,218,221,612
+rust/sglang-processor/Cargo.toml
+  s_e264e4a97219bf::t_54b72dea8a09fa 11,28
+python/sglang/kernels/ops/quantization/fp8_kernel.py
+  s_e264e4a97219bf::t_21ffed46ff1b93 1133,1191,1199,1201,1203-1205,1209,1211,1218,1220,1237,1245-1246,1250,1258
+rust/sglang-server/src/message/config.rs
+  s_e264e4a97219bf::t_68ad4ffffd1d1f 988-996,1017,1032,1036,1051-1059
+rust/sglang-processor/tests/fixtures/mm_parity/qwen2.5-vl-3b-instruct.json
+  s_e264e4a97219bf::t_19f92983225602 6
+python/sglang/srt/models/bailing_moe_v3.py
+  s_e264e4a97219bf::t_4f20142bf2f6a9 442-455,1461-1462
+  s_e264e4a97219bf::t_a04003029e8eda 1463-1465
+rust/sglang-processor/src/mm/mod.rs
+  s_e264e4a97219bf::t_54b72dea8a09fa 3-4,11,18-24,29,54,60,62,110-115
+python/sglang/srt/multimodal/processors/qwen_vl.py
+  s_e264e4a97219bf::t_8495fea82ad11e 60-61,238-255,539-540,574-577,586
+  s_e264e4a97219bf::t_f23b70094e99b1 587-588
+rust/sglang-processor/tests/mm_parity.rs
+  s_e264e4a97219bf::t_54b72dea8a09fa 11,50
+rust/sglang-processor/src/lib.rs
+  s_e264e4a97219bf::t_54b72dea8a09fa 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "87d5da8ef88467830c9663eed4d16d53e8178d80",
+  "prompts": {},
+  "sessions": {
+    "s_e264e4a97219bf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbc9-73eb-70a1-81c8-13f6c4717766",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

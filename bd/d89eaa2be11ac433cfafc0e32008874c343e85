@@ -1,0 +1,38 @@
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_3fa9616c55a5c8::t_cb77fe30dd84f7 44-45,48,193,397-400,463
+python/sglang/srt/sampling/sampling_batch_info.py
+  s_3fa9616c55a5c8::t_1add43beed9ab8 89-93,135
+test/registered/unit/layers/attention/test_kda_helion_dispatcher.py
+  s_3fa9616c55a5c8::t_cb77fe30dd84f7 17-25
+python/sglang/srt/server_args.py
+  s_3fa9616c55a5c8::t_cb77fe30dd84f7 3209-3214,7152-7162
+  s_3fa9616c55a5c8::t_1add43beed9ab8 4083-4088,9126-9132
+python/sglang/srt/managers/tokenizer_manager.py
+  s_3fa9616c55a5c8::t_1add43beed9ab8 1521,1524-1525,1533
+  s_3fa9616c55a5c8::t_c14cb373d4742f 1528,1530-1532
+test/registered/unit/test_dspark_seed_contract.py
+  s_3fa9616c55a5c8::t_1add43beed9ab8 17,26-27,32-33,67-79
+  s_3fa9616c55a5c8::t_c14cb373d4742f 18-25
+  s_3fa9616c55a5c8::t_13f34a780b350b 80
+python/sglang/srt/sampling/dspark_seed_contract.py
+  s_3fa9616c55a5c8::t_1add43beed9ab8 1,11,17-18,21-29,31
+test/registered/unit/sampling/test_sampling_batch_info.py
+  s_3fa9616c55a5c8::t_c14cb373d4742f 461,465-468
+  s_3fa9616c55a5c8::t_cb77fe30dd84f7 559-570
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bdd89eaa2be11ac433cfafc0e32008874c343e85",
+  "prompts": {},
+  "sessions": {
+    "s_3fa9616c55a5c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f4af-f26d-7671-a22e-a88a4066c34b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}

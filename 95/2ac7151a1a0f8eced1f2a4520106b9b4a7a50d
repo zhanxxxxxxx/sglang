@@ -1,0 +1,212 @@
+KV_CACHE_PROGRESS.md
+  h_a3dc1d2ad8ed2d 1-576
+docs/request_snapshot_api.md
+  h_a3dc1d2ad8ed2d 1-316
+docs/request_snapshot_observability.md
+  h_a3dc1d2ad8ed2d 1-46
+docs/request_snapshot_pause_observation.md
+  h_a3dc1d2ad8ed2d 1-39
+python/sglang/srt/eplb/eplb_manager.py
+  h_a3dc1d2ad8ed2d 158-181
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  h_a3dc1d2ad8ed2d 138-166
+python/sglang/srt/managers/communicator.py
+  h_a3dc1d2ad8ed2d 8-9,40-42,46,52-55,57-63,65-66,71-72,78-118,151-152
+python/sglang/srt/managers/control_manager.py
+  h_a3dc1d2ad8ed2d 29-39,45-53
+python/sglang/srt/managers/data_parallel_controller.py
+  h_a3dc1d2ad8ed2d 145-146,159-161,751-765,777,794,811,817,826,830-831
+python/sglang/srt/managers/io_struct.py
+  h_a3dc1d2ad8ed2d 2415,2432
+python/sglang/srt/managers/performance_observation.py
+  h_a3dc1d2ad8ed2d 1-200
+python/sglang/srt/managers/scheduler.py
+  h_a3dc1d2ad8ed2d 200-201,1694-1697,1934-1940,1952-1953,2443-2444,2763-2765,2814,3113-3118,3786,3794-3796,4112,4119-4121,4143-4146,5027,5034-5059,5086-5095,5107
+python/sglang/srt/managers/scheduler_components/output_streamer.py
+  h_a3dc1d2ad8ed2d 175-179,181
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  h_a3dc1d2ad8ed2d 32-33,139-142
+python/sglang/srt/managers/scheduler_components/weight_updater.py
+  h_a3dc1d2ad8ed2d 7,49,339-355,373,428-436,499,527-538,560-566
+python/sglang/srt/managers/snapshot_control_body.py
+  h_a3dc1d2ad8ed2d 1-234
+python/sglang/srt/managers/snapshot_restore_body.py
+  h_a3dc1d2ad8ed2d 1-232
+python/sglang/srt/managers/snapshot_restore_observation.py
+  h_a3dc1d2ad8ed2d 1-120
+python/sglang/srt/managers/tokenizer_control_mixin.py
+  h_a3dc1d2ad8ed2d 147,168,216-222,250,261-263,280,287,294,296-301
+python/sglang/srt/mem_cache/common.py
+  h_a3dc1d2ad8ed2d 239-243
+python/sglang/srt/mem_cache/mamba_radix_cache.py
+  h_a3dc1d2ad8ed2d 382,387,415,417-418,420-421,487-489,504-506,533-537,595-637,642-651,778-780,1098-1105,1207,1230-1231
+python/sglang/srt/mem_cache/memory_pool.py
+  h_a3dc1d2ad8ed2d 36-37,1008,1010-1011,1029-1030,1032-1033,4317,4319-4320,4331-4332
+python/sglang/srt/mem_cache/request_snapshot.py
+  h_a3dc1d2ad8ed2d 1-1902
+python/sglang/srt/mem_cache/snapshot_astate_tensor.py
+  h_a3dc1d2ad8ed2d 1-826
+python/sglang/srt/mem_cache/snapshot_backend_runtime.py
+  h_a3dc1d2ad8ed2d 1-176
+python/sglang/srt/mem_cache/snapshot_blob.py
+  h_a3dc1d2ad8ed2d 1-104
+python/sglang/srt/mem_cache/snapshot_cache_access.py
+  h_a3dc1d2ad8ed2d 1-214
+python/sglang/srt/mem_cache/snapshot_carry_history.py
+  h_a3dc1d2ad8ed2d 1-87
+python/sglang/srt/mem_cache/snapshot_content_scope.py
+  h_a3dc1d2ad8ed2d 1-196
+python/sglang/srt/mem_cache/snapshot_deferred_resume.py
+  h_a3dc1d2ad8ed2d 1-45
+python/sglang/srt/mem_cache/snapshot_dp_affinity.py
+  h_a3dc1d2ad8ed2d 1-347
+python/sglang/srt/mem_cache/snapshot_dp_capture.py
+  h_a3dc1d2ad8ed2d 1-102
+python/sglang/srt/mem_cache/snapshot_dp_import.py
+  h_a3dc1d2ad8ed2d 1-154
+python/sglang/srt/mem_cache/snapshot_dp_retirement.py
+  h_a3dc1d2ad8ed2d 1-266
+python/sglang/srt/mem_cache/snapshot_dp_terminal.py
+  h_a3dc1d2ad8ed2d 1-255
+python/sglang/srt/mem_cache/snapshot_first_output.py
+  h_a3dc1d2ad8ed2d 1-159
+python/sglang/srt/mem_cache/snapshot_group_import.py
+  h_a3dc1d2ad8ed2d 1-109
+python/sglang/srt/mem_cache/snapshot_group_protocol.py
+  h_a3dc1d2ad8ed2d 1-262
+python/sglang/srt/mem_cache/snapshot_live_transfer.py
+  h_a3dc1d2ad8ed2d 1-175
+python/sglang/srt/mem_cache/snapshot_loaded_content.py
+  h_a3dc1d2ad8ed2d 1-1358
+python/sglang/srt/mem_cache/snapshot_loaded_tensors.py
+  h_a3dc1d2ad8ed2d 1-169
+python/sglang/srt/mem_cache/snapshot_native_identity.py
+  h_a3dc1d2ad8ed2d 1-32
+python/sglang/srt/mem_cache/snapshot_native_import.py
+  h_a3dc1d2ad8ed2d 1-526
+python/sglang/srt/mem_cache/snapshot_observation.py
+  h_a3dc1d2ad8ed2d 1-512
+python/sglang/srt/mem_cache/snapshot_planned_carry_history.py
+  h_a3dc1d2ad8ed2d 1-113
+python/sglang/srt/mem_cache/snapshot_reader_values.py
+  h_a3dc1d2ad8ed2d 1-111
+python/sglang/srt/mem_cache/snapshot_tensor_blob.py
+  h_a3dc1d2ad8ed2d 1-265
+python/sglang/srt/mem_cache/snapshot_training_publication.py
+  h_a3dc1d2ad8ed2d 1-413
+python/sglang/srt/mem_cache/unified_cache/components/mamba_component.py
+  h_a3dc1d2ad8ed2d 638-640
+python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
+  h_a3dc1d2ad8ed2d 644,708-709
+python/sglang/srt/mem_cache/unified_radix_cache.py
+  h_a3dc1d2ad8ed2d 304-306,308-309,437-439,670-679,2492-2494
+python/sglang/srt/model_executor/model_runner.py
+  h_a3dc1d2ad8ed2d 22-23,36,1039-1041,1043-1045,1047-1057,1087,1139,1296,1301,1309,1734-1747,1752,1941
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  h_a3dc1d2ad8ed2d 270,308-310,325-336
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  h_a3dc1d2ad8ed2d 168-175,177-179,182-184,186-189,191-194,196-199,201,203-235,238-249,268-277,279-282,284-289,291-302,304-305,307-314,355-367,369-386,422-427,429-432,434-442
+python/sglang/srt/model_loader/loader.py
+  h_a3dc1d2ad8ed2d 612-617,677-678,690-691,711-713,1026-1027,1035,1075,1094-1105
+test/registered/unit/layers/moe/test_standard_dispatcher_mapping.py
+  h_a3dc1d2ad8ed2d 1-45
+test/registered/unit/managers/test_output_streamer_customized_info.py
+  h_a3dc1d2ad8ed2d 3-7,13,102-136
+test/registered/unit/mem_cache/test_performance_observation.py
+  h_a3dc1d2ad8ed2d 1-294
+test/registered/unit/mem_cache/test_request_snapshot.py
+  h_a3dc1d2ad8ed2d 1-796
+test/registered/unit/mem_cache/test_request_snapshot_arm_batch.py
+  h_a3dc1d2ad8ed2d 1-366
+test/registered/unit/mem_cache/test_request_snapshot_carry.py
+  h_a3dc1d2ad8ed2d 1-192
+test/registered/unit/mem_cache/test_request_snapshot_dp_nextn.py
+  h_a3dc1d2ad8ed2d 1-142
+test/registered/unit/mem_cache/test_request_snapshot_rpc_observation.py
+  h_a3dc1d2ad8ed2d 1-123
+test/registered/unit/mem_cache/test_request_snapshot_task_copy.py
+  h_a3dc1d2ad8ed2d 1-105
+test/registered/unit/mem_cache/test_request_snapshot_token_stops.py
+  h_a3dc1d2ad8ed2d 1-128
+test/registered/unit/mem_cache/test_snapshot_astate_tensor.py
+  h_a3dc1d2ad8ed2d 1-925
+test/registered/unit/mem_cache/test_snapshot_astate_tensor_processes.py
+  h_a3dc1d2ad8ed2d 1-178
+test/registered/unit/mem_cache/test_snapshot_blob.py
+  h_a3dc1d2ad8ed2d 1-353
+test/registered/unit/mem_cache/test_snapshot_bootstrap_publication_history.py
+  h_a3dc1d2ad8ed2d 1-38
+test/registered/unit/mem_cache/test_snapshot_carry_history.py
+  h_a3dc1d2ad8ed2d 1-253
+test/registered/unit/mem_cache/test_snapshot_completed_forward.py
+  h_a3dc1d2ad8ed2d 1-89
+test/registered/unit/mem_cache/test_snapshot_control_body.py
+  h_a3dc1d2ad8ed2d 1-404
+test/registered/unit/mem_cache/test_snapshot_deferred_resume.py
+  h_a3dc1d2ad8ed2d 1-96
+test/registered/unit/mem_cache/test_snapshot_dp_affinity.py
+  h_a3dc1d2ad8ed2d 1-292
+test/registered/unit/mem_cache/test_snapshot_dp_retirement.py
+  h_a3dc1d2ad8ed2d 1-106
+test/registered/unit/mem_cache/test_snapshot_dp_terminal.py
+  h_a3dc1d2ad8ed2d 1-176
+test/registered/unit/mem_cache/test_snapshot_first_output.py
+  h_a3dc1d2ad8ed2d 1-143
+test/registered/unit/mem_cache/test_snapshot_group_content_scope.py
+  h_a3dc1d2ad8ed2d 1-85
+test/registered/unit/mem_cache/test_snapshot_group_import.py
+  h_a3dc1d2ad8ed2d 1-94
+test/registered/unit/mem_cache/test_snapshot_group_protocol.py
+  h_a3dc1d2ad8ed2d 1-186
+test/registered/unit/mem_cache/test_snapshot_live_transfer.py
+  h_a3dc1d2ad8ed2d 1-403
+test/registered/unit/mem_cache/test_snapshot_loaded_content.py
+  h_a3dc1d2ad8ed2d 1-1513
+test/registered/unit/mem_cache/test_snapshot_loaded_tensors.py
+  h_a3dc1d2ad8ed2d 1-308
+test/registered/unit/mem_cache/test_snapshot_memory_mtp.py
+  h_a3dc1d2ad8ed2d 1-71
+test/registered/unit/mem_cache/test_snapshot_model_context.py
+  h_a3dc1d2ad8ed2d 1-43
+test/registered/unit/mem_cache/test_snapshot_native_identity.py
+  h_a3dc1d2ad8ed2d 1-54
+test/registered/unit/mem_cache/test_snapshot_native_import.py
+  h_a3dc1d2ad8ed2d 1-494
+test/registered/unit/mem_cache/test_snapshot_owned_allrank_metrics.py
+  h_a3dc1d2ad8ed2d 1-100
+test/registered/unit/mem_cache/test_snapshot_planned_carry_history.py
+  h_a3dc1d2ad8ed2d 1-66
+test/registered/unit/mem_cache/test_snapshot_prefix_merge.py
+  h_a3dc1d2ad8ed2d 1-281
+test/registered/unit/mem_cache/test_snapshot_reader_values.py
+  h_a3dc1d2ad8ed2d 1-47
+test/registered/unit/mem_cache/test_snapshot_restore_body.py
+  h_a3dc1d2ad8ed2d 1-352
+test/registered/unit/mem_cache/test_snapshot_restore_observation.py
+  h_a3dc1d2ad8ed2d 1-202
+test/registered/unit/mem_cache/test_snapshot_restore_send.py
+  h_a3dc1d2ad8ed2d 1-138
+test/registered/unit/mem_cache/test_snapshot_tensor_blob.py
+  h_a3dc1d2ad8ed2d 1-367
+test/registered/unit/mem_cache/test_snapshot_training_publication.py
+  h_a3dc1d2ad8ed2d 1-639
+test/registered/unit/mem_cache/test_unified_request_snapshot.py
+  h_a3dc1d2ad8ed2d 1-563
+test/registered/unit/model_loader/test_memory_saver_weight_loading.py
+  h_a3dc1d2ad8ed2d 1-52
+test/registered/unit/spec/test_draft_extend_sampling_rows.py
+  h_a3dc1d2ad8ed2d 1-129
+test/registered/unit/spec/test_mamba_deferred_initialization.py
+  h_a3dc1d2ad8ed2d 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "952ac7151a1a0f8eced1f2a4520106b9b4a7a50d",
+  "prompts": {},
+  "humans": {
+    "h_a3dc1d2ad8ed2d": {
+      "author": "昭翰 <xuyongzhi.xyz@antgroup.com>"
+    }
+  }
+}

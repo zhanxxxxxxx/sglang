@@ -1,0 +1,23 @@
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  s_79b48bb8991e86::t_98002e8fcb996f 1798-1805,1838-1842
+python/sglang/srt/environ.py
+  s_79b48bb8991e86::t_e6fae2b12a7620 941-947
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  s_79b48bb8991e86::t_6fd4f4ba8529a8 2678-2710
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba0b2e827a901071de580828680fbe3400ca9551",
+  "prompts": {},
+  "sessions": {
+    "s_79b48bb8991e86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_79b48bb8991e86",
+        "model": "unknown"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

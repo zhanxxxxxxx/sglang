@@ -1,0 +1,22 @@
+test/registered/unit/disaggregation/test_receiver_connection_pool.py
+  s_6814b9b1896915::t_753827ad337dce 197,259
+test/registered/unit/disaggregation/test_prefill_abort_result_cleanup.py
+  s_6814b9b1896915::t_753827ad337dce 215-217
+  s_6814b9b1896915::t_d6f3cd23e97319 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "db840369c20835980e53b48aca373d17d28ee133",
+  "prompts": {},
+  "sessions": {
+    "s_6814b9b1896915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a124-ef57-7a00-8ba1-9c0d7bba1d65",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "蓬宇 <guanxiangtian.gxt@antgroup.com>"
+    }
+  }
+}

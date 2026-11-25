@@ -1,0 +1,22 @@
+python/sglang/srt/environ.py
+  s_5fc677a9fc7c1d::t_9277ede6851ce7 2104-2106
+python/sglang/srt/layers/moe/mega_moe.py
+  s_5fc677a9fc7c1d::t_9277ede6851ce7 149-217,226-237
+  s_5fc677a9fc7c1d::t_d660007c298e91 238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7e5555f213e4ff65a2dca434a3a5b2b9c81ca51d",
+  "prompts": {},
+  "sessions": {
+    "s_5fc677a9fc7c1d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1c7-a6ed-75c0-992c-5b6523e6623c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "昶知 <eric.hc@antgroup.com>"
+    }
+  }
+}

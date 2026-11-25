@@ -1,0 +1,14 @@
+python/sglang/srt/managers/scheduler_components/dp_attn.py
+  h_1d635ecd767a49 274-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c4254cac895eee78839245040adaad6f5009d502",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

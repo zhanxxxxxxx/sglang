@@ -1,0 +1,19 @@
+test/registered/unit/managers/test_data_parallel_controller.py
+  s_b14c5864faf74b::t_b305fa6e4dadfd 467-478
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9ec986ec4dd8c912a99d574137dfabdaf0a9ff2c",
+  "prompts": {},
+  "sessions": {
+    "s_b14c5864faf74b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f2d80beb-b1f7-4844-b010-4d95995c96b0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

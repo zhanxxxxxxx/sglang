@@ -1,0 +1,25 @@
+python/sglang/srt/managers/cache_controller.py
+  s_44844fb1f654af::t_93906f4343d4d4 429,1204,1208-1210
+  s_44844fb1f654af::t_d49c6c75d83999 1211
+test/registered/unit/mem_cache/test_hicache_staged_write_back_dispatch.py
+  s_44844fb1f654af::t_4e122628857ea9 200-214,226-235,239-247,253-263
+  s_44844fb1f654af::t_1a2b017744f74a 236-238,248-252
+  s_44844fb1f654af::t_93906f4343d4d4 296
+  s_44844fb1f654af::t_1d35f8c128cd01 264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "910b9ff1f53622dacf82e23e15217e5fa7945778",
+  "prompts": {},
+  "sessions": {
+    "s_44844fb1f654af": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e616-8328-7bf3-8422-847402f4f61f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

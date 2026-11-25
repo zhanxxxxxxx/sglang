@@ -1,0 +1,20 @@
+test/registered/unit/layers/moe/test_moe_fused_mul_sum_output_add.py
+  s_3ecbe0b51c544b::t_07b2d5c42a7f41 39
+  s_3ecbe0b51c544b::t_14f88201dffb51 29-38,40-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c40c4ce5a7c0f8af1f93158e9726cb2f3fd6a87a",
+  "prompts": {},
+  "sessions": {
+    "s_3ecbe0b51c544b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7d3-fc8e-7431-9fd6-a03f573b0745",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}

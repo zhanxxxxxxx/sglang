@@ -1,0 +1,21 @@
+python/sglang/srt/managers/scheduler.py
+  s_a35fd2e463fa82::t_e194dbccc3667b 74,5896-5898
+python/sglang/srt/mem_cache/deepseek_v4_memory_pool.py
+  s_a35fd2e463fa82::t_e194dbccc3667b 1222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "40e5336059ad8ce28df9eb497fbc828d637bca42",
+  "prompts": {},
+  "sessions": {
+    "s_a35fd2e463fa82": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d41d-238a-7bb0-882f-65c64cb1fff5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuyongfei.xyf <xuyongfei.xyf@antgroup.com>"
+    }
+  }
+}

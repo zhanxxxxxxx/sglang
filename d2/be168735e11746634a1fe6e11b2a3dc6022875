@@ -1,0 +1,278 @@
+python/sglang/srt/layers/rotary_embedding/rope_variant.py
+  s_52893c8a816811::t_c52d3548f19848 21-22,362-363,377-385
+test/registered/unit/configs/test_ling_video_yarn.py
+  s_52893c8a816811::t_c52d3548f19848 1-471
+python/sglang/srt/distributed/parallel_state.py
+  s_52893c8a816811::t_c52d3548f19848 274,297,463-478,1862-1864,1921,1949,2481-2485,2611
+  s_52893c8a816811::t_5beebc97805eaa 2741
+python/sglang/srt/model_executor/model_runner_components/weight_updater.py
+  s_52893c8a816811::t_c52d3548f19848 141-150,160,255,345,405
+test/registered/unit/layers/test_ling_csa_backends.py
+  s_52893c8a816811::t_c52d3548f19848 430
+python/sglang/srt/entrypoints/openai/serving_completions.py
+  s_52893c8a816811::t_c52d3548f19848 103-106
+test/registered/unit/managers/test_logprob_start_len_validation.py
+  s_52893c8a816811::t_c52d3548f19848 1-230
+python/sglang/kernels/ops/moe/ling_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-98
+test/registered/kernels/benchmark/moe/bench_ling_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-70
+python/sglang/srt/distributed/device_communicators/pynccl.py
+  s_52893c8a816811::t_c52d3548f19848 38,49,53,117,119-124,128,327-328,334-337,359-361,363-401
+python/sglang/srt/model_executor/model_runner_components/load_model_utils.py
+  s_52893c8a816811::t_c52d3548f19848 22,324-351
+python/sglang/kernels/ops/communication/__init__.py
+  s_52893c8a816811::t_c52d3548f19848 1,3-16
+python/sglang/kernels/ops/attention/ling_csa_select.py
+  s_52893c8a816811::t_c52d3548f19848 38-49,171,177-188,210,236,239-241,349-427,449,469,475-482,484-486,513,517-520,561-562,577-579,599-659,682,693-695,697,714-715,718-721,724-725,729-733,763-764,775,788,807
+python/sglang/srt/models/bailing_moe_v3.py
+  s_52893c8a816811::t_c52d3548f19848 47-50,101-106,273,275,762-769,1194-1195,1199-1206,1211-1213,1236,1244-1280,1305-1310,1312,1317-1319,1321-1332,1337-1349,1357,1365-1367,1787,1798-1800,1807-1822,1872-1878,1904,1926-1930,1950-1974,2123-2124,2211-2318,2365-2396,2493,2516-2518,2537-2539
+  s_52893c8a816811::t_73f97813204b0b 1311,1350
+benchmark/kernels/ling_csa/bench_id_map.py
+  s_52893c8a816811::t_c52d3548f19848 1-107
+test/registered/unit/distributed/test_pynccl_lifecycle.py
+  s_52893c8a816811::t_c52d3548f19848 1-111
+test/registered/unit/entrypoints/openai/test_protocol.py
+  s_52893c8a816811::t_c52d3548f19848 16,88-143
+python/sglang/srt/layers/attention/linear/kernels/kda_cutedsl.py
+  s_52893c8a816811::t_c52d3548f19848 17,21,28-32,35,39,58,94,96-103,106-107,109-114,116-121
+test/registered/unit/model_loader/test_safetensors_range_loader.py
+  s_52893c8a816811::t_c52d3548f19848 1-200
+test/registered/unit/layers/moe/test_ling_compact_owner_rows.py
+  s_52893c8a816811::t_c52d3548f19848 1-72
+test/registered/kernels/ops/moe/test_humming_pre_quant_input.py
+  s_52893c8a816811::t_c52d3548f19848 1-273
+benchmark/ling_owner_route/capture.py
+  s_52893c8a816811::t_c52d3548f19848 1-55
+test/registered/kernels/ops/moe/test_humming_powlu_fp8_quant.py
+  s_52893c8a816811::t_c52d3548f19848 1-199
+python/sglang/srt/configs/bailing_hybrid.py
+  s_52893c8a816811::t_c52d3548f19848 23,213,253,345-346,442-443,445,450,452,458-496
+python/sglang/srt/layers/attention/linear/kda_backend.py
+  s_52893c8a816811::t_c52d3548f19848 198-202,208,261-263,335-340
+python/sglang/srt/layers/quantization/mxfp8_block_convert.py
+  s_52893c8a816811::t_c52d3548f19848 23-25
+python/sglang/srt/managers/tokenizer_manager.py
+  s_52893c8a816811::t_c52d3548f19848 1441,1513-1542
+  s_52893c8a816811::t_03de67235dcdb0 1543
+test/registered/kernels/ops/attention/test_ling_video_yarn.py
+  s_52893c8a816811::t_c52d3548f19848 1-306
+python/sglang/kernels/ops/moe/moe_align_small_numel.py
+  s_52893c8a816811::t_c52d3548f19848 23,29,33-35,65-68,88-101,103-115,117-127,135-172,180,194,198-200,203-206,208-209,213-274
+python/sglang/srt/model_loader/loader.py
+  s_52893c8a816811::t_c52d3548f19848 392-395,413-432,577,601-605,616-652,773-796,802
+test/registered/kernels/ops/moe/test_humming_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-181
+python/sglang/kernels/ops/attention/linear/kda_blackwell/kernel_h.py
+  s_52893c8a816811::t_c52d3548f19848 50,62,212-215,251-257,262-264,266,299-301,320-326,339-345,366-372,385-391,418-422,424-433,473-475,482,500-504,519-522,538-543,546-548,554,571-576,586-588,591,628-638,640-646,670-678,699,720,729-730,748-750,784,807-809
+benchmark/kernels/ling_csa/bench_score_select.py
+  s_52893c8a816811::t_c52d3548f19848 1-194
+test/registered/kernels/test_attention_residual.py
+  s_52893c8a816811::t_c52d3548f19848 3,17-18,23,77-327
+test/registered/kernels/ops/moe/test_humming_powlu.py
+  s_52893c8a816811::t_c52d3548f19848 1-223
+test/registered/unit/models/test_bailing_attnres_token_shard.py
+  s_52893c8a816811::t_c52d3548f19848 1-221
+python/sglang/srt/layers/attention/ling/csa_prefill_cp.py
+  s_52893c8a816811::t_c52d3548f19848 1-169
+test/registered/unit/models/test_bailing_moe_v3_humming_attnres.py
+  s_52893c8a816811::t_c52d3548f19848 1-594
+python/sglang/kernels/ops/attention/ling_csa_block_gather.py
+  s_52893c8a816811::t_c52d3548f19848 1-69
+python/sglang/srt/layers/attention/ling/csa_scoring.py
+  s_52893c8a816811::t_73f97813204b0b 59,74
+  s_52893c8a816811::t_c52d3548f19848 130-139,156-162,165,194-204,209,226-233,238-247,249-251,283,286-288,315-320
+python/sglang/srt/layers/moe/token_dispatcher/base.py
+  s_52893c8a816811::t_c52d3548f19848 317-326
+test/registered/unit/entrypoints/openai/test_serving_completions.py
+  s_52893c8a816811::t_c52d3548f19848 115-303
+python/sglang/srt/layers/communication/ling_latent_up.py
+  s_52893c8a816811::t_c52d3548f19848 1-236
+test/registered/kernels/ops/attention/test_ling_csa_id_map.py
+  s_52893c8a816811::t_c52d3548f19848 1-92
+python/sglang/srt/layers/rotary_embedding/bailing_mrope.py
+  s_52893c8a816811::t_c52d3548f19848 1,10,12-19,25-26,64-85,124,340-415
+test/manual/layers/moe/bench_humming_decode_alignment.py
+  s_52893c8a816811::t_c52d3548f19848 1-105
+test/registered/unit/layers/test_ling_latent_up.py
+  s_52893c8a816811::t_c52d3548f19848 1-127
+PR_DESCRIPTION_ling_csa_paged_bf16_gather.md
+  s_52893c8a816811::t_c52d3548f19848 1-42
+test/registered/attention/test_ling_csa_prefill_cp_sm100.py
+  s_52893c8a816811::t_c52d3548f19848 1-308
+test/registered/kernels/ops/moe/test_moe_align_small_numel.py
+  s_52893c8a816811::t_c52d3548f19848 10,21,36,43-48,61-62,125-126,133-140,227-310
+  s_52893c8a816811::t_e6812538717c2d 311-312
+benchmark/ling_owner_route/request_ab.py
+  s_52893c8a816811::t_c52d3548f19848 1-60
+test/registered/unit/layers/attention/test_ling_prefill_latent_rows.py
+  s_52893c8a816811::t_c52d3548f19848 1-203
+python/sglang/kernels/ops/communication/ling_latent_up.py
+  s_52893c8a816811::t_c52d3548f19848 1-46
+test/registered/attention/test_kda_prefill_cutedsl.py
+  s_52893c8a816811::t_c52d3548f19848 12-13,24,39-44,51-505,619-627
+python/sglang/srt/layers/moe/ling_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-231
+python/sglang/srt/model_loader/safetensors_range_loader.py
+  s_52893c8a816811::t_c52d3548f19848 1-294
+python/sglang/srt/managers/io_struct.py
+  s_52893c8a816811::t_c52d3548f19848 739-750
+benchmark/kernels/ling_csa/bench_score_subchunks.py
+  s_52893c8a816811::t_c52d3548f19848 1-169
+test/registered/unit/layers/test_ling_csa_workspace.py
+  s_52893c8a816811::t_c52d3548f19848 124
+test/registered/jit/benchmark/bench_ling_router_quant.py
+  s_52893c8a816811::t_c52d3548f19848 1-65
+python/sglang/srt/layers/quantization/fp8.py
+  s_52893c8a816811::t_c52d3548f19848 1769,1809
+test/registered/kernels/ops/attention/test_ling_csa_select_candidates.py
+  s_52893c8a816811::t_c52d3548f19848 118-182
+python/pyproject.toml
+  s_52893c8a816811::t_c52d3548f19848 38
+test/manual/layers/moe/bench_humming_powlu_fp8_quant.py
+  s_52893c8a816811::t_c52d3548f19848 1-74
+test/registered/kernels/ops/attention/test_ling_csa_block_gather.py
+  s_52893c8a816811::t_c52d3548f19848 1-222
+python/sglang/kernels/ops/attention/ling_csa_id_map.py
+  s_52893c8a816811::t_c52d3548f19848 1-100
+test/registered/unit/layers/moe/test_ling_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-277
+test/registered/unit/layers/attention/test_ling_csa_weight_replica.py
+  s_52893c8a816811::t_c52d3548f19848 1-136
+test/registered/unit/layers/test_ling_csa_math.py
+  s_52893c8a816811::t_73f97813204b0b 175
+  s_52893c8a816811::t_c52d3548f19848 167-174,207
+test/registered/jit/test_ling_router_quant.py
+  s_52893c8a816811::t_c52d3548f19848 1-115
+python/sglang/srt/configs/ling_csa_workspace.py
+  s_52893c8a816811::t_c52d3548f19848 39-46,67-69
+  s_52893c8a816811::t_73f97813204b0b 95,111-117
+python/sglang/srt/layers/moe/ling_owner_route.py
+  s_52893c8a816811::t_c52d3548f19848 1-145
+test/registered/kernels/ops/moe/test_ling_topk_align.py
+  s_52893c8a816811::t_c52d3548f19848 1-164
+python/sglang/srt/model_executor/model_runner_components/startup_weight_load.py
+  s_52893c8a816811::t_c52d3548f19848 334-336
+test/registered/unit/model_loader/test_safetensors_range_dispatch.py
+  s_52893c8a816811::t_c52d3548f19848 1-107
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  s_52893c8a816811::t_c52d3548f19848 36,1517,1562,1570,1579,1591-1601,1607-1609
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  s_52893c8a816811::t_c52d3548f19848 19-23,91-94,121,127-129,143,149-151,166-169,209-225,289-305,405-411,487-516,518-529,563-588,648,684-687,693-696,703-716,718-719,721-760,775-776,788-791,804-805,808-820,830,993,1018,1074,1243-1298,1310-1321,1327,1329-1334
+python/sglang/srt/layers/attention/linear/kernels/kernel_backend.py
+  s_52893c8a816811::t_c52d3548f19848 15-16,48
+test/registered/unit/layers/attention/test_ling_csa_prefill_cp.py
+  s_52893c8a816811::t_c52d3548f19848 1-364
+python/sglang/srt/layers/attention_residual_parallel.py
+  s_52893c8a816811::t_c52d3548f19848 1-102
+benchmark/ling_owner_route/summarize.py
+  s_52893c8a816811::t_c52d3548f19848 1-66
+python/sglang/kernels/jit/csrc/communication/ling_latent_up.cuh
+  s_52893c8a816811::t_c52d3548f19848 1-161
+test/registered/kernels/ops/moe/test_humming_decode_alignment.py
+  s_52893c8a816811::t_c52d3548f19848 1-137
+test/registered/kernels/ops/attention/test_kda_prefill.py
+  s_52893c8a816811::t_c52d3548f19848 2,7,83-105
+test/registered/unit/layers/test_attention_residual_parallel.py
+  s_52893c8a816811::t_c52d3548f19848 1-159
+test/registered/attention/test_kda_kernels.py
+  s_52893c8a816811::t_c52d3548f19848 767,778,781-797
+python/sglang/srt/layers/moe/ling_latent_down.py
+  s_52893c8a816811::t_c52d3548f19848 1-176
+python/sglang/kernels/ops/attention/rotary_triton.py
+  s_52893c8a816811::t_c52d3548f19848 174,208-219,234-243,255,287
+python/sglang/srt/layers/attention/ling/csa_metadata.py
+  s_52893c8a816811::t_c52d3548f19848 8-9,111-112,285-300
+python/sglang/srt/layers/attention_residual.py
+  s_52893c8a816811::t_c52d3548f19848 3,32-54,74,102-115,195,247-281,298-315,319,330
+python/sglang/srt/layers/rotary_embedding/yarn.py
+  s_52893c8a816811::t_c52d3548f19848 65-106
+test/registered/kernels/ops/attention/test_ling_csa_paged_bf16.py
+  s_52893c8a816811::t_c52d3548f19848 1-58
+python/sglang/kernels/ops/attention/linear/kda_blackwell/__init__.py
+  s_52893c8a816811::t_c52d3548f19848 140-156,161,167
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_52893c8a816811::t_c52d3548f19848 396-416,476-494
+  s_52893c8a816811::t_2b6dc7689a4972 495
+test/registered/kernels/ops/communication/test_ling_latent_up.py
+  s_52893c8a816811::t_c52d3548f19848 1-300
+python/sglang/srt/layers/attention/ling/rotary.py
+  s_52893c8a816811::t_c52d3548f19848 15,35
+test/registered/unit/model_executor/model_runner_components/test_startup_weight_load.py
+  s_52893c8a816811::t_c52d3548f19848 221-231
+  s_52893c8a816811::t_5a4e89fa09da37 220
+python/sglang/srt/layers/rotary_embedding/factory.py
+  s_52893c8a816811::t_c52d3548f19848 10-13,352-381
+test/registered/unit/layers/test_bailing_mrope_shape.py
+  s_52893c8a816811::t_c52d3548f19848 179
+python/sglang/kernels/ops/moe/_ling_topk_align_warp.py
+  s_52893c8a816811::t_c52d3548f19848 1-133
+benchmark/kernels/ling_csa/bench_block_gather.py
+  s_52893c8a816811::t_c52d3548f19848 1-146
+test/registered/unit/layers/moe/test_ling_latent_down.py
+  s_52893c8a816811::t_c52d3548f19848 1-58
+python/sglang/kernels/ops/attention/fla/kda.py
+  s_52893c8a816811::t_c52d3548f19848 699-704,954,976,978,1068-1072,1090,1109-1111,1177-1179,1198
+python/sglang/srt/layers/attention/ling/csa_row_split.py
+  s_52893c8a816811::t_c52d3548f19848 7-9,128-179
+  s_52893c8a816811::t_1afa8be84df054 180-181
+python/sglang/srt/layers/attention/dsa_backend.py
+  s_52893c8a816811::t_73f97813204b0b 483-485,2309,3931-3932
+  s_52893c8a816811::t_c52d3548f19848 36-37,82-89,99-100,482,486-504,2106,2112-2139,2147,2293-2300,2307-2308,2310-2338,3930,3933-3948
+python/sglang/srt/layers/quantization/humming_activation.py
+  s_52893c8a816811::t_c52d3548f19848 1-46
+python/sglang/srt/layers/attention/ling/csa_indexer.py
+  s_52893c8a816811::t_c52d3548f19848 188-197,344,355-359,361-367,369-384
+python/sglang/srt/layers/moe/token_dispatcher/standard.py
+  s_52893c8a816811::t_c52d3548f19848 49,72-76,83-84
+test/registered/unit/configs/test_ling_sparse_config.py
+  s_52893c8a816811::t_c52d3548f19848 271-306
+python/sglang/kernels/ops/moe/ling_router_quant.py
+  s_52893c8a816811::t_c52d3548f19848 1-113
+test/registered/unit/layers/moe/test_humming_pre_quant_input.py
+  s_52893c8a816811::t_c52d3548f19848 1-230
+python/sglang/kernels/ops/attention/linear/kda_blackwell/kernel_o.py
+  s_52893c8a816811::t_c52d3548f19848 465
+python/sglang/srt/arg_groups/overrides.py
+  s_52893c8a816811::t_c52d3548f19848 2823-2833
+python/sglang/srt/environ.py
+  s_52893c8a816811::t_c52d3548f19848 199-204,1486-1512,1565-1568,1573-1581
+python/sglang/srt/layers/attention/ling/csa_row_owner.py
+  s_52893c8a816811::t_c52d3548f19848 1-337
+benchmark/ling_owner_route/replay.py
+  s_52893c8a816811::t_c52d3548f19848 1-98
+python/sglang/kernels/ops/attention/linear/kda_blackwell/kernel_kkt_inv_uw.py
+  s_52893c8a816811::t_c52d3548f19848 653,672
+benchmark/kernels/ling_csa/bench_latent_up_gather.py
+  s_52893c8a816811::t_c52d3548f19848 1-170
+python/sglang/srt/configs/ling.py
+  s_52893c8a816811::t_c52d3548f19848 30-44,56-57,88-105,114-115,120-121,127-140
+  s_52893c8a816811::t_30f9bd18bf0264 141-142
+test/registered/unit/layers/quantization/test_mxfp8_scale_decode.py
+  s_52893c8a816811::t_c52d3548f19848 1-60
+docker/ant/aci/sglang_fast.aci.yml
+  s_52893c8a816811::t_c52d3548f19848 74-75
+python/sglang/kernels/ops/attention/dsa/dequant_k_cache.py
+  s_52893c8a816811::t_c52d3548f19848 170-194,199-200,244-267
+  s_52893c8a816811::t_f314f62c1fdd18 268
+test/registered/unit/distributed/test_parallel_state.py
+  s_52893c8a816811::t_c52d3548f19848 53-132
+python/sglang/kernels/ops/attention/linear/kda_blackwell/safe_gate.py
+  s_52893c8a816811::t_c52d3548f19848 1-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d2be168735e11746634a1fe6e11b2a3dc6022875",
+  "prompts": {},
+  "sessions": {
+    "s_52893c8a816811": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20cdf-d399-7280-bbab-83173c354b8e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

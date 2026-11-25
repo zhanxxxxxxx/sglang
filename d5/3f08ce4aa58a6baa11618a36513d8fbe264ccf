@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 121-128,1795-1797,1852-1855,1879-1881
+test/registered/unit/distributed/test_pp_tensor_dict.py
+  h_1d635ecd767a49 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d53f08ce4aa58a6baa11618a36513d8fbe264ccf",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
