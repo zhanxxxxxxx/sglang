@@ -1,0 +1,14 @@
+docs/docs/advanced_features/breakable_cuda_graph.mdx
+  h_1d635ecd767a49 33-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "43ae3dd1e74529a0af420adc80f679cce8818b76",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
