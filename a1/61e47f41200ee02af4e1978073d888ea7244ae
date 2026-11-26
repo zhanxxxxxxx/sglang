@@ -1,0 +1,26 @@
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 2866-2867,2891-2892,4668-4669
+python/sglang/srt/session/session_controller.py
+  h_1d635ecd767a49 97,220,299,330,339-340,351-354,419
+python/sglang/srt/session/streaming_session.py
+  h_1d635ecd767a49 236,317
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 19,37-43,51-52,324-326,329,344,346,353-441
+test/registered/unit/managers/test_scheduler_timeouts.py
+  h_1d635ecd767a49 30
+test/registered/unit/mem_cache/test_session_token_share_unit.py
+  h_1d635ecd767a49 18,27,29,31,33-34,38,103,112,118-122
+test/registered/unit/mem_cache/test_streaming_session_unit.py
+  h_1d635ecd767a49 54,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a161e47f41200ee02af4e1978073d888ea7244ae",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

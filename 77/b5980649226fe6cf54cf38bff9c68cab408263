@@ -1,0 +1,14 @@
+python/sglang/srt/managers/deferred_image_mixin.py
+  h_0eaad948cda463 84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "77b5980649226fe6cf54cf38bff9c68cab408263",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

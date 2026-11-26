@@ -1,0 +1,27 @@
+test/registered/spec/dspark/test_dspark_draft_sampler.py
+  s_7dc0b252822e2f::t_372bfdf7248e16 2,6,8,66-83
+python/sglang/srt/speculative/dspark_components/dspark_draft_sampler.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 201-203,215-218,241,260-265
+test/registered/spec/dspark/test_dspark_draft_path_default.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 13,93-105
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 64-75
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_7dc0b252822e2f::t_9b48d3e53e1f4f 44,127,130-131,394,396-411,428-430,440,447
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a0065cf605572ce502ac8546b7c543bd2590c578",
+  "prompts": {},
+  "sessions": {
+    "s_7dc0b252822e2f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21184-391c-7b50-a403-06c69651f793",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

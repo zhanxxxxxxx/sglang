@@ -1,0 +1,26 @@
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 1349-1350,1418
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 172
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 2757-2759,3408-3412,4663-4665,4689-4690,4694
+python/sglang/srt/mem_cache/base_prefix_cache.py
+  h_1d635ecd767a49 58-59
+python/sglang/srt/session/streaming_session.py
+  h_1d635ecd767a49 139-140,228-238,243,252-255,258,283
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 25-30,36,48-49,309,312-381
+test/registered/unit/mem_cache/test_streaming_session_unit.py
+  h_1d635ecd767a49 6-7,116,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "57dffe2245bc2f12a1869655c40e8b1078da6069",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

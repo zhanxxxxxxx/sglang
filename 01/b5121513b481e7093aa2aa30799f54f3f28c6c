@@ -1,0 +1,16 @@
+python/sglang/srt/distributed/parallel_state.py
+  h_1d635ecd767a49 476,497,501,567-597,1973-1977,2737-2744
+python/sglang/srt/environ.py
+  h_1d635ecd767a49 1171-1172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "01b5121513b481e7093aa2aa30799f54f3f28c6c",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+python/sglang/srt/multimodal/processors/transformers_auto.py
+  s_312bfdfef87ab7::t_025978a6c93fdb 44-46,105
+python/sglang/srt/configs/deepseek_ocr.py
+  s_312bfdfef87ab7::t_d39e6f346b9888 16,752-756
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d316fb31d3db9988ac28f1c6f1b14b007c5368d8",
+  "prompts": {},
+  "sessions": {
+    "s_312bfdfef87ab7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20b4c-e859-7222-be6a-8aef5a53aa25",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

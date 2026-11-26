@@ -1,0 +1,27 @@
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_3e6238736197e9::t_54a404b5004638 55-113,467-470,478-487,496-506,512-528,721-730,739-749,922-925,935-945,954-974,1084-1086,1097-1107,1503-1530,1604-1629,1643
+python/sglang/srt/model_loader/loader.py
+  s_3e6238736197e9::t_e5d8906ec546d9 352-376,378,384-385
+python/sglang/srt/server_args.py
+  s_3e6238736197e9::t_f75115d62870b0 8092-8103,8110-8131
+test/registered/unit/layers/test_w4a8_tic_quantization.py
+  s_3e6238736197e9::t_b55d8ae0402d04 1-25
+test/registered/unit/model_loader/test_tic_quantization_contract.py
+  s_3e6238736197e9::t_e87b2fe5895718 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "273b93dcb542b5c4b68894b4d56c2d7d35fcf31d",
+  "prompts": {},
+  "sessions": {
+    "s_3e6238736197e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20730-687c-7a91-94ab-a1a3a91e780d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "lunhengrui.lhr <lunhengrui.lhr@antgroup.com>"
+    }
+  }
+}

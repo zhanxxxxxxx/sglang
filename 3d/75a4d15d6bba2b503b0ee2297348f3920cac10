@@ -1,0 +1,19 @@
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  s_60eabec0d5bdbe::t_3a816fbeff213b 91-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3d75a4d15d6bba2b503b0ee2297348f3920cac10",
+  "prompts": {},
+  "sessions": {
+    "s_60eabec0d5bdbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20644-698d-7541-ba3b-7fa6da3a1dd9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}
