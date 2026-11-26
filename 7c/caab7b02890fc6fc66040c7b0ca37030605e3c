@@ -1,0 +1,19 @@
+dspark/README.md
+  s_783b899ebf77ec::t_715762e627c6ed 26-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7ccaab7b02890fc6fc66040c7b0ca37030605e3c",
+  "prompts": {},
+  "sessions": {
+    "s_783b899ebf77ec": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215e0-7fcf-7480-a34d-8054b3be5306",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
