@@ -1,0 +1,43 @@
+python/sglang/multimodal_gen/runtime/pipelines_core/stages/model_specific_stages/wan_ti2v.py
+  s_59989ec1695445::t_5acd59ff821080 66-68
+python/sglang/srt/disaggregation/nixl/conn.py
+  s_59989ec1695445::t_5acd59ff821080 3521-3522,3541,3543-3545
+python/sglang/srt/mem_cache/memory_pool.py
+  s_59989ec1695445::t_5acd59ff821080 6656-6659,6664-6667,6678-6681
+  s_59989ec1695445::t_84da68c318c0af 6682-6683
+python/sglang/srt/mem_cache/static_kv_storage.py
+  s_59989ec1695445::t_5acd59ff821080 889-891,895,987-988,991-997,1004-1010
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_59989ec1695445::t_5acd59ff821080 3027-3028,3067,3069-3070
+test/registered/unit/disaggregation/test_minimax_sparse_disagg_state_kv_args.py
+  s_59989ec1695445::t_5acd59ff821080 7,68-111
+test/registered/unit/disaggregation/test_decode_req_to_token_pool.py
+  s_59989ec1695445::t_5acd59ff821080 3,8-19,22-28,89-261
+  s_59989ec1695445::t_a994595ec226b2 262-263
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_59989ec1695445::t_5acd59ff821080 222-316
+python/sglang/srt/layers/attention/linear/utils.py
+  s_59989ec1695445::t_5acd59ff821080 134-146,164
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_59989ec1695445::t_5acd59ff821080 1699,1733
+python/sglang/srt/disaggregation/decode.py
+  s_59989ec1695445::t_5acd59ff821080 98,359,399-405,408
+python/sglang/multimodal_gen/test/unit/test_wan_ti2v_helpers.py
+  s_59989ec1695445::t_5acd59ff821080 58-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b4fd84374d6d5f41089d8561e6d1898d740af5b1",
+  "prompts": {},
+  "sessions": {
+    "s_59989ec1695445": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215c8-0725-7e90-b4b8-e1045a53822a",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}
