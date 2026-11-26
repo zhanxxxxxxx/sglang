@@ -1,0 +1,24 @@
+python/sglang/srt/speculative/dflash_utils.py
+  h_cbb782975e944c 996,1070-1075
+python/sglang/srt/speculative/dfly_validation.py
+  h_cbb782975e944c 53,56-57,59-63,70-73
+python/sglang/srt/speculative/dfly_worker_v2.py
+  h_cbb782975e944c 51,56-59,92,906,917-940,942-946
+test/registered/kernels/ops/speculative/test_speculative_sampling.py
+  h_cbb782975e944c 9-13,246-283
+test/registered/unit/entrypoints/openai/test_serving_chat.py
+  h_cbb782975e944c 84,1146,1152-1162
+test/registered/unit/models/test_hunyuan_v4_vl.py
+  h_cbb782975e944c 9,92,144-145,151-154,4739-4742,5480,5497-5500
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7d0b7e020281b515f21001e18a31cb4030522382",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
