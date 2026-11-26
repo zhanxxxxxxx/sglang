@@ -1,0 +1,14 @@
+test/registered/kernels/ops/attention/test_hopper_fp8_kv_sink.py
+  h_cbb782975e944c 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "95becb028124efa558a99c6b809cfbf0147906d7",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
