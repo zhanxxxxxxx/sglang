@@ -1,0 +1,26 @@
+docs/docs/advanced_features/breakable_cuda_graph.mdx
+  h_1d635ecd767a49 19-30
+python/sglang/srt/layers/communicator.py
+  h_1d635ecd767a49 1405-1421,1528
+python/sglang/srt/managers/scheduler_components/dp_attn.py
+  h_1d635ecd767a49 27-30,35,281-283,285-299,359-360
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  h_1d635ecd767a49 554-557,1203
+python/sglang/srt/models/bailing_moe_v3.py
+  h_1d635ecd767a49 44,2885-2905,2949
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 75,5261-5262,5265-5266,5276-5279,5283-5284,7870,7872-7879,8252,8257
+test/registered/ep/test_bailing_breakable_prefill.py
+  h_1d635ecd767a49 1-236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6255b7fcbcfae4945217ca19ad51b778ccbc53fc",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

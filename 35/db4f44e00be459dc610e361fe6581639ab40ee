@@ -1,0 +1,20 @@
+docs/docs/advanced_features/breakable_cuda_graph.mdx
+  h_1d635ecd767a49 33-34
+python/sglang/srt/model_executor/model_runner_components/cuda_graph_setup.py
+  h_1d635ecd767a49 370-381
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 5257,5277-5290,7588,7596-7598
+test/registered/ep/test_bailing_breakable_prefill.py
+  h_1d635ecd767a49 35,38,48,80-82,147-148,203,207-208,210,219-222,229,233-247,250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "35db4f44e00be459dc610e361fe6581639ab40ee",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

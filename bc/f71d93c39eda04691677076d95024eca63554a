@@ -1,0 +1,22 @@
+python/sglang/srt/disaggregation/decode.py
+  h_1d635ecd767a49 539-540,987-989
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 1120-1122,1218,1221,1233-1235,1242,1246,1252-1254
+test/registered/unit/disaggregation/test_decode_queue_cleanup.py
+  h_1d635ecd767a49 93,141
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 19,56,533-590
+test/registered/unit/managers/test_priority_scheduling_disaggregation.py
+  h_1d635ecd767a49 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bcf71d93c39eda04691677076d95024eca63554a",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
