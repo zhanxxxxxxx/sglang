@@ -1,0 +1,21 @@
+python/sglang/srt/model_loader/loader.py
+  s_3e6238736197e9::t_9212927847c9f4 352-376,386
+test/registered/unit/model_loader/test_tic_quantization_contract.py
+  s_3e6238736197e9::t_53c69d6b224829 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7320eb8d06cd89e40421d3c33d2b54b0a92aae2c",
+  "prompts": {},
+  "sessions": {
+    "s_3e6238736197e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20730-687c-7a91-94ab-a1a3a91e780d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "lunhengrui.lhr <lunhengrui.lhr@antgroup.com>"
+    }
+  }
+}

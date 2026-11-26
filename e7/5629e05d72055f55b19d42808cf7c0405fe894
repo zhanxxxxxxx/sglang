@@ -1,0 +1,23 @@
+test/registered/spec/dspark/test_dspark_draft_path_default.py
+  s_60eabec0d5bdbe::t_7073aa71070ab1 13,93-115
+python/sglang/srt/speculative/dspark_components/dspark_config.py
+  s_60eabec0d5bdbe::t_7073aa71070ab1 64-79
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_60eabec0d5bdbe::t_7073aa71070ab1 44,127-129,133-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e75629e05d72055f55b19d42808cf7c0405fe894",
+  "prompts": {},
+  "sessions": {
+    "s_60eabec0d5bdbe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20644-698d-7541-ba3b-7fa6da3a1dd9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+python/sglang/srt/models/bailing_moe_v3.py
+  s_c1c277c4ebfa2e::t_2c964a6a7fa87a 49,1403-1413,1482-1489,1491-1492,1509,1543-1557,1563,1896-1905,1970-1974,2141-2143,2152-2155,2176-2178,3139-3142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9dd95dbef65cf58ba830aa646f9847b837c1f447",
+  "prompts": {},
+  "sessions": {
+    "s_c1c277c4ebfa2e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20b1c-fa89-7bd1-86b5-a83f06c01e49",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "kunlong.ckl <kunlong.ckl@antgroup.com>"
+    }
+  }
+}
