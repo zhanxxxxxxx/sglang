@@ -1,0 +1,16 @@
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 1119,1228,1264-1266,1268,1435-1436
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 325-358
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4bfc4b07821a29f5cd796b4a48466732a429a90b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+test/registered/kernels/ops/moe/test_glm53_shared_act_quant.py
+  h_0eaad948cda463 4-6,12-26,33,41
+test/registered/kernels/ops/moe/test_glm53_shared_input_quant.py
+  h_0eaad948cda463 6,44,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9652d04ec8d35af442f9a4241d3f3a5ed5f74d04",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

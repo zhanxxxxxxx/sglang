@@ -1,0 +1,14 @@
+python/sglang/srt/models/deepseek_nextn.py
+  h_0eaad948cda463 74-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "198e58697ebb9ef25a4a1de58bc1c74cdec80286",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

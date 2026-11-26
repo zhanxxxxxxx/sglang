@@ -1,0 +1,24 @@
+python/sglang/srt/entrypoints/openai/serving_chat.py
+  h_0eaad948cda463 4,14
+test/registered/kernels/ops/attention/test_glm53_sparse_mla_q8kv8_sm90.py
+  h_0eaad948cda463 92-161
+test/registered/kernels/ops/attention/test_kda_strided_prefill.py
+  h_0eaad948cda463 1-145
+test/registered/kernels/ops/attention/test_kpool_metadata_jit_alignment.py
+  h_0eaad948cda463 1-145
+test/registered/kernels/ops/communication/test_glm53_moe_finalize.py
+  h_0eaad948cda463 32-33,43-44
+test/registered/kernels/ops/gemm/test_glm53_h20_swapab.py
+  h_0eaad948cda463 29-30,35-36,158-159,163-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93ac6f3330d947e71b3985fd570bb2cd29305273",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

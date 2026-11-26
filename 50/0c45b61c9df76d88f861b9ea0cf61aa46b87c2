@@ -1,0 +1,32 @@
+docs/docs/advanced_features/server_arguments.mdx
+  h_1d635ecd767a49 561,567,570-575,585,591,597,603
+python/sglang/srt/managers/prefill_delayer.py
+  h_1d635ecd767a49 98
+python/sglang/srt/managers/schedule_policy.py
+  h_1d635ecd767a49 636-640
+python/sglang/srt/managers/scheduler.py
+  h_1d635ecd767a49 1246,3397,3399-3401
+python/sglang/srt/observability/metrics_collector.py
+  h_1d635ecd767a49 1206-1216
+python/sglang/srt/server_args.py
+  h_1d635ecd767a49 10306-10311
+test/registered/unit/distributed/test_pp_token_relay.py
+  h_1d635ecd767a49 20-39
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 209,272-304
+test/registered/unit/managers/test_prefill_delayer_high_watermark.py
+  h_1d635ecd767a49 92-99
+test/registered/unit/server_args/test_server_args.py
+  h_1d635ecd767a49 66-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "500c45b61c9df76d88f861b9ea0cf61aa46b87c2",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

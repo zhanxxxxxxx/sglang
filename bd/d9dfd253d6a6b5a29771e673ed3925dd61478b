@@ -1,0 +1,14 @@
+.claude/skills/ainsight/references/historical-log-routing.md
+  h_1d635ecd767a49 59-75,82-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bdd9dfd253d6a6b5a29771e673ed3925dd61478b",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
