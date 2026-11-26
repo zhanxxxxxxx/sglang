@@ -1,0 +1,22 @@
+python/sglang/srt/disaggregation/prefill.py
+  h_1d635ecd767a49 1332
+python/sglang/srt/managers/schedule_batch.py
+  h_1d635ecd767a49 2008-2009,2942-2943
+python/sglang/srt/session/streaming_session.py
+  h_1d635ecd767a49 287-301
+test/registered/unit/managers/test_pp_micro_batch.py
+  h_1d635ecd767a49 38-39,55,446-522
+test/registered/unit/mem_cache/test_streaming_session_unit.py
+  h_1d635ecd767a49 78,82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "03752ca3d199be1810a6fdba89f41ab9bb0cedf7",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}
