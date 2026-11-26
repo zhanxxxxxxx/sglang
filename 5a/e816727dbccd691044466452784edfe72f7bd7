@@ -1,0 +1,42 @@
+test/registered/kernels/ops/gemm/test_marlin_moe_gemv.py
+  s_59989ec1695445::t_4f942b2346497a 60
+  s_59989ec1695445::t_99918750dff560 32,36,42,81-95
+  s_59989ec1695445::t_59121a37cb24f6 58,74
+test/registered/unit/test_model_overrides.py
+  s_59989ec1695445::t_ca9c61c8ac7569 240,1309-1321,1342,1353-1356
+  s_59989ec1695445::t_119613894c4c86 2571-2573
+test/registered/kernels/ops/communication/test_collectives.py
+  s_59989ec1695445::t_f0fe5b43723820 184-188,190-192,197-205
+  s_59989ec1695445::t_198976ccbeb478 5,18,114-118,121,123-125,129-137,141-152,168-174
+  s_59989ec1695445::t_412d458640ab2c 138-140,156-167
+  s_59989ec1695445::t_38199ff94518ff 153-155
+  s_59989ec1695445::t_bb511fede93b5a 19,175-183,189,193-196,206-207
+  s_59989ec1695445::t_a6b02d6de5a6e8 119-120,122,126-128
+  s_59989ec1695445::t_84ecc768e6c4f7 208-209
+python/sglang/kernels/ops/communication/inkling_all_reduce.py
+  s_59989ec1695445::t_1c190ae56dbb95 22-28,33,251-252,255-257
+python/sglang/kernels/ops/communication/inkling2_comm.py
+  s_59989ec1695445::t_4e2626ba9b4210 98-99,104-105,113,211,214,217,220,226-232,247-248
+  s_59989ec1695445::t_a364657338a32c 120,127-128,133,135-139,158-163
+test/registered/unit/models/test_inkling2.py
+  s_59989ec1695445::t_119613894c4c86 739,749-750
+  s_59989ec1695445::t_ca9c61c8ac7569 16-22,31,172-242,425-461,712-719,736,748
+python/sglang/kernels/jit/csrc/inkling/inkling_all_reduce.cuh
+  s_59989ec1695445::t_1c190ae56dbb95 369-370,383-385,390,400-408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5ae816727dbccd691044466452784edfe72f7bd7",
+  "prompts": {},
+  "sessions": {
+    "s_59989ec1695445": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215c8-0725-7e90-b4b8-e1045a53822a",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "羽癫 <yudian.zy@antgroup.com>"
+    }
+  }
+}

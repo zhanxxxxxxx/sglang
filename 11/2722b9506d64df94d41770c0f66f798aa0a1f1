@@ -1,0 +1,23 @@
+test/registered/unit/mem_cache/test_ling_csa_pd_state_transfer.py
+  s_c4c40da68736c4::t_774e34b5bab47b 20,191
+test/registered/unit/disaggregation/test_mooncake_ling_csa_dcp.py
+  s_c4c40da68736c4::t_128c31ddbc236f 1-128
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_c4c40da68736c4::t_5ac2647dbf6fc7 152-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "112722b9506d64df94d41770c0f66f798aa0a1f1",
+  "prompts": {},
+  "sessions": {
+    "s_c4c40da68736c4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215e6-f735-75b1-9d13-93547751128d",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

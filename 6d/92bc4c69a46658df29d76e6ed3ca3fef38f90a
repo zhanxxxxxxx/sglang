@@ -1,0 +1,24 @@
+python/sglang/kernels/jit/csrc/moe/glm53_shared_act_quant.cuh
+  h_0eaad948cda463 28,30
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_tuning.py
+  h_0eaad948cda463 90-94,96,107-111,114,165,168,180-192
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_0eaad948cda463 234-266,268,273,290-305,308,322,350
+test/registered/kernels/ops/moe/test_glm53_shared_input_quant.py
+  h_0eaad948cda463 5,63,65-70,73,75,96-100
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  h_0eaad948cda463 382
+test/registered/unit/model_executor/test_glm53_h20_shared_down.py
+  h_0eaad948cda463 66-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d92bc4c69a46658df29d76e6ed3ca3fef38f90a",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

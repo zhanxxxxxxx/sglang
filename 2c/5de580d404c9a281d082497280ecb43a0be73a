@@ -1,0 +1,21 @@
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_4b27f20836e17c::t_1716fb709bcf6f 132-134
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_4b27f20836e17c::t_715bfa40391b88 1917-1921
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2c5de580d404c9a281d082497280ecb43a0be73a",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

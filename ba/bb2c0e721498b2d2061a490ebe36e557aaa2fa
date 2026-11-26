@@ -1,0 +1,38 @@
+python/sglang/kernels/jit/csrc/moe/glm53_shared_act_quant.cuh
+  h_0eaad948cda463 1-51
+python/sglang/kernels/ops/moe/glm53_shared_act_quant.py
+  h_0eaad948cda463 1-30
+python/sglang/srt/arg_groups/glm53_h20_defaults.py
+  h_0eaad948cda463 38-44
+python/sglang/srt/environ.py
+  h_0eaad948cda463 1650-1656
+python/sglang/srt/layers/moe/moe_runner/glm53_h20_tuning.py
+  h_0eaad948cda463 1-307
+python/sglang/srt/layers/moe/moe_runner/glm53_shared_input_quant.py
+  h_0eaad948cda463 1-91
+python/sglang/srt/layers/moe/moe_runner/humming.py
+  h_0eaad948cda463 6,269-352,1151-1153,1156-1158,1165,1329-1335,1342
+python/sglang/srt/layers/quantization/humming.py
+  h_0eaad948cda463 4,6,60-61,1021,1059-1064,1272-1359,1371
+python/sglang/srt/models/deepseek_v2.py
+  h_0eaad948cda463 393-400,454-461,1080-1084,2159-2175
+test/registered/kernels/ops/moe/test_glm53_shared_act_quant.py
+  h_0eaad948cda463 1-71
+test/registered/kernels/ops/moe/test_glm53_shared_input_quant.py
+  h_0eaad948cda463 1-103
+test/registered/unit/layers/test_glm53_h20_moe_tuning.py
+  h_0eaad948cda463 1-478
+test/registered/unit/model_executor/test_glm53_h20_shared_down.py
+  h_0eaad948cda463 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "babb2c0e721498b2d2061a490ebe36e557aaa2fa",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

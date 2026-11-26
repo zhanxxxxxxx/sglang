@@ -1,0 +1,32 @@
+python/sglang/kernels/jit/csrc/attention/kda_fused_decode.cuh
+  h_1d635ecd767a49 695-696
+python/sglang/kernels/jit/csrc/attention/kda_packed_decode.cuh
+  h_1d635ecd767a49 11-18,52-64,99,104-114,140-157
+python/sglang/kernels/jit/include/sgl_kernel/kda_decode.cuh
+  h_1d635ecd767a49 8-9
+python/sglang/kernels/ops/attention/cutedsl_kda.py
+  h_1d635ecd767a49 192-197,224-257,259,413-418,445-478,480,629-634,660-693,695,844-849,875-908,910,1242,1285,1544
+python/sglang/kernels/ops/attention/fla/fused_recurrent.py
+  h_1d635ecd767a49 468-469,474-475,484,494-504,630-644
+python/sglang/kernels/ops/attention/helion/kda_decode.py
+  h_1d635ecd767a49 146,149-154,156-159,163,167-168
+python/sglang/kernels/ops/attention/kda_packed_decode.py
+  h_1d635ecd767a49 7-8,29-31,60
+scripts/mtp_pp_dcp/diagnose_kda_batch_invariance.py
+  h_1d635ecd767a49 104
+test/registered/kernels/ops/attention/test_kda_fused_decode.py
+  h_1d635ecd767a49 1,3-5,81-88,111-117,119-121,129,175,177-178,185,213,218,225,232,236,250-254,262,285,289,309,314,339
+test/registered/kernels/ops/attention/test_kda_helion.py
+  h_1d635ecd767a49 212-213,226-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12f4e51b01427347bb43d68b19e70415813e1e77",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

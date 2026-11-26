@@ -1,0 +1,33 @@
+python/sglang/srt/disaggregation/base/conn.py
+  s_c4c40da68736c4::t_346a4ffe28148e 53
+python/sglang/srt/disaggregation/common/conn.py
+  s_c4c40da68736c4::t_989ea55c47136d 664-671
+test/registered/unit/mem_cache/test_ling_csa_pd_state_transfer.py
+  s_c4c40da68736c4::t_989ea55c47136d 20-23,113,194-196
+python/sglang/srt/disaggregation/decode.py
+  s_c4c40da68736c4::t_989ea55c47136d 1406-1408,1414-1422,1465
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_c4c40da68736c4::t_346a4ffe28148e 11,1239-1310,1317-1318,1425,1429-1450,1558-1559,1574-1575,1951-1957
+python/sglang/srt/disaggregation/utils.py
+  s_c4c40da68736c4::t_989ea55c47136d 1112-1114
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_c4c40da68736c4::t_989ea55c47136d 1678-1699
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_c4c40da68736c4::t_989ea55c47136d 104-106,151-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17cf54ef10126cb292ab3a90f70e468dc0c8c595",
+  "prompts": {},
+  "sessions": {
+    "s_c4c40da68736c4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215e6-f735-75b1-9d13-93547751128d",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

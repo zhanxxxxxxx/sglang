@@ -1,0 +1,16 @@
+python/sglang/srt/layers/radix_linear_attention.py
+  h_0eaad948cda463 97,160
+python/sglang/srt/models/glm5_next.py
+  h_0eaad948cda463 946-948,954
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0a372c5703903f4bfaba4e657a986188483d968c",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

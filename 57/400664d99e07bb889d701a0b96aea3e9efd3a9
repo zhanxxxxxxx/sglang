@@ -1,0 +1,32 @@
+python/sglang/kernels/jit/csrc/distributed/glm53_moe_finalize.cuh
+  h_0eaad948cda463 19,107,150-151
+python/sglang/kernels/ops/attention/fla/l2norm.py
+  h_0eaad948cda463 63,66-69,130-164
+python/sglang/srt/layers/deep_gemm_wrapper/mhc_compat.py
+  h_0eaad948cda463 3,23
+python/sglang/srt/managers/image_prefix_mixin.py
+  h_0eaad948cda463 154
+python/sglang/srt/multimodal/processors/glm4v.py
+  h_0eaad948cda463 34
+python/sglang/srt/multimodal/processors/glm_image_prefix.py
+  h_0eaad948cda463 14
+test/registered/kernels/ops/attention/test_kpool_metadata_jit_alignment.py
+  h_0eaad948cda463 73-76,84-86
+test/registered/kernels/ops/gemm/test_glm53_h20_swapab.py
+  h_0eaad948cda463 8,30,37,145
+test/registered/unit/entrypoints/test_glm5_prefill_warmup.py
+  h_0eaad948cda463 229-230
+test/registered/unit/layers/test_deep_gemm_mhc_compat.py
+  h_0eaad948cda463 88-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "57400664d99e07bb889d701a0b96aea3e9efd3a9",
+  "prompts": {},
+  "humans": {
+    "h_0eaad948cda463": {
+      "author": "从阳 <gaohanlin.ghl@antgroup.com>"
+    }
+  }
+}

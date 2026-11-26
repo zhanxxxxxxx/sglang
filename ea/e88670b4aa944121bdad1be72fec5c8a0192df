@@ -1,0 +1,21 @@
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_4b27f20836e17c::t_5838dd4c740244 4,56-60,328-329,1652-1653,1667-1744,2689-2693,2714,2716-2717,2880-2883
+test/registered/unit/layers/attention/test_ling_kv4_latent_distributed.py
+  s_4b27f20836e17c::t_5838dd4c740244 1-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eae88670b4aa944121bdad1be72fec5c8a0192df",
+  "prompts": {},
+  "sessions": {
+    "s_4b27f20836e17c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211af-62c0-7ab0-9538-d5dbb3eaa9d8",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "vito.yy <vito.yy@antgroup.com>"
+    }
+  }
+}

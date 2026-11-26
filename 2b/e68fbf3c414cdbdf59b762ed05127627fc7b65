@@ -1,0 +1,16 @@
+python/sglang/srt/managers/prefill_delayer.py
+  h_1d635ecd767a49 129,131,183-188,197,226,266-269,358,367
+test/registered/scheduler/test_prefill_delayer.py
+  h_1d635ecd767a49 6,53,97-102,343,349,374
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2be68fbf3c414cdbdf59b762ed05127627fc7b65",
+  "prompts": {},
+  "humans": {
+    "h_1d635ecd767a49": {
+      "author": "mubai <chaokun.yck@antgroup.com>"
+    }
+  }
+}

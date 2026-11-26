@@ -1,0 +1,58 @@
+python/sglang/srt/configs/ling_csa_runtime.py
+  s_d1bda687af5b73::t_57d219f9e1c57b 102-104
+  s_d1bda687af5b73::t_8b67dda5db496c 149-161,164
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 162-163
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_d1bda687af5b73::t_8b67dda5db496c 99,401-402,404-405,409-410,414-416
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 100,406-408
+python/sglang/srt/models/bailing_moe_v3.py
+  s_d1bda687af5b73::t_8b67dda5db496c 2775-2778,2844-2849,3313-3314,3318
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 2764-2765,3315-3317
+test/registered/unit/spec/test_dspark_deepep_layout.py
+  s_d1bda687af5b73::t_4ce40e13bcf44e 133-137,148,190
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 84-85,118,172-189,191-193,196,219-221,324
+test/registered/unit/mem_cache/test_ling_csa_pd_state_transfer.py
+  s_d1bda687af5b73::t_c43c627f73275b 113
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 20-23,194-196
+python/sglang/srt/disaggregation/common/conn.py
+  s_d1bda687af5b73::t_9b1e7c7c59c177 664-671
+python/sglang/srt/disaggregation/utils.py
+  s_d1bda687af5b73::t_9b1e7c7c59c177 1170-1172
+test/registered/unit/speculative/test_dspark_dcp_context.py
+  s_d1bda687af5b73::t_c43c627f73275b 41,81-111
+  s_d1bda687af5b73::t_5ef667f2e777d2 112
+python/sglang/srt/disaggregation/base/conn.py
+  s_d1bda687af5b73::t_9b1e7c7c59c177 54
+python/sglang/srt/disaggregation/decode.py
+  s_d1bda687af5b73::t_8736fb3fc3a371 1419-1421,1428-1434
+  s_d1bda687af5b73::t_9b1e7c7c59c177 1427,1478
+  s_d1bda687af5b73::t_1d319df33bc564 1435
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_d1bda687af5b73::t_4ce40e13bcf44e 7,232-280
+  s_d1bda687af5b73::t_c43c627f73275b 170-231,281-282
+python/sglang/srt/models/bailing_mm_v3.py
+  s_d1bda687af5b73::t_8b67dda5db496c 181-183
+test/registered/unit/layers/attention/test_ling_csa_dcp.py
+  s_d1bda687af5b73::t_c43c627f73275b 1678-1699
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_d1bda687af5b73::t_f55a6c1d5d35c4 1408,1550,1683-1684,1699-1700
+  s_d1bda687af5b73::t_8b67dda5db496c 11
+  s_d1bda687af5b73::t_8736fb3fc3a371 1367-1368,1395-1396,1409-1410,1422-1423
+  s_d1bda687af5b73::t_9b1e7c7c59c177 1364-1366,1369-1394,1397-1407,1411-1421,1424-1435,1442-1443,1554-1575,2079-2085
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "62c997b3818218956dd0fd8a4ebfa3cc684e5119",
+  "prompts": {},
+  "sessions": {
+    "s_d1bda687af5b73": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2116e-8309-7331-8ca1-776881c73731",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "范坤 <fankun@U-Q0542J2D-0225.local>"
+    }
+  }
+}

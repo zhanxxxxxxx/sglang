@@ -1,0 +1,316 @@
+test/registered/unit/managers/test_scheduler_pause_generation.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 34,222-241
+  s_783b899ebf77ec::t_64acf4c76dd39c 242
+python/sglang/srt/speculative/eagle_utils.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 991-995,1004,1010
+test/registered/unit/disaggregation/test_decode_queue_cleanup.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 93,141
+python/sglang/srt/layers/dcp/planner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 131-134,139,155
+python/sglang/srt/entrypoints/engine.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 412,532
+test/registered/unit/layers/moe/test_cutedsl_sm_budget.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 142,168
+python/sglang/srt/model_executor/runner/decode_cuda_graph_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 93,252,254,259-260,262-278,280-281,525-527,582-589,608,735-737,1141,1165,1167-1175,1313-1317,1334-1338,1364-1365,1405-1407,1414,1462-1466,1476
+python/sglang/srt/layers/moe/moe_runner/flashinfer_cutedsl.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 423
+test/registered/kernels/ops/moe/test_minimax_quant_scatter.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 30-34,198-236,255-258,309-323,335-364,385-389,401-411,459-492
+python/sglang/srt/environ.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 264-265,1533,1545-1548
+test/registered/dcp/test_bailing_qsa_collective.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1,7-8,18,53-105,170
+python/sglang/srt/managers/schedule_policy.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 151,173,638-642,1119-1122,1218,1221,1228,1233-1235,1242,1246,1264-1266,1268,1435-1436
+python/sglang/srt/arg_groups/overrides.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 2906-2918,2921
+python/sglang/srt/layers/moe/fused_moe_triton/layer.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 179-184,291,385,455-457,459
+test/registered/unit/models/test_bailing_moe_v3_padded_attention.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 49-63
+python/sglang/srt/model_executor/runner/base_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 35-37,46-51,57,129-141,230-270
+  s_783b899ebf77ec::t_5fdb35dc34e4f1 271
+python/sglang/srt/managers/scheduler_components/batch_result_processor.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 167-168,728-734,756,961-971,1007,1119,1122-1124,1375-1379
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 581,1870,1876,1886-1887
+test/registered/sampling/test_score_centering_logprobs.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 20-22,104-106,365-433
+  s_783b899ebf77ec::t_e32c4c42b188c7 434
+test/registered/unit/managers/test_batch_result_processor_spec_grammar.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 103
+python/sglang/srt/managers/scheduler_components/metrics_reporter.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 578
+python/sglang/kernels/jit/csrc/bailing_v3/powlu_and_mul_masked_post_quant.cuh
+  s_783b899ebf77ec::t_6f4726a3705fe7 27-28,77,79-82,85-87,133-134,143-152,194-196,199-200,202-203,212,215,238-241,263-264
+python/sglang/srt/disaggregation/prefill.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 961,1011-1014
+python/sglang/srt/layers/radix_linear_attention.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 125,141-147,153-162,165-166,169-177,179
+python/sglang/srt/managers/tp_worker.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 395-397,694
+python/sglang/srt/layers/moe/token_dispatcher/deepep.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 144-159,181,912-914,922,938,951,963,995-1005,1041-1066,1068-1083,1179,1192,1212
+python/sglang/srt/layers/dcp/comm.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 153,168-172,285-286,288-306
+python/sglang/srt/model_executor/model_runner_components/misc_utils.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 9,74-75,80
+test/registered/kernels/ops/moe/test_bailing_powlu_mul_post_quant.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 19,21-24,47-53,55-65,67,78-81,186-214
+  s_783b899ebf77ec::t_5f099f99f09c31 215-216
+test/registered/unit/managers/test_pp_micro_batch.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-936
+test/registered/unit/managers/test_scheduler_timeouts.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 30
+python/sglang/srt/entrypoints/openai/protocol.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 386-387,880-881
+python/sglang/srt/utils/hf_transformers/config.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 20,29,48-64,106-120
+test/registered/unit/distributed/test_pp_token_relay.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-506
+test/registered/unit/managers/test_stop_str_speculative.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 70-101
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 28,32-33,38-44,46,66-128
+  s_783b899ebf77ec::t_5cb3d48ddbc7c8 129-130
+python/sglang/srt/managers/scheduler.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 196,435-442,1246,2779-2781,2840-2841,2890-2891,2915-2916,3108-3112,3116-3124,3134,3194,3201-3203,3217,3267-3271,3285,3303,3305,3366,3418-3452,3474,3489-3490,3511,3738-3741,4272-4276,4371-4374,4714-4716,4740-4741,4745,4813-4814,4831,4867-4892,5244-5247
+test/registered/unit/layers/moe/test_cutedsl_deepep_dispatch_config.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 153-154,408
+python/sglang/srt/layers/attention/dsa/qsa_indexer.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 52,279,303-315,1371-1393,1401-1424,1426-1429,1431-1441,1443-1476,1638,1654-1673,1739-1743,1761-1765
+python/sglang/srt/model_executor/runner_utils/capture_mode.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 79-87,96-98,100,104-105
+python/sglang/srt/session/streaming_session.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 139-140,228-238,243,252-255,258,283-291,297-306
+  s_783b899ebf77ec::t_32d12f2d1ebaa4 307
+test/registered/dcp/test_dcp_helix.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-95
+test/manual/test_masked_clamped_rht.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-66
+test/registered/kernels/ops/moe/test_deepgemm_masked_scale_padding.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 21-29,31,34-36,47,79,92-93
+test/registered/unit/layers/test_dcp_prefix_alignment.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 53-56
+test/registered/unit/managers/test_pp_metrics_logging.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 73,141,144
+python/sglang/srt/managers/io_struct.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 52,292-293
+python/sglang/srt/model_executor/runner/eager_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 289-290
+python/sglang/srt/model_executor/model_runner_components/layer_setup.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 8-9,54,56-61,73-74
+python/sglang/srt/managers/prefill_delayer.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 22-110
+test/registered/unit/state_capturer/test_routed_experts_pp.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 22,64-94,123-127,132,163,179,185,206-210,230,303,309-310,384-387
+python/sglang/srt/session/session_controller.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 97,220,299,331,340-341,352-355,420
+python/sglang/srt/managers/scheduler_components/request_receiver.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 80,87,98,100-104,116-144,149-157,301-303,327-331
+test/registered/unit/layers/test_powlu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 26,31-47
+python/sglang/srt/model_executor/runner_utils/buffers.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 42-73,165-177
+python/sglang/srt/models/bailing_moe_v3.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 83,93,95-98,166-206,537-567,812-813,894,896,1042-1049,1193-1204,1211-1216,1233,1235,1241-1252,1268-1275,1278,2903,3560-3571
+  s_783b899ebf77ec::t_fcbdf2e34c0ff8 3572
+test/registered/unit/spec/test_pipeline_eagle_worker.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 66,180-183,192-194,231-279,531
+test/registered/unit/server_args/test_mnnvl_auto_inference.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 87-176
+python/sglang/kernels/ops/attention/dsa/qsa_dcp.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 10-29
+test/registered/unit/server_args/test_server_args.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 46-82
+python/sglang/srt/model_executor/runner_backend/breakable_cuda_graph_backend.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 101
+python/sglang/srt/state_capturer/indexer_topk.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 20-22
+test/registered/moe/test_bailing_nvfp4_dispatch.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 528
+python/sglang/srt/managers/scheduler_components/output_streamer.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 558-560
+python/sglang/srt/layers/dcp/metadata.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 38
+python/sglang/kernels/ops/quantization/__init__.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 7-8,62
+test/registered/kernels/ops/attention/test_qsa_decode_bitexact.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 16,819-873
+  s_783b899ebf77ec::t_df5399fa72e8e2 874
+test/registered/kernels/ops/attention/test_dsa_metadata.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 63,92,115-120,386-393
+  s_783b899ebf77ec::t_de970df314eba1 394
+test/registered/unit/managers/test_pp_distributed_request_mailbox.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-236
+python/sglang/kernels/ops/moe/bailing_powlu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 12,20,27,36,54,56,69-72,81-85,88
+python/sglang/srt/observability/metrics_collector.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1206-1216
+python/sglang/srt/model_executor/model_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 33,1027-1033,1035-1044,1542-1545,1548-1550,1651-1656,1658-1667,1669-1673,1678-1684,1686-1692,1800-1801
+  s_783b899ebf77ec::t_2b530dff6a3804 1802
+python/sglang/srt/utils/hf_transformers/processor.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 17,22,29,212,214-231
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_shared_read_fence.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 40-42
+test/registered/unit/managers/test_prefill_delayer_high_watermark.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 3,8-11,13,26-103
+  s_783b899ebf77ec::t_2601ca84bed5ad 104-105
+python/sglang/srt/models/bailing_mm_v3.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 212-214
+test/registered/unit/managers/test_pp_result_stream_order.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1,6,11-16,85-154,170-174
+python/sglang/srt/speculative/eagle_worker_common.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 498,625-631,680-685,701
+test/registered/kernels/ops/quantization/test_per_token_group_quant.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 19,26,43-53,444-493
+  s_783b899ebf77ec::t_059ea8a02bb110 494-495
+test/registered/unit/managers/test_prefill_adder.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 584-590
+python/sglang/kernels/ops/quantization/per_token_group_quant.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1,3,5,7-8,11,26-40,42-55
+python/sglang/kernels/ops/moe/ep_moe_kernels.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 22,293-294,305,349-351,355-366,403-404,422-423,432-434,446-455,480-481,492-494,533-534,546,566-567,578-580,616-618,622-644,1012,1041-1042,1045-1050,1065-1066,1081,1657,1684-1690
+python/sglang/srt/managers/scheduler_components/pp_request_mailbox.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-183
+test/registered/kernels/ops/moe/test_bailing_tp_router_weight.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-157
+test/registered/unit/layers/moe/test_deepep_router_weight.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-112
+test/registered/unit/mem_cache/test_session_token_share_unit.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 18,27,29,31,33-34,38,103,112,118-122
+python/sglang/srt/managers/pp_micro_batch.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-66
+python/sglang/srt/distributed/bootstrap.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 256
+python/sglang/srt/layers/dcp/symmetric_gather.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-133
+python/sglang/srt/mem_cache/base_prefix_cache.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 58-59
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/context.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 20,30-32,39-54,56,59,61,63-65,75-76
+python/sglang/srt/layers/attention/dsv4/indexer.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 872-874
+python/sglang/srt/model_executor/runner/prefill_cuda_graph_runner.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 53-56,111,122,283-309,550-553,607-615,727-735,741,1038-1042,1084-1088,1100-1104,1180-1186,1718-1720,1769-1772,1852-1854,1875-1879
+docs/docs/references/environment_variables.mdx
+  s_783b899ebf77ec::t_6f4726a3705fe7 400-403
+  s_783b899ebf77ec::t_9a740a325fb909 399
+python/sglang/srt/models/deepseek_common/attention_forward_methods/forward_mla.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 476,689
+python/sglang/srt/model_executor/runner_backend_utils/breakable_cuda_graph/__init__.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 8,22
+python/sglang/srt/models/gemma4_causal.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 52,810,818-819
+python/sglang/srt/sampling/penaltylib/orchestrator.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 4,46-54
+  s_783b899ebf77ec::t_60b1f8ca8e4c2c 55
+python/sglang/kernels/jit/csrc/gemm/per_token_group_quant.cuh
+  s_783b899ebf77ec::t_6f4726a3705fe7 18,26-34,214-215,227-230,240,246,250,257-259,263,272-274,301-350,506-512,667-670,672,684-705,716-720,722-723
+python/sglang/srt/disaggregation/decode.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 539-540,576-577,987-989
+docs/docs/advanced_features/pipeline_parallelism.mdx
+  s_783b899ebf77ec::t_6f4726a3705fe7 20,26-28
+python/sglang/kernels/ops/attention/dsa_metadata.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 62-64,68,84,86-87,175-176
+test/registered/unit/managers/test_output_streamer_customized_info.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 57-83
+python/sglang/srt/layers/moe/moe_runner/base.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 53,72-79
+  s_783b899ebf77ec::t_21a2d61c5bbbd7 80
+test/registered/unit/test_model_overrides.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1089,1098,1103-1129
+  s_783b899ebf77ec::t_9514b025e97b02 1130
+python/sglang/srt/configs/model_config.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 94-98
+python/sglang/kernels/ops/quantization/_per_token_group_quant_jit.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-262
+python/sglang/srt/layers/attention/dsa/qsa_dcp.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 135,138-146,150-153
+  s_783b899ebf77ec::t_33eb43c8897f7d 154-155
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 8,19-23,33,35-36,43,62,71-75,87,96-116,123-148,153-905,963,972,980,989,995-998,1039,1048-1049,1213,1409,1941-1942,1947,1950-1966,1976-1994,2102-2103,2111,2113-2119,2128-2129,2134,2159,2161,2183-2184,2188-2189,2202-2213,2221-2222,2233,2235-2236,2266,2282,2284,2336,2363,2366-2369,2394-2398,2414-2417
+python/sglang/srt/server_args.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 115-126,1070-1074,2456,2466,4025,4028-4033,4035-4037,4061-4062,4069-4072,4462,4694,4766-4770,4772,4828-4834,4836-4838,5299-5303,5514-5517,5532-5533,5535,5770-5779,5781-5782,6042-6055,8254-8294,9079-9081,9086-9116,10348-10380,10575-10579
+python/sglang/srt/layers/powlu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 22-26,32-33
+test/registered/unit/managers/test_priority_scheduling_disaggregation.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 91
+python/sglang/srt/distributed/parallel_state.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 299,415-416,1626-1627,1629-1630,1657,1747-1748,1759-1761,1787-1789,1823-1824,1845-1853,2007,2017,2168-2172,2472,2853-2872,3102-3104
+  s_783b899ebf77ec::t_36b8659ff15d3c 3105
+python/sglang/srt/utils/nvtx_utils.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 119
+test/registered/unit/mem_cache/test_streaming_session_unit.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 6-7,54,59,78,117,119
+test/registered/unit/state_capturer/test_routed_experts_mtp.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 118
+test/registered/unit/model_executor/runner/test_decode_cuda_graph_padding.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-43
+python/sglang/kernels/ops/moe/powlu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 10-59,67,94,98,108,131,133-134,174,204,212,214,221-227,259,284,307
+test/registered/unit/layers/test_amega_moe_gpu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 92,208,338-339,405-408,575-576,684-686
+docs/docs/advanced_features/server_arguments.mdx
+  s_783b899ebf77ec::t_6f4726a3705fe7 561,567,570-575,585,591,597,603
+test/registered/unit/managers/test_batch_result_processor_hidden_states.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 142-241
+python/sglang/test/kernels/test_powlu.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 10,25,31,35-45
+  s_783b899ebf77ec::t_7297197a4735d8 46-47
+python/sglang/srt/speculative/pipeline_eagle_worker.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 108,214-216,228-304,392-393
+test/registered/kernels/ops/moe/test_router_weight.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-26
+python/sglang/kernels/ops/moe/router_weight.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-156
+python/sglang/srt/managers/schedule_batch.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1359-1360,1428,1562,1565-1575,1577-1579,1581,1701-1712,1716,1720,1726-1734,1738,2176-2179,2917-2922,2972-2973,3139-3144,3338-3349,3477-3481,3493,3496
+test/registered/unit/managers/test_scheduler_recv_skipper.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 37-78
+python/sglang/srt/layers/moe/moe_runner/deep_gemm.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 17-21,61,290-297,327-328,410,412-413,422,427-429,531-536,563-564,642-648,653,655,678-679,761-778,810-814,819,836,849-850,880-883,940-944,965-970,972-981,993-994,999-1002,1020-1064,1089-1105,1117-1132,1142,1145-1149,1291-1295,1355,1366,1371-1376,1384-1402,1477-1481,1551-1560,1656,1658-1659,1675-1676,1685-1689,1694,1726,1741-1742,1750-1771,1773-1779,1796-1797,1823-1824,1875
+test/manual/pp_nccl_rma/test_transport.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 34,102-135,325
+python/sglang/srt/state_capturer/base.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 140,304-305,316-318,320,323-327
+test/registered/unit/layers/test_dcp_symmetric_gather.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-170
+test/registered/kernels/ops/moe/test_fp8_powlu_masked.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 23
+test/registered/pp/test_bailing_breakable_prefill.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 1-122
+python/sglang/srt/layers/sampler.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 10,75-78,90-101,154,279,286-293,623,625-632
+  s_783b899ebf77ec::t_7fc12cf7762cdd 79-80,82-85,87-89,160-162,254,280-285,294-313
+  s_f18d27e168e9ee::t_ce7290eed552ad 314
+python/sglang/srt/managers/utils.py
+  s_783b899ebf77ec::t_6f4726a3705fe7 91,106,148-152,182-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "56bdd174a8d933849ad6b75b7eea1e4281ec8467",
+  "prompts": {},
+  "sessions": {
+    "s_783b899ebf77ec": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a215e0-7fcf-7480-a34d-8054b3be5306",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    },
+    "s_f18d27e168e9ee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20e14-594e-7480-9eb3-5ae083aea1e2",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "hx555990 <hx555990@antgroup.com>"
+    }
+  }
+}
