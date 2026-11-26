@@ -1,0 +1,16 @@
+python/sglang/srt/speculative/spec_utils.py
+  h_cbb782975e944c 773
+test/registered/unit/constrained/test_llguidance_accept_token.py
+  h_cbb782975e944c 9-12,46-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93a5e93db490e3e7b00e8e29cde38764068d6fc0",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
