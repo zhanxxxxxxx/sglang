@@ -1,0 +1,14 @@
+test/registered/unit/constrained/test_llguidance_accept_token.py
+  h_cbb782975e944c 10-11,50-51,54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6bbb62f33790dd4030a26e218f0ef412c835cba7",
+  "prompts": {},
+  "humans": {
+    "h_cbb782975e944c": {
+      "author": "zhanxia <zhanxia030523@gmail.com>"
+    }
+  }
+}
